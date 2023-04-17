@@ -28,7 +28,10 @@ jobs:
         run: |
           install2.r xml2 quarto
           quarto render README.qmd
-          
+    
+      # There's an error with EndBug, need to use the safe.directory
+      # option. More here
+      # https://git-scm.com/docs/git-config#Documentation/git-config.txt-safedirectory
       - name: Dealing with GitConfig
         run: |
           git config --global --add safe.directory /__w/PHS-7045-egga/PHS-7045-egga

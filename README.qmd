@@ -1,9 +1,12 @@
 ---
-title: "Latest papers on Agent-Based Modeling in PubMed"
 format: gfm
 ---
 
-Search performed using the following URL: https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&sort=date on `r Sys.time()`.
+![GitHub last commit](https://img.shields.io/github/last-commit/UofUEpiBio/PHS7045-egga)
+
+# Latest papers on Agent-Based Modeling in PubMed
+
+This repository is an *Example using GitHub Actions* \[egge\] for the Advanced Programming with R class. The project consists of a quarto document updated once a week or whenever there's a push or pull request. It performs a search on PubMed looking for the [latest papers about Agent-Based Models](https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&sort=date){target="_blank"}. The last update was on `r Sys.time()`.
 
 ```{r}
 #| label: data-extract
