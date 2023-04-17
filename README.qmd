@@ -1,0 +1,47 @@
+---
+title: "Latest papers on Agent-Based Modeling in PubMed"
+format: gfm
+---
+
+Search performed using the following URL: https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&sort=date on `r Sys.time()`.
+
+```{r}
+#| label: data-extract
+#| echo: false
+library(xml2)
+
+doc <- read_html("https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&sort=date")
+
+# Titles
+titles <- xml_find_all(doc, xpath = '//*[@class="docsum-title"]')
+titles <- xml_text(titles)
+titles <- trimws(titles, which = "both")
+
+# Authors
+authors <- xml_find_all(doc, xpath = '//*[@class="docsum-authors full-authors"]')
+authors <- xml_text(authors)
+
+# Citation
+citation <- xml_find_all(doc, xpath = '//*[contains(@class, "full-journal-citation")]')
+citation <- xml_text(citation)
+
+# Abstract 
+abstract <- xml_find_all(doc, xpath = '//*[@class="full-view-snippet"]')
+abstract <- xml_text(abstract)
+abstract <- trimws(abstract, which = "both") #Removing trailing and leading space
+```
+
+
+```{r}
+#| results: asis
+#| label: printing
+#| echo: false
+for (i in 1:length(titles)) {
+  
+  cat(sprintf("%i. **%s**\n\n    %s\n\n    %s\n\n    >%s\n\n", i, titles[i], authors[i], citation[i], abstract[i]))
+  
+}
+```
+
+
+

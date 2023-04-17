@@ -3,8 +3,8 @@
 on:
   push:
     branches: [main, master]
-  pull_request:
-    branches: [main, master]
+  schedule:
+    cron: @weekly # https://crontab.guru/
 
 name: Build it
 
@@ -21,5 +21,16 @@ jobs:
     
       - name: Install dependencies
         run: |
-          install2.r slurmR rgexf fmcmc
+          apt update && apt install quarto
+          install2.r xml2 quarto
+          quarto render README.qmd
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "$GITHUB_ACTOR"
+          git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update documentation" || echo "No changes to commit"
+          git pull --ff-only
+          git push origin
 
