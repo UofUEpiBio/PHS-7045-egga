@@ -24,9 +24,8 @@ jobs:
         with:
           version: 0.3.71
     
-      - name: Install packags
+      - name: Install packags and render
         run: |
-          apt install ./quarto-1.3.330-linux-amd64.deb -y
           install2.r xml2 quarto
           quarto render README.qmd
           
