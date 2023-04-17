@@ -1,8 +1,10 @@
-# Latest papers on Agent-Based Modeling in PubMed
-
 Search performed using the following URL:
 https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&sort=date on
-2023-04-17 15:22:57.
+2023-04-17 22:14:12.
+
+<div class="cell">
+
+</div>
 
 1.  **Emergent regulation of ant foraging frequency through a
     computationally inexpensive forager movement rule.**
