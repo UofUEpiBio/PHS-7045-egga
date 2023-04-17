@@ -29,6 +29,10 @@ jobs:
           install2.r xml2 quarto
           quarto render README.qmd
           
+      - name: Dealing with GitConfig
+        run: |
+          git config --global --add safe.directory /__w/PHS-7045-egga/PHS-7045-egga
+          
       - uses: EndBug/add-and-commit@v9
         with:
           add: README.md
