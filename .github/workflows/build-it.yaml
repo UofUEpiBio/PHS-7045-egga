@@ -21,7 +21,7 @@ jobs:
     
       - name: Install dependencies
         run: |
-          apt update && apt install quarto
+          apt update && apt install quarto -y --no-install-recommends
           install2.r xml2 quarto
           quarto render README.qmd
           
