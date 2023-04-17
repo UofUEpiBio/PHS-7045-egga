@@ -2,7 +2,7 @@
 format: gfm
 ---
 
-![GitHub last commit](https://img.shields.io/github/last-commit/UofUEpiBio/PHS7045-egga)
+![GitHub last commit](https://img.shields.io/github/last-commit/UofUEpiBio/PHS-7045-egga)
 
 # Latest papers on Agent-Based Modeling in PubMed
 
