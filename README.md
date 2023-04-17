@@ -1,5 +1,5 @@
 ![GitHub last
-commit](https://img.shields.io/github/last-commit/UofUEpiBio/PHS7045-egga.png)
+commit](https://img.shields.io/github/last-commit/UofUEpiBio/PHS-7045-egga.png)
 
 # Latest papers on Agent-Based Modeling in PubMed
 
@@ -9,7 +9,7 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-04-17 22:26:01.
+update was on 2023-04-17 22:28:16.
 
 <div class="cell">
 
