@@ -4,7 +4,7 @@ on:
   push:
     branches: [main, master]
   schedule:
-    cron: @weekly # https://crontab.guru/
+    - cron: '0 0 * * 0' # https://crontab.guru/
 
 name: Build it
 
