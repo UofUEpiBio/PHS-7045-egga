@@ -14,10 +14,6 @@ jobs:
     container: rocker/tidyverse:4.2.2
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-    permissions:
-      # Give the default GITHUB_TOKEN write permission to commit and push the
-      # added or changed files to the repository.
-      contents: write  
     steps:
       - uses: actions/checkout@v3
         with:
@@ -33,12 +29,7 @@ jobs:
           install2.r xml2 quarto
           quarto render README.qmd
           
-      - name: Adding and pushing
-        run: |
-          git config --global user.name "$GITHUB_ACTOR"
-          git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com"
-          git add README.md
-          git commit -m "Update documentation" || echo "No changes to commit"
-          git pull --ff-only
-          git push origin
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: README.md
           
