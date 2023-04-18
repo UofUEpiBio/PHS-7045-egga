@@ -9,7 +9,7 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-04-18 19:23:32.
+update was on 2023-04-18 22:17:52.
 
 <div class="cell">
 
@@ -151,3 +151,10 @@ update was on 2023-04-18 19:23:32.
     > the expected costs of providing care and its partner’s expected or
     > observed parental behaviour. …However, these studies lacked a comp
     > …
+
+## Code of Conduct
+
+Please note that the PHS-7045-egga project is released with a
+[Contributor Code of
+Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html).
+By contributing to this project, you agree to abide by its terms.
