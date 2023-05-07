@@ -9,13 +9,80 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-04-30 00:41:02.
+update was on 2023-05-07 00:39:28.
 
 <div class="cell">
 
 </div>
 
-1.  **A systematic review of the impact of food security governance
+1.  **Modelling the reopen strategy from dynamic zero-COVID in China
+    considering the sequela and reinfection.**
+
+    Wu S, Huang Z, Grant-Muller S, Gu D, Yang L.
+
+    Sci Rep. 2023 May 5;13(1):7343. doi: 10.1038/s41598-023-34207-7.
+
+    > Although the dynamic zero-COVID policy has effectively controlled
+    > virus spread in China, China has to face challenges in balancing
+    > social-economic burdens, vaccine protection, and the management of
+    > long COVID symptoms. This study proposed a fine-grained
+    > agent-based …
+
+2.  **Mathematical modeling of mpox: A scoping review.**
+
+    Molla J, Sekkak I, Mundo Ortiz A, Moyles I, Nasri B.
+
+    One Health. 2023 Jun;16:100540. doi: 10.1016/j.onehlt.2023.100540.
+    Epub 2023 Apr 17.
+
+    > Informed policies aimed at controlling and managing the spread of
+    > this disease necessitate the use of adequate mathematical modeling
+    > strategies. OBJECTIVE: In this scoping review, we sought to
+    > identify the mathematical models that have been used to study mpox
+    > transm …
+
+3.  **A hospital demand and capacity intervention approach for
+    COVID-19.**
+
+    Van Yperen J, Campillo-Funollet E, Inkpen R, Memon A, Madzvamuse A.
+
+    PLoS One. 2023 May 3;18(5):e0283350. doi:
+    10.1371/journal.pone.0283350. eCollection 2023.
+
+    > In this paper, we demonstrate a different approach to the
+    > mathematical modelling of interventions, not based on optimality
+    > or cases, but based on demand and capacity of hospitals who have
+    > to deal with the epidemic on a day to day basis. In particular, we
+    > use …
+
+4.  **Are all underimmunized measles clusters equally critical?**
+
+    Moon SA, Marathe A, Vullikanti A.
+
+    medRxiv. 2023 Apr 17:2023.04.11.23288263. doi:
+    10.1101/2023.04.11.23288263. Preprint.
+
+    > This research develops a system science approach to examine the
+    > potential risk of geographical clustering of underimmunized
+    > individuals for an infectious disease like measles. We use an
+    > activity-based population network model and school immunization
+    > records to ident …
+
+5.  **Assessing the economic ripple effect of flood disasters in light
+    of the recovery process: Insights from an agent-based model.**
+
+    Jiang X, Jia R, Yang L.
+
+    Risk Anal. 2023 Apr 30. doi: 10.1111/risa.14147. Online ahead of
+    print.
+
+    > To assess the economic ripple effect, this study integrates
+    > agent-based modeling (ABM) with a multiregional input-output
+    > (MRIO) table to develop an assessment model that considers
+    > capacity recovery process. …The main findings are as follows: (1)
+    > With …
+
+6.  **A systematic review of the impact of food security governance
     measures as simulated in modelling studies.**
 
     Teeuwen AS, Meyer MA, Dou Y, Nelson A.
@@ -29,7 +96,7 @@ update was on 2023-04-30 00:41:02.
     > estimate the impact of such measures via scenarios with
     > differently governed fo …
 
-2.  **Multi-Agent Modeling and Jamming-Aware Routing Protocols for
+7.  **Multi-Agent Modeling and Jamming-Aware Routing Protocols for
     Movable-Jammer-Affected WSNs.**
 
     Xu B, Lu M, Zhang H.
@@ -42,7 +109,7 @@ update was on 2023-04-30 00:41:02.
     > modeling of sensor nodes, base stations, and jammers has been
     > propo …
 
-3.  **Annotation of Potential Vaccine Targets and Designing of
+8.  **Annotation of Potential Vaccine Targets and Designing of
     mRNA-Based Multi-Epitope Vaccine against Lumpy Skin Disease Virus
     via Reverse Vaccinology and Agent-Based Modeling.**
 
@@ -58,12 +125,12 @@ update was on 2023-04-30 00:41:02.
     > immunological and physicochemical properties. The model constructs
     > were back …
 
-4.  **The health impact of freight transport-related air pollution on
+9.  **The health impact of freight transport-related air pollution on
     vulnerable population groups.**
 
     Brusselaers N, Macharis C, Mommens K.
 
-    Environ Pollut. 2023 Apr 25:121555. doi:
+    Environ Pollut. 2023 Apr 25;329:121555. doi:
     10.1016/j.envpol.2023.121555. Online ahead of print.
 
     > In Brussels, freight transport generates 61,604 of air pollution
@@ -72,7 +139,7 @@ update was on 2023-04-30 00:41:02.
     > phone data) renders more accurate impact results when analyzed in
     > microenv …
 
-5.  **Physical confinement and cell proximity increase cell migration
+10. **Physical confinement and cell proximity increase cell migration
     rates and invasiveness: A mathematical model of cancer cell invasion
     through flexible channels.**
 
@@ -86,75 +153,6 @@ update was on 2023-04-30 00:41:02.
     > previous work, we developed a model for cell geometry evolution
     > during invasion, which we extend here to investigate whether
     > leader and follower ( …
-
-6.  **Fusing an agent-based model of mosquito population dynamics with a
-    statistical reconstruction of spatio-temporal abundance patterns.**
-
-    Cavany SM, España G, Lloyd AL, Vazquez-Prokopec GM, Astete H, Waller
-    LA, Kitron U, Scott TW, Morrison AC, Reiner RC Jr, Perkins TA.
-
-    PLoS Comput Biol. 2023 Apr 27;19(4):e1010424. doi:
-    10.1371/journal.pcbi.1010424. Online ahead of print.
-
-    > In effect, this calibrated parameter absorbs residual variation in
-    > the abundance time-series not captured by other features of the
-    > mechanistic model. We then used this calibrated parameter and the
-    > literature-derived parameters in the agent-based model …
-
-7.  **The Validation of Automated Social Skills Training in Members of
-    the General Population Over 4 Weeks: Comparative Study.**
-
-    Tanaka H, Saga T, Iwauchi K, Honda M, Morimoto T, Matsuda Y, Uratani
-    M, Okazaki K, Nakamura S.
-
-    JMIR Form Res. 2023 Apr 27;7:e44857. doi: 10.2196/44857.
-
-    > We developed a system that incorporated automated social skills
-    > training that completely adheres to the training model of Bellack
-    > et al through a conversational agent. OBJECTIVE: This study aimed
-    > to validate the training effect of a conversational agent-ba …
-
-8.  **Evaluating the effects of policies on building construction waste
-    management: a hybrid dynamic approach.**
-
-    Ding Z, Sun Z, Liu R, Xu X.
-
-    Environ Sci Pollut Res Int. 2023 Apr 27. doi:
-    10.1007/s11356-023-27172-1. Online ahead of print.
-
-    > Although previous studies have explored the impact of policies on
-    > construction waste management, there is a lack of a simulation
-    > model that can be easily used, taking into account the dynamic
-    > nature, generality, and practicability of the model. To fill this
-    > gap, a h …
-
-9.  **Application of mathematical modelling to inform national malaria
-    intervention planning in Nigeria.**
-
-    Ozodiegwu ID, Ambrose M, Galatas B, Runge M, Nandi A, Okuneye K,
-    Dhanoa NP, Maikore I, Uhomoibhi P, Bever C, Noor A, Gerardin J.
-
-    Malar J. 2023 Apr 26;22(1):137. doi: 10.1186/s12936-023-04563-w.
-
-    > Mathematical models of malaria transmission were used to predict
-    > the impact of proposed intervention strategies on malaria burden.
-    > METHODS: An agent-based model of Plasmodium falciparum
-    > transmission was used to simulate malaria morbidity and mortality
-    > …
-
-10. **Collective protection against the type VI secretion system in
-    bacteria.**
-
-    Granato ET, Smith WPJ, Foster KR.
-
-    ISME J. 2023 Apr 24. doi: 10.1038/s41396-023-01401-4. Online ahead
-    of print.
-
-    > This project began with an outreach activity: while developing an
-    > online computer game of bacterial warfare, we noticed that one
-    > strategist (“Slimy”) that made extracellular polymeric substances
-    > (EPS) was able to resist attacks from another strategist that
-    > employed the T6SS (“Sta …
 
 ## Code of Conduct
 
