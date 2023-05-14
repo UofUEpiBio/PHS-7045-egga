@@ -9,13 +9,112 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-05-07 00:39:28.
+update was on 2023-05-14 00:39:40.
 
 <div class="cell">
 
 </div>
 
-1.  **Modelling the reopen strategy from dynamic zero-COVID in China
+1.  **The Surviral Epidemiological Early Warning System Tyrol
+    Dashboard - System, Functionality and Findings.**
+
+    Neururer SB, Schweitzer M, Hackl WO, Tilg B, Siegele J, Raudaschl P,
+    Pfeifer B.
+
+    Stud Health Technol Inform. 2023 May 2;301:162-167. doi:
+    10.3233/SHTI230033.
+
+    > METHODS: The presented dashboard comprises a wide range of
+    > information, including retrospective and prognostic data based on
+    > an agent-based simulation framework. It served as the basis for
+    > informed decision-making and planning of disease control
+    > strategies wi …
+
+2.  **Review: The prevailing mathematical modeling classifications and
+    paradigms to support the advancement of sustainable animal
+    production.**
+
+    Tedeschi LO.
+
+    Animal. 2023 Apr 17:100813. doi: 10.1016/j.animal.2023.100813.
+    Online ahead of print.
+
+    > The fundamental modeling paradigms include discrete-events,
+    > dynamic systems, agent-based (AB), and system dynamics (SD).
+    > …Modern hybridization aggregating artificial intelligence (AI) to
+    > mathematical models can become the next technological wave in …
+
+3.  **Evaluating the effect of targeted strategies as control tools for
+    hypervirulent meningococcal C outbreaks: a case study from Tuscany,
+    Italy, 2015 to 2016.**
+
+    Guzzetta G, Ajelli M, Miglietta A, Fazio C, Neri A, Merler S, Rezza
+    G, Stefanelli P.
+
+    Euro Surveill. 2023 May;28(19):2200650. doi:
+    10.2807/1560-7917.ES.2023.28.19.2200650.
+
+    > In 2015-16, an outbreak caused by serogroup C meningococci (MenC),
+    > belonging to the hyperinvasive strain ST-11(cc-11), resulted in 62
+    > IMD cases in the region of Tuscany, Italy.AimWe aimed to estimate
+    > the key outbreak parameters and assess the impact of interventions
+    > used in the o …
+
+4.  **Resilient Hospital Design: From Crimea War to COVID-19.**
+
+    Tang K, Chen B.
+
+    HERD. 2023 May 10:19375867231174238. doi: 10.1177/19375867231174238.
+    Online ahead of print.
+
+    > While contemporary medical research and practice have moved beyond
+    > Nightingale’s concept of contagion, challenges of optimizing
+    > hospital building layouts to support healing and effectively
+    > combat nosocomial infections still pose elusive problems that
+    > require further invest …
+
+5.  **How do classroom-turnover times depend on lecture-hall size?**
+
+    Benson J, Bessonov M, Burke K, Cassani S, Ciocanel MV, Cooney DB,
+    Volkening A.
+
+    Math Biosci Eng. 2023 Mar 14;20(5):9179-9207. doi:
+    10.3934/mbe.2023403.
+
+    > Here we address the question of how the size of large lecture
+    > halls affects classroom-turnover times, focusing on non-emergency
+    > settings. By adapting the established social-force model, we treat
+    > students as individuals who interact and move through classrooms
+    > to reach thei …
+
+6.  **City-scale model for COVID-19 epidemiology with mobility and
+    social activities represented by a set of hidden Markov models.**
+
+    Pais CM, Godano MI, Juarez E, Prado AD, Manresa JB, Rufiner HL.
+
+    Comput Biol Med. 2023 May 2;160:106942. doi:
+    10.1016/j.compbiomed.2023.106942. Online ahead of print.
+
+    > In this paper, an agent-based model that predicts the local daily
+    > evolution of the number of people hospitalized in intensive care
+    > due to COVID-19 is presented. METHODS: An agent-based model has
+    > been developed, taking into consideration t …
+
+7.  **PredictMed-epilepsy: A multi-agent based system for epilepsy
+    detection and prediction in neuropediatrics.**
+
+    Bertoncelli CM, Costantini S, Persia F, Bertoncelli D, D’Auria D.
+
+    Comput Methods Programs Biomed. 2023 Apr 21;236:107548. doi:
+    10.1016/j.cmpb.2023.107548. Online ahead of print.
+
+    > We propose and discuss an application to predict epilespy
+    > (PredictMed-Epilepsy) and seizures via a deep-learning module
+    > (PredictMed-Seizures) encompassed within a multi-agent based
+    > healthcare system (PredictMed-MHS); this system is meant, in
+    > perspective, to be integ …
+
+8.  **Modelling the reopen strategy from dynamic zero-COVID in China
     considering the sequela and reinfection.**
 
     Wu S, Huang Z, Grant-Muller S, Gu D, Yang L.
@@ -28,7 +127,7 @@ update was on 2023-05-07 00:39:28.
     > long COVID symptoms. This study proposed a fine-grained
     > agent-based …
 
-2.  **Mathematical modeling of mpox: A scoping review.**
+9.  **Mathematical modeling of mpox: A scoping review.**
 
     Molla J, Sekkak I, Mundo Ortiz A, Moyles I, Nasri B.
 
@@ -41,7 +140,7 @@ update was on 2023-05-07 00:39:28.
     > identify the mathematical models that have been used to study mpox
     > transm …
 
-3.  **A hospital demand and capacity intervention approach for
+10. **A hospital demand and capacity intervention approach for
     COVID-19.**
 
     Van Yperen J, Campillo-Funollet E, Inkpen R, Memon A, Madzvamuse A.
@@ -54,105 +153,6 @@ update was on 2023-05-07 00:39:28.
     > or cases, but based on demand and capacity of hospitals who have
     > to deal with the epidemic on a day to day basis. In particular, we
     > use …
-
-4.  **Are all underimmunized measles clusters equally critical?**
-
-    Moon SA, Marathe A, Vullikanti A.
-
-    medRxiv. 2023 Apr 17:2023.04.11.23288263. doi:
-    10.1101/2023.04.11.23288263. Preprint.
-
-    > This research develops a system science approach to examine the
-    > potential risk of geographical clustering of underimmunized
-    > individuals for an infectious disease like measles. We use an
-    > activity-based population network model and school immunization
-    > records to ident …
-
-5.  **Assessing the economic ripple effect of flood disasters in light
-    of the recovery process: Insights from an agent-based model.**
-
-    Jiang X, Jia R, Yang L.
-
-    Risk Anal. 2023 Apr 30. doi: 10.1111/risa.14147. Online ahead of
-    print.
-
-    > To assess the economic ripple effect, this study integrates
-    > agent-based modeling (ABM) with a multiregional input-output
-    > (MRIO) table to develop an assessment model that considers
-    > capacity recovery process. …The main findings are as follows: (1)
-    > With …
-
-6.  **A systematic review of the impact of food security governance
-    measures as simulated in modelling studies.**
-
-    Teeuwen AS, Meyer MA, Dou Y, Nelson A.
-
-    Nat Food. 2022 Aug;3(8):619-630. doi: 10.1038/s43016-022-00571-2.
-    Epub 2022 Aug 15.
-
-    > To effectively address food security, we need tools that assess
-    > governance measures (for example, strategic storage reserves, cash
-    > transfers or trade regulations) ex ante. Simulation models can
-    > estimate the impact of such measures via scenarios with
-    > differently governed fo …
-
-7.  **Multi-Agent Modeling and Jamming-Aware Routing Protocols for
-    Movable-Jammer-Affected WSNs.**
-
-    Xu B, Lu M, Zhang H.
-
-    Sensors (Basel). 2023 Apr 9;23(8):3846. doi: 10.3390/s23083846.
-
-    > This study aims to investigate the impact of movable jammers on
-    > WSNs and propose a comprehensive approach for modeling
-    > jammer-affected WSNs, comprising four parts. Firstly, agent-based
-    > modeling of sensor nodes, base stations, and jammers has been
-    > propo …
-
-8.  **Annotation of Potential Vaccine Targets and Designing of
-    mRNA-Based Multi-Epitope Vaccine against Lumpy Skin Disease Virus
-    via Reverse Vaccinology and Agent-Based Modeling.**
-
-    Kakakhel S, Ahmad A, Mahdi WA, Alshehri S, Aiman S, Begum S, Shams
-    S, Kamal M, Imran M, Shakeel F, Khan A.
-
-    Bioengineering (Basel). 2023 Mar 28;10(4):430. doi:
-    10.3390/bioengineering10040430.
-
-    > The shortlisted epitopes were connected using appropriate linkers
-    > and adjuvant sequences to design multi-epitope vaccine constructs.
-    > Three vaccine constructs were prioritized based on their
-    > immunological and physicochemical properties. The model constructs
-    > were back …
-
-9.  **The health impact of freight transport-related air pollution on
-    vulnerable population groups.**
-
-    Brusselaers N, Macharis C, Mommens K.
-
-    Environ Pollut. 2023 Apr 25;329:121555. doi:
-    10.1016/j.envpol.2023.121555. Online ahead of print.
-
-    > In Brussels, freight transport generates 61,604 of air pollution
-    > health costs daily. Research has shown that dynamic spatiotemporal
-    > modeling of both emission sources and exposed people (using mobile
-    > phone data) renders more accurate impact results when analyzed in
-    > microenv …
-
-10. **Physical confinement and cell proximity increase cell migration
-    rates and invasiveness: A mathematical model of cancer cell invasion
-    through flexible channels.**
-
-    Peng Q, Vermolen FJ, Weihs D.
-
-    J Mech Behav Biomed Mater. 2023 Apr 17;142:105843. doi:
-    10.1016/j.jmbbm.2023.105843. Online ahead of print.
-
-    > Migration of cancer cells often proceeds by penetration through
-    > narrow cavities in locally stiff, yet flexible tissues. In our
-    > previous work, we developed a model for cell geometry evolution
-    > during invasion, which we extend here to investigate whether
-    > leader and follower ( …
 
 ## Code of Conduct
 
