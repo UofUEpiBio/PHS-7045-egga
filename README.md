@@ -9,150 +9,150 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-05-14 00:39:40.
+update was on 2023-05-21 00:41:12.
 
 <div class="cell">
 
 </div>
 
-1.  **The Surviral Epidemiological Early Warning System Tyrol
-    Dashboard - System, Functionality and Findings.**
+1.  **Optimal foraging strategies for mutually avoiding competitors.**
 
-    Neururer SB, Schweitzer M, Hackl WO, Tilg B, Siegele J, Raudaschl P,
-    Pfeifer B.
+    Golnaraghi F, Quint DA, Gopinathan A.
 
-    Stud Health Technol Inform. 2023 May 2;301:162-167. doi:
-    10.3233/SHTI230033.
-
-    > METHODS: The presented dashboard comprises a wide range of
-    > information, including retrospective and prognostic data based on
-    > an agent-based simulation framework. It served as the basis for
-    > informed decision-making and planning of disease control
-    > strategies wi …
-
-2.  **Review: The prevailing mathematical modeling classifications and
-    paradigms to support the advancement of sustainable animal
-    production.**
-
-    Tedeschi LO.
-
-    Animal. 2023 Apr 17:100813. doi: 10.1016/j.animal.2023.100813.
+    J Theor Biol. 2023 May 17:111537. doi: 10.1016/j.jtbi.2023.111537.
     Online ahead of print.
 
-    > The fundamental modeling paradigms include discrete-events,
-    > dynamic systems, agent-based (AB), and system dynamics (SD).
-    > …Modern hybridization aggregating artificial intelligence (AI) to
-    > mathematical models can become the next technological wave in …
+    > To understand the effects of such competition, we develop a
+    > stochastic agent-based simulation that models competitive foraging
+    > among mutually avoiding individuals by incorporating an avoidance
+    > zone, or territory, of a certain size around each forager which is
+    > …
 
-3.  **Evaluating the effect of targeted strategies as control tools for
-    hypervirulent meningococcal C outbreaks: a case study from Tuscany,
-    Italy, 2015 to 2016.**
+2.  **A complex systems model of breast cancer etiology: The Paradigm II
+    Model.**
 
-    Guzzetta G, Ajelli M, Miglietta A, Fazio C, Neri A, Merler S, Rezza
-    G, Stefanelli P.
+    Hiatt RA, Worden L, Rehkopf D, Engmann N, Troester M, Witte JS,
+    Balke K, Jackson C, Barlow J, Fenton SE, Gehlert S, Hammond RA,
+    Kaplan G, Kornak J, Nishioka K, McKone T, Smith MT, Trasande L,
+    Porco TC.
 
-    Euro Surveill. 2023 May;28(19):2200650. doi:
-    10.2807/1560-7917.ES.2023.28.19.2200650.
+    PLoS One. 2023 May 19;18(5):e0282878. doi:
+    10.1371/journal.pone.0282878. eCollection 2023.
 
-    > In 2015-16, an outbreak caused by serogroup C meningococci (MenC),
-    > belonging to the hyperinvasive strain ST-11(cc-11), resulted in 62
-    > IMD cases in the region of Tuscany, Italy.AimWe aimed to estimate
-    > the key outbreak parameters and assess the impact of interventions
-    > used in the o …
+    > BACKGROUND: Complex systems models of breast cancer have
+    > previously focused on prediction of prognosis and clinical events
+    > for individual women. There is a need for understanding breast
+    > cancer at the population level for public health decision-making,
+    > for identifying gaps …
 
-4.  **Resilient Hospital Design: From Crimea War to COVID-19.**
+3.  **Competing Heterogeneities in Vaccine Effectiveness Estimation.**
 
-    Tang K, Chen B.
+    Nikas A, Ahmed H, Zarnitsyna VI.
 
-    HERD. 2023 May 10:19375867231174238. doi: 10.1177/19375867231174238.
-    Online ahead of print.
+    ArXiv. 2023 May 12:arXiv:2305.01737v2. Preprint.
 
-    > While contemporary medical research and practice have moved beyond
-    > Nightingale’s concept of contagion, challenges of optimizing
-    > hospital building layouts to support healing and effectively
-    > combat nosocomial infections still pose elusive problems that
-    > require further invest …
+    > Population heterogeneities in underlying (pre-vaccination)
+    > susceptibility and vaccine response can cause measured vaccine
+    > effectiveness (mVE) to change over time even in the absence of
+    > pathogen evolution and any actual waning of immune responses. We
+    > use a multi-scale agent …
 
-5.  **How do classroom-turnover times depend on lecture-hall size?**
+4.  **Estimated US Pediatric Hospitalizations and School Absenteeism
+    Associated With Accelerated COVID-19 Bivalent Booster Vaccination.**
 
-    Benson J, Bessonov M, Burke K, Cassani S, Ciocanel MV, Cooney DB,
-    Volkening A.
+    Fitzpatrick MC, Moghadas SM, Vilches TN, Shah A, Pandey A, Galvani
+    AP.
 
-    Math Biosci Eng. 2023 Mar 14;20(5):9179-9207. doi:
-    10.3934/mbe.2023403.
+    JAMA Netw Open. 2023 May 1;6(5):e2313586. doi:
+    10.1001/jamanetworkopen.2023.13586.
 
-    > Here we address the question of how the size of large lecture
-    > halls affects classroom-turnover times, focusing on non-emergency
-    > settings. By adapting the established social-force model, we treat
-    > students as individuals who interact and move through classrooms
-    > to reach thei …
+    > DESIGN, SETTING, AND PARTICIPANTS: In this decision analytical
+    > model, a simulation model of COVID-19 transmission was fitted to
+    > reported incidence data from October 1, 2020, to September 30,
+    > 2022, with outcomes simulated from October 1, 2022, to March
+    > 31, 2023. The …
 
-6.  **City-scale model for COVID-19 epidemiology with mobility and
-    social activities represented by a set of hidden Markov models.**
+5.  **Agent Based Modelling for Simulating the Interregional Patient
+    Mobility in Italy.**
 
-    Pais CM, Godano MI, Juarez E, Prado AD, Manresa JB, Rufiner HL.
+    Pecoraro F, Accordino F, Cecconi F, Paolucci M.
 
-    Comput Biol Med. 2023 May 2;160:106942. doi:
-    10.1016/j.compbiomed.2023.106942. Online ahead of print.
+    Stud Health Technol Inform. 2023 May 18;302:297-301. doi:
+    10.3233/SHTI230122.
 
-    > In this paper, an agent-based model that predicts the local daily
-    > evolution of the number of people hospitalized in intensive care
-    > due to COVID-19 is presented. METHODS: An agent-based model has
-    > been developed, taking into consideration t …
+    > For a better understanding of this phenomenon, it is necessary to
+    > define a behavioral model able to represent the patient-system
+    > interaction. In this paper we adopted the Agent-Based Modelling
+    > (ABM) approach with the aim of simulating patient flow acro …
 
-7.  **PredictMed-epilepsy: A multi-agent based system for epilepsy
-    detection and prediction in neuropediatrics.**
+6.  **Is the neighborhood of interaction in human crowds metric,
+    topological, or visual?**
 
-    Bertoncelli CM, Costantini S, Persia F, Bertoncelli D, D’Auria D.
+    Wirth TD, Dachner GC, Rio KW, Warren WH.
 
-    Comput Methods Programs Biomed. 2023 Apr 21;236:107548. doi:
-    10.1016/j.cmpb.2023.107548. Online ahead of print.
+    PNAS Nexus. 2023 May 16;2(5):pgad118. doi:
+    10.1093/pnasnexus/pgad118. eCollection 2023 May.
 
-    > We propose and discuss an application to predict epilespy
-    > (PredictMed-Epilepsy) and seizures via a deep-learning module
-    > (PredictMed-Seizures) encompassed within a multi-agent based
-    > healthcare system (PredictMed-MHS); this system is meant, in
-    > perspective, to be integ …
+    > Both metric and topological neighborhoods have been reported in
+    > animal groups, but this question has not been addressed for human
+    > crowds. The answer has important implications for modeling crowd
+    > behavior and predicting crowd disasters such as jams, crushes, and
+    > stampedes. …
 
-8.  **Modelling the reopen strategy from dynamic zero-COVID in China
-    considering the sequela and reinfection.**
+7.  **Effects of extreme events on land-use-related decisions of farmers
+    in Eastern Austria: the role of learning.**
 
-    Wu S, Huang Z, Grant-Muller S, Gu D, Yang L.
+    Egger C, Mayer A, Bertsch-Hörmann B, Plutzar C, Schindler S,
+    Tramberend P, Haberl H, Gaube V.
 
-    Sci Rep. 2023 May 5;13(1):7343. doi: 10.1038/s41598-023-34207-7.
+    Agron Sustain Dev. 2023;43(3):39. doi: 10.1007/s13593-023-00890-z.
+    Epub 2023 May 12.
 
-    > Although the dynamic zero-COVID policy has effectively controlled
-    > virus spread in China, China has to face challenges in balancing
-    > social-economic burdens, vaccine protection, and the management of
-    > long COVID symptoms. This study proposed a fine-grained
-    > agent-based …
+    > As social aspects remain understudied drivers for agricultural
+    > decisions, we also consider value-based characteristics of farmers
+    > as internal factors relevant for decision-making. We integrate
+    > individual learning as response to extreme weather events into an
+    > agent- …
 
-9.  **Mathematical modeling of mpox: A scoping review.**
+8.  **Lymphatic filariasis endgame strategies: Using GEOFIL to model
+    mass drug administration and targeted surveillance and treatment
+    strategies in American Samoa.**
 
-    Molla J, Sekkak I, Mundo Ortiz A, Moyles I, Nasri B.
+    Shaw C, McLure A, Graves PM, Lau CL, Glass K.
 
-    One Health. 2023 Jun;16:100540. doi: 10.1016/j.onehlt.2023.100540.
-    Epub 2023 Apr 17.
+    PLoS Negl Trop Dis. 2023 May 18;17(5):e0011347. doi:
+    10.1371/journal.pntd.0011347. Online ahead of print.
 
-    > Informed policies aimed at controlling and managing the spread of
-    > this disease necessitate the use of adequate mathematical modeling
-    > strategies. OBJECTIVE: In this scoping review, we sought to
-    > identify the mathematical models that have been used to study mpox
-    > transm …
+    > American Samoa has since undergone further rounds of MDA in 2018,
+    > 2019, and 2021; however, recent surveys indicate that transmission
+    > is still ongoing. GEOFIL, a spatially-explicit agent-based LF
+    > model, was used to compare the effectiveness of territory-wide t …
 
-10. **A hospital demand and capacity intervention approach for
-    COVID-19.**
+9.  **Swapping in lattice-based cell migration models.**
 
-    Van Yperen J, Campillo-Funollet E, Inkpen R, Memon A, Madzvamuse A.
+    Raja Noureen S, Owen JP, Mort RL, Yates CA.
 
-    PLoS One. 2023 May 3;18(5):e0283350. doi:
-    10.1371/journal.pone.0283350. eCollection 2023.
+    Phys Rev E. 2023 Apr;107(4-1):044402. doi:
+    10.1103/PhysRevE.107.044402.
 
-    > In this paper, we demonstrate a different approach to the
-    > mathematical modelling of interventions, not based on optimality
-    > or cases, but based on demand and capacity of hospitals who have
-    > to deal with the epidemic on a day to day basis. In particular, we
-    > use …
+    > Cell migration is frequently modeled using on-lattice agent-based
+    > models (ABMs) that employ the excluded volume interaction. …We
+    > also analyze the movement of agents at an individual level in the
+    > single-species as well as two-species scenarios to quan …
+
+10. **Simulation of various biofilm fractal morphologies by agent-based
+    model.**
+
+    Wang J, Wu J, Li J, Kong R, Li X, Wang X.
+
+    Colloids Surf B Biointerfaces. 2023 May 13;227:113352. doi:
+    10.1016/j.colsurfb.2023.113352. Online ahead of print.
+
+    > The study of biofilm morphological transformation has been around
+    > for a long time and has attracted widespread attention. In this
+    > paper, we present a model for biofilm growth based on the
+    > interaction force, in which bacteria are treated as tiny particles
+    > and locatio …
 
 ## Code of Conduct
 
