@@ -9,150 +9,152 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-05-21 00:41:12.
+update was on 2023-05-28 00:41:06.
 
 <div class="cell">
 
 </div>
 
-1.  **Optimal foraging strategies for mutually avoiding competitors.**
+1.  **A Gold Nanocage Probe Targeting Survivin for the Diagnosis of
+    Pancreatic Cancer.**
 
-    Golnaraghi F, Quint DA, Gopinathan A.
+    Song L, Ren S, Yue Y, Tian Y, Wang Z.
 
-    J Theor Biol. 2023 May 17:111537. doi: 10.1016/j.jtbi.2023.111537.
+    Pharmaceutics. 2023 May 19;15(5):1547. doi:
+    10.3390/pharmaceutics15051547.
+
+    > In this paper, Au nanocages (AuNCs) loaded with the MRI contrast
+    > agent gadolinium (Gd) and capped with the tumor-targeting gene
+    > survivin (Sur-AuNCGd-Cy7 nanoprobes) were designed and applied as
+    > a targeted imaging agent for pancreatic cancer. …This
+    > characteristic i …
+
+2.  **COVID-19 epidemic modelling for policy decision support in
+    Victoria, Australia 2020-2021.**
+
+    Scott N, Abeysuriya RG, Delport D, Sacks-Davis R, Nolan J, West D,
+    Sutton B, Wallace EM, Hellard M.
+
+    BMC Public Health. 2023 May 27;23(1):988. doi:
+    10.1186/s12889-023-15936-w.
+
+    > METHODS: An agent-based model, Covasim, was used to simulate the
+    > impact of policy interventions on COVID-19 outbreaks and epidemic
+    > waves. …Model scenarios were co-designed with government, to fill
+    > evidence gaps prior to key decisions. …
+
+3.  **Can Social Norms Explain Long-Term Trends in Alcohol Use? Insights
+    from Inverse Generative Social Science.**
+
+    Vu TM, Buckley C, Duro JA, Brennan A, Epstein JM, Purshouse RC.
+
+    J Artif Soc Soc Simul. 2023;26(2):4. doi: 10.18564/jasss.5077. Epub
+    2023 Mar 31.
+
+    > Social psychological theory posits entities and mechanisms that
+    > attempt to explain observable differences in behavior. For
+    > example, dual process theory suggests that an agent’s behavior is
+    > influenced by intentional (arising from reasoning involving
+    > attitudes and per …
+
+4.  **Inverse Generative Social Science: Backward to the Future.**
+
+    Epstein JM.
+
+    J Artif Soc Soc Simul. 2023;26(2):9. doi: 10.18564/jasss.5083. Epub
+    2023 Mar 31.
+
+    > The agent-based model is the principal scientific instrument of
+    > generative social science. …Part 3 discusses how to do it
+    > concretely, previewing the five iGSS applications that follow.
+    > Part 4 discusses several foundational issues for agent-based …
+
+5.  **Optimal evaluation of re-opening policies for COVID-19 through the
+    use of metaheuristic schemes.**
+
+    Cuevas E, Rodríguez A, Perez M, Murillo-Olmos J, Morales-Castañeda
+    B, Alejo-Reyes A, Sarkar R.
+
+    Appl Math Model. 2023 Sep;121:506-523. doi:
+    10.1016/j.apm.2023.05.012. Epub 2023 May 11.
+
+    > In contrast to other modeling approaches, agent-based schemes
+    > represent a computational paradigm used to characterize the
+    > person-to-person interactions of individuals inside a system,
+    > providing accurate simulation results. …In this paper, the
+    > metaheuristic …
+
+6.  **Pressure-dependent growth controls 3D architecture of Pseudomonas
+    putida microcolonies.**
+
+    Kim J, de Lorenzo V, Goñi-Moreno Á.
+
+    Environ Microbiol Rep. 2023 May 25. doi: 10.1111/1758-2229.13182.
     Online ahead of print.
 
-    > To understand the effects of such competition, we develop a
-    > stochastic agent-based simulation that models competitive foraging
-    > among mutually avoiding individuals by incorporating an avoidance
-    > zone, or territory, of a certain size around each forager which is
+    > This feature was characterized experimentally in the soil
+    > bacterium Pseudomonas putida. Using an agent-based model we
+    > recreated the growth of microcolonies in a scenario in which
+    > pressure was the only parameter affecting proliferation of cells.
     > …
 
-2.  **A complex systems model of breast cancer etiology: The Paradigm II
-    Model.**
+7.  **Cost-effectiveness analysis of COVID-19 screening strategy under
+    China’s dynamic zero-case policy.**
 
-    Hiatt RA, Worden L, Rehkopf D, Engmann N, Troester M, Witte JS,
-    Balke K, Jackson C, Barlow J, Fenton SE, Gehlert S, Hammond RA,
-    Kaplan G, Kornak J, Nishioka K, McKone T, Smith MT, Trasande L,
-    Porco TC.
+    Li H, Zhang H.
 
-    PLoS One. 2023 May 19;18(5):e0282878. doi:
-    10.1371/journal.pone.0282878. eCollection 2023.
+    Front Public Health. 2023 May 9;11:1099116. doi:
+    10.3389/fpubh.2023.1099116. eCollection 2023.
 
-    > BACKGROUND: Complex systems models of breast cancer have
-    > previously focused on prediction of prognosis and clinical events
-    > for individual women. There is a need for understanding breast
-    > cancer at the population level for public health decision-making,
-    > for identifying gaps …
+    > This study aims to optimize the COVID-19 screening strategies
+    > under China’s dynamic zero-case policy through cost-effectiveness
+    > analysis. A total of 9 screening strategies with different
+    > screening frequencies and combinations of detection methods were
+    > designed. A stochasti …
 
-3.  **Competing Heterogeneities in Vaccine Effectiveness Estimation.**
+8.  **A synthetic population of Sweden: datasets of agents, households,
+    and activity-travel patterns.**
 
-    Nikas A, Ahmed H, Zarnitsyna VI.
+    Tozluoğlu Ç, Dhamal S, Yeh S, Sprei F, Liao Y, Marathe M, Barrett
+    CL, Dubhashi D.
 
-    ArXiv. 2023 May 12:arXiv:2305.01737v2. Preprint.
+    Data Brief. 2023 May 7;48:109209. doi: 10.1016/j.dib.2023.109209.
+    eCollection 2023 Jun.
 
-    > Population heterogeneities in underlying (pre-vaccination)
-    > susceptibility and vaccine response can cause measured vaccine
-    > effectiveness (mVE) to change over time even in the absence of
-    > pathogen evolution and any actual waning of immune responses. We
-    > use a multi-scale agent …
+    > Statistically representative at the population level, it provides
+    > valuable inputs to simulation models (especially agent-based
+    > models) in research areas such as transportation, land use,
+    > economics, and epidemiology. …Each agent also has a hous …
 
-4.  **Estimated US Pediatric Hospitalizations and School Absenteeism
-    Associated With Accelerated COVID-19 Bivalent Booster Vaccination.**
+9.  **A social system to disperse the irrigation start date based on the
+    spatial public goods game.**
 
-    Fitzpatrick MC, Moghadas SM, Vilches TN, Shah A, Pandey A, Galvani
-    AP.
+    Nakagawa Y, Yokozawa M.
 
-    JAMA Netw Open. 2023 May 1;6(5):e2313586. doi:
-    10.1001/jamanetworkopen.2023.13586.
+    PLoS One. 2023 May 24;18(5):e0286127. doi:
+    10.1371/journal.pone.0286127. eCollection 2023.
 
-    > DESIGN, SETTING, AND PARTICIPANTS: In this decision analytical
-    > model, a simulation model of COVID-19 transmission was fitted to
-    > reported incidence data from October 1, 2020, to September 30,
-    > 2022, with outcomes simulated from October 1, 2022, to March
-    > 31, 2023. The …
+    > In our agent-based model, agents determine the irrigation start
+    > date based on the evolutionary game theory. …Individual farmers
+    > update the cooperation/defection strategy at each time step based
+    > on their payoffs. Using this agent-base …
 
-5.  **Agent Based Modelling for Simulating the Interregional Patient
-    Mobility in Italy.**
+10. **Prognostic impact of translocation t(11;14) and of other
+    cytogenetic abnormalities in patients with AL amyloidosis in the era
+    of contemporary therapies.**
 
-    Pecoraro F, Accordino F, Cecconi F, Paolucci M.
+    Fotiou D, Theodorakakou F, Gavriatopoulou M, Migkou M, Malandrakis
+    P, Ntanasis-Stathopoulos I, Kanellias N, Eleutherakis Papaiakovou E,
+    Terpos E, Papanikolaou A, Gakiopoulou C, Dimopoulos MA, Kastritis E.
 
-    Stud Health Technol Inform. 2023 May 18;302:297-301. doi:
-    10.3233/SHTI230122.
+    Eur J Haematol. 2023 May 23. doi: 10.1111/ejh.13993. Online ahead of
+    print.
 
-    > For a better understanding of this phenomenon, it is necessary to
-    > define a behavioral model able to represent the patient-system
-    > interaction. In this paper we adopted the Agent-Based Modelling
-    > (ABM) approach with the aim of simulating patient flow acro …
-
-6.  **Is the neighborhood of interaction in human crowds metric,
-    topological, or visual?**
-
-    Wirth TD, Dachner GC, Rio KW, Warren WH.
-
-    PNAS Nexus. 2023 May 16;2(5):pgad118. doi:
-    10.1093/pnasnexus/pgad118. eCollection 2023 May.
-
-    > Both metric and topological neighborhoods have been reported in
-    > animal groups, but this question has not been addressed for human
-    > crowds. The answer has important implications for modeling crowd
-    > behavior and predicting crowd disasters such as jams, crushes, and
-    > stampedes. …
-
-7.  **Effects of extreme events on land-use-related decisions of farmers
-    in Eastern Austria: the role of learning.**
-
-    Egger C, Mayer A, Bertsch-Hörmann B, Plutzar C, Schindler S,
-    Tramberend P, Haberl H, Gaube V.
-
-    Agron Sustain Dev. 2023;43(3):39. doi: 10.1007/s13593-023-00890-z.
-    Epub 2023 May 12.
-
-    > As social aspects remain understudied drivers for agricultural
-    > decisions, we also consider value-based characteristics of farmers
-    > as internal factors relevant for decision-making. We integrate
-    > individual learning as response to extreme weather events into an
-    > agent- …
-
-8.  **Lymphatic filariasis endgame strategies: Using GEOFIL to model
-    mass drug administration and targeted surveillance and treatment
-    strategies in American Samoa.**
-
-    Shaw C, McLure A, Graves PM, Lau CL, Glass K.
-
-    PLoS Negl Trop Dis. 2023 May 18;17(5):e0011347. doi:
-    10.1371/journal.pntd.0011347. Online ahead of print.
-
-    > American Samoa has since undergone further rounds of MDA in 2018,
-    > 2019, and 2021; however, recent surveys indicate that transmission
-    > is still ongoing. GEOFIL, a spatially-explicit agent-based LF
-    > model, was used to compare the effectiveness of territory-wide t …
-
-9.  **Swapping in lattice-based cell migration models.**
-
-    Raja Noureen S, Owen JP, Mort RL, Yates CA.
-
-    Phys Rev E. 2023 Apr;107(4-1):044402. doi:
-    10.1103/PhysRevE.107.044402.
-
-    > Cell migration is frequently modeled using on-lattice agent-based
-    > models (ABMs) that employ the excluded volume interaction. …We
-    > also analyze the movement of agents at an individual level in the
-    > single-species as well as two-species scenarios to quan …
-
-10. **Simulation of various biofilm fractal morphologies by agent-based
-    model.**
-
-    Wang J, Wu J, Li J, Kong R, Li X, Wang X.
-
-    Colloids Surf B Biointerfaces. 2023 May 13;227:113352. doi:
-    10.1016/j.colsurfb.2023.113352. Online ahead of print.
-
-    > The study of biofilm morphological transformation has been around
-    > for a long time and has attracted widespread attention. In this
-    > paper, we present a model for biofilm growth based on the
-    > interaction force, in which bacteria are treated as tiny particles
-    > and locatio …
+    > METHODS: We assessed its prognostic role in 146 newly-diagnosed
+    > patients who received novel agent-based treatment combinations.
+    > Event-free survival (EFS), a composite endpoint defined by
+    > hematological progression, start of a new treatment-line or death,
+    > and overall …
 
 ## Code of Conduct
 
