@@ -9,13 +9,72 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-05-28 00:41:06.
+update was on 2023-06-04 00:52:18.
 
 <div class="cell">
 
 </div>
 
-1.  **A Gold Nanocage Probe Targeting Survivin for the Diagnosis of
+1.  **Community incidence patterns drive the risk of SARS-CoV-2
+    outbreaks and alter intervention impacts in a high-risk
+    institutional setting.**
+
+    Moore SM, España G, Perkins TA, Guido RM, Jucaban JB, Hall TL,
+    Huhtanen ME, Peel SA, Modjarrad K, Hakre S, Scott PT.
+
+    Epidemics. 2023 May 27;43:100691. doi: 10.1016/j.epidem.2023.100691.
+    Online ahead of print.
+
+    > ., prisons, nursing homes, or military bases) depends on how
+    > transmission dynamics in the broader community influence outbreak
+    > risk locally. We calibrated an individual-based transmission model
+    > of a military training camp to the number of RT-PCR positive
+    > trainees th …
+
+2.  **Cost-effectiveness of the dual prevention pill for contraception
+    and HIV pre-exposure prophylaxis.**
+
+    Milali MP, Resar D, Kaftan D, Campbell J, Olowu A, Edwards D,
+    Platais I, Kim HY, Jenkins S, Bershteyn A.
+
+    Front Reprod Health. 2023 May 17;5:1144217. doi:
+    10.3389/frph.2023.1144217. eCollection 2023.
+
+    > INTRODUCTION: Women in sub-Saharan Africa (SSA) experience the
+    > world’s highest rates of both HIV infection and unintended
+    > pregnancy. …Research is needed to assess whether, in what
+    > populations, and in what use cases the DPP would be
+    > cost-effective. METHODS: We augmented a …
+
+3.  **Moving forward through the in silico modeling of multiple
+    sclerosis: Treatment layer implementation and validation.**
+
+    Maleki A, Crispino E, Italia SA, Di Salvatore V, Chiacchio MA, Sips
+    F, Bursi R, Russo G, Maimone D, Pappalardo F.
+
+    Comput Struct Biotechnol J. 2023 May 20;21:3081-3090. doi:
+    10.1016/j.csbj.2023.05.020. eCollection 2023.
+
+    > Since the relapsing-remitting form is the most prevalent,
+    > relapse-reducing therapies are a primary choice for specialists.
+    > Universal Immune System Simulator is an agent-based model that
+    > simulates the human immune system dynamics under physiological
+    > conditions …
+
+4.  **Life Cycle Air Pollution, Greenhouse Gas, and Traffic Externality
+    Benefits and Costs of Electrifying Uber and Lyft.**
+
+    Mohan A, Bruchon M, Michalek J, Vaishnav P.
+
+    Environ Sci Technol. 2023 Jun 1. doi: 10.1021/acs.est.2c07030.
+    Online ahead of print.
+
+    > Transportation network companies (TNCs), such as Uber and Lyft,
+    > have pledged to fully electrify their ridesourcing vehicle fleets
+    > by 2030 in the United States. In this paper, we introduce AgentX,
+    > a novel agent-based model built in Julia for simulating ridesou …
+
+5.  **A Gold Nanocage Probe Targeting Survivin for the Diagnosis of
     Pancreatic Cancer.**
 
     Song L, Ren S, Yue Y, Tian Y, Wang Z.
@@ -29,7 +88,7 @@ update was on 2023-05-28 00:41:06.
     > a targeted imaging agent for pancreatic cancer. …This
     > characteristic i …
 
-2.  **COVID-19 epidemic modelling for policy decision support in
+6.  **COVID-19 epidemic modelling for policy decision support in
     Victoria, Australia 2020-2021.**
 
     Scott N, Abeysuriya RG, Delport D, Sacks-Davis R, Nolan J, West D,
@@ -43,7 +102,7 @@ update was on 2023-05-28 00:41:06.
     > waves. …Model scenarios were co-designed with government, to fill
     > evidence gaps prior to key decisions. …
 
-3.  **Can Social Norms Explain Long-Term Trends in Alcohol Use? Insights
+7.  **Can Social Norms Explain Long-Term Trends in Alcohol Use? Insights
     from Inverse Generative Social Science.**
 
     Vu TM, Buckley C, Duro JA, Brennan A, Epstein JM, Purshouse RC.
@@ -57,7 +116,7 @@ update was on 2023-05-28 00:41:06.
     > influenced by intentional (arising from reasoning involving
     > attitudes and per …
 
-4.  **Inverse Generative Social Science: Backward to the Future.**
+8.  **Inverse Generative Social Science: Backward to the Future.**
 
     Epstein JM.
 
@@ -69,7 +128,7 @@ update was on 2023-05-28 00:41:06.
     > concretely, previewing the five iGSS applications that follow.
     > Part 4 discusses several foundational issues for agent-based …
 
-5.  **Optimal evaluation of re-opening policies for COVID-19 through the
+9.  **Optimal evaluation of re-opening policies for COVID-19 through the
     use of metaheuristic schemes.**
 
     Cuevas E, Rodríguez A, Perez M, Murillo-Olmos J, Morales-Castañeda
@@ -84,7 +143,7 @@ update was on 2023-05-28 00:41:06.
     > providing accurate simulation results. …In this paper, the
     > metaheuristic …
 
-6.  **Pressure-dependent growth controls 3D architecture of Pseudomonas
+10. **Pressure-dependent growth controls 3D architecture of Pseudomonas
     putida microcolonies.**
 
     Kim J, de Lorenzo V, Goñi-Moreno Á.
@@ -97,64 +156,6 @@ update was on 2023-05-28 00:41:06.
     > recreated the growth of microcolonies in a scenario in which
     > pressure was the only parameter affecting proliferation of cells.
     > …
-
-7.  **Cost-effectiveness analysis of COVID-19 screening strategy under
-    China’s dynamic zero-case policy.**
-
-    Li H, Zhang H.
-
-    Front Public Health. 2023 May 9;11:1099116. doi:
-    10.3389/fpubh.2023.1099116. eCollection 2023.
-
-    > This study aims to optimize the COVID-19 screening strategies
-    > under China’s dynamic zero-case policy through cost-effectiveness
-    > analysis. A total of 9 screening strategies with different
-    > screening frequencies and combinations of detection methods were
-    > designed. A stochasti …
-
-8.  **A synthetic population of Sweden: datasets of agents, households,
-    and activity-travel patterns.**
-
-    Tozluoğlu Ç, Dhamal S, Yeh S, Sprei F, Liao Y, Marathe M, Barrett
-    CL, Dubhashi D.
-
-    Data Brief. 2023 May 7;48:109209. doi: 10.1016/j.dib.2023.109209.
-    eCollection 2023 Jun.
-
-    > Statistically representative at the population level, it provides
-    > valuable inputs to simulation models (especially agent-based
-    > models) in research areas such as transportation, land use,
-    > economics, and epidemiology. …Each agent also has a hous …
-
-9.  **A social system to disperse the irrigation start date based on the
-    spatial public goods game.**
-
-    Nakagawa Y, Yokozawa M.
-
-    PLoS One. 2023 May 24;18(5):e0286127. doi:
-    10.1371/journal.pone.0286127. eCollection 2023.
-
-    > In our agent-based model, agents determine the irrigation start
-    > date based on the evolutionary game theory. …Individual farmers
-    > update the cooperation/defection strategy at each time step based
-    > on their payoffs. Using this agent-base …
-
-10. **Prognostic impact of translocation t(11;14) and of other
-    cytogenetic abnormalities in patients with AL amyloidosis in the era
-    of contemporary therapies.**
-
-    Fotiou D, Theodorakakou F, Gavriatopoulou M, Migkou M, Malandrakis
-    P, Ntanasis-Stathopoulos I, Kanellias N, Eleutherakis Papaiakovou E,
-    Terpos E, Papanikolaou A, Gakiopoulou C, Dimopoulos MA, Kastritis E.
-
-    Eur J Haematol. 2023 May 23. doi: 10.1111/ejh.13993. Online ahead of
-    print.
-
-    > METHODS: We assessed its prognostic role in 146 newly-diagnosed
-    > patients who received novel agent-based treatment combinations.
-    > Event-free survival (EFS), a composite endpoint defined by
-    > hematological progression, start of a new treatment-line or death,
-    > and overall …
 
 ## Code of Conduct
 
