@@ -9,13 +9,122 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-06-04 00:52:18.
+update was on 2023-06-11 00:48:27.
 
 <div class="cell">
 
 </div>
 
-1.  **Community incidence patterns drive the risk of SARS-CoV-2
+1.  **Modeling the impact of spatial inequities in access to medications
+    for treatment of opioid use disorder among persons who inject
+    drugs.**
+
+    Tatara E, Lin Q, Ozik J, Kolak M, Collier N, Halpern D, Anselin L,
+    Dahari H, Boodram B, Schneider J.
+
+    medRxiv. 2023 May 16:2023.05.12.23289915. doi:
+    10.1101/2023.05.12.23289915. Preprint.
+
+    > METHODS: Actual (real-world) and counterfactual scenarios of
+    > varying levels of social and spatial inequity to providers of
+    > methadone were evaluated using HepCEP, a validated agent-based
+    > model of syringe sharing behaviors among people who inject drugs
+    > (PWID) i …
+
+2.  **Explaining population booms and busts in Mid-Holocene Europe.**
+
+    Kondor D, Bennett JS, Gronenborn D, Antunes N, Hoyer D, Turchin P.
+
+    Sci Rep. 2023 Jun 8;13(1):9310. doi: 10.1038/s41598-023-35920-z.
+
+    > We test two competing hypotheses attempting to explain these
+    > dynamics: climate forcing and social dynamics leading to
+    > inter-group conflict. Using the framework of spatially-explicit
+    > agent-based models, we translated these hypotheses into a suite of
+    > explicit c …
+
+3.  **Intralesional administration of VAX014 facilitates in situ
+    immunization and potentiates immune checkpoint blockade in
+    immunologically cold tumors.**
+
+    Reil KA, Tsuji S, Molina E, Nelson KL, McGuire KL, Giacalone MJ.
+
+    J Immunother Cancer. 2023 Jun;11(6):e006749. doi:
+    10.1136/jitc-2023-006749.
+
+    > In this work, we evaluate and characterize the local and systemic
+    > antitumor immunotherapeutic activity of VAX014, a novel non-viral
+    > targeted oncolytic agent based on recombinant bacterial minicells,
+    > following intratumoral administration and in combination with
+    > syste …
+
+4.  **Spreading processes with mutations over multilayer networks.**
+
+    Sood M, Sridhar A, Eletreby R, Wu CW, Levin SA, Yağan O, Poor HV.
+
+    Proc Natl Acad Sci U S A. 2023 Jun 13;120(24):e2302245120. doi:
+    10.1073/pnas.2302245120. Epub 2023 Jun 8.
+
+    > A key scientific challenge during the outbreak of novel infectious
+    > diseases is to predict how the course of the epidemic changes
+    > under countermeasures that limit interaction in the population.
+    > Most epidemiological models do not consider the role of mutations
+    > and heterogene …
+
+5.  **Multiscale model of the different modes of cancer cell invasion.**
+
+    Ruscone M, Montagud A, Chavrier P, Destaing O, Bonnet I, Zinovyev A,
+    Barillot E, Noël V, Calzone L.
+
+    Bioinformatics. 2023 Jun 8:btad374. doi:
+    10.1093/bioinformatics/btad374. Online ahead of print.
+
+    > METHODS: We present here a model of tumor cell invasion simulated
+    > with PhysiBoSS, a multiscale framework which combines agent-based
+    > modeling and continuous time Markov processes applied on Boolean
+    > network models. With this model, we aim t …
+
+6.  **On learning agent-based models from data.**
+
+    Monti C, Pangallo M, De Francisci Morales G, Bonchi F.
+
+    Sci Rep. 2023 Jun 7;13(1):9268. doi: 10.1038/s41598-023-35536-3.
+
+    > Agent-Based Models (ABMs) are used in several fields to study the
+    > evolution of complex systems from micro-level assumptions. …In
+    > this paper, we propose a protocol to learn the latent
+    > micro-variables of an ABM from data. We begin by translating an
+    > ABM into a …
+
+7.  **Modeling the effect of acquired resistance on cancer therapy
+    outcomes.**
+
+    Masud MA, Kim JY, Kim E.
+
+    Comput Biol Med. 2023 May 27;162:107035. doi:
+    10.1016/j.compbiomed.2023.107035. Online ahead of print.
+
+    > We aimed to determine if adaptive therapy can still be effective
+    > with cell’s acquiring resistance. We developed an agent-based
+    > model for spatial tumor growth considering three different types
+    > of acquired resistance: random genetic mutations during cell …
+
+8.  **A Systematic Review of Methodological Tools for Evaluating the
+    Water, Energy, Food, and One Health Nexus in Transboundary Water
+    Basins.**
+
+    Bwire C, Mohan G, Karthe D, Caucci S, Pu J.
+
+    Environ Manage. 2023 Jun 3. doi: 10.1007/s00267-023-01841-w. Online
+    ahead of print.
+
+    > The inclusion criteria encompassed English-language articles
+    > featuring case studies, meta-studies, or review articles with no
+    > less than three nexus resources. The review categorized the
+    > article based on criteria that focused on identifying tools
+    > capable of analyzing scenar …
+
+9.  **Community incidence patterns drive the risk of SARS-CoV-2
     outbreaks and alter intervention impacts in a high-risk
     institutional setting.**
 
@@ -31,7 +140,7 @@ update was on 2023-06-04 00:52:18.
     > of a military training camp to the number of RT-PCR positive
     > trainees th …
 
-2.  **Cost-effectiveness of the dual prevention pill for contraception
+10. **Cost-effectiveness of the dual prevention pill for contraception
     and HIV pre-exposure prophylaxis.**
 
     Milali MP, Resar D, Kaftan D, Campbell J, Olowu A, Edwards D,
@@ -45,117 +154,6 @@ update was on 2023-06-04 00:52:18.
     > pregnancy. …Research is needed to assess whether, in what
     > populations, and in what use cases the DPP would be
     > cost-effective. METHODS: We augmented a …
-
-3.  **Moving forward through the in silico modeling of multiple
-    sclerosis: Treatment layer implementation and validation.**
-
-    Maleki A, Crispino E, Italia SA, Di Salvatore V, Chiacchio MA, Sips
-    F, Bursi R, Russo G, Maimone D, Pappalardo F.
-
-    Comput Struct Biotechnol J. 2023 May 20;21:3081-3090. doi:
-    10.1016/j.csbj.2023.05.020. eCollection 2023.
-
-    > Since the relapsing-remitting form is the most prevalent,
-    > relapse-reducing therapies are a primary choice for specialists.
-    > Universal Immune System Simulator is an agent-based model that
-    > simulates the human immune system dynamics under physiological
-    > conditions …
-
-4.  **Life Cycle Air Pollution, Greenhouse Gas, and Traffic Externality
-    Benefits and Costs of Electrifying Uber and Lyft.**
-
-    Mohan A, Bruchon M, Michalek J, Vaishnav P.
-
-    Environ Sci Technol. 2023 Jun 1. doi: 10.1021/acs.est.2c07030.
-    Online ahead of print.
-
-    > Transportation network companies (TNCs), such as Uber and Lyft,
-    > have pledged to fully electrify their ridesourcing vehicle fleets
-    > by 2030 in the United States. In this paper, we introduce AgentX,
-    > a novel agent-based model built in Julia for simulating ridesou …
-
-5.  **A Gold Nanocage Probe Targeting Survivin for the Diagnosis of
-    Pancreatic Cancer.**
-
-    Song L, Ren S, Yue Y, Tian Y, Wang Z.
-
-    Pharmaceutics. 2023 May 19;15(5):1547. doi:
-    10.3390/pharmaceutics15051547.
-
-    > In this paper, Au nanocages (AuNCs) loaded with the MRI contrast
-    > agent gadolinium (Gd) and capped with the tumor-targeting gene
-    > survivin (Sur-AuNCGd-Cy7 nanoprobes) were designed and applied as
-    > a targeted imaging agent for pancreatic cancer. …This
-    > characteristic i …
-
-6.  **COVID-19 epidemic modelling for policy decision support in
-    Victoria, Australia 2020-2021.**
-
-    Scott N, Abeysuriya RG, Delport D, Sacks-Davis R, Nolan J, West D,
-    Sutton B, Wallace EM, Hellard M.
-
-    BMC Public Health. 2023 May 27;23(1):988. doi:
-    10.1186/s12889-023-15936-w.
-
-    > METHODS: An agent-based model, Covasim, was used to simulate the
-    > impact of policy interventions on COVID-19 outbreaks and epidemic
-    > waves. …Model scenarios were co-designed with government, to fill
-    > evidence gaps prior to key decisions. …
-
-7.  **Can Social Norms Explain Long-Term Trends in Alcohol Use? Insights
-    from Inverse Generative Social Science.**
-
-    Vu TM, Buckley C, Duro JA, Brennan A, Epstein JM, Purshouse RC.
-
-    J Artif Soc Soc Simul. 2023;26(2):4. doi: 10.18564/jasss.5077. Epub
-    2023 Mar 31.
-
-    > Social psychological theory posits entities and mechanisms that
-    > attempt to explain observable differences in behavior. For
-    > example, dual process theory suggests that an agent’s behavior is
-    > influenced by intentional (arising from reasoning involving
-    > attitudes and per …
-
-8.  **Inverse Generative Social Science: Backward to the Future.**
-
-    Epstein JM.
-
-    J Artif Soc Soc Simul. 2023;26(2):9. doi: 10.18564/jasss.5083. Epub
-    2023 Mar 31.
-
-    > The agent-based model is the principal scientific instrument of
-    > generative social science. …Part 3 discusses how to do it
-    > concretely, previewing the five iGSS applications that follow.
-    > Part 4 discusses several foundational issues for agent-based …
-
-9.  **Optimal evaluation of re-opening policies for COVID-19 through the
-    use of metaheuristic schemes.**
-
-    Cuevas E, Rodríguez A, Perez M, Murillo-Olmos J, Morales-Castañeda
-    B, Alejo-Reyes A, Sarkar R.
-
-    Appl Math Model. 2023 Sep;121:506-523. doi:
-    10.1016/j.apm.2023.05.012. Epub 2023 May 11.
-
-    > In contrast to other modeling approaches, agent-based schemes
-    > represent a computational paradigm used to characterize the
-    > person-to-person interactions of individuals inside a system,
-    > providing accurate simulation results. …In this paper, the
-    > metaheuristic …
-
-10. **Pressure-dependent growth controls 3D architecture of Pseudomonas
-    putida microcolonies.**
-
-    Kim J, de Lorenzo V, Goñi-Moreno Á.
-
-    Environ Microbiol Rep. 2023 May 25. doi: 10.1111/1758-2229.13182.
-    Online ahead of print.
-
-    > This feature was characterized experimentally in the soil
-    > bacterium Pseudomonas putida. Using an agent-based model we
-    > recreated the growth of microcolonies in a scenario in which
-    > pressure was the only parameter affecting proliferation of cells.
-    > …
 
 ## Code of Conduct
 
