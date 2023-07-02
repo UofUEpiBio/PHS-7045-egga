@@ -9,152 +9,145 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-06-25 00:52:43.
+update was on 2023-07-02 00:50:53.
 
 <div class="cell">
 
 </div>
 
-1.  **Validating model output in the absence of ground truth data: A
-    COVID-19 case study using the Simulator of Infectious Disease
-    Dynamics in North Carolina (SIDD-NC) model.**
+1.  **Modeling the impact of different PrEP targeting strategies
+    combined with a clinic-based HIV-1 nucleic acid testing intervention
+    in Kenya.**
 
-    Woodul RL, Delamater PL, Woodburn M.
+    Hamilton DT, Agutu C, Sirengo M, Chege W, Goodreau SM, Elder A,
+    Sanders EJ, Graham SM.
 
-    Health Place. 2023 Jun 15;83:103065. doi:
-    10.1016/j.healthplace.2023.103065. Online ahead of print.
+    Epidemics. 2023 Jun 27;44:100696. doi: 10.1016/j.epidem.2023.100696.
+    Online ahead of print.
 
-    > As the COVID-19 pandemic has progressed, various models have been
-    > developed to forecast changes in the outbreak and assess
-    > intervention strategies. In this study we validate the Simulator
-    > of Infectious Disease Dynamics in North Carolina (SIDD-NC) model
-    > against an en …
+    > We estimated the potential impact on the Kenyan HIV epidemic of
+    > providing PrEP to individuals testing negative in TMP, if scaled
+    > up. METHODS: We developed an agent-based simulation of HIV-1
+    > transmission using TMP data and current Kenyan statistics. PrEP
+    > intervention …
 
-2.  **Automated Curation and AI Workflow Management System for Digital
-    Pathology.**
+2.  **Agent-based models of the cultural evolution of occupational
+    gender roles.**
 
-    Bumgardner VKC, Armstrong S, Virodov A, Hickey C.
+    Cross CP, Boothroyd LG, Jefferson CA.
 
-    AMIA Jt Summits Transl Sci Proc. 2023 Jun 16;2023:71-80. eCollection
-    2023.
+    R Soc Open Sci. 2023 Jun 28;10(6):221346. doi: 10.1098/rsos.221346.
+    eCollection 2023 Jun.
 
-    > Using an agent-based system coupled with open-source automated
-    > machine learning and review tools allows not only dynamic
-    > load-balancing and cross-network operation but also the
-    > development of research and clinical AI models using the data
-    > managed by the platf …
+    > This argument, however, neglects the potential for social learning
+    > to generate arbitrary gender segregation. In the current paper we
+    > simulate, using agent-based models, a population where agents
+    > exist as one of two ‘types’ and can use social information about …
 
-3.  **A novel intelligent agent-based framework for appropriate stream
-    selection from perceptive of career counseling.**
+3.  **\[School-based screening strategies to prevent the spread of
+    COVID-19 in school: a systematic review of the literature\].**
 
-    Alghamdi AA.
+    Marra M, Baccini M, Cereda G, Culasso M, De Sario M, Eboli I, Lachi
+    A, Mitrova Z, Saulle R, Bena A.
 
-    PeerJ Comput Sci. 2023 Feb 22;9:e1256. doi: 10.7717/peerj-cs.1256.
-    eCollection 2023.
+    Epidemiol Prev. 2023 May-Jun;47(3):152-171. doi:
+    10.19191/EP23.3.A576.054.
 
-    > This article proposes a system that can suggest streams in
-    > advanced education schools. This system is influenced by
-    > agent-based stream proposal systems (ASPS). The proposed system
-    > aims to make picking out the correct stream to study at school
-    > simpler for an individu …
+    > Studies that evaluated the cost of the intervention emphasized its
+    > cost-effectiveness, while those that focused on the acceptability
+    > of the instrument showed a preference among children, adolescents,
+    > and parents for minimally invasive, self-administered tests with
+    > high sensitivit …
 
-4.  **Quantifying Intratumoral Heterogeneity and Immunoarchitecture
-    Generated In-Silico by a Spatial Quantitative Systems Pharmacology
-    Model.**
+4.  **Could Mathematics be the Key to Unlocking the Mysteries of
+    Multiple Sclerosis?**
 
-    Nikfar M, Mi H, Gong C, Kimko H, Popel AS.
+    Weatherley G, Araujo RP, Dando SJ, Jenner AL.
 
-    Cancers (Basel). 2023 May 13;15(10):2750. doi:
-    10.3390/cancers15102750.
+    Bull Math Biol. 2023 Jun 29;85(8):75. doi:
+    10.1007/s11538-023-01181-0.
 
-    > However, because of the limitations of these data and the
-    > uncertainty associated with the time points of sample collection,
-    > having a complete understanding of intratumoral heterogeneity role
-    > is challenging. Here, we used a hybrid model that integrates a
-    > whole-patient compa …
+    > In this review, we highlight existing, MS-specific mathematical
+    > research and discuss the outstanding challenges and open problems
+    > that remain for mathematicians. We focus on how both non-spatial
+    > and spatial deterministic models have been used to successfully
+    > further our un …
 
-5.  **Learning black- and gray-box chemotactic PDEs/closures from agent
-    based Monte Carlo simulation data.**
+5.  **Identifying key socioecological factors influencing the expression
+    of egalitarianism and inequality among foragers.**
 
-    Lee S, Psarellis YM, Siettos CI, Kevrekidis IG.
+    Wilson KM, Cole KE, Codding BF.
 
-    J Math Biol. 2023 Jun 21;87(1):15. doi: 10.1007/s00285-023-01946-0.
+    Philos Trans R Soc Lond B Biol Sci. 2023 Aug 14;378(1883):20220311.
+    doi: 10.1098/rstb.2022.0311. Epub 2023 Jun 26.
 
-    > We propose a machine learning framework for the data-driven
-    > discovery of macroscopic chemotactic Partial Differential
-    > Equations (PDEs)-and the closures that lead to them- from
-    > high-fidelity, individual-based stochastic simulations of
-    > Escherichia coli bacterial motility. Th …
+    > However, obtaining cross-comparative data from which to evaluate
+    > theoretically informed resource characteristic factors has proved
+    > difficult, particularly for investigating interactions of
+    > characteristics. Therefore, we develop an agent-based model to
+    > evaluat …
 
-6.  **Keeping kids in school: modelling school-based testing and
-    quarantine strategies during the COVID-19 pandemic in Australia.**
+6.  **Voter-like Dynamics with Conflicting Preferences on Modular
+    Networks.**
 
-    Abeysuriya RG, Sacks-Davis R, Heath K, Delport D, Russell FM,
-    Danchin M, Hellard M, McVernon J, Scott N.
+    Zimmaro F, Contucci P, Kertész J.
 
-    Front Public Health. 2023 Jun 2;11:1150810. doi:
-    10.3389/fpubh.2023.1150810. eCollection 2023.
+    Entropy (Basel). 2023 May 24;25(6):838. doi: 10.3390/e25060838.
 
-    > BACKGROUND: In 2021, the Australian Government Department of
-    > Health commissioned a consortium of modelling groups to generate
-    > evidence assisting the transition from a goal of no community
-    > COVID-19 transmission to ‘living with COVID-19’, with adverse
-    > health and social conse …
+    > Two of the main factors shaping an individual’s opinion are social
+    > coordination and personal preferences, or personal biases. …We
+    > consider a modular graph with two communities that reflect the
+    > bias assignment, modeling the phenomenon of epistemic bubbles. We
+    > analy …
 
-7.  **An agent-based model of monocyte differentiation into
-    tumour-associated macrophages in chronic lymphocytic leukemia.**
+7.  **Editorial: Innovations in depression diagnosis and treatment
+    outcome monitoring.**
 
-    Verstraete N, Marku M, Domagala M, Arduin H, Bordenave J, Fournié
-    JJ, Ysebaert L, Poupot M, Pancaldi V.
+    Čukić MB, Savić D, Bachmann M.
 
-    iScience. 2023 May 19;26(6):106897. doi: 10.1016/j.isci.2023.106897.
-    eCollection 2023 Jun 16.
+    Front Digit Health. 2023 Jun 9;5:1224999. doi:
+    10.3389/fdgth.2023.1224999. eCollection 2023.
 
-    > In the case of chronic lymphocytic leukemia, these macrophages are
-    > known as nurse-like cells (NLCs) and they protect leukemic cells
-    > from spontaneous apoptosis, contributing to their chemoresistance.
-    > We propose an agent-based model of monocyte differentiation …
+8.  **A nomadic multi-agent based privacy metrics for e-health care: a
+    deep learning approach.**
 
-8.  **Bridging Scales: a Hybrid Model to Simulate Vascular Tumor Growth
-    and Treatment Response.**
+    Dhasarathan C, Shanmugam M, Kumar M, Tripathi D, Khapre S, Shankar
+    A.
 
-    Duswald T, Lima EABF, Oden JT, Wohlmuth B.
+    Multimed Tools Appl. 2023 Jun 6:1-24. doi:
+    10.1007/s11042-023-15363-4. Online ahead of print.
 
-    ArXiv. 2023 Jun 9:arXiv:2306.05994v1. Preprint.
+    > The deep learning model is trained on a large dataset of medical
+    > records and can accurately predict the diagnosis and treatment
+    > plan based on the patient’s symptoms and medical history. The
+    > multi-agent-based privacy metrics for the e-healthcare …
 
-    > It consists of two agent-based models for the tumor cells and the
-    > vasculature. Moreover, partial differential equations govern the
-    > diffusive dynamics of the nutrients, the vascular endothelial
-    > growth factor, and two cancer drugs. …However, large parts of th …
+9.  **V for vaccines and variants.**
 
-9.  **Developing a 3-D computational model of neurons in the central
-    amygdala to understand pharmacological targets for pain.**
+    Delli Gatti D, Reissl S, Turco E.
 
-    Miller Neilan R, Reith C, Anandan I, Kraeuter K, Allen HN, Kolber
-    BJ.
+    J Evol Econ. 2023 Jun 1:1-56. doi: 10.1007/s00191-023-00818-6.
+    Online ahead of print.
 
-    Front Pain Res (Lausanne). 2023 May 30;4:1183553. doi:
-    10.3389/fpain.2023.1183553. eCollection 2023.
+    > In the context of the Covid-19 pandemic, we evaluate the effects
+    > of vaccines and virus variants on epidemiological and
+    > macroeconomic outcomes by means of Monte Carlo simulations of a
+    > macroeconomic-epidemiological agent-based model calibrated using
+    > data from t …
 
-    > In this manuscript, we describe our progress towards developing a
-    > 3-D computational model of PKCdelta and SST neurons in the CeA and
-    > the use of this model to explore the pharmacological targeting of
-    > these two neural populations in modulating nociception. …During e
-    > …
+10. **A stochastic agent-based model to evaluate COVID-19 transmission
+    influenced by human mobility.**
 
-10. **Facility design and worker justice: COVID-19 transmission in
-    meatpacking plants.**
+    Chen K, Jiang X, Li Y, Zhou R.
 
-    Lou J, Borjigin S, Tang C, Saadat Y, Hu M, Niemeier DA.
+    Nonlinear Dyn. 2023 Apr 29:1-17. doi: 10.1007/s11071-023-08489-5.
+    Online ahead of print.
 
-    Am J Ind Med. 2023 Jun 17. doi: 10.1002/ajim.23510. Online ahead of
-    print.
-
-    > Meatpacking plant designs, in general, optimize on production;
-    > this design approach constrains the ability to enhance worker
-    > respiratory protection without reducing output. METHODS: Using
-    > agent-based modeling, we simulate the spread of COVID-19 within a
-    > typic …
+    > The COVID-19 pandemic has created an urgent need for mathematical
+    > models that can project epidemic trends and evaluate the
+    > effectiveness of mitigation strategies. A major challenge in
+    > forecasting the transmission of COVID-19 is the accurate
+    > assessment of the multiscale hum …
 
 ## Code of Conduct
 
