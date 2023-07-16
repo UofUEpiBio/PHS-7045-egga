@@ -9,13 +9,133 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-07-09 00:52:57.
+update was on 2023-07-16 00:54:44.
 
 <div class="cell">
 
 </div>
 
-1.  **Feedback Loops in Opinion Dynamics of Agent-Based Models with
+1.  **Childhood Sugar-sweetened Beverage Consumption: An Agent-based
+    Model of Context-specific Reduction Efforts.**
+
+    Kasman M, Hammond RA, Reader L, Purcell R, Guyer S, Ganiban JM,
+    Mitchell DC, Dabelea DM, Bellatorre A, Bekelman TA, Cohen CC, Perng
+    W, Grummon AH, Wu AJ, Oken E, Kleinman K; program collaborators for
+    Environmental influences on Child Health Outcomes.
+
+    Am J Prev Med. 2023 Jul 12:S0749-3797(23)00305-7. doi:
+    10.1016/j.amepre.2023.07.004. Online ahead of print.
+
+    > INTRODUCTION: Despite widespread recognition among public health
+    > experts that childhood sugar-sweetened beverage (SSB) consumption
+    > should be reduced, doing so has proven to be a challenge. An
+    > agent-based model (ABM) of early childhood SSB consumption was
+    > appl …
+
+2.  **The Impact of Patient Infection Rate on Emergency Department
+    Patient Flow: Hybrid Simulation Study in a Norwegian Case.**
+
+    Terning G, El-Thalji I, Brun EC.
+
+    Healthcare (Basel). 2023 Jun 30;11(13):1904. doi:
+    10.3390/healthcare11131904.
+
+    > Despite circumventing many of these challenges, the simulation
+    > modeling approach and hybrid agent-based modeling stand
+    > underutilized. This study investigates the impact of increased
+    > patient infection rate on the emergency department patient flow by
+    > usi …
+
+3.  **Agent-based modelling reveals the role of the tumour
+    microenvironment on the short-term success of combination
+    temozolomide/immune checkpoint blockade to treat glioblastoma.**
+
+    Surendran A, Jenner AL, Karimi E, Fiset B, Quail DF, Walsh LA, Craig
+    M.
+
+    J Pharmacol Exp Ther. 2023 Jul 13:JPET-AR-2022-001571. doi:
+    10.1124/jpet.122.001571. Online ahead of print.
+
+    > Initializing our model to spatial resection patient samples
+    > labelled using imaging mass cytometry, our model’s predictions
+    > show how the localization of glioblastoma cells, influence
+    > therapeutic success. …By initializing our model with imaging mass
+    > cy …
+
+4.  **A subcellular biochemical model for T6SS dynamics reveals winning
+    competitive strategies.**
+
+    Lin YL, Smith SN, Kanso E, Septer AN, Rycroft CH.
+
+    PNAS Nexus. 2023 Jun 13;2(7):pgad195. doi:
+    10.1093/pnasnexus/pgad195. eCollection 2023 Jul.
+
+    > Here, we incorporate biological data derived from natural
+    > competitors of Vibrio fischeri light organ symbionts to build a
+    > biochemical model for T6SS at the single-cell level, which we then
+    > integrate into an agent-based model (ABM). …
+
+5.  **Understanding evolutionary process of public participation
+    leveraging agent-based simulation: The case of waste incineration
+    power projects.**
+
+    Wang R, Wan X, Zhao X.
+
+    J Environ Manage. 2023 Jul 10;345:118595. doi:
+    10.1016/j.jenvman.2023.118595. Online ahead of print.
+
+    > Data collected from a questionnaire survey was used to examine the
+    > important factors involved in the concept model that significantly
+    > influence public’s willingness to participate in WIP projects.
+    > Thereafter, an agent-based simulation within a social n …
+
+6.  **Glutamine metabolic microenvironment drives M2 macrophage
+    polarization to mediate trastuzumab resistance in HER2-positive
+    gastric cancer.**
+
+    Hu X, Ma Z, Xu B, Li S, Yao Z, Liang B, Wang J, Liao W, Lin L, Wang
+    C, Zheng S, Wu Q, Huang Q, Yu L, Wang F, Shi M.
+
+    Cancer Commun (Lond). 2023 Jul 11. doi: 10.1002/cac2.12459. Online
+    ahead of print.
+
+    > Changes in microenvironmental indicators (such as macrophage,
+    > angiogenesis, and metabolism) were verified by immunofluorescence
+    > (IF) and immunohistochemical (IHC) analyses. Finally, a
+    > multi-scale agent-based model (ABM) was constructed. The effects
+    > of combina …
+
+7.  **Agent-based modeling in medical research, virtual baseline
+    generator and change in patients’ profile issue.**
+
+    Saint-Pierre P, Savy N.
+
+    Int J Biostat. 2023 Jul 11. doi: 10.1515/ijb-2022-0112. Online ahead
+    of print.
+
+    > Approaches based on agent-based models draw on a particularly
+    > useful framework to simulate patients evolution. In this paper, an
+    > approach based on agent-based modeling is described and discussed
+    > in the context of medical res …
+
+8.  **Twice weekly polymerase chain reaction (PCR) surveillance swabs
+    are not as effective as daily antigen testing for containment of
+    severe acute respiratory coronavirus virus 2 (SARS-CoV-2) outbreaks:
+    A modeling study based on real world data from a child and
+    adolescent psychiatry clinic.**
+
+    Grundel S, Flechtner HH, Butzmann J, Benner P, Kaasch AJ.
+
+    Infect Control Hosp Epidemiol. 2023 Jul 10:1-8. doi:
+    10.1017/ice.2023.94. Online ahead of print.
+
+    > Surveillance testing may detect infection early and enable
+    > mitigation measures to prevent viral spread. We conducted a
+    > modeling study to determine the optimal method and frequency of
+    > surveillance testing and to analyze the effect of weekly team
+    > meetings on transmission dyn …
+
+9.  **Feedback Loops in Opinion Dynamics of Agent-Based Models with
     Multiplicative Noise.**
 
     Djurdjevac Conrad N, Köppl J, Djurdjevac A.
@@ -27,128 +147,13 @@ update was on 2023-07-09 00:52:57.
     > this model, every agent is characterized by a position in a social
     > space and a continuous opinion state variable. …
 
-2.  **Agent-based Modeling: Exploring Treatment Adherence Among
+10. **Agent-based Modeling: Exploring Treatment Adherence Among
     Adolescents with HIV.**
 
     Kizito S.
 
     Arch Med Res. 2023 Jul 5:102844. doi: 10.1016/j.arcmed.2023.102844.
     Online ahead of print.
-
-3.  **Simulation of supply chain disruptions considering establishments
-    and power outages.**
-
-    Inoue H, Okumura Y, Torayashiki T, Todo Y.
-
-    PLoS One. 2023 Jul 7;18(7):e0288062. doi:
-    10.1371/journal.pone.0288062. eCollection 2023.
-
-    > In this paper, we simulate the economic loss resulting from supply
-    > chain disruptions triggered by the Great East Japan Earthquake
-    > (GEJE) in 2011, applying data from firm-level supply chains and
-    > establishment-level attributes to an agent-based model. To enhanc
-    > …
-
-4.  **Effect of Rapid Urbanization in Mainland China on the Seasonal
-    Influenza Epidemic: Spatiotemporal Analysis of Surveillance Data
-    From 2010 to 2017.**
-
-    Lei H, Zhang N, Niu B, Wang X, Xiao S, Du X, Chen T, Yang L, Wang D,
-    Cowling B, Li Y, Shu Y.
-
-    JMIR Public Health Surveill. 2023 Jul 7;9:e41435. doi:
-    10.2196/41435.
-
-    > METHODS: We performed spatiotemporal analyses of province-level
-    > influenza surveillance data collected in Mainland China from April
-    > 1, 2010, to March 31, 2017. An agent-based model based on hourly
-    > human contact-related behaviors was built to simulate th …
-
-5.  **Opioid-related harms and care impacts of conventional and AI-based
-    prescription management strategies: insights from leveraging
-    agent-based modeling and machine learning.**
-
-    Shojaati N, Osgood ND.
-
-    Front Digit Health. 2023 Jun 20;5:1174845. doi:
-    10.3389/fdgth.2023.1174845. eCollection 2023.
-
-    > To this end, an agent-based model was developed and implemented to
-    > examine the effect of reduced prescribing and prescription drug
-    > monitoring programs on overdose and escalation to street opioids
-    > among patients, and on the legitimacy of fulfillments of opioid …
-
-6.  **\[Understanding health equity through artificial intelligence The
-    case of Agent-Based Modelling (ABM)\].**
-
-    Morisod K, Nguyen K, Grazioli VS, Marti J, Bodenmann P.
-
-    Rev Med Suisse. 2023 Jul 5;19(834):1322-1326. doi:
-    10.53738/REVMED.2023.19.834.1322.
-
-    > Agent-Based Modelling (ABM) is a computer modelling technique that
-    > simulates the behaviour and interactions of autonomous agents
-    > within a virtual environment. …Despite some limitations related to
-    > the accessibility and quality of health data and the c …
-
-7.  **The G-alpha Gpa1 directs septin localization in the mating
-    projection of Saccharomyces cerevisiae through its Ubiquitination
-    Domain and Endocytic Machinery.**
-
-    Johnson CP, Hart A, Jarvis KF, Latario SG, Shrestha S, Leclerc N,
-    Khalil A, Kelley JB.
-
-    bioRxiv. 2023 Jun 16:2023.06.16.545321. doi:
-    10.1101/2023.06.16.545321. Preprint.
-
-    > We found that single deletions of the septin chaperone Gic1, the
-    > Cdc42 GAP Bem3, and the epsins Ent1 and Ent2 rescued the polar cap
-    > accumulation of septins in the hyperactive Galpha. We created an
-    > agent based model of vesicle trafficking that predicts how cha …
-
-8.  **Landscape configurations of refuge areas that delay the evolution
-    of resistance to Bt sugarcane: an agent based modeling approach.**
-
-    Human DJ, Potgieter L.
-
-    J Econ Entomol. 2023 Jul 1:toad104. doi: 10.1093/jee/toad104. Online
-    ahead of print.
-
-    > Strains of Bt sugarcane for the South African market are being
-    > developed, and a prerequisite to releasing such a product on the
-    > market is a recommendation on the size and layout of the refuge
-    > areas. In this article, an agent-based simulation model is used to
-    > …
-
-9.  **Agent based modeling in health care economics: examples in the
-    field of thyroid cancer.**
-
-    Demeulemeester R, Savy N, Grosclaude P, Costa N, Saint-Pierre P.
-
-    Int J Biostat. 2023 Jul 3. doi: 10.1515/ijb-2022-0107. Online ahead
-    of print.
-
-    > Although they remain little used in the field of Health Care
-    > Economics, Agent Based Models (ABM) are potentially powerful
-    > decision-making tools that open up great prospects. …The ABM
-    > approach is very flexible since several sources of data can be
-    > involved an …
-
-10. **Modeling the impact of different PrEP targeting strategies
-    combined with a clinic-based HIV-1 nucleic acid testing intervention
-    in Kenya.**
-
-    Hamilton DT, Agutu C, Sirengo M, Chege W, Goodreau SM, Elder A,
-    Sanders EJ, Graham SM.
-
-    Epidemics. 2023 Jun 27;44:100696. doi: 10.1016/j.epidem.2023.100696.
-    Online ahead of print.
-
-    > We estimated the potential impact on the Kenyan HIV epidemic of
-    > providing PrEP to individuals testing negative in TMP, if scaled
-    > up. METHODS: We developed an agent-based simulation of HIV-1
-    > transmission using TMP data and current Kenyan statistics. PrEP
-    > intervention …
 
 ## Code of Conduct
 
