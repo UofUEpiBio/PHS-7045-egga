@@ -9,13 +9,68 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-07-16 00:54:44.
+update was on 2023-07-23 00:44:28.
 
 <div class="cell">
 
 </div>
 
-1.  **Childhood Sugar-sweetened Beverage Consumption: An Agent-based
+1.  **Schooling of light reflecting fish.**
+
+    Pertzelan A, Ariel G, Kiflawi M.
+
+    PLoS One. 2023 Jul 21;18(7):e0289026. doi:
+    10.1371/journal.pone.0289026. eCollection 2023.
+
+    > While it has been suggested that these ‘shimmering waves’ are a
+    > visual manifestation of the synchronized escape response of the
+    > fish, the phenomenon has been regarded only as an artifact of
+    > esthetic curiosity. In this study we apply agent-based simulations
+    > and deep …
+
+2.  **Economic costs of the invasive Yellow-legged hornet on honey
+    bees.**
+
+    Requier F, Fournier A, Pointeau S, Rome Q, Courchamp F.
+
+    Sci Total Environ. 2023 Jul 17:165576. doi:
+    10.1016/j.scitotenv.2023.165576. Online ahead of print.
+
+    > We developed an analytic process combining large-scale field data,
+    > niche modelling techniques and agent-based models to spatially
+    > assess the ecological and economic impacts of the Yellow-legged
+    > hornet on honey bees and beekeeping in France. …We estim …
+
+3.  **Evolutionary dynamics in financial markets with heterogeneities in
+    investment strategies and reference points.**
+
+    Xu WJ, Zhong CY, Ren F, Qiu T, Chen RD, He YX, Zhong LX.
+
+    PLoS One. 2023 Jul 17;18(7):e0288277. doi:
+    10.1371/journal.pone.0288277. eCollection 2023.
+
+    > By incorporating pair pattern strategies and reference point
+    > strategies into an agent-based model, we have investigated the
+    > effects of homogeneous and heterogeneous investment strategies and
+    > reference points on price movement. …The coexistence of different
+    > …
+
+4.  **Electron beam irradiation modified carboxymethyl chitin
+    microsphere-based hemostatic materials with strong blood cell
+    adsorption for hemorrhage control.**
+
+    Leng F, Li T, Li T, Xie C, Jiang X.
+
+    Biomater Sci. 2023 Jul 17. doi: 10.1039/d3bm00787a. Online ahead of
+    print.
+
+    > However, it is still a challenge for microsphere hemostatic agents
+    > to achieve timely control of coagulopathy bleeding. In this work,
+    > the CCM-g-AA@DA hemostatic agent based on carboxymethyl chitin
+    > microspheres, CCM, was synthesized using electron beam
+    > irradiation-ind …
+
+5.  **Childhood Sugar-sweetened Beverage Consumption: An Agent-based
     Model of Context-specific Reduction Efforts.**
 
     Kasman M, Hammond RA, Reader L, Purcell R, Guyer S, Ganiban JM,
@@ -32,7 +87,7 @@ update was on 2023-07-16 00:54:44.
     > agent-based model (ABM) of early childhood SSB consumption was
     > appl …
 
-2.  **The Impact of Patient Infection Rate on Emergency Department
+6.  **The Impact of Patient Infection Rate on Emergency Department
     Patient Flow: Hybrid Simulation Study in a Norwegian Case.**
 
     Terning G, El-Thalji I, Brun EC.
@@ -46,7 +101,7 @@ update was on 2023-07-16 00:54:44.
     > patient infection rate on the emergency department patient flow by
     > usi …
 
-3.  **Agent-based modelling reveals the role of the tumour
+7.  **Agent-based modelling reveals the role of the tumour
     microenvironment on the short-term success of combination
     temozolomide/immune checkpoint blockade to treat glioblastoma.**
 
@@ -62,7 +117,7 @@ update was on 2023-07-16 00:54:44.
     > therapeutic success. …By initializing our model with imaging mass
     > cy …
 
-4.  **A subcellular biochemical model for T6SS dynamics reveals winning
+8.  **A subcellular biochemical model for T6SS dynamics reveals winning
     competitive strategies.**
 
     Lin YL, Smith SN, Kanso E, Septer AN, Rycroft CH.
@@ -75,7 +130,7 @@ update was on 2023-07-16 00:54:44.
     > biochemical model for T6SS at the single-cell level, which we then
     > integrate into an agent-based model (ABM). …
 
-5.  **Understanding evolutionary process of public participation
+9.  **Understanding evolutionary process of public participation
     leveraging agent-based simulation: The case of waste incineration
     power projects.**
 
@@ -89,7 +144,7 @@ update was on 2023-07-16 00:54:44.
     > influence public’s willingness to participate in WIP projects.
     > Thereafter, an agent-based simulation within a social n …
 
-6.  **Glutamine metabolic microenvironment drives M2 macrophage
+10. **Glutamine metabolic microenvironment drives M2 macrophage
     polarization to mediate trastuzumab resistance in HER2-positive
     gastric cancer.**
 
@@ -104,56 +159,6 @@ update was on 2023-07-16 00:54:44.
     > (IF) and immunohistochemical (IHC) analyses. Finally, a
     > multi-scale agent-based model (ABM) was constructed. The effects
     > of combina …
-
-7.  **Agent-based modeling in medical research, virtual baseline
-    generator and change in patients’ profile issue.**
-
-    Saint-Pierre P, Savy N.
-
-    Int J Biostat. 2023 Jul 11. doi: 10.1515/ijb-2022-0112. Online ahead
-    of print.
-
-    > Approaches based on agent-based models draw on a particularly
-    > useful framework to simulate patients evolution. In this paper, an
-    > approach based on agent-based modeling is described and discussed
-    > in the context of medical res …
-
-8.  **Twice weekly polymerase chain reaction (PCR) surveillance swabs
-    are not as effective as daily antigen testing for containment of
-    severe acute respiratory coronavirus virus 2 (SARS-CoV-2) outbreaks:
-    A modeling study based on real world data from a child and
-    adolescent psychiatry clinic.**
-
-    Grundel S, Flechtner HH, Butzmann J, Benner P, Kaasch AJ.
-
-    Infect Control Hosp Epidemiol. 2023 Jul 10:1-8. doi:
-    10.1017/ice.2023.94. Online ahead of print.
-
-    > Surveillance testing may detect infection early and enable
-    > mitigation measures to prevent viral spread. We conducted a
-    > modeling study to determine the optimal method and frequency of
-    > surveillance testing and to analyze the effect of weekly team
-    > meetings on transmission dyn …
-
-9.  **Feedback Loops in Opinion Dynamics of Agent-Based Models with
-    Multiplicative Noise.**
-
-    Djurdjevac Conrad N, Köppl J, Djurdjevac A.
-
-    Entropy (Basel). 2022 Sep 24;24(10):1352. doi: 10.3390/e24101352.
-
-    > We introduce an agent-based model for co-evolving opinions and
-    > social dynamics, under the influence of multiplicative noise. In
-    > this model, every agent is characterized by a position in a social
-    > space and a continuous opinion state variable. …
-
-10. **Agent-based Modeling: Exploring Treatment Adherence Among
-    Adolescents with HIV.**
-
-    Kizito S.
-
-    Arch Med Res. 2023 Jul 5:102844. doi: 10.1016/j.arcmed.2023.102844.
-    Online ahead of print.
 
 ## Code of Conduct
 
