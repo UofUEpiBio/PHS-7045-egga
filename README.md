@@ -9,156 +9,146 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-07-23 00:44:28.
+update was on 2023-07-30 00:42:46.
 
 <div class="cell">
 
 </div>
 
-1.  **Schooling of light reflecting fish.**
+1.  **Methodologies to Evaluate the Micromechanics Flexural Strength
+    Properties of Natural-Fiber-Reinforced Composites: The Case of
+    Abaca-Fiber-Reinforced Bio Polyethylene Composites.**
 
-    Pertzelan A, Ariel G, Kiflawi M.
+    Seculi F, Julián F, Llorens J, Espinach FX, Mutjé P, Tarrés Q.
 
-    PLoS One. 2023 Jul 21;18(7):e0289026. doi:
-    10.1371/journal.pone.0289026. eCollection 2023.
+    Polymers (Basel). 2023 Jul 24;15(14):3137. doi:
+    10.3390/polym15143137.
 
-    > While it has been suggested that these ‘shimmering waves’ are a
-    > visual manifestation of the synchronized escape response of the
-    > fish, the phenomenon has been regarded only as an artifact of
-    > esthetic curiosity. In this study we apply agent-based simulations
-    > and deep …
+    > This study focuses on researching the flexural properties of
+    > abaca-fiber-reinforced bio-based high-density polyethylene (BioPE)
+    > composites. Specifically, composites containing 30 wt% of abaca
+    > fiber (AF) were treated with a coupling agent based on
+    > polyethylene …
 
-2.  **Economic costs of the invasive Yellow-legged hornet on honey
-    bees.**
+2.  **Recurrence and Eigenfunction Methods for Non-Trivial Models of
+    Discrete Binary Choice.**
 
-    Requier F, Fournier A, Pointeau S, Rome Q, Courchamp F.
+    Holehouse J.
 
-    Sci Total Environ. 2023 Jul 17:165576. doi:
-    10.1016/j.scitotenv.2023.165576. Online ahead of print.
+    Entropy (Basel). 2023 Jun 29;25(7):996. doi: 10.3390/e25070996.
 
-    > We developed an analytic process combining large-scale field data,
-    > niche modelling techniques and agent-based models to spatially
-    > assess the ecological and economic impacts of the Yellow-legged
-    > hornet on honey bees and beekeeping in France. …We estim …
+    > Understanding how systems relax to equilibrium is a core theme of
+    > statistical physics, especially in economics, where systems are
+    > known to be subject to extrinsic noise not included in simple
+    > agent-based models. In models of binary choice-ones not much …
 
-3.  **Evolutionary dynamics in financial markets with heterogeneities in
-    investment strategies and reference points.**
+3.  **An Agent-Based Statistical Physics Model for Political
+    Polarization: A Monte Carlo Study.**
 
-    Xu WJ, Zhong CY, Ren F, Qiu T, Chen RD, He YX, Zhong LX.
+    Diep HT, Kaufman M, Kaufman S.
 
-    PLoS One. 2023 Jul 17;18(7):e0288277. doi:
-    10.1371/journal.pone.0288277. eCollection 2023.
+    Entropy (Basel). 2023 Jun 27;25(7):981. doi: 10.3390/e25070981.
 
-    > By incorporating pair pattern strategies and reference point
-    > strategies into an agent-based model, we have investigated the
-    > effects of homogeneous and heterogeneous investment strategies and
-    > reference points on price movement. …The coexistence of different
-    > …
+    > We use the model to generate scenarios of polarization trends in
+    > time in the USA and explore ways to reduce it, as measured by a
+    > polarization index that we propose. Here, we extend our work using
+    > a more realistic assumption that individuals interact only with
+    > “neighbors” ( …
 
-4.  **Electron beam irradiation modified carboxymethyl chitin
-    microsphere-based hemostatic materials with strong blood cell
-    adsorption for hemorrhage control.**
+4.  **Heterogeneous Retirement Savings Strategy Selection with
+    Reinforcement Learning.**
 
-    Leng F, Li T, Li T, Xie C, Jiang X.
+    Ozhamaratli F, Barucca P.
 
-    Biomater Sci. 2023 Jul 17. doi: 10.1039/d3bm00787a. Online ahead of
-    print.
+    Entropy (Basel). 2023 Jun 25;25(7):977. doi: 10.3390/e25070977.
 
-    > However, it is still a challenge for microsphere hemostatic agents
-    > to achieve timely control of coagulopathy bleeding. In this work,
-    > the CCM-g-AA@DA hemostatic agent based on carboxymethyl chitin
-    > microspheres, CCM, was synthesized using electron beam
-    > irradiation-ind …
+    > Saving and investment behaviour is crucial for all individuals to
+    > guarantee their welfare during work-life and retirement. We
+    > introduce a deep reinforcement learning model in which agents
+    > learn optimal portfolio allocation and saving strategies suitable
+    > for their heterogen …
 
-5.  **Childhood Sugar-sweetened Beverage Consumption: An Agent-based
-    Model of Context-specific Reduction Efforts.**
+5.  **Validation of agent-based models of surface receptor
+    oligomerisation.**
 
-    Kasman M, Hammond RA, Reader L, Purcell R, Guyer S, Ganiban JM,
-    Mitchell DC, Dabelea DM, Bellatorre A, Bekelman TA, Cohen CC, Perng
-    W, Grummon AH, Wu AJ, Oken E, Kleinman K; program collaborators for
-    Environmental influences on Child Health Outcomes.
+    Clark JC, Watson SP, Owen DM.
 
-    Am J Prev Med. 2023 Jul 12:S0749-3797(23)00305-7. doi:
-    10.1016/j.amepre.2023.07.004. Online ahead of print.
+    Trends Pharmacol Sci. 2023 Jul 26:S0165-6147(23)00151-7. doi:
+    10.1016/j.tips.2023.07.002. Online ahead of print.
 
-    > INTRODUCTION: Despite widespread recognition among public health
-    > experts that childhood sugar-sweetened beverage (SSB) consumption
-    > should be reduced, doing so has proven to be a challenge. An
-    > agent-based model (ABM) of early childhood SSB consumption was
-    > appl …
+    > Receptor dimerisation and higher order oligomerisation regulates
+    > signalling by a wide variety of transmembrane receptors. We
+    > discuss how agent-based modelling (ABM) combined with advanced
+    > microscopy and structural studies can provide new insights into
+    > the reg …
 
-6.  **The Impact of Patient Infection Rate on Emergency Department
-    Patient Flow: Hybrid Simulation Study in a Norwegian Case.**
+6.  **The role of luck in the success of social media influencers.**
 
-    Terning G, El-Thalji I, Brun EC.
+    Ionescu S, Hannák A, Pagan N.
 
-    Healthcare (Basel). 2023 Jun 30;11(13):1904. doi:
-    10.3390/healthcare11131904.
+    Appl Netw Sci. 2023;8(1):46. doi: 10.1007/s41109-023-00573-4. Epub
+    2023 Jul 25.
 
-    > Despite circumventing many of these challenges, the simulation
-    > modeling approach and hybrid agent-based modeling stand
-    > underutilized. This study investigates the impact of increased
-    > patient infection rate on the emergency department patient flow by
-    > usi …
+    > Prior virtual experiments and empirical work seem contradictory
+    > regarding fairness: While the first suggests the expected number
+    > of followers of CCs reflects their quality, the second says that
+    > quality does not perfectly predict success. RESULTS: Our paper
+    > extends prior models …
 
-7.  **Agent-based modelling reveals the role of the tumour
-    microenvironment on the short-term success of combination
-    temozolomide/immune checkpoint blockade to treat glioblastoma.**
+7.  **Investigation of airborne spread of COVID-19 using a hybrid
+    agent-based model: a case study of the UK.**
 
-    Surendran A, Jenner AL, Karimi E, Fiset B, Quail DF, Walsh LA, Craig
-    M.
+    Rahaman H, Barik D.
 
-    J Pharmacol Exp Ther. 2023 Jul 13:JPET-AR-2022-001571. doi:
-    10.1124/jpet.122.001571. Online ahead of print.
+    R Soc Open Sci. 2023 Jul 26;10(7):230377. doi: 10.1098/rsos.230377.
+    eCollection 2023 Jul.
 
-    > Initializing our model to spatial resection patient samples
-    > labelled using imaging mass cytometry, our model’s predictions
-    > show how the localization of glioblastoma cells, influence
-    > therapeutic success. …By initializing our model with imaging mass
-    > cy …
+    > Agent-based models have been proven to be quite useful in
+    > understanding and predicting the SARS-CoV-2 virus-originated
+    > COVID-19 infection. …We have developed a computationally efficient
+    > agent-based hybrid model to study the aerial propa …
 
-8.  **A subcellular biochemical model for T6SS dynamics reveals winning
-    competitive strategies.**
+8.  **Study on the influence diffusion of SMEs in open-source
+    communities from the perspective of complex networks.**
 
-    Lin YL, Smith SN, Kanso E, Septer AN, Rycroft CH.
+    Li Y, Yang M, Zhang S.
 
-    PNAS Nexus. 2023 Jun 13;2(7):pgad195. doi:
-    10.1093/pnasnexus/pgad195. eCollection 2023 Jul.
+    Math Biosci Eng. 2023 May 31;20(7):12731-12749. doi:
+    10.3934/mbe.2023568.
 
-    > Here, we incorporate biological data derived from natural
-    > competitors of Vibrio fischeri light organ symbionts to build a
-    > biochemical model for T6SS at the single-cell level, which we then
-    > integrate into an agent-based model (ABM). …
+    > In this context, from the perspective of complex networks, the
+    > influence diffusion of SMEs after embedding open-source innovation
+    > networks is studied in this paper. First, an integrated simulation
+    > model including a network model, agent model and innova …
 
-9.  **Understanding evolutionary process of public participation
-    leveraging agent-based simulation: The case of waste incineration
-    power projects.**
+9.  **An agent-based model to simulate SARS-CoV-2 contamination of
+    surfaces and meat cuts in processing plants.**
 
-    Wang R, Wan X, Zhao X.
+    Luong NM, Guillier L, Federighi M, Guillois Y, Kooh P, Maillard AL,
+    Pivette M, Boué G, Martin-Latil S, Chaix E, Duret S.
 
-    J Environ Manage. 2023 Jul 10;345:118595. doi:
-    10.1016/j.jenvman.2023.118595. Online ahead of print.
+    Int J Food Microbiol. 2023 Jul 13;404:110321. doi:
+    10.1016/j.ijfoodmicro.2023.110321. Online ahead of print.
 
-    > Data collected from a questionnaire survey was used to examine the
-    > important factors involved in the concept model that significantly
-    > influence public’s willingness to participate in WIP projects.
-    > Thereafter, an agent-based simulation within a social n …
+    > Therefore, a need arose to better understand viral transmission in
+    > such occupational environments from multiple perspectives: the
+    > protection of workers in hotspots of viral circulation; the
+    > prevention of supply disruption due to the closure of plants; and
+    > the prevention of cluste …
 
-10. **Glutamine metabolic microenvironment drives M2 macrophage
-    polarization to mediate trastuzumab resistance in HER2-positive
-    gastric cancer.**
+10. **Simulation and evaluation of increased imaging service capacity at
+    the MRI department using reduced coil-setting times.**
 
-    Hu X, Ma Z, Xu B, Li S, Yao Z, Liang B, Wang J, Liao W, Lin L, Wang
-    C, Zheng S, Wu Q, Huang Q, Yu L, Wang F, Shi M.
+    Sun YC, Wu HM, Guo WY, Ou YY, Yao MJ, Lee LH.
 
-    Cancer Commun (Lond). 2023 Jul 11. doi: 10.1002/cac2.12459. Online
-    ahead of print.
+    PLoS One. 2023 Jul 27;18(7):e0288546. doi:
+    10.1371/journal.pone.0288546. eCollection 2023.
 
-    > Changes in microenvironmental indicators (such as macrophage,
-    > angiogenesis, and metabolism) were verified by immunofluorescence
-    > (IF) and immunohistochemical (IHC) analyses. Finally, a
-    > multi-scale agent-based model (ABM) was constructed. The effects
-    > of combina …
+    > This approach can reduce patient wait times and thereby maximize
+    > MRI departments’ service times. To simulate an MRI department’s
+    > action workflow, 2,447 MRI examination logs containing the
+    > deidentified information of patients and radiation technologists
+    > from the MRI departm …
 
 ## Code of Conduct
 
