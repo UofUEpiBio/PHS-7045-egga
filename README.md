@@ -9,13 +9,132 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-07-30 00:42:46.
+update was on 2023-08-06 00:36:22.
 
 <div class="cell">
 
 </div>
 
-1.  **Methodologies to Evaluate the Micromechanics Flexural Strength
+1.  **Modeling suggests that virion production cycles within individual
+    cells is key to understanding acute hepatitis B virus infection
+    kinetics.**
+
+    Hailegiorgis A, Ishida Y, Collier N, Imamura M, Shi Z, Reinharz V,
+    Tsuge M, Barash D, Hiraga N, Yokomichi H, Tateno C, Ozik J,
+    Uprichard SL, Chayama K, Dahari H.
+
+    PLoS Comput Biol. 2023 Aug 3;19(8):e1011309. doi:
+    10.1371/journal.pcbi.1011309. Online ahead of print.
+
+    > To recapitulate the multiphasic viral kinetic patterns, we
+    > developed an agent-based model that includes intracellular virion
+    > production cycles reflecting the cyclic nature of each individual
+    > virus lifecycle. …Together, modeling suggests that it is th …
+
+2.  **Deterministic early endosomal maturations emerge from a stochastic
+    trigger-and-convert mechanism.**
+
+    York HM, Joshi K, Wright CS, Kreplin LZ, Rodgers SJ, Moorthi UK,
+    Gandhi H, Patil A, Mitchell CA, Iyer-Biswas S, Arumugam S.
+
+    Nat Commun. 2023 Aug 2;14(1):4652. doi: 10.1038/s41467-023-40428-1.
+
+    > Endosomal maturation is critical for robust and timely cargo
+    > transport to specific cellular compartments. The most prominent
+    > model of early endosomal maturation involves a
+    > phosphoinositide-driven gain or loss of specific proteins on
+    > individual endosomes, emphasising an aut …
+
+3.  **Shibboleth: An agent-based model of signalling mimicry.**
+
+    Goodman JR, Caines A, Foley RA.
+
+    PLoS One. 2023 Jul 31;18(7):e0289333. doi:
+    10.1371/journal.pone.0289333. eCollection 2023.
+
+    > In the story, failure to reproduce the word phonetically resulted
+    > in death. Here, we run five different versions of a ‘Shibboleth’
+    > model: a first, simple version, which evaluates whether a
+    > composite variable of mimicry quality and detection quality is a
+    > superior predictor …
+
+4.  **Assessing the epidemiological risk at the human-wild boar
+    interface through a one health approach using an agent-based model
+    in Barcelona, Spain.**
+
+    Carlos GC, Beatriz ML, Carles C, Raquel CC, Emmanuel S, Josep Maria
+    LM, Jordi SC, Santiago L, Jorge Ramón LO.
+
+    One Health. 2023 Jul 9;17:100598. doi: 10.1016/j.onehlt.2023.100598.
+    eCollection 2023 Dec.
+
+    > Wild boar (WB, Sus scrofa) populations are increasing in urban
+    > areas, posing an epidemiological risk for zoonotic pathogens such
+    > as hepatitis E virus (HEV) and antimicrobial-resistant
+    > Campylobacter (AMR-CAMP), as well as non-zoonotic pathogens such
+    > as African swine fever virus (A …
+
+5.  **Diclofenac and eugenol hybrid with enhanced anti-inflammatory
+    activity through activating HO-1 and inhibiting NF-κB pathway in
+    vitro and in vivo.**
+
+    Wang W, Wang SK, Wang Q, Zhang Z, Li B, Zhou ZD, Zhang JF, Lin C,
+    Chen TX, Jin Z, Tang YZ.
+
+    Eur J Med Chem. 2023 Jul 19;259:115669. doi:
+    10.1016/j.ejmech.2023.115669. Online ahead of print.
+
+    > Compound 1 exhibited superior NF-kappaB-inhibitory ability
+    > compared to diclofenac through the activation of Nrf2/HO-1
+    > signaling pathway in RAW 264.7. 20 mg/kg compound 1 resulted in
+    > remarkable colitis improvement in dextran sulfate sodium
+    > (DSS)-induced mice model by up-reg …
+
+6.  **An agent-based model of binge drinking, inequitable gender norms
+    and their contribution to HIV transmission, with application to
+    South Africa.**
+
+    Johnson LF, Kubjane M, de Voux A, Ohrnberger J, Tlali M.
+
+    BMC Infect Dis. 2023 Jul 29;23(1):500. doi:
+    10.1186/s12879-023-08470-y.
+
+    > METHODS: We developed an agent-based model of HIV and other
+    > sexually transmitted infections, allowing for effects of binge
+    > drinking on sexual risk behaviour, and effects of inequitable
+    > gender norms (in men) on sexual risk behaviour and binge drinking.
+    > …The …
+
+7.  **Genetic architecture of dispersal behaviour in the post-harvest
+    pest and model organism Tribolium castaneum.**
+
+    Pointer MD, Spurgin LG, Gage MJG, McMullan M, Richardson DS.
+
+    Heredity (Edinb). 2023 Jul 29. doi: 10.1038/s41437-023-00641-6.
+    Online ahead of print.
+
+    > We combine experimental evolution and agent-based modelling to
+    > investigate the number of loci underlying dispersal in T.
+    > castaneum, and whether the trait is sex-linked. …These results
+    > have implications for applied pest management and for our
+    > understanding o …
+
+8.  **The role of regular asymptomatic testing in reducing the impact of
+    a COVID-19 wave.**
+
+    Silva MEP, Fyles M, Pi L, Panovska-Griffiths J, House T, Jay C,
+    Fearon E.
+
+    Epidemics. 2023 Jul 18;44:100699. doi: 10.1016/j.epidem.2023.100699.
+    Online ahead of print.
+
+    > Their adoption can support regular mass asymptomatic testing,
+    > allowing earlier detection of infection and isolation of
+    > infectious individuals. In this paper we extend and apply the
+    > agent-based epidemic modelling framework Covasim to explore the
+    > impact of regu …
+
+9.  **Methodologies to Evaluate the Micromechanics Flexural Strength
     Properties of Natural-Fiber-Reinforced Composites: The Case of
     Abaca-Fiber-Reinforced Bio Polyethylene Composites.**
 
@@ -30,7 +149,7 @@ update was on 2023-07-30 00:42:46.
     > fiber (AF) were treated with a coupling agent based on
     > polyethylene …
 
-2.  **Recurrence and Eigenfunction Methods for Non-Trivial Models of
+10. **Recurrence and Eigenfunction Methods for Non-Trivial Models of
     Discrete Binary Choice.**
 
     Holehouse J.
@@ -41,114 +160,6 @@ update was on 2023-07-30 00:42:46.
     > statistical physics, especially in economics, where systems are
     > known to be subject to extrinsic noise not included in simple
     > agent-based models. In models of binary choice-ones not much …
-
-3.  **An Agent-Based Statistical Physics Model for Political
-    Polarization: A Monte Carlo Study.**
-
-    Diep HT, Kaufman M, Kaufman S.
-
-    Entropy (Basel). 2023 Jun 27;25(7):981. doi: 10.3390/e25070981.
-
-    > We use the model to generate scenarios of polarization trends in
-    > time in the USA and explore ways to reduce it, as measured by a
-    > polarization index that we propose. Here, we extend our work using
-    > a more realistic assumption that individuals interact only with
-    > “neighbors” ( …
-
-4.  **Heterogeneous Retirement Savings Strategy Selection with
-    Reinforcement Learning.**
-
-    Ozhamaratli F, Barucca P.
-
-    Entropy (Basel). 2023 Jun 25;25(7):977. doi: 10.3390/e25070977.
-
-    > Saving and investment behaviour is crucial for all individuals to
-    > guarantee their welfare during work-life and retirement. We
-    > introduce a deep reinforcement learning model in which agents
-    > learn optimal portfolio allocation and saving strategies suitable
-    > for their heterogen …
-
-5.  **Validation of agent-based models of surface receptor
-    oligomerisation.**
-
-    Clark JC, Watson SP, Owen DM.
-
-    Trends Pharmacol Sci. 2023 Jul 26:S0165-6147(23)00151-7. doi:
-    10.1016/j.tips.2023.07.002. Online ahead of print.
-
-    > Receptor dimerisation and higher order oligomerisation regulates
-    > signalling by a wide variety of transmembrane receptors. We
-    > discuss how agent-based modelling (ABM) combined with advanced
-    > microscopy and structural studies can provide new insights into
-    > the reg …
-
-6.  **The role of luck in the success of social media influencers.**
-
-    Ionescu S, Hannák A, Pagan N.
-
-    Appl Netw Sci. 2023;8(1):46. doi: 10.1007/s41109-023-00573-4. Epub
-    2023 Jul 25.
-
-    > Prior virtual experiments and empirical work seem contradictory
-    > regarding fairness: While the first suggests the expected number
-    > of followers of CCs reflects their quality, the second says that
-    > quality does not perfectly predict success. RESULTS: Our paper
-    > extends prior models …
-
-7.  **Investigation of airborne spread of COVID-19 using a hybrid
-    agent-based model: a case study of the UK.**
-
-    Rahaman H, Barik D.
-
-    R Soc Open Sci. 2023 Jul 26;10(7):230377. doi: 10.1098/rsos.230377.
-    eCollection 2023 Jul.
-
-    > Agent-based models have been proven to be quite useful in
-    > understanding and predicting the SARS-CoV-2 virus-originated
-    > COVID-19 infection. …We have developed a computationally efficient
-    > agent-based hybrid model to study the aerial propa …
-
-8.  **Study on the influence diffusion of SMEs in open-source
-    communities from the perspective of complex networks.**
-
-    Li Y, Yang M, Zhang S.
-
-    Math Biosci Eng. 2023 May 31;20(7):12731-12749. doi:
-    10.3934/mbe.2023568.
-
-    > In this context, from the perspective of complex networks, the
-    > influence diffusion of SMEs after embedding open-source innovation
-    > networks is studied in this paper. First, an integrated simulation
-    > model including a network model, agent model and innova …
-
-9.  **An agent-based model to simulate SARS-CoV-2 contamination of
-    surfaces and meat cuts in processing plants.**
-
-    Luong NM, Guillier L, Federighi M, Guillois Y, Kooh P, Maillard AL,
-    Pivette M, Boué G, Martin-Latil S, Chaix E, Duret S.
-
-    Int J Food Microbiol. 2023 Jul 13;404:110321. doi:
-    10.1016/j.ijfoodmicro.2023.110321. Online ahead of print.
-
-    > Therefore, a need arose to better understand viral transmission in
-    > such occupational environments from multiple perspectives: the
-    > protection of workers in hotspots of viral circulation; the
-    > prevention of supply disruption due to the closure of plants; and
-    > the prevention of cluste …
-
-10. **Simulation and evaluation of increased imaging service capacity at
-    the MRI department using reduced coil-setting times.**
-
-    Sun YC, Wu HM, Guo WY, Ou YY, Yao MJ, Lee LH.
-
-    PLoS One. 2023 Jul 27;18(7):e0288546. doi:
-    10.1371/journal.pone.0288546. eCollection 2023.
-
-    > This approach can reduce patient wait times and thereby maximize
-    > MRI departments’ service times. To simulate an MRI department’s
-    > action workflow, 2,447 MRI examination logs containing the
-    > deidentified information of patients and radiation technologists
-    > from the MRI departm …
 
 ## Code of Conduct
 
