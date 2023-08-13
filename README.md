@@ -9,157 +9,152 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-08-06 00:36:22.
+update was on 2023-08-13 00:34:05.
 
 <div class="cell">
 
 </div>
 
-1.  **Modeling suggests that virion production cycles within individual
-    cells is key to understanding acute hepatitis B virus infection
-    kinetics.**
+1.  **Understanding the Impact of Social Networks on the Spread of
+    Obesity.**
 
-    Hailegiorgis A, Ishida Y, Collier N, Imamura M, Shi Z, Reinharz V,
-    Tsuge M, Barash D, Hiraga N, Yokomichi H, Tateno C, Ozik J,
-    Uprichard SL, Chayama K, Dahari H.
+    Tuson M, Harper P, Gartner D, Behrens D.
 
-    PLoS Comput Biol. 2023 Aug 3;19(8):e1011309. doi:
-    10.1371/journal.pcbi.1011309. Online ahead of print.
+    Int J Environ Res Public Health. 2023 Jul 26;20(15):6451. doi:
+    10.3390/ijerph20156451.
 
-    > To recapitulate the multiphasic viral kinetic patterns, we
-    > developed an agent-based model that includes intracellular virion
-    > production cycles reflecting the cyclic nature of each individual
-    > virus lifecycle. …Together, modeling suggests that it is th …
+    > To achieve this, we develop a generalisable hybrid simulation and
+    > optimisation approach aimed at gaining qualitative and
+    > quantitative insights into the effect of social networks on the
+    > spread of obesity. Our simulation model has two components.
+    > Firstly, an agent- …
 
-2.  **Deterministic early endosomal maturations emerge from a stochastic
-    trigger-and-convert mechanism.**
+2.  **A Predictive Decision Analytics Approach for Primary Care
+    Operations Management: A Case Study of Double-Booking Strategy
+    Design and Evaluation.**
 
-    York HM, Joshi K, Wright CS, Kreplin LZ, Rodgers SJ, Moorthi UK,
-    Gandhi H, Patil A, Mitchell CA, Iyer-Biswas S, Arumugam S.
+    Zhou Y, Viswanatha A, Abdul Motaleb A, Lamichhane P, Chen KY, Young
+    R, Gurses AP, Xiao Y; PROMIS Investigators.
 
-    Nat Commun. 2023 Aug 2;14(1):4652. doi: 10.1038/s41467-023-40428-1.
+    Comput Ind Eng. 2023 Mar;17:109069. doi: 10.1016/j.cie.2023.109069.
+    Epub 2023 Feb 18.
 
-    > Endosomal maturation is critical for robust and timely cargo
-    > transport to specific cellular compartments. The most prominent
-    > model of early endosomal maturation involves a
-    > phosphoinositide-driven gain or loss of specific proteins on
-    > individual endosomes, emphasising an aut …
+    > A case study was conducted in a local family medicine clinic to
+    > demonstrate the use of this approach for patient no-show
+    > management. In this case study, a patient no-show prediction model
+    > was used in conjunction with an integrated agent-based and
+    > discrete-eve …
 
-3.  **Shibboleth: An agent-based model of signalling mimicry.**
+3.  **Natural Antibacterial Agent-based Nanoparticles for Effective
+    Treatment of Intracellular MRSA Infection.**
 
-    Goodman JR, Caines A, Foley RA.
+    Zou X, Cai S, Wang T, Zheng S, Cui X, Hao J, Chen X, Liu Y, Zhang Z,
+    Li Y.
 
-    PLoS One. 2023 Jul 31;18(7):e0289333. doi:
-    10.1371/journal.pone.0289333. eCollection 2023.
+    Acta Biomater. 2023 Aug 7:S1742-7061(23)00457-9. doi:
+    10.1016/j.actbio.2023.08.004. Online ahead of print.
 
-    > In the story, failure to reproduce the word phonetically resulted
-    > in death. Here, we run five different versions of a ‘Shibboleth’
-    > model: a first, simple version, which evaluates whether a
-    > composite variable of mimicry quality and detection quality is a
-    > superior predictor …
+    > Using a specific combination of the natural antibacterial agents
+    > CA and GLA, NPs effectively eradicated intracellular MRSA with low
+    > toxicity to normal tissues in a MRSA-induced peritonitis model.
+    > This strategy presents a potential alternative for enhancing
+    > intracellular MR …
 
-4.  **Assessing the epidemiological risk at the human-wild boar
-    interface through a one health approach using an agent-based model
-    in Barcelona, Spain.**
+4.  **Exploring the Onset and Progression of Prostate Cancer through a
+    Multicellular Agent-based Model.**
 
-    Carlos GC, Beatriz ML, Carles C, Raquel CC, Emmanuel S, Josep Maria
-    LM, Jordi SC, Santiago L, Jorge Ramón LO.
+    Passier M, van Genderen MNG, Zaalberg A, Kneppers J, Bekers EM,
+    Bergman AM, Zwart W, Eduati F.
 
-    One Health. 2023 Jul 9;17:100598. doi: 10.1016/j.onehlt.2023.100598.
-    eCollection 2023 Dec.
+    Cancer Res Commun. 2023 Aug 7;3(8):1473-1485. doi:
+    10.1158/2767-9764.CRC-23-0097. eCollection 2023 Aug.
 
-    > Wild boar (WB, Sus scrofa) populations are increasing in urban
-    > areas, posing an epidemiological risk for zoonotic pathogens such
-    > as hepatitis E virus (HEV) and antimicrobial-resistant
-    > Campylobacter (AMR-CAMP), as well as non-zoonotic pathogens such
-    > as African swine fever virus (A …
+    > To expand our knowledge and explore means to prevent and treat the
+    > disease, it is important to understand what drives the onset and
+    > early stages of prostate cancer. In this study, we developed an
+    > agent-based model of a prostatic acinus including its microenvi …
 
-5.  **Diclofenac and eugenol hybrid with enhanced anti-inflammatory
-    activity through activating HO-1 and inhibiting NF-κB pathway in
-    vitro and in vivo.**
+5.  **Recombination as an enforcement mechanism of prosocial behavior in
+    cooperating bacteria.**
 
-    Wang W, Wang SK, Wang Q, Zhang Z, Li B, Zhou ZD, Zhang JF, Lin C,
-    Chen TX, Jin Z, Tang YZ.
+    Lee IPA, Eldakar OT, Gogarten JP, Andam CP.
 
-    Eur J Med Chem. 2023 Jul 19;259:115669. doi:
-    10.1016/j.ejmech.2023.115669. Online ahead of print.
+    iScience. 2023 Jul 13;26(8):107344. doi: 10.1016/j.isci.2023.107344.
+    eCollection 2023 Aug 18.
 
-    > Compound 1 exhibited superior NF-kappaB-inhibitory ability
-    > compared to diclofenac through the activation of Nrf2/HO-1
-    > signaling pathway in RAW 264.7. 20 mg/kg compound 1 resulted in
-    > remarkable colitis improvement in dextran sulfate sodium
-    > (DSS)-induced mice model by up-reg …
+    > We propose that homologous recombination provides such a mechanism
+    > in bacteria. Using an agent-based model of recombination in
+    > bacteria playing a public goods game, we demonstrate how changes
+    > in recombination rates affect the proportion of cooperating cells.
+    > …
 
-6.  **An agent-based model of binge drinking, inequitable gender norms
-    and their contribution to HIV transmission, with application to
-    South Africa.**
+6.  **Modelling the impact of a high-uptake bivalent booster scenario on
+    the COVID-19 burden and healthcare costs in New York City.**
 
-    Johnson LF, Kubjane M, de Voux A, Ohrnberger J, Tlali M.
+    Pandey A, Fitzpatrick MC, Moghadas SM, Vilches TN, Ko C, Vasan A,
+    Galvani AP.
 
-    BMC Infect Dis. 2023 Jul 29;23(1):500. doi:
-    10.1186/s12879-023-08470-y.
+    Lancet Reg Health Am. 2023 Jul 27;24:100555. doi:
+    10.1016/j.lana.2023.100555. eCollection 2023 Aug.
 
-    > METHODS: We developed an agent-based model of HIV and other
-    > sexually transmitted infections, allowing for effects of binge
-    > drinking on sexual risk behaviour, and effects of inequitable
-    > gender norms (in men) on sexual risk behaviour and binge drinking.
-    > …The …
+    > Assessing the impact of improved population-level booster coverage
+    > with bivalent vaccines in NYC can help inform investment towards
+    > vaccination and potential cost-savings. METHODS: We calibrated an
+    > agent-based model of disease transmission to confirmed and pr …
 
-7.  **Genetic architecture of dispersal behaviour in the post-harvest
-    pest and model organism Tribolium castaneum.**
+7.  **Impact of school operating scenarios on COVID-19 transmission
+    under vaccination in the U.S.: an agent-based simulation model.**
 
-    Pointer MD, Spurgin LG, Gage MJG, McMullan M, Richardson DS.
+    Weng X, Chen Q, Sathapathi TK, Yin X, Wang L.
 
-    Heredity (Edinb). 2023 Jul 29. doi: 10.1038/s41437-023-00641-6.
+    Sci Rep. 2023 Aug 8;13(1):12836. doi: 10.1038/s41598-023-37980-7.
+
+    > However, little is known about the impact of different school
+    > operating scenarios considering the ongoing efforts of
+    > vaccination. In this study, we deployed an agent-based simulation
+    > model to mimic disease transmission in a mid-sized community
+    > consisting of 1 …
+
+8.  **Epidemic dynamics with time-varying transmission risk reveal the
+    role of disease stage-dependent infectiousness.**
+
+    Li A, Wu J, Moghadas SM.
+
+    J Theor Biol. 2023 Aug 5:111594. doi: 10.1016/j.jtbi.2023.111594.
     Online ahead of print.
 
-    > We combine experimental evolution and agent-based modelling to
-    > investigate the number of loci underlying dispersal in T.
-    > castaneum, and whether the trait is sex-linked. …These results
-    > have implications for applied pest management and for our
-    > understanding o …
+    > Despite the evidence of time-varying transmission risk, most
+    > dynamic models of epidemics assume a constant transmission rate
+    > during the infectious period. Recent work has shown the difference
+    > in epidemic dynamics when this assumption is relaxed and different
+    > transmission r …
 
-8.  **The role of regular asymptomatic testing in reducing the impact of
-    a COVID-19 wave.**
+9.  **Complexity in the dengue spreading: A network analysis approach.**
 
-    Silva MEP, Fyles M, Pi L, Panovska-Griffiths J, House T, Jay C,
-    Fearon E.
+    Lima LL, Atman APF.
 
-    Epidemics. 2023 Jul 18;44:100699. doi: 10.1016/j.epidem.2023.100699.
-    Online ahead of print.
+    PLoS One. 2023 Aug 7;18(8):e0289690. doi:
+    10.1371/journal.pone.0289690. eCollection 2023.
 
-    > Their adoption can support regular mass asymptomatic testing,
-    > allowing earlier detection of infection and isolation of
-    > infectious individuals. In this paper we extend and apply the
-    > agent-based epidemic modelling framework Covasim to explore the
-    > impact of regu …
+    > In this scenario, innovative approaches are essential to help
+    > public agents in the fight against the disease. Using an
+    > agent-based model, we investigated the network morphology of a
+    > dengue endemic region considering four different serotypes and a
+    > small popula …
 
-9.  **Methodologies to Evaluate the Micromechanics Flexural Strength
-    Properties of Natural-Fiber-Reinforced Composites: The Case of
-    Abaca-Fiber-Reinforced Bio Polyethylene Composites.**
+10. **Efficient simulation of neural development using shared memory
+    parallelization.**
 
-    Seculi F, Julián F, Llorens J, Espinach FX, Mutjé P, Tarrés Q.
+    De Schutter E.
 
-    Polymers (Basel). 2023 Jul 24;15(14):3137. doi:
-    10.3390/polym15143137.
+    Front Neuroinform. 2023 Jul 20;17:1212384. doi:
+    10.3389/fninf.2023.1212384. eCollection 2023.
 
-    > This study focuses on researching the flexural properties of
-    > abaca-fiber-reinforced bio-based high-density polyethylene (BioPE)
-    > composites. Specifically, composites containing 30 wt% of abaca
-    > fiber (AF) were treated with a coupling agent based on
-    > polyethylene …
-
-10. **Recurrence and Eigenfunction Methods for Non-Trivial Models of
-    Discrete Binary Choice.**
-
-    Holehouse J.
-
-    Entropy (Basel). 2023 Jun 29;25(7):996. doi: 10.3390/e25070996.
-
-    > Understanding how systems relax to equilibrium is a core theme of
-    > statistical physics, especially in economics, where systems are
-    > known to be subject to extrinsic noise not included in simple
-    > agent-based models. In models of binary choice-ones not much …
+    > The Neural Development Simulator, NeuroDevSim, is a Python module
+    > that simulates the most important aspects of brain development:
+    > morphological growth, migration, and pruning. It uses an
+    > agent-based modeling approach inherited from the NeuroMaC
+    > software. …A …
 
 ## Code of Conduct
 
