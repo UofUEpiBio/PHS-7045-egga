@@ -9,152 +9,152 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-08-13 00:34:05.
+update was on 2023-08-20 00:34:15.
 
 <div class="cell">
 
 </div>
 
-1.  **Understanding the Impact of Social Networks on the Spread of
-    Obesity.**
+1.  **Are all underimmunized measles clusters equally critical?**
 
-    Tuson M, Harper P, Gartner D, Behrens D.
+    Afroj Moon S, Marathe A, Vullikanti A.
 
-    Int J Environ Res Public Health. 2023 Jul 26;20(15):6451. doi:
-    10.3390/ijerph20156451.
+    R Soc Open Sci. 2023 Aug 16;10(8):230873. doi: 10.1098/rsos.230873.
+    eCollection 2023 Aug.
 
-    > To achieve this, we develop a generalisable hybrid simulation and
-    > optimisation approach aimed at gaining qualitative and
-    > quantitative insights into the effect of social networks on the
-    > spread of obesity. Our simulation model has two components.
-    > Firstly, an agent- …
+    > This research develops a novel system science approach to examine
+    > the potential risk of outbreaks caused by geographical clustering
+    > of underimmunized individuals for an infectious disease like
+    > measles. We use an activity-based population network model and
+    > school imm …
 
-2.  **A Predictive Decision Analytics Approach for Primary Care
-    Operations Management: A Case Study of Double-Booking Strategy
-    Design and Evaluation.**
+2.  **Human group size puzzle: why it is odd that we live in large
+    societies.**
 
-    Zhou Y, Viswanatha A, Abdul Motaleb A, Lamichhane P, Chen KY, Young
-    R, Gurses AP, Xiao Y; PROMIS Investigators.
+    David-Barrett T.
 
-    Comput Ind Eng. 2023 Mar;17:109069. doi: 10.1016/j.cie.2023.109069.
-    Epub 2023 Feb 18.
+    R Soc Open Sci. 2023 Aug 16;10(8):230559. doi: 10.1098/rsos.230559.
+    eCollection 2023 Aug.
 
-    > A case study was conducted in a local family medicine clinic to
-    > demonstrate the use of this approach for patient no-show
-    > management. In this case study, a patient no-show prediction model
-    > was used in conjunction with an integrated agent-based and
-    > discrete-eve …
+    > When ecological factors do not limit primate group size, the
+    > problem of coordination creates an upper threshold even when
+    > cooperation is guaranteed. This paper offers a model of group
+    > coordination towards behavioural synchrony to spell out the
+    > mechanics of group size limit …
 
-3.  **Natural Antibacterial Agent-based Nanoparticles for Effective
-    Treatment of Intracellular MRSA Infection.**
+3.  **Investigating the effect of drug release on in-stent restenosis: A
+    hybrid continuum - agent-based modelling approach.**
 
-    Zou X, Cai S, Wang T, Zheng S, Cui X, Hao J, Chen X, Liu Y, Zhang Z,
-    Li Y.
+    Corti A, McQueen A, Migliavacca F, Chiastra C, McGinty S.
 
-    Acta Biomater. 2023 Aug 7:S1742-7061(23)00457-9. doi:
-    10.1016/j.actbio.2023.08.004. Online ahead of print.
+    Comput Methods Programs Biomed. 2023 Aug 1;241:107739. doi:
+    10.1016/j.cmpb.2023.107739. Online ahead of print.
 
-    > Using a specific combination of the natural antibacterial agents
-    > CA and GLA, NPs effectively eradicated intracellular MRSA with low
-    > toxicity to normal tissues in a MRSA-induced peritonitis model.
-    > This strategy presents a potential alternative for enhancing
-    > intracellular MR …
+    > However, the integration of sophisticated drug models with an
+    > agent-based model (ABM) of ISR has been under-investigated. The
+    > aim of the present study was to develop a novel multiscale
+    > agent-based modelling framework of ISR followi …
 
-4.  **Exploring the Onset and Progression of Prostate Cancer through a
-    Multicellular Agent-based Model.**
+4.  **The form of uncertainty affects selection for social learning.**
 
-    Passier M, van Genderen MNG, Zaalberg A, Kneppers J, Bekers EM,
-    Bergman AM, Zwart W, Eduati F.
+    Turner MA, Moya C, Smaldino PE, Jones JH.
 
-    Cancer Res Commun. 2023 Aug 7;3(8):1473-1485. doi:
-    10.1158/2767-9764.CRC-23-0097. eCollection 2023 Aug.
+    Evol Hum Sci. 2023 May 22;5:e20. doi: 10.1017/ehs.2023.11.
+    eCollection 2023.
 
-    > To expand our knowledge and explore means to prevent and treat the
-    > disease, it is important to understand what drives the onset and
-    > early stages of prostate cancer. In this study, we developed an
-    > agent-based model of a prostatic acinus including its microenvi …
+    > When these combine, it is nearly impossible to fully learn about
+    > the environment. We develop an evolutionary agent-based model to
+    > test how each form of uncertainty affects the evolution of social
+    > learning. Agents perform one of several behaviours, modelled …
 
-5.  **Recombination as an enforcement mechanism of prosocial behavior in
-    cooperating bacteria.**
+5.  **Statistical signals of copying are robust to time- and
+    space-averaging.**
 
-    Lee IPA, Eldakar OT, Gogarten JP, Andam CP.
+    Youngblood M, Miton H, Morin O.
 
-    iScience. 2023 Jul 13;26(8):107344. doi: 10.1016/j.isci.2023.107344.
-    eCollection 2023 Aug 18.
+    Evol Hum Sci. 2023 Apr 13;5:e10. doi: 10.1017/ehs.2023.5.
+    eCollection 2023.
 
-    > We propose that homologous recombination provides such a mechanism
-    > in bacteria. Using an agent-based model of recombination in
-    > bacteria playing a public goods game, we demonstrate how changes
-    > in recombination rates affect the proportion of cooperating cells.
-    > …
+    > In this preregistered study, we used a dataset of \~81,000 Kansas
+    > cattle brands (1990-2016) to explore two aspects: (1) the relative
+    > influence of copying, pressure for distinctiveness and pressure
+    > for complexity on the creation and diffusion of brand components;
+    > and (2) the effect …
 
-6.  **Modelling the impact of a high-uptake bivalent booster scenario on
-    the COVID-19 burden and healthcare costs in New York City.**
+6.  **Role of masks in mitigating viral spread on networks.**
 
-    Pandey A, Fitzpatrick MC, Moghadas SM, Vilches TN, Ko C, Vasan A,
-    Galvani AP.
+    Tian Y, Sridhar A, Wu CW, Levin SA, Carley KM, Poor HV, Yağan O.
 
-    Lancet Reg Health Am. 2023 Jul 27;24:100555. doi:
-    10.1016/j.lana.2023.100555. eCollection 2023 Aug.
+    Phys Rev E. 2023 Jul;108(1-1):014306. doi:
+    10.1103/PhysRevE.108.014306.
 
-    > Assessing the impact of improved population-level booster coverage
-    > with bivalent vaccines in NYC can help inform investment towards
-    > vaccination and potential cost-savings. METHODS: We calibrated an
-    > agent-based model of disease transmission to confirmed and pr …
+    > In this work, we provide a comprehensive quantitative analysis of
+    > the impact of mask-wearing. To this end, we propose a novel
+    > agent-based model of viral spread on networks where agents may
+    > either wear no mask or wear one of several types of masks with
+    > differe …
 
-7.  **Impact of school operating scenarios on COVID-19 transmission
-    under vaccination in the U.S.: an agent-based simulation model.**
+7.  **Systems Thinking and Complexity Science Methods and the Policy
+    Process in Non-communicable Disease Prevention: A Systematic Scoping
+    Review.**
 
-    Weng X, Chen Q, Sathapathi TK, Yin X, Wang L.
+    Astbury CC, Lee KM, McGill E, Clarke J, Egan M, Halloran A, Malykh
+    R, Rippin H, Wickramasinghe K, Penney TL.
 
-    Sci Rep. 2023 Aug 8;13(1):12836. doi: 10.1038/s41598-023-37980-7.
+    Int J Health Policy Manag. 2023;12:6772. doi:
+    10.34172/ijhpm.2023.6772. Epub 2023 Feb 26.
 
-    > However, little is known about the impact of different school
-    > operating scenarios considering the ongoing efforts of
-    > vaccination. In this study, we deployed an agent-based simulation
-    > model to mimic disease transmission in a mid-sized community
-    > consisting of 1 …
+    > The most common policy areas were tobacco control, obesity
+    > prevention and physical activity promotion. Methods applied
+    > included system dynamics modelling, agent-based modelling and
+    > concept mapping. Advantages included supporting evidence-informed
+    > decis …
 
-8.  **Epidemic dynamics with time-varying transmission risk reveal the
-    role of disease stage-dependent infectiousness.**
+8.  **Model Choice for Quantitative Health Impact Assessment and
+    Modelling: An Expert Consultation and Narrative Literature Review.**
 
-    Li A, Wu J, Moghadas SM.
+    Mueller N, Anderle R, Brachowicz N, Graziadei H, Lloyd SJ, de
+    Sampaio Morais G, Sironi AP, Gibert K, Tonne C, Nieuwenhuijsen M,
+    Rasella D.
 
-    J Theor Biol. 2023 Aug 5:111594. doi: 10.1016/j.jtbi.2023.111594.
-    Online ahead of print.
+    Int J Health Policy Manag. 2023;12:7103. doi:
+    10.34172/ijhpm.2023.7103. Epub 2023 Mar 13.
 
-    > Despite the evidence of time-varying transmission risk, most
-    > dynamic models of epidemics assume a constant transmission rate
-    > during the infectious period. Recent work has shown the difference
-    > in epidemic dynamics when this assumption is relaxed and different
-    > transmission r …
+    > We reviewed relevant models, so as to provide public health
+    > researchers with considerations for HIA model choice. …RESULTS:
+    > Seven relevant models for health impacts forecasting were
+    > identified, consisting of (i) comparative risk assessment
+    > (CRA), (ii) time …
 
-9.  **Complexity in the dengue spreading: A network analysis approach.**
+9.  **In-silico and in-vitro morphometric analysis of intestinal
+    organoids.**
 
-    Lima LL, Atman APF.
+    Montes-Olivas S, Legge D, Lund A, Fletcher AG, Williams AC, Marucci
+    L, Homer M.
 
-    PLoS One. 2023 Aug 7;18(8):e0289690. doi:
-    10.1371/journal.pone.0289690. eCollection 2023.
+    PLoS Comput Biol. 2023 Aug 14;19(8):e1011386. doi:
+    10.1371/journal.pcbi.1011386. Online ahead of print.
 
-    > In this scenario, innovative approaches are essential to help
-    > public agents in the fight against the disease. Using an
-    > agent-based model, we investigated the network morphology of a
-    > dengue endemic region considering four different serotypes and a
-    > small popula …
+    > Organoids offer a powerful model to study cellular
+    > self-organisation, the growth of specific tissue morphologies
+    > in-vitro, and to assess potential medical therapies. …In addition,
+    > we modified an existing two-dimensional agent-based mathematical
+    > model …
 
-10. **Efficient simulation of neural development using shared memory
-    parallelization.**
+10. **A multiscale orchestrated computational framework to reveal
+    emergent phenomena in neuroblastoma.**
 
-    De Schutter E.
+    Borau C, Wertheim KY, Hervas-Raluy S, Sainz-DeMena D, Walker D,
+    Chisholm R, Richmond P, Varella V, Viceconti M, Montero A,
+    Gregori-Puigjané E, Mestres J, Kasztelnik M, García-Aznar JM.
 
-    Front Neuroinform. 2023 Jul 20;17:1212384. doi:
-    10.3389/fninf.2023.1212384. eCollection 2023.
+    Comput Methods Programs Biomed. 2023 Aug 1;241:107742. doi:
+    10.1016/j.cmpb.2023.107742. Online ahead of print.
 
-    > The Neural Development Simulator, NeuroDevSim, is a Python module
-    > that simulates the most important aspects of brain development:
-    > morphological growth, migration, and pruning. It uses an
-    > agent-based modeling approach inherited from the NeuroMaC
-    > software. …A …
+    > While continuum cancer models capture the overall behaviour of
+    > tumours, and agent-based models represent the complex behaviour of
+    > individual cells, multiscale models represent interactions at
+    > different organisational levels, providing a more com …
 
 ## Code of Conduct
 
