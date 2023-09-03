@@ -9,13 +9,123 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-08-27 00:35:08.
+update was on 2023-09-03 00:35:16.
 
 <div class="cell">
 
 </div>
 
-1.  **Competing Heterogeneities in Vaccine Effectiveness Estimation.**
+1.  **Explicit modeling of antibody levels for infectious disease
+    simulations in the context of SARS-CoV-2.**
+
+    Müller SA, Paltra S, Rehmann J, Nagel K, Conrad TOF.
+
+    iScience. 2023 Aug 8;26(9):107554. doi: 10.1016/j.isci.2023.107554.
+    eCollection 2023 Sep 15.
+
+    > However, only few approaches have been suggested that explicitly
+    > treat these effects. This paper presents a methodology that
+    > explicitly models antibody levels and the resulting protection
+    > against infection for individuals within an agent-based model. T …
+
+2.  **Agent-Based and Continuum Models for Spatial Dynamics of Infection
+    by Oncolytic Viruses.**
+
+    Morselli D, Delitala ME, Frascoli F.
+
+    Bull Math Biol. 2023 Aug 31;85(10):92. doi:
+    10.1007/s11538-023-01192-x.
+
+    > Two kinds of movement, namely undirected random and
+    > pressure-driven movements, are considered: the continuum limit of
+    > the models is derived and a systematic comparison between the
+    > systems of partial differential equations and the individual-based
+    > model, in on …
+
+3.  **The Impact of the Good Behavior Game on Risk for Drug Use Disorder
+    in an Agent-Based Model of Southern Sweden.**
+
+    Lönn SL, Krauland MG, Fagan AA, Sundquist J, Sundquist K, Roberts
+    MS, Kendler KS.
+
+    J Stud Alcohol Drugs. 2023 Aug 30. doi: 10.15288/jsad.22-00413.
+    Online ahead of print.
+
+    > This investigation seeks to provide a proof of concept for the
+    > ability of agent-based modeling to predict the impact of the
+    > introduction of an effective school-based intervention, the Good
+    > Behavior Game (GBG), on reducing DUD in Scania, Sweden primaril …
+
+4.  **Suppression force-fields and diffuse competition: competition
+    de-escalation is an evolutionarily stable strategy.**
+
+    Atwater DZ.
+
+    R Soc Open Sci. 2023 Aug 30;10(8):230222. doi: 10.1098/rsos.230222.
+    eCollection 2023 Aug.
+
+    > Diffuse competition is unintuitive in part because we lack a clear
+    > conceptual framework for understanding how individual interactions
+    > manifest in communities of multiple competitors. Here, I use
+    > mathematical and agent-based models to illustrate that diffuse i …
+
+5.  **Agent-Based Modeling and Simulation (ABMS)on the influence of
+    adjusting medical service fees on patients’ choice of medical
+    treatment.**
+
+    Li D, Yang J, Li J, Zhao N, Ju W, Guo M.
+
+    BMC Health Serv Res. 2023 Aug 30;23(1):928. doi:
+    10.1186/s12913-023-09933-3.
+
+    > We hope to provide decision-making reference to promote the
+    > realization of hierarchical diagnosis and treatment in Beijing.
+    > METHODS: According to the framework of modeling simulation
+    > research and based on the data of residents and medical
+    > institutions in Beijing, we …
+
+6.  **Agent-based model demonstrates the impact of nonlinear, complex
+    interactions between cytokines on muscle regeneration.**
+
+    Haase M, Comlekoglu T, Petrucciani A, Peirce SM, Blemker SS.
+
+    bioRxiv. 2023 Aug 16:2023.08.14.553247. doi:
+    10.1101/2023.08.14.553247. Preprint.
+
+    > To understand the degree to which individual cellular behaviors
+    > impact endogenous mechanisms of muscle recovery, we developed an
+    > agent-based model (ABM) using the Cellular Potts framework to
+    > simulate the dynamic microenvironment of a cross-section of murine
+    > s …
+
+7.  **Understanding Collective Intelligence: Investigating the Role of
+    Collective Memory, Attention, and Reasoning Processes.**
+
+    Woolley AW, Gupta P.
+
+    Perspect Psychol Sci. 2023 Aug 29:17456916231191534. doi:
+    10.1177/17456916231191534. Online ahead of print.
+
+    > As society has come to rely on groups and technology to address
+    > many of its most challenging problems, there is a growing need to
+    > understand how technology-enabled, distributed, and dynamic
+    > collectives can be designed to solve a wide range of problems over
+    > time in the face of com …
+
+8.  **The effects of group adaptation on task performance: An
+    agent-based approach.**
+
+    Blanco-Fernández D, Leitner S, Rausch A.
+
+    PLoS One. 2023 Aug 28;18(8):e0290578. doi:
+    10.1371/journal.pone.0290578. eCollection 2023.
+
+    > This paper, by contrast, employs an agent-based approach to study
+    > these effects. There are three reasons why we do so. First,
+    > agent-based modelling and simulation allows to take into account
+    > further factors that might moderate the relationship b …
+
+9.  **Competing Heterogeneities in Vaccine Effectiveness Estimation.**
 
     Nikas A, Ahmed H, Zarnitsyna VI.
 
@@ -28,7 +138,7 @@ update was on 2023-08-27 00:35:08.
     > pathogen evolution and any actual waning of immune responses. We
     > use multi-scale agent- …
 
-2.  **A Wealth Distribution Agent Model Based on a Few Universal
+10. **A Wealth Distribution Agent Model Based on a Few Universal
     Assumptions.**
 
     Calvelli M, Curado EMF.
@@ -40,108 +150,6 @@ update was on 2023-08-27 00:35:08.
     > information (interaction and trade among agents) and to trade
     > advantage is able to qualitatively reproduce real wealth
     > distributions, as well …
-
-3.  **Opinion Dynamics Explain Price Formation in Prediction Markets.**
-
-    Restocchi V, McGroarty F, Gerding E, Brede M.
-
-    Entropy (Basel). 2023 Aug 1;25(8):1152. doi: 10.3390/e25081152.
-
-    > Prediction markets are heralded as powerful forecasting tools, but
-    > models that describe them often fail to capture the full
-    > complexity of the underlying mechanisms that drive price dynamics.
-    > …Moreover, this paper provides a new way to indirectly validate
-    > opinion dynamics …
-
-4.  **The Evolution of Conformity, Malleability, and Influence in
-    Simulated Online Agents.**
-
-    Downing KL.
-
-    Artif Life. 2023 Aug 22:1-27. doi: 10.1162/artl_a\_00413. Online
-    ahead of print.
-
-    > This emerging positive feedback loop and the compliance that fuels
-    > it are the focal points of this article, which presents several
-    > simple, abstract, agent-based models of both peer-to-peer and
-    > AI-to-user influence. …In addition, the combination of basic age …
-
-5.  **Physician antimicrobial prescribing and patient outcomes on
-    general medical wards: a multicentre retrospective cohort study.**
-
-    McIntyre MT, Saha S, Morris AM, Lapointe-Shaw L, Tang T, Weinerman
-    A, Fralick M, Agarwal A, Verma A, Razak F.
-
-    CMAJ. 2023 Aug 21;195(32):E1065-E1074. doi: 10.1503/cmaj.221732.
-
-    > The modified spectrum score assigns a value to each antibacterial
-    > agent based on the breadth of coverage. We assessed patient-level
-    > differences among physician quartiles using age, sex,
-    > Laboratory-based Acute Physiology Score, discharge diagnosis and
-    > Charlson …
-
-6.  **An introduction to directed acyclic graphs in trauma research.**
-
-    Sonis J, Jiang T.
-
-    Psychol Trauma. 2023 Sep;15(6):899-905. doi: 10.1037/tra0001545.
-
-    > RESULTS: DAGs are illustrated using the example of the effect of
-    > posttraumatic stress disorder (PTSD) on Parkinson’s disease. We
-    > demonstrate that a multivariable model controlling for all
-    > covariates that are being considered introduces bias and would
-    > make it impossi …
-
-7.  **Introduction to the special section on causal inference and
-    agent-based modeling.**
-
-    Sonis J, Jiang T.
-
-    Psychol Trauma. 2023 Sep;15(6):895-898. doi: 10.1037/tra0001507.
-
-    > This is an introduction to the special section “Causal Inference
-    > and Agent-Based Modeling” in trauma research. (PsycInfo Database
-    > Record (c) 2023 APA, all rights reserved)….
-
-8.  **Are all underimmunized measles clusters equally critical?**
-
-    Afroj Moon S, Marathe A, Vullikanti A.
-
-    R Soc Open Sci. 2023 Aug 16;10(8):230873. doi: 10.1098/rsos.230873.
-    eCollection 2023 Aug.
-
-    > This research develops a novel system science approach to examine
-    > the potential risk of outbreaks caused by geographical clustering
-    > of underimmunized individuals for an infectious disease like
-    > measles. We use an activity-based population network model and
-    > school imm …
-
-9.  **Human group size puzzle: why it is odd that we live in large
-    societies.**
-
-    David-Barrett T.
-
-    R Soc Open Sci. 2023 Aug 16;10(8):230559. doi: 10.1098/rsos.230559.
-    eCollection 2023 Aug.
-
-    > When ecological factors do not limit primate group size, the
-    > problem of coordination creates an upper threshold even when
-    > cooperation is guaranteed. This paper offers a model of group
-    > coordination towards behavioural synchrony to spell out the
-    > mechanics of group size limit …
-
-10. **Investigating the effect of drug release on in-stent restenosis: A
-    hybrid continuum - agent-based modelling approach.**
-
-    Corti A, McQueen A, Migliavacca F, Chiastra C, McGinty S.
-
-    Comput Methods Programs Biomed. 2023 Aug 1;241:107739. doi:
-    10.1016/j.cmpb.2023.107739. Online ahead of print.
-
-    > However, the integration of sophisticated drug models with an
-    > agent-based model (ABM) of ISR has been under-investigated. The
-    > aim of the present study was to develop a novel multiscale
-    > agent-based modelling framework of ISR followi …
 
 ## Code of Conduct
 
