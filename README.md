@@ -9,13 +9,111 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-09-03 00:35:16.
+update was on 2023-09-10 00:35:35.
 
 <div class="cell">
 
 </div>
 
-1.  **Explicit modeling of antibody levels for infectious disease
+1.  **The long-term effectiveness and cost-effectiveness of public
+    health interventions; how can we model behavior? A review.**
+
+    Squires H, Kelly MP, Gilbert N, Sniehotta F, Purshouse RC.
+
+    Health Econ. 2023 Sep 8. doi: 10.1002/hec.4754. Online ahead of
+    print.
+
+    > This may lead to better-informed model predictions. The most
+    > promising methods identified which could be used to improve
+    > modeling of the causal pathways of behavior-change interventions
+    > include econometric analyses, structural equation models, data
+    > mining and …
+
+2.  **Evaluating the Effectiveness of Potential Interventions for Guinea
+    Worm Disease in Dogs in Chad Using Simulations.**
+
+    Wang Y, Perini T, Keskinocak P, Smalley H, Swann J, Weiss A.
+
+    Am J Trop Med Hyg. 2023 Sep 5:tpmd220654. doi:
+    10.4269/ajtmh.22-0654. Online ahead of print.
+
+    > We studied how interventions implemented at different levels might
+    > reduce the spread of GW disease (geographically and over time) and
+    > what levels of interventions might accelerate elimination. We
+    > built a multiple-water-source agent-based simulation model to a …
+
+3.  **Antagonism between viral infection and innate immunity at the
+    single-cell level.**
+
+    Grabowski F, Kochańczyk M, Korwek Z, Czerkies M, Prus W, Lipniacki
+    T.
+
+    PLoS Pathog. 2023 Sep 5;19(9):e1011597. doi:
+    10.1371/journal.ppat.1011597. Online ahead of print.
+
+    > Reciprocally, viral proteins often interfere with IFN synthesis
+    > and IFN-induced signaling. We modeled the crosstalk between the
+    > propagating virus and the innate immune response using an
+    > agent-based stochastic approach. …The striking consequence of
+    > these inh …
+
+4.  **Rapid genetic adaptation to a novel ecosystem despite a large
+    founder event.**
+
+    Sparks MM, Schraidt CE, Yin X, Seeb LW, Christie MR.
+
+    Mol Ecol. 2023 Sep 5. doi: 10.1111/mec.17121. Online ahead of print.
+
+    > Using whole-genome resequencing for 134 fish spanning five sample
+    > groups across the native and introduced range, we estimate that
+    > the source population’s effective population size was 146,886 at
+    > the time of introduction, whereas the founding population’s
+    > effective p …
+
+5.  **Contrast-agent-based perfusion MRI code repository and testing
+    framework: ISMRM Open Science Initiative for Perfusion Imaging
+    (OSIPI).**
+
+    van Houdt PJ, Ragunathan S, Berks M, Ahmed Z, Kershaw LE,
+    Gurney-Champion OJ, Tadimalla S, Arvidsson J, Sun Y, Kallehauge J,
+    Dickie B, Lévy S, Bell L, Sourbron S, Thrippleton MJ;  on behalf of
+    the ISMRM Perfusion Study Group.
+
+    Magn Reson Med. 2023 Sep 4. doi: 10.1002/mrm.29826. Online ahead of
+    print.
+
+    > To address these issues, the ISMRM Open Science Initiative for
+    > Perfusion Imaging (OSIPI) aimed to establish a community-led,
+    > centralized repository for sharing open-source code for processing
+    > contrast-based perfusion imaging, incorporating an open-source
+    > testing framework. …
+
+6.  **Simulating individual movement in fish.**
+
+    Pike TW, Burman OHP.
+
+    Sci Rep. 2023 Sep 4;13(1):14581. doi: 10.1038/s41598-023-40420-1.
+
+    > Live fish showed no difference in their response to ‘real’
+    > movement compared to movement simulated by the model, although
+    > significantly preferred modelled movement over putatively
+    > unnatural movement patterns. The model therefore has the potential
+    > to facilitat …
+
+7.  **A novel model for biofilm initiation in porous media flow.**
+
+    Lohrmann C, Holm C.
+
+    Soft Matter. 2023 Sep 4. doi: 10.1039/d3sm00575e. Online ahead of
+    print.
+
+    > To understand the initial stages of biofilm formation, one needs
+    > to study the interactions between cells, the fluid and the
+    > confining geometries. Here, we present an agent based numerical
+    > model for bacteria that takes into account the planktonic stage of
+    > moti …
+
+8.  **Explicit modeling of antibody levels for infectious disease
     simulations in the context of SARS-CoV-2.**
 
     Müller SA, Paltra S, Rehmann J, Nagel K, Conrad TOF.
@@ -28,7 +126,7 @@ update was on 2023-09-03 00:35:16.
     > explicitly models antibody levels and the resulting protection
     > against infection for individuals within an agent-based model. T …
 
-2.  **Agent-Based and Continuum Models for Spatial Dynamics of Infection
+9.  **Agent-Based and Continuum Models for Spatial Dynamics of Infection
     by Oncolytic Viruses.**
 
     Morselli D, Delitala ME, Frascoli F.
@@ -42,7 +140,7 @@ update was on 2023-09-03 00:35:16.
     > systems of partial differential equations and the individual-based
     > model, in on …
 
-3.  **The Impact of the Good Behavior Game on Risk for Drug Use Disorder
+10. **The Impact of the Good Behavior Game on Risk for Drug Use Disorder
     in an Agent-Based Model of Southern Sweden.**
 
     Lönn SL, Krauland MG, Fagan AA, Sundquist J, Sundquist K, Roberts
@@ -55,101 +153,6 @@ update was on 2023-09-03 00:35:16.
     > ability of agent-based modeling to predict the impact of the
     > introduction of an effective school-based intervention, the Good
     > Behavior Game (GBG), on reducing DUD in Scania, Sweden primaril …
-
-4.  **Suppression force-fields and diffuse competition: competition
-    de-escalation is an evolutionarily stable strategy.**
-
-    Atwater DZ.
-
-    R Soc Open Sci. 2023 Aug 30;10(8):230222. doi: 10.1098/rsos.230222.
-    eCollection 2023 Aug.
-
-    > Diffuse competition is unintuitive in part because we lack a clear
-    > conceptual framework for understanding how individual interactions
-    > manifest in communities of multiple competitors. Here, I use
-    > mathematical and agent-based models to illustrate that diffuse i …
-
-5.  **Agent-Based Modeling and Simulation (ABMS)on the influence of
-    adjusting medical service fees on patients’ choice of medical
-    treatment.**
-
-    Li D, Yang J, Li J, Zhao N, Ju W, Guo M.
-
-    BMC Health Serv Res. 2023 Aug 30;23(1):928. doi:
-    10.1186/s12913-023-09933-3.
-
-    > We hope to provide decision-making reference to promote the
-    > realization of hierarchical diagnosis and treatment in Beijing.
-    > METHODS: According to the framework of modeling simulation
-    > research and based on the data of residents and medical
-    > institutions in Beijing, we …
-
-6.  **Agent-based model demonstrates the impact of nonlinear, complex
-    interactions between cytokines on muscle regeneration.**
-
-    Haase M, Comlekoglu T, Petrucciani A, Peirce SM, Blemker SS.
-
-    bioRxiv. 2023 Aug 16:2023.08.14.553247. doi:
-    10.1101/2023.08.14.553247. Preprint.
-
-    > To understand the degree to which individual cellular behaviors
-    > impact endogenous mechanisms of muscle recovery, we developed an
-    > agent-based model (ABM) using the Cellular Potts framework to
-    > simulate the dynamic microenvironment of a cross-section of murine
-    > s …
-
-7.  **Understanding Collective Intelligence: Investigating the Role of
-    Collective Memory, Attention, and Reasoning Processes.**
-
-    Woolley AW, Gupta P.
-
-    Perspect Psychol Sci. 2023 Aug 29:17456916231191534. doi:
-    10.1177/17456916231191534. Online ahead of print.
-
-    > As society has come to rely on groups and technology to address
-    > many of its most challenging problems, there is a growing need to
-    > understand how technology-enabled, distributed, and dynamic
-    > collectives can be designed to solve a wide range of problems over
-    > time in the face of com …
-
-8.  **The effects of group adaptation on task performance: An
-    agent-based approach.**
-
-    Blanco-Fernández D, Leitner S, Rausch A.
-
-    PLoS One. 2023 Aug 28;18(8):e0290578. doi:
-    10.1371/journal.pone.0290578. eCollection 2023.
-
-    > This paper, by contrast, employs an agent-based approach to study
-    > these effects. There are three reasons why we do so. First,
-    > agent-based modelling and simulation allows to take into account
-    > further factors that might moderate the relationship b …
-
-9.  **Competing Heterogeneities in Vaccine Effectiveness Estimation.**
-
-    Nikas A, Ahmed H, Zarnitsyna VI.
-
-    Vaccines (Basel). 2023 Aug 1;11(8):1312. doi:
-    10.3390/vaccines11081312.
-
-    > Population heterogeneities in underlying (pre-vaccination)
-    > susceptibility and vaccine response can cause measured vaccine
-    > effectiveness (mVE) to change over time, even in the absence of
-    > pathogen evolution and any actual waning of immune responses. We
-    > use multi-scale agent- …
-
-10. **A Wealth Distribution Agent Model Based on a Few Universal
-    Assumptions.**
-
-    Calvelli M, Curado EMF.
-
-    Entropy (Basel). 2023 Aug 19;25(8):1236. doi: 10.3390/e25081236.
-
-    > We propose a new agent-based model for studying wealth
-    > distribution. We show that a model that links wealth to
-    > information (interaction and trade among agents) and to trade
-    > advantage is able to qualitatively reproduce real wealth
-    > distributions, as well …
 
 ## Code of Conduct
 
