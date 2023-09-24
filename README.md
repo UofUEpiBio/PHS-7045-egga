@@ -9,13 +9,115 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-09-17 00:35:57.
+update was on 2023-09-24 00:36:15.
 
 <div class="cell">
 
 </div>
 
-1.  **Evolution of HIV virulence in response to disease-modifying
+1.  **Study of vascular sclerosing agent based on the dual mechanism of
+    vascular endothelial cell damage-plasmin system inhibition.**
+
+    Ma J, Chen Y, Zhang K, Yang T, Xie H, Yang X, Ding P.
+
+    Biochem Biophys Res Commun. 2023 Sep 15;680:135-140. doi:
+    10.1016/j.bbrc.2023.09.035. Online ahead of print.
+
+    > In this study, we have developed a novel cationic surfactant-based
+    > sclerosing agent (POL-TA) by conjugating the plasmin inhibitor
+    > tranexamic acid (TA) with a nonionic surfactant polidocanol (POL)
+    > through an ester bond. …The inhibitory effects of POL-TA on the
+    > plas …
+
+2.  **Generalized morality culturally evolves as an adaptive heuristic
+    in large social networks.**
+
+    Jackson JC, Halberstadt J, Takezawa M, Liew K, Smith K, Apicella C,
+    Gray K.
+
+    J Pers Soc Psychol. 2023 Sep 21. doi: 10.1037/pspa0000358. Online
+    ahead of print.
+
+    > Why do we even use words like “moral” and “immoral”? We explore
+    > these questions with a new model of how people perceive moral
+    > character. We propose that people vary in the extent to which they
+    > perceive moral character as “localized” (varying along many
+    > contextually embedde …
+
+3.  **Diverse mutant selection windows shape spatial heterogeneity in
+    evolving populations.**
+
+    King ES, Pierce B, Hinczewski M, Scott JG.
+
+    bioRxiv. 2023 Sep 6:2023.03.09.531899. doi:
+    10.1101/2023.03.09.531899. Preprint.
+
+    > In this work, we show how N -allele fitness seascapes allow for N
+    > 2 (N- 1) unique MSW comparisons. In spatial drug diffusion models,
+    > we demonstrate how fitness seascapes reveal spatially
+    > heterogeneous MSWs, extending the MSW model to more accurately
+    > reflect the sele …
+
+4.  **The impact of preventive treatment for multidrug- and
+    rifampin-resistant tuberculosis exceeds trial-based estimates.**
+
+    Kasaie P, Pennington J, Gupta A, Dowdy DW, Kendall EA.
+
+    Clin Infect Dis. 2023 Sep 19:ciad557. doi: 10.1093/cid/ciad557.
+    Online ahead of print.
+
+    > The potential benefits of delivering TPT to MDR/RR-TB contacts
+    > extend beyond the outcomes that clinical trials can measure.
+    > METHODS: We developed an agent-based, household-structured TB and
+    > MDR/RR-TB transmission model, calibrated to an illustrative
+    > setting i …
+
+5.  **Policy evaluation of economic - environmental tradeoffs in
+    regulating industrial water use: An agent-based model.**
+
+    Sun D, Zhang M, Jung D.
+
+    J Environ Manage. 2023 Sep 16;346:118988. doi:
+    10.1016/j.jenvman.2023.118988. Online ahead of print.
+
+    > Therefore, scientifically regulating the water consumption and
+    > sewage discharge of industrial enterprises can effectively
+    > alleviate water scarcity and pollution problems. By establishing a
+    > multi-agent model, this study simulates the water use behavior of
+    > industrial …
+
+6.  **Minority-group incubators and majority-group reservoirs support
+    the diffusion of climate change adaptations.**
+
+    Turner MA, Singleton AL, Harris MJ, Harryman I, Lopez CA, Arthur RF,
+    Muraida C, Jones JH.
+
+    Philos Trans R Soc Lond B Biol Sci. 2023 Nov 6;378(1889):20220401.
+    doi: 10.1098/rstb.2022.0401. Epub 2023 Sep 18.
+
+    > Current theory suggests that the heterogeneity of metapopulation
+    > structure can help adaptations diffuse throughout a population. In
+    > this paper, we develop an agent-based model of the spread of
+    > adaptations in populations with minority-majority metapopulation s
+    > …
+
+7.  **The impacts of climate change, energy policy and traditional
+    ecological practices on future firewood availability for Diné
+    (Navajo) People.**
+
+    Magargal K, Wilson K, Chee S, Campbell MJ, Bailey V, Dennison PE,
+    Anderegg WRL, Cachelin A, Brewer S, Codding BF.
+
+    Philos Trans R Soc Lond B Biol Sci. 2023 Nov 6;378(1889):20220394.
+    doi: 10.1098/rstb.2022.0394. Epub 2023 Sep 18.
+
+    > However, there are two acute problems: first, climate
+    > change-induced drought will diminish local sources of firewood;
+    > second, policies aimed at reducing reliance on
+    > greenhouse-gas-emitting energy sources may limit alternatives like
+    > coal for home use, thereby increasing firewood d …
+
+8.  **Evolution of HIV virulence in response to disease-modifying
     vaccines: A modeling study.**
 
     Reid MC, Mittler JE, Murphy JT, Stansfield SE, Goodreau SM,
@@ -29,7 +131,7 @@ update was on 2023-09-17 00:35:57.
     > epidemic model of HIV in United States men who have sex with men
     > (MSM). In the model, vaccinated agents received no protection ag …
 
-2.  **Three-state opinion model with mobile agents.**
+9.  **Three-state opinion model with mobile agents.**
 
     Ferri I, Gaya-Àvila A, Díaz-Guilera A.
 
@@ -41,7 +143,7 @@ update was on 2023-09-17 00:35:57.
     > through a dimensionless parameter called the “neutrality
     > parameter” to …
 
-3.  **Deconstructing the effects of stochasticity on transmission of
+10. **Deconstructing the effects of stochasticity on transmission of
     hospital-acquired infections in ICUs.**
 
     Haghpanah F, Lin G, Klein E; CDC MInD-Healthcare Program.
@@ -54,101 +156,6 @@ update was on 2023-09-17 00:35:57.
     > evaluating the effects of stochasticity on the detectability of
     > seasonality of admission prevalence. For doing so, we developed an
     > agent-based …
-
-4.  **Simulating the impact of particulate matter exposure on
-    health-related behaviour: A comparative study of stochastic
-    modelling and personal monitoring data.**
-
-    Novak R, Robinson JA, Kanduč T, Sarigiannis D, Kocman D.
-
-    Health Place. 2023 Sep 12;83:103111. doi:
-    10.1016/j.healthplace.2023.103111. Online ahead of print.
-
-    > While low-cost personal monitors have some drawbacks, recent
-    > developments have shown that they can provide fairly accurate and
-    > fit-for-purpose data. Comparing a stochastic, i.e., agent-based
-    > model (ABM), with environmental, biometric and activity data,
-    > collec …
-
-5.  **‘Evolutionary poker’: an agent-based model of interactome
-    emergence and epistasis tested against Lenski’s long-term E. coli
-    experiments.**
-
-    Root-Bernstein RS, Bernstein MI.
-
-    J Physiol. 2023 Sep 14. doi: 10.1113/JP284421. Online ahead of
-    print.
-
-    > A simple agent-based model is presented that produces results
-    > matching the experimental data found by Lenski’s group for 50,000
-    > generations of Escherichia coli bacteria under continuous
-    > selective pressure. Although various mathematical models ha …
-
-6.  **Elongating, entwining, and dragging: mechanism for adaptive
-    locomotion of tubificine worm blobs in a confined environment.**
-
-    Mikami T, Wakita D, Kobayashi R, Ishiguro A, Kano T.
-
-    Front Neurorobot. 2023 Aug 29;17:1207374. doi:
-    10.3389/fnbot.2023.1207374. eCollection 2023.
-
-    > We found the blob deformed and passed through a narrow passage
-    > using environmental heterogeneities. Based on these behavioral
-    > findings, we constructed a simple two-dimensional agent-based
-    > model wherein the flexible body of a worm was described as a cro …
-
-7.  **Systems-Level Evaluation of Safe Routes to School Policies in El
-    Paso, Texas: A Modeling Study on Health and Economic Outcomes.**
-
-    Garney W, Panjwani S, Curran L, Enderle J, King L, O’Neil D, Li Y.
-
-    Fam Community Health. 2023 Oct-Dec 01;46(Suppl 1):S22-S29. doi:
-    10.1097/FCH.0000000000000374.
-
-    > This study used systems science methods to predict long-term
-    > health and economic impact of SRTS among school-age children in El
-    > Paso County, Texas. We developed an agent-based model containing 2
-    > modules: the pedestrian injury module and the CVD module. …The …
-
-8.  **Semiparametric inference of effective reproduction number dynamics
-    from wastewater pathogen surveillance data.**
-
-    Goldstein IH, Parker DM, Jiang S, Minin VM.
-
-    ArXiv. 2023 Aug 31:arXiv:2308.15770v2. Preprint.
-
-    > As a byproduct of our primary goal, we also produce a new model
-    > for estimating the effective reproduction number from case data
-    > using the same framework. We test this modeling framework in an
-    > agent-based simulation study with a realistic data generatin …
-
-9.  **Circulation of Respiratory Viruses in the City: Towards an
-    Agent-Based Ecosystem model.**
-
-    Vlad AI, Romanyukha AA, Sannikova TE.
-
-    Bull Math Biol. 2023 Sep 10;85(10):100. doi:
-    10.1007/s11538-023-01203-x.
-
-    > Mathematical models play an important role in management of
-    > outbreaks of acute respiratory infections (ARI). …These viruses
-    > have been studied in detail, including the course of infection and
-    > immune defense mechanisms. We developed an agent-based model …
-
-10. **Synthetic symmetry breaking and programmable multicellular
-    structure formation.**
-
-    Wauford N, Patel A, Tordoff J, Enghuus C, Jin A, Toppen J, Kemp ML,
-    Weiss R.
-
-    Cell Syst. 2023 Sep 8:S2405-4712(23)00216-8. doi:
-    10.1016/j.cels.2023.08.001. Online ahead of print.
-
-    > We use this switch to control the cell-cell adhesion properties of
-    > cells committed to each fate.(10)(,)(11) We generate a wide
-    > variety of 3D morphologies from a monoclonal population and
-    > develop a computational model showing high concordance with
-    > experimental results, yiel …
 
 ## Code of Conduct
 
