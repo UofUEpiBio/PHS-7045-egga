@@ -9,13 +9,135 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-09-24 00:36:15.
+update was on 2023-10-01 00:39:08.
 
 <div class="cell">
 
 </div>
 
-1.  **Study of vascular sclerosing agent based on the dual mechanism of
+1.  **Inferring local molecular dynamics from the global actin network
+    structure: A case study of 2D synthetic branching actin networks.**
+
+    Rostami MW, Bannish BE, Gasior K, Pinals RL, Copos C, Dawes AT.
+
+    J Theor Biol. 2023 Sep 27:111613. doi: 10.1016/j.jtbi.2023.111613.
+    Online ahead of print.
+
+    > In this work, we investigate the microscale mechanisms that
+    > produce different branched actin network structures using an
+    > iterative classification approach. First, we employ a simple yet
+    > comprehensive agent-based model that produces synthetic actin
+    > networks wi …
+
+2.  **An agent-based model of cardiac allograft vasculopathy: toward a
+    better understanding of chronic rejection dynamics.**
+
+    Serafini E, Corti A, Gallo D, Chiastra C, Li XC, Casarin S.
+
+    Front Bioeng Biotechnol. 2023 Sep 12;11:1190409. doi:
+    10.3389/fbioe.2023.1190409. eCollection 2023.
+
+    > The etiology and evolution of tissue pathology are largely
+    > unknown, making disease management challenging. So far, in vivo
+    > models, mostly mouse-based, have been widely used to study CAV,
+    > but they are resource-consuming, pose many ethical issues, and
+    > allow limited in …
+
+3.  **A systematic review of the evaluation of agricultural policies:
+    Using prisma.**
+
+    Bastidas-Orrego LM, Jaramillo N, Castillo-Grisales JA, Ceballos YF.
+
+    Heliyon. 2023 Sep 20;9(10):e20292. doi:
+    10.1016/j.heliyon.2023.e20292. eCollection 2023 Oct.
+
+    > Research shows that the latest policy evaluation proposals present
+    > more complex methodologies involving tools such as machine
+    > learning and agent-based modelling (ABM). On the other hand, the
+    > issue of sustainability as a policy is seen in the
+    > agri-environmenta …
+
+4.  **Towards genetic improvement of social behaviours in livestock
+    using large-scale sensor data: data simulation and genetic
+    analysis.**
+
+    Wang Z, Doekes H, Bijma P.
+
+    Genet Sel Evol. 2023 Sep 28;55(1):67. doi:
+    10.1186/s12711-023-00840-z.
+
+    > While these behaviours are heritable, selective breeding is still
+    > limited due to a lack of individual phenotyping methods for large
+    > groups and proper genetic models. In the near future, large-scale
+    > longitudinal data on social behaviours will become available,
+    > e.g. through …
+
+5.  **Bayesian inference on the Allee effect in cancer cell line
+    populations using time-lapse microscopy images.**
+
+    Lindwall G, Gerlee P.
+
+    J Theor Biol. 2023 Sep 26:111624. doi: 10.1016/j.jtbi.2023.111624.
+    Online ahead of print.
+
+    > This is great interest to cancer research, as understanding
+    > critical tumour density thresholds can inform treatment plans for
+    > patients. In this paper, we introduce a simple model for cell
+    > division in the case where the cancer cell population is modelled
+    > as an intera …
+
+6.  **Cell behaviors underlying Myxococcus xanthus aggregate
+    dispersal.**
+
+    Murphy P, Comstock J, Khan T, Zhang J, Welch R, Igoshin OA.
+
+    mSystems. 2023 Sep 25:e0042523. doi: 10.1128/msystems.00425-23.
+    Online ahead of print.
+
+    > The soil bacterium Myxococcus xanthus is a model organism with a
+    > set of diverse behaviors. These behaviors include the
+    > starvation-induced multicellular development program, in which
+    > cells move collectively to assemble multicellular aggregates. …We
+    > observe that after init …
+
+7.  **Digitize your Biology! Modeling multicellular systems through
+    interpretable cell behavior.**
+
+    Johnson JAI, Stein-O’Brien GL, Booth M, Heiland R, Kurtoglu F,
+    Bergman D, Bucher E, Deshpande A, Forjaz A, Getz M, Godet I, Lyman
+    M, Metzcar J, Mitchell J, Raddatz A, Rocha HL, Solorzano J, Sundus
+    A, Wang Y, Gilkes DM, Kagohara LT, Kiemen AL, Thompson ED, Wirtz D,
+    Wu PH, Zaidi N, Zheng L, Zimmerman JW, Jaffee EM, Chang YH, Coussens
+    L, Gray J, Heiser LM, Fertig EJ, Macklin P.
+
+    bioRxiv. 2023 Sep 24:2023.09.17.557982. doi:
+    10.1101/2023.09.17.557982. Preprint.
+
+    > Agent-based modeling is particularly well-suited to studying
+    > communities of interacting cells, as it is intuitive to map a
+    > single cell to a single agent. Thus, we have developed a
+    > conceptual framing (with a reference implementation in the
+    > widely-used P …
+
+8.  **The impact of subgroup-specific heterogeneities and dynamic
+    changes in mortality rates on forecasted population size, deaths and
+    age distribution of persons receiving antiretroviral treatment in
+    the United States: A computer simulation study.**
+
+    Kasaie P, Stewart C, Humes E, Gerace L, Hyle EP, Zalla LC, Rebeiro
+    PF, Silverberg MJ, Rubtsova AA, Rich AJ, Gebo K, Lesko CR, Fojo AT,
+    Lang R, Edwards JK, Althoff KN.
+
+    Ann Epidemiol. 2023 Sep 21:S1047-2797(23)00171-0. doi:
+    10.1016/j.annepidem.2023.09.005. Online ahead of print.
+
+    > BACKGROUND: Model-based forecasts of population size, deaths, and
+    > age distribution of people with HIV (PWH) are helpful for public
+    > health and clinical services planning but are influenced by
+    > subgroup-specific heterogeneities and changes in mortality rates.
+    > METHODS: …
+
+9.  **Study of vascular sclerosing agent based on the dual mechanism of
     vascular endothelial cell damage-plasmin system inhibition.**
 
     Ma J, Chen Y, Zhang K, Yang T, Xie H, Yang X, Ding P.
@@ -29,7 +151,7 @@ update was on 2023-09-24 00:36:15.
     > through an ester bond. …The inhibitory effects of POL-TA on the
     > plas …
 
-2.  **Generalized morality culturally evolves as an adaptive heuristic
+10. **Generalized morality culturally evolves as an adaptive heuristic
     in large social networks.**
 
     Jackson JC, Halberstadt J, Takezawa M, Liew K, Smith K, Apicella C,
@@ -43,119 +165,6 @@ update was on 2023-09-24 00:36:15.
     > character. We propose that people vary in the extent to which they
     > perceive moral character as “localized” (varying along many
     > contextually embedde …
-
-3.  **Diverse mutant selection windows shape spatial heterogeneity in
-    evolving populations.**
-
-    King ES, Pierce B, Hinczewski M, Scott JG.
-
-    bioRxiv. 2023 Sep 6:2023.03.09.531899. doi:
-    10.1101/2023.03.09.531899. Preprint.
-
-    > In this work, we show how N -allele fitness seascapes allow for N
-    > 2 (N- 1) unique MSW comparisons. In spatial drug diffusion models,
-    > we demonstrate how fitness seascapes reveal spatially
-    > heterogeneous MSWs, extending the MSW model to more accurately
-    > reflect the sele …
-
-4.  **The impact of preventive treatment for multidrug- and
-    rifampin-resistant tuberculosis exceeds trial-based estimates.**
-
-    Kasaie P, Pennington J, Gupta A, Dowdy DW, Kendall EA.
-
-    Clin Infect Dis. 2023 Sep 19:ciad557. doi: 10.1093/cid/ciad557.
-    Online ahead of print.
-
-    > The potential benefits of delivering TPT to MDR/RR-TB contacts
-    > extend beyond the outcomes that clinical trials can measure.
-    > METHODS: We developed an agent-based, household-structured TB and
-    > MDR/RR-TB transmission model, calibrated to an illustrative
-    > setting i …
-
-5.  **Policy evaluation of economic - environmental tradeoffs in
-    regulating industrial water use: An agent-based model.**
-
-    Sun D, Zhang M, Jung D.
-
-    J Environ Manage. 2023 Sep 16;346:118988. doi:
-    10.1016/j.jenvman.2023.118988. Online ahead of print.
-
-    > Therefore, scientifically regulating the water consumption and
-    > sewage discharge of industrial enterprises can effectively
-    > alleviate water scarcity and pollution problems. By establishing a
-    > multi-agent model, this study simulates the water use behavior of
-    > industrial …
-
-6.  **Minority-group incubators and majority-group reservoirs support
-    the diffusion of climate change adaptations.**
-
-    Turner MA, Singleton AL, Harris MJ, Harryman I, Lopez CA, Arthur RF,
-    Muraida C, Jones JH.
-
-    Philos Trans R Soc Lond B Biol Sci. 2023 Nov 6;378(1889):20220401.
-    doi: 10.1098/rstb.2022.0401. Epub 2023 Sep 18.
-
-    > Current theory suggests that the heterogeneity of metapopulation
-    > structure can help adaptations diffuse throughout a population. In
-    > this paper, we develop an agent-based model of the spread of
-    > adaptations in populations with minority-majority metapopulation s
-    > …
-
-7.  **The impacts of climate change, energy policy and traditional
-    ecological practices on future firewood availability for Diné
-    (Navajo) People.**
-
-    Magargal K, Wilson K, Chee S, Campbell MJ, Bailey V, Dennison PE,
-    Anderegg WRL, Cachelin A, Brewer S, Codding BF.
-
-    Philos Trans R Soc Lond B Biol Sci. 2023 Nov 6;378(1889):20220394.
-    doi: 10.1098/rstb.2022.0394. Epub 2023 Sep 18.
-
-    > However, there are two acute problems: first, climate
-    > change-induced drought will diminish local sources of firewood;
-    > second, policies aimed at reducing reliance on
-    > greenhouse-gas-emitting energy sources may limit alternatives like
-    > coal for home use, thereby increasing firewood d …
-
-8.  **Evolution of HIV virulence in response to disease-modifying
-    vaccines: A modeling study.**
-
-    Reid MC, Mittler JE, Murphy JT, Stansfield SE, Goodreau SM,
-    Abernethy N, Herbeck JT.
-
-    Vaccine. 2023 Sep 13:S0264-410X(23)01027-7. doi:
-    10.1016/j.vaccine.2023.08.071. Online ahead of print.
-
-    > We explored the potential for such virulence evolution with a
-    > disease-modifying HIV-1 vaccine in an agent-based stochastic
-    > epidemic model of HIV in United States men who have sex with men
-    > (MSM). In the model, vaccinated agents received no protection ag …
-
-9.  **Three-state opinion model with mobile agents.**
-
-    Ferri I, Gaya-Àvila A, Díaz-Guilera A.
-
-    Chaos. 2023 Sep 1;33(9):093121. doi: 10.1063/5.0152674.
-
-    > We study an agent-based opinion model with two extreme (opposite)
-    > opinion states and a neutral intermediate one. We adjust the
-    > relative degree of conviction between extremists and neutrals
-    > through a dimensionless parameter called the “neutrality
-    > parameter” to …
-
-10. **Deconstructing the effects of stochasticity on transmission of
-    hospital-acquired infections in ICUs.**
-
-    Haghpanah F, Lin G, Klein E; CDC MInD-Healthcare Program.
-
-    R Soc Open Sci. 2023 Sep 13;10(9):230277. doi: 10.1098/rsos.230277.
-    eCollection 2023 Sep.
-
-    > In this study, we investigated the impact of uncertainty
-    > (epistemic and aleatory) on nosocomial transmission of HAIs by
-    > evaluating the effects of stochasticity on the detectability of
-    > seasonality of admission prevalence. For doing so, we developed an
-    > agent-based …
 
 ## Code of Conduct
 
