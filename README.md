@@ -9,13 +9,95 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-10-01 00:39:08.
+update was on 2023-10-08 00:36:53.
 
 <div class="cell">
 
 </div>
 
-1.  **Inferring local molecular dynamics from the global actin network
+1.  **A simplified prognostic score for T-cell large granular lymphocyte
+    leukaemia.**
+
+    Liu H, Guo J, Cao L, Zhu H, Miao Y, Du X, Wu Y, Xu W, Li J, Fan L.
+
+    Ann Med. 2023;55(2):2258899. doi: 10.1080/07853890.2023.2258899.
+    Epub 2023 Oct 6.
+
+    > Multivariate analysis revealed that an Eastern Cooperative
+    > Oncology Group performance status over two and a platelet count
+    > below 100 10(9)/L were independently associated with worse OS,
+    > leading to the development of a simplified decision tree model.
+    > The model’s …
+
+2.  **The leakage effect may undermine the circular economy efforts.**
+
+    Safarzynska K, Di Domenico L, Raberto M.
+
+    Sci Rep. 2023 Oct 4;13(1):16677. doi: 10.1038/s41598-023-44004-x.
+
+    > To this end, we make an input-output analysis dynamic by combining
+    > it with an agent-based model of the capital sector. This approach
+    > allows us to study the evolution of the circular economy due to
+    > the endogenous decisions of firms on whether to invest in the …
+
+3.  **Stroma-mediated breast cancer cell proliferation indirectly drives
+    chemoresistance by accelerating tumor recovery between chemotherapy
+    cycles.**
+
+    Miroshnychenko D, Miti T, Kumar P, Miller A, Laurie M, Giraldo N,
+    Bui MM, Altrock PM, Basanta D, Marusyk A.
+
+    Cancer Res. 2023 Oct 4. doi: 10.1158/0008-5472.CAN-23-0398. Online
+    ahead of print.
+
+    > These observations suggested an indirect link between stroma and
+    > chemoresistance, where stroma-augmented proliferation potentiates
+    > the recovery of residual tumors between chemotherapy cycles. To
+    > evaluate this hypothesis, a spatial agent-based model of stroma …
+
+4.  **From parts to whole: Embracing systems science in community
+    psychology.**
+
+    Lawlor JA, Metta KR.
+
+    Am J Community Psychol. 2023 Oct 3. doi: 10.1002/ajcp.12711. Online
+    ahead of print.
+
+    > With our field’s strong focus on context for understanding and
+    > acting on social problems, community psychologists have frequently
+    > elevated the importance of employing systems thinking and methods
+    > that help us to understand systems more effectively. …
+
+5.  **Unraveling complex causal processes that affect sustainability
+    requires more integration between empirical and modeling
+    approaches.**
+
+    Schlüter M, Brelsford C, Ferraro PJ, Orach K, Qiu M, Smith MD.
+
+    Proc Natl Acad Sci U S A. 2023 Oct 10;120(41):e2215676120. doi:
+    10.1073/pnas.2215676120. Epub 2023 Oct 2.
+
+    > Here, we demonstrate how sustainability scientists can address
+    > these challenges and make more robust causal claims through better
+    > integration between empirical analyses and process- or agent-based
+    > modeling. To illustrate how these different epistemological tr …
+
+6.  **Predicting longitudinal brain atrophy in Parkinson’s disease using
+    a Susceptible-Infected-Removed agent-based model.**
+
+    Abdelgawad A, Rahayel S, Zheng YQ, Tremblay C, Vo A, Misic B, Dagher
+    A.
+
+    Netw Neurosci. 2023 Oct 1;7(3):906-925. doi: 10.1162/netn_a\_00296.
+    eCollection 2023.
+
+    > In this study, we test this model with longitudinal MRI collected
+    > over 4 years from the Parkinson’s Progression Markers Initiative
+    > (1,068 T1 MRI scans, 790 Parkinson’s disease scans, and 278
+    > matched control scans). We find that brain deformation progresses
+    > in …
+
+7.  **Inferring local molecular dynamics from the global actin network
     structure: A case study of 2D synthetic branching actin networks.**
 
     Rostami MW, Bannish BE, Gasior K, Pinals RL, Copos C, Dawes AT.
@@ -29,7 +111,7 @@ update was on 2023-10-01 00:39:08.
     > comprehensive agent-based model that produces synthetic actin
     > networks wi …
 
-2.  **An agent-based model of cardiac allograft vasculopathy: toward a
+8.  **An agent-based model of cardiac allograft vasculopathy: toward a
     better understanding of chronic rejection dynamics.**
 
     Serafini E, Corti A, Gallo D, Chiastra C, Li XC, Casarin S.
@@ -43,7 +125,7 @@ update was on 2023-10-01 00:39:08.
     > but they are resource-consuming, pose many ethical issues, and
     > allow limited in …
 
-3.  **A systematic review of the evaluation of agricultural policies:
+9.  **A systematic review of the evaluation of agricultural policies:
     Using prisma.**
 
     Bastidas-Orrego LM, Jaramillo N, Castillo-Grisales JA, Ceballos YF.
@@ -57,7 +139,7 @@ update was on 2023-10-01 00:39:08.
     > issue of sustainability as a policy is seen in the
     > agri-environmenta …
 
-4.  **Towards genetic improvement of social behaviours in livestock
+10. **Towards genetic improvement of social behaviours in livestock
     using large-scale sensor data: data simulation and genetic
     analysis.**
 
@@ -71,100 +153,6 @@ update was on 2023-10-01 00:39:08.
     > groups and proper genetic models. In the near future, large-scale
     > longitudinal data on social behaviours will become available,
     > e.g. through …
-
-5.  **Bayesian inference on the Allee effect in cancer cell line
-    populations using time-lapse microscopy images.**
-
-    Lindwall G, Gerlee P.
-
-    J Theor Biol. 2023 Sep 26:111624. doi: 10.1016/j.jtbi.2023.111624.
-    Online ahead of print.
-
-    > This is great interest to cancer research, as understanding
-    > critical tumour density thresholds can inform treatment plans for
-    > patients. In this paper, we introduce a simple model for cell
-    > division in the case where the cancer cell population is modelled
-    > as an intera …
-
-6.  **Cell behaviors underlying Myxococcus xanthus aggregate
-    dispersal.**
-
-    Murphy P, Comstock J, Khan T, Zhang J, Welch R, Igoshin OA.
-
-    mSystems. 2023 Sep 25:e0042523. doi: 10.1128/msystems.00425-23.
-    Online ahead of print.
-
-    > The soil bacterium Myxococcus xanthus is a model organism with a
-    > set of diverse behaviors. These behaviors include the
-    > starvation-induced multicellular development program, in which
-    > cells move collectively to assemble multicellular aggregates. …We
-    > observe that after init …
-
-7.  **Digitize your Biology! Modeling multicellular systems through
-    interpretable cell behavior.**
-
-    Johnson JAI, Stein-O’Brien GL, Booth M, Heiland R, Kurtoglu F,
-    Bergman D, Bucher E, Deshpande A, Forjaz A, Getz M, Godet I, Lyman
-    M, Metzcar J, Mitchell J, Raddatz A, Rocha HL, Solorzano J, Sundus
-    A, Wang Y, Gilkes DM, Kagohara LT, Kiemen AL, Thompson ED, Wirtz D,
-    Wu PH, Zaidi N, Zheng L, Zimmerman JW, Jaffee EM, Chang YH, Coussens
-    L, Gray J, Heiser LM, Fertig EJ, Macklin P.
-
-    bioRxiv. 2023 Sep 24:2023.09.17.557982. doi:
-    10.1101/2023.09.17.557982. Preprint.
-
-    > Agent-based modeling is particularly well-suited to studying
-    > communities of interacting cells, as it is intuitive to map a
-    > single cell to a single agent. Thus, we have developed a
-    > conceptual framing (with a reference implementation in the
-    > widely-used P …
-
-8.  **The impact of subgroup-specific heterogeneities and dynamic
-    changes in mortality rates on forecasted population size, deaths and
-    age distribution of persons receiving antiretroviral treatment in
-    the United States: A computer simulation study.**
-
-    Kasaie P, Stewart C, Humes E, Gerace L, Hyle EP, Zalla LC, Rebeiro
-    PF, Silverberg MJ, Rubtsova AA, Rich AJ, Gebo K, Lesko CR, Fojo AT,
-    Lang R, Edwards JK, Althoff KN.
-
-    Ann Epidemiol. 2023 Sep 21:S1047-2797(23)00171-0. doi:
-    10.1016/j.annepidem.2023.09.005. Online ahead of print.
-
-    > BACKGROUND: Model-based forecasts of population size, deaths, and
-    > age distribution of people with HIV (PWH) are helpful for public
-    > health and clinical services planning but are influenced by
-    > subgroup-specific heterogeneities and changes in mortality rates.
-    > METHODS: …
-
-9.  **Study of vascular sclerosing agent based on the dual mechanism of
-    vascular endothelial cell damage-plasmin system inhibition.**
-
-    Ma J, Chen Y, Zhang K, Yang T, Xie H, Yang X, Ding P.
-
-    Biochem Biophys Res Commun. 2023 Sep 15;680:135-140. doi:
-    10.1016/j.bbrc.2023.09.035. Online ahead of print.
-
-    > In this study, we have developed a novel cationic surfactant-based
-    > sclerosing agent (POL-TA) by conjugating the plasmin inhibitor
-    > tranexamic acid (TA) with a nonionic surfactant polidocanol (POL)
-    > through an ester bond. …The inhibitory effects of POL-TA on the
-    > plas …
-
-10. **Generalized morality culturally evolves as an adaptive heuristic
-    in large social networks.**
-
-    Jackson JC, Halberstadt J, Takezawa M, Liew K, Smith K, Apicella C,
-    Gray K.
-
-    J Pers Soc Psychol. 2023 Sep 21. doi: 10.1037/pspa0000358. Online
-    ahead of print.
-
-    > Why do we even use words like “moral” and “immoral”? We explore
-    > these questions with a new model of how people perceive moral
-    > character. We propose that people vary in the extent to which they
-    > perceive moral character as “localized” (varying along many
-    > contextually embedde …
 
 ## Code of Conduct
 
