@@ -9,150 +9,146 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-10-08 00:36:53.
+update was on 2023-10-15 00:37:23.
 
 <div class="cell">
 
 </div>
 
-1.  **A simplified prognostic score for T-cell large granular lymphocyte
-    leukaemia.**
+1.  **Virtual Design of 3D-Printed Bone Tissue Engineered Scaffold Shape
+    Using Mechanobiological Modeling: Relationship of Scaffold Pore
+    Architecture to Bone Tissue Formation.**
 
-    Liu H, Guo J, Cao L, Zhu H, Miao Y, Du X, Wu Y, Xu W, Li J, Fan L.
+    Alshammari A, Alabdah F, Wang W, Cooper G.
 
-    Ann Med. 2023;55(2):2258899. doi: 10.1080/07853890.2023.2258899.
-    Epub 2023 Oct 6.
+    Polymers (Basel). 2023 Sep 28;15(19):3918. doi:
+    10.3390/polym15193918.
 
-    > Multivariate analysis revealed that an Eastern Cooperative
-    > Oncology Group performance status over two and a platelet count
-    > below 100 10(9)/L were independently associated with worse OS,
-    > leading to the development of a simplified decision tree model.
-    > The model’s …
+    > Bone grafts (autographs or allografts) can be used but they have
+    > many limitations, meaning that polymer-based bone tissue
+    > engineered scaffolds (tissue engineering) are a more promising
+    > solution. …A virtual design framework has been created utilizing a
+    > mechanical stress f …
 
-2.  **The leakage effect may undermine the circular economy efforts.**
+2.  **Recovery of dynamical similarity from lossy representations of
+    collective behavior of midge swarms.**
 
-    Safarzynska K, Di Domenico L, Raberto M.
+    Aung E, Abaid N, Jantzen B.
 
-    Sci Rep. 2023 Oct 4;13(1):16677. doi: 10.1038/s41598-023-44004-x.
+    Chaos. 2023 Oct 1;33(10):103114. doi: 10.1063/5.0146161.
 
-    > To this end, we make an input-output analysis dynamic by combining
-    > it with an agent-based model of the capital sector. This approach
-    > allows us to study the evolution of the circular economy due to
-    > the endogenous decisions of firms on whether to invest in the …
+    > Understanding emergent collective phenomena in biological systems
+    > is a complex challenge due to the high dimensionality of state
+    > variables and the inability to directly probe agent-based
+    > interaction rules. Therefore, if one wants to model a system for
+    > which t …
 
-3.  **Stroma-mediated breast cancer cell proliferation indirectly drives
-    chemoresistance by accelerating tumor recovery between chemotherapy
-    cycles.**
+3.  **A community-endorsed open-source lexicon for contrast agent-based
+    perfusion MRI: A consensus guidelines report from the ISMRM Open
+    Science Initiative for Perfusion Imaging (OSIPI).**
 
-    Miroshnychenko D, Miti T, Kumar P, Miller A, Laurie M, Giraldo N,
-    Bui MM, Altrock PM, Basanta D, Marusyk A.
+    Dickie BR, Ahmed Z, Arvidsson J, Bell LC, Buckley DL, Debus C,
+    Fedorov A, Floca R, Gutmann I, van der Heijden RA, van Houdt PJ,
+    Sourbron S, Thrippleton MJ, Quarles C, Kompan IN; on behalf of The
+    Perfusion Study Group of the ISMRM.
 
-    Cancer Res. 2023 Oct 4. doi: 10.1158/0008-5472.CAN-23-0398. Online
-    ahead of print.
+    Magn Reson Med. 2023 Oct 13. doi: 10.1002/mrm.29840. Online ahead of
+    print.
 
-    > These observations suggested an indirect link between stroma and
-    > chemoresistance, where stroma-augmented proliferation potentiates
-    > the recovery of residual tumors between chemotherapy cycles. To
-    > evaluate this hypothesis, a spatial agent-based model of stroma …
+    > The lexicon was developed by Taskforce 4.2 of OSIPI to provide
+    > standardized definitions of commonly used quantities, models, and
+    > analysis processes with the aim of reducing reporting variability.
+    > …The initial scope of the lexicon was set by the taskforce and
+    > defined such …
 
-4.  **From parts to whole: Embracing systems science in community
-    psychology.**
+4.  **Pathways to cultural adaptation: the coevolution of cumulative
+    culture and social networks.**
 
-    Lawlor JA, Metta KR.
+    Smolla M, Akçay E.
 
-    Am J Community Psychol. 2023 Oct 3. doi: 10.1002/ajcp.12711. Online
-    ahead of print.
-
-    > With our field’s strong focus on context for understanding and
-    > acting on social problems, community psychologists have frequently
-    > elevated the importance of employing systems thinking and methods
-    > that help us to understand systems more effectively. …
-
-5.  **Unraveling complex causal processes that affect sustainability
-    requires more integration between empirical and modeling
-    approaches.**
-
-    Schlüter M, Brelsford C, Ferraro PJ, Orach K, Qiu M, Smith MD.
-
-    Proc Natl Acad Sci U S A. 2023 Oct 10;120(41):e2215676120. doi:
-    10.1073/pnas.2215676120. Epub 2023 Oct 2.
-
-    > Here, we demonstrate how sustainability scientists can address
-    > these challenges and make more robust causal claims through better
-    > integration between empirical analyses and process- or agent-based
-    > modeling. To illustrate how these different epistemological tr …
-
-6.  **Predicting longitudinal brain atrophy in Parkinson’s disease using
-    a Susceptible-Infected-Removed agent-based model.**
-
-    Abdelgawad A, Rahayel S, Zheng YQ, Tremblay C, Vo A, Misic B, Dagher
-    A.
-
-    Netw Neurosci. 2023 Oct 1;7(3):906-925. doi: 10.1162/netn_a\_00296.
+    Evol Hum Sci. 2023 Aug 25;5:e26. doi: 10.1017/ehs.2023.21.
     eCollection 2023.
 
-    > In this study, we test this model with longitudinal MRI collected
-    > over 4 years from the Parkinson’s Progression Markers Initiative
-    > (1,068 T1 MRI scans, 790 Parkinson’s disease scans, and 278
-    > matched control scans). We find that brain deformation progresses
-    > in …
+5.  **MUSE-RASA captures human dimension in climate-energy-economic
+    models via global geoAI-ML agent datasets.**
 
-7.  **Inferring local molecular dynamics from the global actin network
-    structure: A case study of 2D synthetic branching actin networks.**
+    Moya D, Copara D, Olivo A, Castro C, Giarola S, Hawkes A.
 
-    Rostami MW, Bannish BE, Gasior K, Pinals RL, Copos C, Dawes AT.
+    Sci Data. 2023 Oct 12;10(1):693. doi: 10.1038/s41597-023-02529-w.
 
-    J Theor Biol. 2023 Sep 27:111613. doi: 10.1016/j.jtbi.2023.111613.
+    > This article provides a combined geospatial artificial
+    > intelligence-machine learning, geoAI-ML, agent-based, data-driven,
+    > technology-rich, bottom-up approach and datasets for capturing the
+    > human dimension in climate-energy-economy models. …This approach
+    > def …
+
+6.  **Characterizing the Crosstalk Between Programmed Cell Death
+    Pathways in Cytokine Storm With an Agent-Based Model.**
+
+    Feuerwerker S, Cockrell RC, An G.
+
+    Surg Infect (Larchmt). 2023 Oct 12. doi: 10.1089/sur.2023.115.
     Online ahead of print.
 
-    > In this work, we investigate the microscale mechanisms that
-    > produce different branched actin network structures using an
-    > iterative classification approach. First, we employ a simple yet
-    > comprehensive agent-based model that produces synthetic actin
-    > networks wi …
+    > Materials and Methods: Literature regarding apoptosis, pyroptosis,
+    > and necroptosis was reviewed and transposed into an agent-based
+    > model, the programmed cell death agent-based model (PCDABM).
+    > …Computational experiments were also perform …
 
-8.  **An agent-based model of cardiac allograft vasculopathy: toward a
-    better understanding of chronic rejection dynamics.**
+7.  **Suppressive might of a few: T follicular regulatory cells impede
+    auto-reactivity despite being outnumbered in the germinal centres.**
 
-    Serafini E, Corti A, Gallo D, Chiastra C, Li XC, Casarin S.
+    Schips M, Mitra T, Bandyopadhyay A, Meyer-Hermann M.
 
-    Front Bioeng Biotechnol. 2023 Sep 12;11:1190409. doi:
-    10.3389/fbioe.2023.1190409. eCollection 2023.
+    Front Immunol. 2023 Sep 25;14:1253704. doi:
+    10.3389/fimmu.2023.1253704. eCollection 2023.
 
-    > The etiology and evolution of tissue pathology are largely
-    > unknown, making disease management challenging. So far, in vivo
-    > models, mostly mouse-based, have been widely used to study CAV,
-    > but they are resource-consuming, pose many ethical issues, and
-    > allow limited in …
+    > In contrast, when Tfrs regulate differentiation of selected
+    > centrocytes by promoting recycling to the dark zone phenotype of
+    > self-reactive GC resident pre-plasma cells (GCPCs), higher Tfr
+    > numbers were required to impede the circulation of self-reactive
+    > ASCs (s-ASCs). On th …
 
-9.  **A systematic review of the evaluation of agricultural policies:
-    Using prisma.**
+8.  **Impact of vaccination and non-pharmacological interventions on
+    COVID-19: a review of simulation modeling studies in Asia.**
 
-    Bastidas-Orrego LM, Jaramillo N, Castillo-Grisales JA, Ceballos YF.
+    Thakkar K, Spinardi JR, Yang J, Kyaw MH, Ozbilgili E, Mendoza CF, Oh
+    HML.
 
-    Heliyon. 2023 Sep 20;9(10):e20292. doi:
-    10.1016/j.heliyon.2023.e20292. eCollection 2023 Oct.
+    Front Public Health. 2023 Sep 25;11:1252719. doi:
+    10.3389/fpubh.2023.1252719. eCollection 2023.
 
-    > Research shows that the latest policy evaluation proposals present
-    > more complex methodologies involving tools such as machine
-    > learning and agent-based modelling (ABM). On the other hand, the
-    > issue of sustainability as a policy is seen in the
-    > agri-environmenta …
+    > Extracted data included model type (mechanistic
+    > compartmental/agent-based, statistical, both), intervention type
+    > (pharmacological, non-pharmacological), and procedures for
+    > parameterizing age. …China, Japan, and South Korea accounted for
+    > approximately half o …
 
-10. **Towards genetic improvement of social behaviours in livestock
-    using large-scale sensor data: data simulation and genetic
-    analysis.**
+9.  **Toward Understanding of the Social Hysteresis: Insights From
+    Agent-Based Modeling.**
 
-    Wang Z, Doekes H, Bijma P.
+    Sznajd-Weron K, Je Drzejewski A, Kamińska B.
 
-    Genet Sel Evol. 2023 Sep 28;55(1):67. doi:
-    10.1186/s12711-023-00840-z.
+    Perspect Psychol Sci. 2023 Oct 9:17456916231195361. doi:
+    10.1177/17456916231195361. Online ahead of print.
 
-    > While these behaviours are heritable, selective breeding is still
-    > limited due to a lack of individual phenotyping methods for large
-    > groups and proper genetic models. In the near future, large-scale
-    > longitudinal data on social behaviours will become available,
-    > e.g. through …
+    > The aim of this article is to show the insights that can be gained
+    > from using agent-based models (ABMs) to study hysteresis. To build
+    > up an intuition about hysteresis, we start with an illustrative
+    > example from physics that demonstrates how hysteresis manifes …
+
+10. **Agent-based modeling of urban exposome interventions: prospects,
+    model architectures, and methodological challenges.**
+
+    Sonnenschein T, Scheider S, de Wit GA, Tonne CC, Vermeulen R.
+
+    Exposome. 2022 Oct 10;2(1):osac009. doi: 10.1093/exposome/osac009.
+
+    > This article discusses model architectures and methodological
+    > challenges for successfully modeling UEIs using spatial ABM.
+    > …Major challenges for a successful application of ABM to UEI
+    > assessment are (1) the design of realistic behavioral models that
+    > can cap …
 
 ## Code of Conduct
 
