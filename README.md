@@ -9,13 +9,109 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-10-15 00:37:23.
+update was on 2023-10-22 00:37:07.
 
 <div class="cell">
 
 </div>
 
-1.  **Virtual Design of 3D-Printed Bone Tissue Engineered Scaffold Shape
+1.  **Using neural networks to calibrate agent based models enables
+    improved regional evidence for vaccine strategy and policy.**
+
+    Chopra A, Rodriguez A, Prakash A, Raskar R, Kingsley T.
+
+    Vaccine. 2023 Oct 17:S0264-410X(23)01016-2. doi:
+    10.1016/j.vaccine.2023.08.060. Online ahead of print.
+
+    > Distribution and administration strategy are critical to
+    > successful population immunization efforts. Agent-based modeling
+    > (ABM) can reflect the complexity of real-world populations and can
+    > experimentally evaluate vaccine strategy and policy. …Our first
+    > epid …
+
+2.  **An opponent model for agent-based shared decision-making via a
+    genetic algorithm.**
+
+    Lin KB, Wei Y, Liu Y, Hong FP, Yang YM, Lu P.
+
+    Front Psychol. 2023 Oct 3;14:1124734. doi:
+    10.3389/fpsyg.2023.1124734. eCollection 2023.
+
+    > METHODS: In this study, we integrated a negotiation strategy that
+    > predicts opponent preference using a genetic algorithm with an SDM
+    > auto-negotiation model constructed based on fuzzy constraints,
+    > thereby enhancing the effectiveness of SDM by addressing the
+    > problems …
+
+3.  **Active XY model on a substrate: Density fluctuations and phase
+    ordering.**
+
+    Haldar A, Sarkar A, Chatterjee S, Basu A.
+
+    Phys Rev E. 2023 Sep;108(3-1):034114. doi:
+    10.1103/PhysRevE.108.034114.
+
+    > The spins rotate actively in response to the local density
+    > fluctuations and local phase differences, on a solid substrate. We
+    > investigate this system by Monte Carlo simulations of an
+    > agent-based model, which we set up, complemented by the
+    > hydrodynamic theory …
+
+4.  **Examining buprenorphine diversion through a harm reduction lens:
+    an agent-based modeling study.**
+
+    Adams JW, Duprey M, Khan S, Cance J, Rice DP, Bobashev G.
+
+    Harm Reduct J. 2023 Oct 17;20(1):150. doi:
+    10.1186/s12954-023-00888-6.
+
+    > METHODS: Our study aim was to estimate the impact of buprenorphine
+    > diversion on opioid overdose using an agent-based model calibrated
+    > to North Carolina. We simulated the progression of opioid misuse
+    > and opioid-related outcomes over a 5-year period. …CONCLUS …
+
+5.  **Lévy movements and a slowly decaying memory allow efficient
+    collective learning in groups of interacting foragers.**
+
+    Falcón-Cortés A, Boyer D, Aldana M, Ramos-Fernández G.
+
+    PLoS Comput Biol. 2023 Oct 16;19(10):e1011528. doi:
+    10.1371/journal.pcbi.1011528. Online ahead of print.
+
+    > However, how individual behavior affects the emergence of
+    > collective states of learning is still poorly understood. Here,
+    > with the help of a spatially explicit agent-based model where
+    > individuals transfer information to their peers, we analyze the
+    > effects on …
+
+6.  **An Eco-evolutionary Model on Surviving Lysogeny Through Grounding
+    and Accumulation of Prophages.**
+
+    Sudhakari PA, Ramisetty BCM.
+
+    Microb Ecol. 2023 Oct 16. doi: 10.1007/s00248-023-02301-y. Online
+    ahead of print.
+
+    > These observations indicate that most putative prophages are
+    > relics of past bacteria-phage conflicts; they are “grounded”
+    > prophages that cannot excise from the bacterial genome. Prophage
+    > distribution analysis based on the sequence homology suggested the
+    > random distribution …
+
+7.  **Agent-based simulations improve abundance estimation.**
+
+    Sólymos P.
+
+    Biol Futur. 2023 Oct 15. doi: 10.1007/s42977-023-00183-2. Online
+    ahead of print.
+
+    > I argue that truly understanding, validating, and refining the
+    > field techniques and quantitative methods used to estimate
+    > abundance can largely benefit from agent-based simulations. I
+    > illustrate this through the example of bird point counts and
+    > introduce the softwar …
+
+8.  **Virtual Design of 3D-Printed Bone Tissue Engineered Scaffold Shape
     Using Mechanobiological Modeling: Relationship of Scaffold Pore
     Architecture to Bone Tissue Formation.**
 
@@ -30,7 +126,7 @@ update was on 2023-10-15 00:37:23.
     > solution. …A virtual design framework has been created utilizing a
     > mechanical stress f …
 
-2.  **Recovery of dynamical similarity from lossy representations of
+9.  **Recovery of dynamical similarity from lossy representations of
     collective behavior of midge swarms.**
 
     Aung E, Abaid N, Jantzen B.
@@ -43,7 +139,7 @@ update was on 2023-10-15 00:37:23.
     > interaction rules. Therefore, if one wants to model a system for
     > which t …
 
-3.  **A community-endorsed open-source lexicon for contrast agent-based
+10. **A community-endorsed open-source lexicon for contrast agent-based
     perfusion MRI: A consensus guidelines report from the ISMRM Open
     Science Initiative for Perfusion Imaging (OSIPI).**
 
@@ -60,95 +156,6 @@ update was on 2023-10-15 00:37:23.
     > analysis processes with the aim of reducing reporting variability.
     > …The initial scope of the lexicon was set by the taskforce and
     > defined such …
-
-4.  **Pathways to cultural adaptation: the coevolution of cumulative
-    culture and social networks.**
-
-    Smolla M, Akçay E.
-
-    Evol Hum Sci. 2023 Aug 25;5:e26. doi: 10.1017/ehs.2023.21.
-    eCollection 2023.
-
-5.  **MUSE-RASA captures human dimension in climate-energy-economic
-    models via global geoAI-ML agent datasets.**
-
-    Moya D, Copara D, Olivo A, Castro C, Giarola S, Hawkes A.
-
-    Sci Data. 2023 Oct 12;10(1):693. doi: 10.1038/s41597-023-02529-w.
-
-    > This article provides a combined geospatial artificial
-    > intelligence-machine learning, geoAI-ML, agent-based, data-driven,
-    > technology-rich, bottom-up approach and datasets for capturing the
-    > human dimension in climate-energy-economy models. …This approach
-    > def …
-
-6.  **Characterizing the Crosstalk Between Programmed Cell Death
-    Pathways in Cytokine Storm With an Agent-Based Model.**
-
-    Feuerwerker S, Cockrell RC, An G.
-
-    Surg Infect (Larchmt). 2023 Oct 12. doi: 10.1089/sur.2023.115.
-    Online ahead of print.
-
-    > Materials and Methods: Literature regarding apoptosis, pyroptosis,
-    > and necroptosis was reviewed and transposed into an agent-based
-    > model, the programmed cell death agent-based model (PCDABM).
-    > …Computational experiments were also perform …
-
-7.  **Suppressive might of a few: T follicular regulatory cells impede
-    auto-reactivity despite being outnumbered in the germinal centres.**
-
-    Schips M, Mitra T, Bandyopadhyay A, Meyer-Hermann M.
-
-    Front Immunol. 2023 Sep 25;14:1253704. doi:
-    10.3389/fimmu.2023.1253704. eCollection 2023.
-
-    > In contrast, when Tfrs regulate differentiation of selected
-    > centrocytes by promoting recycling to the dark zone phenotype of
-    > self-reactive GC resident pre-plasma cells (GCPCs), higher Tfr
-    > numbers were required to impede the circulation of self-reactive
-    > ASCs (s-ASCs). On th …
-
-8.  **Impact of vaccination and non-pharmacological interventions on
-    COVID-19: a review of simulation modeling studies in Asia.**
-
-    Thakkar K, Spinardi JR, Yang J, Kyaw MH, Ozbilgili E, Mendoza CF, Oh
-    HML.
-
-    Front Public Health. 2023 Sep 25;11:1252719. doi:
-    10.3389/fpubh.2023.1252719. eCollection 2023.
-
-    > Extracted data included model type (mechanistic
-    > compartmental/agent-based, statistical, both), intervention type
-    > (pharmacological, non-pharmacological), and procedures for
-    > parameterizing age. …China, Japan, and South Korea accounted for
-    > approximately half o …
-
-9.  **Toward Understanding of the Social Hysteresis: Insights From
-    Agent-Based Modeling.**
-
-    Sznajd-Weron K, Je Drzejewski A, Kamińska B.
-
-    Perspect Psychol Sci. 2023 Oct 9:17456916231195361. doi:
-    10.1177/17456916231195361. Online ahead of print.
-
-    > The aim of this article is to show the insights that can be gained
-    > from using agent-based models (ABMs) to study hysteresis. To build
-    > up an intuition about hysteresis, we start with an illustrative
-    > example from physics that demonstrates how hysteresis manifes …
-
-10. **Agent-based modeling of urban exposome interventions: prospects,
-    model architectures, and methodological challenges.**
-
-    Sonnenschein T, Scheider S, de Wit GA, Tonne CC, Vermeulen R.
-
-    Exposome. 2022 Oct 10;2(1):osac009. doi: 10.1093/exposome/osac009.
-
-    > This article discusses model architectures and methodological
-    > challenges for successfully modeling UEIs using spatial ABM.
-    > …Major challenges for a successful application of ABM to UEI
-    > assessment are (1) the design of realistic behavioral models that
-    > can cap …
 
 ## Code of Conduct
 
