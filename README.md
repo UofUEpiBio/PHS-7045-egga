@@ -9,151 +9,153 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-11-05 00:37:30.
+update was on 2023-11-12 00:37:41.
 
 <div class="cell">
 
 </div>
 
-1.  **Joint modeling HIV and HPV using a new hybrid agent-based network
-    and compartmental simulation technique.**
+1.  **Emotions and courtship help bonded pairs cooperate, but emotional
+    agents are vulnerable to deceit.**
 
-    Zhao X, Gopalappa C.
+    Sadedin S, Duéñez-Guzmán EA, Leibo JZ.
 
-    PLoS One. 2023 Nov 3;18(11):e0288141. doi:
-    10.1371/journal.pone.0288141. eCollection 2023.
+    Proc Natl Acad Sci U S A. 2023 Nov 14;120(46):e2308911120. doi:
+    10.1073/pnas.2308911120. Epub 2023 Nov 10.
 
-    > While compartmental modeling is sufficient for faster spreading
-    > HPV, network modeling is suitable for slower spreading HIV. …We
-    > applied a recently developed mixed agent-based compartmental (MAC)
-    > simulation technique, which simulates persons with at l …
+    > How do animals solve the social dilemmas they face in coordinating
+    > with a partner? We developed an evolutionary model to explore this
+    > question, based on observations that a) neuroendocrine feedback
+    > provides emotional bookkeeping which is thought to play a key role
+    > i …
 
-2.  **Insights into drivers of mobility and cultural dynamics of African
-    hunter-gatherers over the past 120 000 years.**
+2.  **Emergence of diverse patterns driven by molecular motors in the
+    motility assay.**
 
-    Zonker J, Padilla-Iglesias C, Djurdjevac Conrad N.
+    Slater B, Jung W, Kim T.
 
-    R Soc Open Sci. 2023 Nov 1;10(11):230495. doi: 10.1098/rsos.230495.
-    eCollection 2023 Nov.
+    Cytoskeleton (Hoboken). 2023 Nov 10. doi: 10.1002/cm.21808. Online
+    ahead of print.
 
-    > While an important body of work has attempted to explore the role
-    > of changes in the size and interconnectedness of populations in
-    > determining the persistence, diversity and complexity of material
-    > culture, results have achieved limited success in explaining the
-    > emergence and spati …
+    > However, in most of the computational models, myosin motors were
+    > implicitly considered by applying a constant propulsion force to
+    > filaments to reduce computational cost. This simplification limits
+    > the physiological relevance of the insights provided by the models
+    > an …
 
-3.  **China’s sustainable carbon neutral supply chain management: a
-    reference to global emission reduction.**
+3.  **Relative Role of Age Groups And indoor Environments in Influenza
+    Transmission Under Different Urbanization Rates in China.**
 
-    Chen Y, Lee CC, Zhu S.
+    Lei H, Zhang N, Xiao S, Zhuang L, Yang X, Chen T, Yang L, Wang D, Li
+    Y, Shu Y.
 
-    Environ Sci Pollut Res Int. 2023 Nov 2. doi:
-    10.1007/s11356-023-30551-3. Online ahead of print.
+    Am J Epidemiol. 2023 Nov 8:kwad218. doi: 10.1093/aje/kwad218. Online
+    ahead of print.
 
-    > This research addresses a specific gap in the literature by
-    > focusing on carbon emission reduction in the industrial sector
-    > through the application of supply chain management (SCM)
-    > principles under a monopolistic competition context and by
-    > utilizing carbon neutral indicators. Spec …
+    > In this study, a total of 2,583,441 influenza-like illness cases
+    > tested from 2010 to 2017 in China were identified. An agent-based
+    > model was built and calibrated with the surveillance data, to
+    > assess the roles of three age groups (children \<19 years, young …
 
-4.  **The salt-and-pepper pattern in mouse blastocysts is compatible
-    with signaling beyond the nearest neighbors.**
+4.  **Exploring the impact of mobility and selection on stone tool
+    recycling behaviors through agent-based simulation.**
 
-    Fischer SC, Schardt S, Lilao-Garzón J, Muñoz-Descalzo S.
+    Coco E.
 
-    iScience. 2023 Sep 30;26(11):108106. doi:
-    10.1016/j.isci.2023.108106. eCollection 2023 Nov 17.
+    PLoS One. 2023 Nov 9;18(11):e0294242. doi:
+    10.1371/journal.pone.0294242. eCollection 2023.
 
-    > We investigate the spatiotemporal distribution of NANOG- and
-    > GATA6-expressing cells in the ICM of the mouse blastocysts with
-    > quantitative three-dimensional single-cell-based neighborhood
-    > analyses. A combination of spatial statistics and agent-based
-    > modelin …
+    > Yet, there are still no well-defined expectations for how
+    > recycling affects the appearance of the archaeological record
+    > across landscapes. Using an agent-based model of recycling in
+    > surface contexts, this study looks how the archaeological record
+    > changes unde …
 
-5.  **Optimal mechanical interactions direct multicellular network
-    formation on elastic substrates.**
+5.  **Multiscale modeling of drug resistance in glioblastoma with gene
+    mutations and angiogenesis.**
 
-    Noerr PS, Zamora Alvarado JE, Golnaraghi F, McCloskey KE, Gopinathan
-    A, Dasbiswas K.
+    Yang H, Lin H, Sun X.
 
-    Proc Natl Acad Sci U S A. 2023 Nov 7;120(45):e2301555120. doi:
-    10.1073/pnas.2301555120. Epub 2023 Nov 1.
+    Comput Struct Biotechnol J. 2023 Oct 21;21:5285-5295. doi:
+    10.1016/j.csbj.2023.10.037. eCollection 2023.
 
-    > Understanding how intercellular mechanical interactions may drive
-    > the formation of ordered and functional multicellular structures
-    > is important in developmental biology and tissue engineering.
-    > Here, by combining an agent-based model for contractile cells on e
-    > …
+    > Empirical investigations have elucidated that genetic aberrations,
+    > such as gene mutations, along with microenvironmental adaptation,
+    > notably angiogenesis, act as pivotal drivers of tumor progression
+    > and drug resistance. Nonetheless, mathematical models frequently
+    > compartme …
 
-6.  **An immune memory-structured SIS epidemiological model for
-    hyperdiverse pathogens.**
+6.  **Spatial transferability of an agent-based model to simulate Taenia
+    solium control interventions.**
 
-    de Roos AM, He Q, Pascual M.
+    Pizzitutti F, Bonnet G, Gonzales-Gustavson E, Gabriël S, Pan WK,
+    Gonzalez AE, Garcia HH, O’Neal SE; Cysticercosis Working Group in
+    Peru.
 
-    Proc Natl Acad Sci U S A. 2023 Nov 7;120(45):e2218499120. doi:
-    10.1073/pnas.2218499120. Epub 2023 Nov 1.
+    Parasit Vectors. 2023 Nov 8;16(1):410. doi:
+    10.1186/s13071-023-06003-9.
 
-    > The vast diversity of “strains” and genes encoding this variation
-    > challenges the application of established models for the
-    > population dynamics of such infectious diseases. Agent-based
-    > models have been formulated to address theory on strain
-    > coexistence …
+    > However, this process may lead to a paradoxical dependence of
+    > model parameters on location-specific data, thus limiting the
+    > model’s geographic transferability. METHODS: In this study, we
+    > adopted a non-local model calibration approach to assess whether …
 
-7.  **Big boned: How fat storage and other adaptations influenced large
-    theropod foraging ecology.**
+7.  **The crowding out of conventional electricity generation by
+    renewable energy sources: implications from Greek, Hungarian, and
+    Romanian electricity markets.**
 
-    Pahl CC, Ruedas LA.
+    Halužan M, Verbič M, Zorić J.
 
-    PLoS One. 2023 Nov 1;18(11):e0290459. doi:
-    10.1371/journal.pone.0290459. eCollection 2023.
+    Environ Sci Pollut Res Int. 2023 Nov 8. doi:
+    10.1007/s11356-023-30564-y. Online ahead of print.
 
-    > Dinosaur foraging ecology has been the subject of scientific
-    > interest for decades, yet much of what we understand about it
-    > remains hypothetical. We wrote an agent-based model (ABM) to
-    > simulate meat energy sources present in dinosaur environments,
-    > including ca …
+    > Modern statistical methods are applied to bridge the gap in the
+    > limited public data availability to solve simulation models used
+    > in the power system or agent-based simulations. A family of data
+    > mining algorithms is applied for the merit order estimation used …
 
-8.  **T-cell commitment inheritance - an agent-based multi-scale
-    model.**
+8.  **Rotation-based schedules in elementary schools to prevent COVID-19
+    spread: a simulation study.**
 
-    Andersson E, Rothenberg EV, Peterson C, Olariu V.
+    Brom C, Diviák T, Drbohlav J, Korbel V, Levínský R, Neruda R,
+    Kadlecová G, Šlerka J, Šmíd M, Trnka J, Vidnerová P.
 
-    bioRxiv. 2023 Oct 20:2023.10.18.562905. doi:
-    10.1101/2023.10.18.562905. Preprint.
+    Sci Rep. 2023 Nov 6;13(1):19156. doi: 10.1038/s41598-023-45788-8.
 
-    > T-cell development provides an excellent model system for studying
-    > lineage commitment from a multipotent progenitor. …However, the
-    > exact timing between decision-making and commitment stage remains
-    > unexplored. To this end, we implemented an agent-based multi …
+    > This study investigates the impact of different rotation and
+    > testing schedules.We built an agent-based model of interactions
+    > among pupils and teachers based on a survey in an elementary
+    > school in Prague, Czechia. This model contains 624 schoolch …
 
-9.  **Modeling the roles of cohesotaxis, cell-intercalation, and tissue
-    geometry in collective cell migration of Xenopus mesendoderm.**
+9.  **Realizing a deep reinforcement learning agent for real-time
+    quantum feedback.**
 
-    Comlekoglu T, Dzamba BJ, Pacheco GG, Shook DR, Sego TJ, Glazier JA,
-    Peirce SM, DeSimone DW.
+    Reuer K, Landgraf J, Fösel T, O’Sullivan J, Beltrán L, Akin A,
+    Norris GJ, Remm A, Kerschbaum M, Besse JC, Marquardt F, Wallraff A,
+    Eichler C.
 
-    bioRxiv. 2023 Oct 17:2023.10.16.562601. doi:
-    10.1101/2023.10.16.562601. Preprint.
+    Nat Commun. 2023 Nov 6;14(1):7138. doi: 10.1038/s41467-023-42901-3.
 
-    > Mesendoderm explants removed from embryos provide an
-    > experimentally tractable system for characterizing collective cell
-    > movements and behaviors, yet the cellular mechanisms responsible
-    > for this mode of migration remain elusive. We introduce an
-    > agent-based computatio …
+    > However, developing and training a reinforcement learning agent
+    > able to operate in real-time using feedback has been an open
+    > challenge. …We demonstrate its use to efficiently initialize a
+    > superconducting qubit and train the agent based solely on
+    > measurement …
 
-10. **PhysiBoSS 2.0: a sustainable integration of stochastic Boolean and
-    agent-based modelling frameworks.**
+10. **Sustainable livelihood capital and climate change adaptation in
+    Pakistan’s agriculture: Structural equation modeling analysis in the
+    VIABLE framework.**
 
-    Ponce-de-Leon M, Montagud A, Noël V, Meert A, Pradas G, Barillot E,
-    Calzone L, Valencia A.
+    Mobeen M, Kabir KH, Schneider UA, Ahmed T, Scheffran J.
 
-    NPJ Syst Biol Appl. 2023 Oct 30;9(1):54. doi:
-    10.1038/s41540-023-00314-4.
+    Heliyon. 2023 Oct 13;9(11):e20818. doi:
+    10.1016/j.heliyon.2023.e20818. eCollection 2023 Nov.
 
-    > For instance, signalling and regulatory networks can be simulated
-    > using Boolean modelling, whereas multicellular systems can be
-    > studied using agent-based modelling. Herein, we present PhysiBoSS
-    > 2.0, a hybrid agent-based modelling f …
+    > This study aims to assess the role of sustainable livelihood
+    > capital, the mediation of investments and farming purposes, and
+    > the moderation of climatic and non-climatic factors in the
+    > adaptation process, particularly in the aspects of Crop, Farm,
+    > Irrigation, and Economic Manageme …
 
 ## Code of Conduct
 
