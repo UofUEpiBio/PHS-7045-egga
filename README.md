@@ -9,147 +9,142 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-11-19 00:41:10.
+update was on 2023-11-26 00:38:31.
 
 <div class="cell">
 
 </div>
 
-1.  **Probabilistic analysis of agent-based opinion formation models.**
+1.  **Protocol for the PATHOME study: a cohort study on urban societal
+    development and the ecology of enteric disease transmission among
+    infants, domestic animals and the environment.**
 
-    Devia CA, Giordano G.
+    Baker KK, Simiyu S, Busienei P, Gutema FD, Okoth B, Agira J, Amondi
+    CS, Ziraba A, Kapanka AG, Osinuga A, Ouma C, Sewell DK, Gaire S,
+    Tumwebaze IK, Mberu B.
 
-    Sci Rep. 2023 Nov 17;13(1):20152. doi: 10.1038/s41598-023-46789-3.
+    BMJ Open. 2023 Nov 24;13(11):e076067. doi:
+    10.1136/bmjopen-2023-076067.
 
-    > When agent-based models are developed to capture opinion formation
-    > in large-scale populations, the opinion update equations often
-    > need to embed several complex psychological traits. …We exemplify
-    > the proposed technique by applying it to four opinion formati …
+    > These data will be used to inform and validate statistical and
+    > agent-based models (ABM) that identify individual or combined
+    > intervention strategies for reducing multipathogen transmission
+    > between humans, animals and environment in urban Kenya. …
 
-2.  **Spatial-temporal simulation for hospital infection spread and
-    outbreaks of Clostridioides difficile.**
+2.  **The Epidemiological and Economic Impact of COVID-19 in Kazakhstan:
+    An Agent-Based Modeling.**
 
-    Kim D, Canovas-Segura B, Jimeno-Almazán A, Campos M, Juarez JM.
+    Koichubekov B, Takuadina A, Korshukov I, Sorokina M, Turmukhambetova
+    A.
 
-    Sci Rep. 2023 Nov 16;13(1):20022. doi: 10.1038/s41598-023-47296-1.
+    Healthcare (Basel). 2023 Nov 16;11(22):2968. doi:
+    10.3390/healthcare11222968.
 
-    > In this paper, we propose a novel approach for a simulator of
-    > nosocomial infection spread, combining agent-based patient
-    > description, spatial-temporal constraints of the hospital
-    > settings, and microorganism behavior driven by epidemiological
-    > models. The predi …
+    > BACKGROUND: Our study aimed to assess how effective the
+    > preventative measures taken by the state authorities during the
+    > pandemic were in terms of public health protection and the
+    > rational use of material and human resources. MATERIALS AND
+    > METHODS: We utilized a stochastic agen …
 
-3.  **The unequal effects of the health-economy trade-off during the
-    COVID-19 pandemic.**
+3.  **ASAS-NANP symposium: mathematical modeling in animal nutrition:
+    agent-based modeling for livestock systems: the mechanics of
+    development and application.**
 
-    Pangallo M, Aleta A, Del Rio-Chanona RM, Pichler A, Martín-Corral D,
-    Chinazzi M, Lafond F, Ajelli M, Moro E, Moreno Y, Vespignani A,
-    Farmer JD.
+    Kaniyamattam K, Tedeschi LO.
 
-    Nat Hum Behav. 2023 Nov 16. doi: 10.1038/s41562-023-01747-x. Online
-    ahead of print.
+    J Anim Sci. 2023 Jan 3;101:skad321. doi: 10.1093/jas/skad321.
 
-    > Addressing this question, and understanding differential effects
-    > across socioeconomic groups, requires building quantitative and
-    > fine-grained mechanistic models. Here we introduce a data-driven,
-    > granular, agent-based model that simulates epidemic and e …
+    > Over the last three decades, agent-based modeling/model (ABM) has
+    > been one of the most powerful and valuable simulation-based
+    > decision modeling techniques used to study the complex dynamic
+    > interactions between animals and their environmen …
 
-4.  **Hierarchical defect-induced condensation in active nematics.**
+4.  **Modeling fashion as an emergent collective behavior of bored
+    individuals.**
 
-    Krüger T, Maryshev I, Frey E.
+    Seiler JP, Rumpel S.
 
-    Soft Matter. 2023 Nov 16. doi: 10.1039/d3sm00895a. Online ahead of
-    print.
+    Sci Rep. 2023 Nov 22;13(1):20480. doi: 10.1038/s41598-023-47749-7.
 
-    > Phase-separated systems, in turn, are known to form dense and
-    > dynamic nematic bands, but typically lack topological defects. In
-    > this paper, we use agent-based simulations of weakly aligning,
-    > self-propelled polymers and demonstrate that contrary to the
-    > existing parad …
+    > Despite this effect on individual behavior, the consequences of
+    > boredom for collective behavior remain elusive. Here, we introduce
+    > an agent-based model of collective fashion behavior in which
+    > simplified agents interact randomly and repeatedly choose
+    > alternati …
 
-5.  **Assessing multiple free-roaming dog control strategies in a
-    flexible agent-based model.**
+5.  **The Usefulness of Web-Based Communication Data for Social Network
+    Health Interventions: Agent-Based Modeling Study.**
 
-    Yoak AJ, Calinger KM, Hiby E.
+    Blok DJ, Simoski B, van Woudenberg TJ, Buijzen M.
 
-    Sci Rep. 2023 Nov 14;13(1):19826. doi: 10.1038/s41598-023-47076-x.
+    JMIR Pediatr Parent. 2023 Nov 22;6:e44849. doi: 10.2196/44849.
 
-    > Management of free-roaming dog populations is required to mitigate
-    > the threat of pathogens like rabies, minimize conflict with
-    > people, wildlife, and livestock and improve dog welfare however
-    > there are multiple strategies currently employed including
-    > sterilization, vaccination, an …
+    > We applied social network analysis to identify influential peers
+    > and agent-based modeling to simulate the diffusion of PAL and
+    > explore the impact of social network interventions on PAL among
+    > adolescents in school classes. …Artificial intelligence methods, i
+    > …
 
-6.  **PhysiCell Studio: a graphical tool to make agent-based modeling
-    more accessible.**
+6.  **Economic implications of autonomous adaptation of firms and
+    households in a resource-rich coastal city.**
 
-    Heiland R, Bergman D, Lyons B, Cass J, Rocha HL, Ruscone M, Noël V,
-    Macklin P.
+    Taberna A, Filatova T, Hochrainer-Stigler S, Nikolic I, Noll B.
 
-    bioRxiv. 2023 Oct 27:2023.10.24.563727. doi:
-    10.1101/2023.10.24.563727. Preprint.
+    Sci Rep. 2023 Nov 21;13(1):20348. doi: 10.1038/s41598-023-46318-2.
 
-    > Hopefully the model will be defined using some format
-    > specification, e.g., a markup language, that will provide easy
-    > model sharing (and a minimal step toward reproducibility). …It
-    > uses XML to define a model and, traditionally, users needed to
-    > manually edit …
+    > While flood risk modeling has progressed, limitations endure,
+    > including inadequate stakeholder representation and indirect risks
+    > such as business interruption and diminished tax revenues. To
+    > address these gaps, we propose an innovative version of the
+    > Climate-economy Region …
 
-7.  **The Application of Simulation Methods During the COVID-19
-    Pandemic: A Scoping Review.**
+7.  **Innovation-facilitating networks create inequality.**
 
-    Sun Z, Bai R, Bai Z.
+    Moser C, Smaldino PE.
 
-    J Biomed Inform. 2023 Nov 11:104543. doi: 10.1016/j.jbi.2023.104543.
-    Online ahead of print.
+    Proc Biol Sci. 2023 Nov 29;290(2011):20232281. doi:
+    10.1098/rspb.2023.2281. Epub 2023 Nov 22.
 
-    > With the outbreak of COVID-19 pandemic, simulation modelling
-    > approaches have become effective tools to simulate the potential
-    > effects of different intervention measures and predict the dynamic
-    > COVID-19 trends. …Among the included 340 studies, most articles
-    > used agent …
+    > Theories of innovation often balance contrasting views that either
+    > smart people create smart things or smartly constructed
+    > institutions create smart things. While population models have
+    > shown factors including population size, connectivity and agent
+    > behaviour as cru …
 
-8.  **Emotions and courtship help bonded pairs cooperate, but emotional
-    agents are vulnerable to deceit.**
+8.  **Mutation divergence over space in tumour expansion.**
 
-    Sadedin S, Duéñez-Guzmán EA, Leibo JZ.
+    Li H, Yang Z, Tu F, Deng L, Han Y, Fu X, Wang L, Gu D, Werner B,
+    Huang W.
 
-    Proc Natl Acad Sci U S A. 2023 Nov 14;120(46):e2308911120. doi:
-    10.1073/pnas.2308911120. Epub 2023 Nov 10.
+    J R Soc Interface. 2023 Nov;20(208):20230542. doi:
+    10.1098/rsif.2023.0542. Epub 2023 Nov 22.
 
-    > How do animals solve the social dilemmas they face in coordinating
-    > with a partner? We developed an evolutionary model to explore this
-    > question, based on observations that a) neuroendocrine feedback
-    > provides emotional bookkeeping which is thought to play a key role
-    > i …
+    > Here, we investigate how mutations diverge over space by varying
+    > the sampling distance and tumour expansion modes using
+    > individual-based simulations. We measure ITH by the Jaccard index
+    > between samples and quantify how ITH increases with sampling
+    > distance, the pattern of w …
 
-9.  **Emergence of diverse patterns driven by molecular motors in the
-    motility assay.**
+9.  **How did it get this way? Disentangling the sources of teacher
+    quality gaps through agent-based modeling.**
 
-    Slater B, Jung W, Kim T.
+    Goldhaber D, Kasman M, Quince V, Theobald R, Wolff M.
 
-    Cytoskeleton (Hoboken). 2023 Nov 10. doi: 10.1002/cm.21808. Online
-    ahead of print.
+    Soc Sci Res. 2023 Nov;116:102941. doi:
+    10.1016/j.ssresearch.2023.102941. Epub 2023 Oct 20.
 
-    > However, in most of the computational models, myosin motors were
-    > implicitly considered by applying a constant propulsion force to
-    > filaments to reduce computational cost. This simplification limits
-    > the physiological relevance of the insights provided by the models
-    > an …
+10. **Protocol for an agent-based model of recombination in bacteria
+    playing a public goods game.**
 
-10. **Relative Role of Age Groups And indoor Environments in Influenza
-    Transmission Under Different Urbanization Rates in China.**
+    Lee IPA, Eldakar OT, Gogarten JP, Andam CP.
 
-    Lei H, Zhang N, Xiao S, Zhuang L, Yang X, Chen T, Yang L, Wang D, Li
-    Y, Shu Y.
+    STAR Protoc. 2023 Nov 18;4(4):102733. doi:
+    10.1016/j.xpro.2023.102733. Online ahead of print.
 
-    Am J Epidemiol. 2023 Nov 8:kwad218. doi: 10.1093/aje/kwad218. Online
-    ahead of print.
-
-    > In this study, a total of 2,583,441 influenza-like illness cases
-    > tested from 2010 to 2017 in China were identified. An agent-based
-    > model was built and calibrated with the surveillance data, to
-    > assess the roles of three age groups (children \<19 years, young …
+    > Agent-based models are composed of individual agents coded for
+    > traits, such as cooperation and cheating, that interact in a
+    > virtual world based on defined rules. Here, we describe the use of
+    > an agent-based model of homologous recom …
 
 ## Code of Conduct
 
