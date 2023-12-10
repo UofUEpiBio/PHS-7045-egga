@@ -9,161 +9,152 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-12-03 00:38:43.
+update was on 2023-12-10 00:39:24.
 
 <div class="cell">
 
 </div>
 
-1.  **The evolution of short- and long-range weapons for bacterial
-    competition.**
+1.  **Hybrid Cellular Automata Modeling Reveals the Effects of Glucose
+    Gradients on Tumour Spheroid Growth.**
 
-    Booth SC, Smith WPJ, Foster KR.
+    Messina L, Ferraro R, Peláez MJ, Wang Z, Cristini V, Dogra P,
+    Caserta S.
 
-    Nat Ecol Evol. 2023 Nov 30. doi: 10.1038/s41559-023-02234-2. Online
-    ahead of print.
+    Cancers (Basel). 2023 Nov 30;15(23):5660. doi:
+    10.3390/cancers15235660.
 
-    > Why bacteria have evolved such a wide array of weapon systems
-    > remains a mystery. Here we develop an agent-based model to compare
-    > short-range weapons that require cell-cell contact, with
-    > long-range weapons that rely on diffusion. Our model predicts that
-    > …
+    > PURPOSE: In recent years, mathematical models have become
+    > instrumental in cancer research, offering insights into tumor
+    > growth dynamics, and guiding the development of pharmacological
+    > strategies. …This model explores the potential evolution of 3D
+    > tumor spheroids b …
 
-2.  **Cost-effectiveness of Prefusion F Protein-based Vaccines Against
-    Respiratory Syncytial Virus Disease for Older Adults in the United
-    States.**
+2.  **Efficient Radial-Shell Model for 3D Tumor Spheroid Dynamics with
+    Radiotherapy.**
 
-    Moghadas SM, Shoukat A, Bawden CE, Langley JM, Singer BH,
-    Fitzpatrick MC, Galvani AP.
+    Franke F, Michlíková S, Aland S, Kunz-Schughart LA, Voss-Böhme A,
+    Lange S.
 
-    Clin Infect Dis. 2023 Nov 30:ciad658. doi: 10.1093/cid/ciad658.
-    Online ahead of print.
+    Cancers (Basel). 2023 Nov 29;15(23):5645. doi:
+    10.3390/cancers15235645.
 
-    > BACKGROUND: Two prefusion F protein-based vaccines, Arexvy and
-    > Abrysvo, have been authorized by the US Food and Drug
-    > Administration for protecting older adults against respiratory
-    > syncytial virus (RSV)-associated lower respiratory tract illness.
-    > We evaluated the health ben …
+    > We demonstrate that this radial-shell (RS) model reproduces
+    > experimental spheroid growth curves of several cell lines with and
+    > without radiotherapy, showing equal or better performance than
+    > published models such as 3D agent-based models. …Fina …
 
-3.  **An agent-based model with antibody dynamics information in
-    COVID-19 epidemic simulation.**
+3.  **Dynamics of Fibril Collagen Remodeling by Tumor Cells: A Model of
+    Tumor-Associated Collagen Signatures.**
 
-    Xu Z, Song J, Liu W, Wei D.
+    Poonja S, Forero Pinto A, Lloyd MC, Damaghi M, Rejniak KA.
 
-    Infect Dis Model. 2023 Nov 10;8(4):1151-1168. doi:
-    10.1016/j.idm.2023.11.001. eCollection 2023 Dec.
+    Cells. 2023 Nov 22;12(23):2688. doi: 10.3390/cells12232688.
 
-    > In order to accomplish this objective, we incorporated individual
-    > antibody dynamics into an agent-based model and devised a
-    > methodology that encompasses the dynamic behaviors of each
-    > individual, thereby explicitly capturing the count and spatial
-    > distribution …
+    > Here, we present a novel multi-cellular lattice-free
+    > (MultiCell-LF) agent-based model of ECM that, in contrast to
+    > static histology images, can simulate dynamic changes between
+    > TACSs. This model allowed us to identify the rules of cell-ECM
+    > physical inte …
 
-4.  **Integrating irrational behavior into flood risk models to test the
-    outcomes of policy interventions.**
+4.  **Homeostasis, injury and recovery dynamics at multiple scales in a
+    self-organizing mouse intestinal crypt.**
 
-    Geaves L, Hall J, Penning-Rowsell Obe E.
+    Gall L, Duckworth C, Jardi F, Lammens L, Parker A, Bianco A, Kimko
+    H, Pritchard DM, Pin C.
 
-    Risk Anal. 2023 Nov 29. doi: 10.1111/risa.14238. Online ahead of
-    print.
+    Elife. 2023 Dec 8;12:e85478. doi: 10.7554/eLife.85478. Online ahead
+    of print.
 
-    > An agent-based model is created, offering the option to apply
-    > either EMV or PT frameworks. …The results demonstrate that PT
-    > models exhibit greater similarity to observed behavior compared to
-    > models based on EMV. …
+    > With the aim of generating a more complete and integrated
+    > understanding of how the epithelium maintains homeostasis and
+    > recovers after injury, we have built a multi-scale agent-based
+    > model (ABM) of the mouse intestinal epithelium. We demonstrate
+    > that stable, …
 
-5.  **A demo-genetic model shows how silviculture reduces natural
-    density-dependent selection in tree populations.**
+5.  **Toxic comments are associated with reduced activity of volunteer
+    editors on Wikipedia.**
 
-    Godineau C, Fririon V, Beudez N, de Coligny F, Courbet F, Ligot G,
-    Oddou-Muratorio S, Sanchez L, Lefèvre F.
+    Smirnov I, Oprea C, Strohmaier M.
 
-    Evol Appl. 2023 Oct 13;16(11):1830-1844. doi: 10.1111/eva.13606.
-    eCollection 2023 Nov.
+    PNAS Nexus. 2023 Dec 5;2(12):pgad385. doi:
+    10.1093/pnasnexus/pgad385. eCollection 2023 Dec.
 
-    > Developing evolution-oriented strategies requires knowledge of the
-    > evolutionary consequences of management across timescales. Here,
-    > we used an individual-based demo-genetic modelling approach to
-    > study the interactions and feedback between tree thinning, genetic
-    > evol …
+    > The effects of toxic comments are potentially even greater in the
+    > long term, as they are associated with a significantly increased
+    > risk of editors leaving the project altogether. Using an
+    > agent-based model, we demonstrate that toxicity attacks on
+    > Wikipedia ha …
 
-6.  **Impact of post-incarceration care engagement interventions on HIV
-    transmission among young Black men who have sex with men and their
-    sexual partners: an agent-based network modeling study.**
+6.  **Modeling spatiotemporal domestic wastewater variability:
+    Implications for measuring treatment efficiency.**
 
-    Hotton AL, Lee F, Sheeler D, Ozik J, Collier N, Edali M, Ardestani
-    BM, Brewer R, Schrode KM, Fujimoto K, Harawa NT, Schneider JA,
-    Khanna AS.
+    DelaPaz-Ruíz N, Augustijn EW, Farnaghi M, Zurita-Milla R.
 
-    Lancet Reg Health Am. 2023 Nov 10;28:100628. doi:
-    10.1016/j.lana.2023.100628. eCollection 2023 Dec.
+    J Environ Manage. 2023 Dec 5;351:119680. doi:
+    10.1016/j.jenvman.2023.119680. Online ahead of print.
 
-    > BACKGROUND: Understanding the impact of incarceration on HIV
-    > transmission among Black men who have sex with men is important
-    > given their disproportionate representation among people
-    > experiencing incarceration and the potential impact of
-    > incarceration on social and sexual networks …
+    > Regulations for decentralized wastewater treatment plants (WWTP)
+    > can include rudimentary specifications for sporadic sampling,
+    > unencouraging continuous monitoring, and missing crucial domestic
+    > wastewater (DW) variability, especially in low- and middle-income
+    > countries. However, f …
 
-7.  **Cost-effectiveness analysis of nirsevimab and maternal RSVpreF
-    vaccine strategies for prevention of Respiratory Syncytial Virus
-    disease among infants in Canada: a simulation study.**
+7.  **COVID-19 transmission in a resource dependent community with
+    heterogeneous populations: An agent-based modeling approach.**
 
-    Shoukat A, Abdollahi E, Galvani AP, Halperin SA, Langley JM,
-    Moghadas SM.
+    Wood AD, Berry K.
 
-    Lancet Reg Health Am. 2023 Nov 9;28:100629. doi:
-    10.1016/j.lana.2023.100629. eCollection 2023 Dec.
+    Econ Hum Biol. 2023 Nov 19;52:101314. doi:
+    10.1016/j.ehb.2023.101314. Online ahead of print.
 
-    > BACKGROUND: The cost-effectiveness of immunisation strategies with
-    > a long-acting monoclonal antibody (nirsevimab) and/or a
-    > protein-based maternal vaccine (RSVpreF) for protecting infants
-    > from Respiratory Syncytial Virus (RSV)-associated illness has not
-    > been previously dete …
+    > During the pandemic, policy measures were debated, including
+    > community mask mandates, restricting workers to their boats and
+    > factories, and even closing the valuable seasonal fishery. We
+    > develop an agent-based SIR model (ABM) to examine COVID-19
+    > transmission …
 
-8.  **Drug dependence in cancer is exploitable by optimally constructed
-    treatment holidays.**
+8.  **Adaptations to infer fitness interdependence promote the evolution
+    of cooperation.**
 
-    Maltas J, Killarney ST, Singleton KR, Strobl MAR, Washart R, Wood
-    KC, Wood KB.
+    Colnaghi M, Santos FP, Van Lange PAM, Balliet D.
 
-    Nat Ecol Evol. 2023 Nov 27. doi: 10.1038/s41559-023-02255-x. Online
-    ahead of print.
+    Proc Natl Acad Sci U S A. 2023 Dec 12;120(50):e2312242120. doi:
+    10.1073/pnas.2312242120. Epub 2023 Dec 6.
 
-    > Here we characterized drug dependence across a panel of over 75
-    > MAPK-inhibitor-resistant BRAF(V600E) mutant melanoma models at the
-    > population and single-clone levels. Melanocytic differentiated
-    > models exhibited a much greater tendency to give rise to
-    > drug-dependent …
+    > The evolution of cooperation is a major question in the biological
+    > and behavioral sciences. While most theoretical studies model
+    > cooperation in the context of an isolated interaction (e.g., a
+    > Prisoner’s Dilemma), humans live in heterogeneous social
+    > environments, cha …
 
-9.  **Biased placement of Mitochondria fission facilitates asymmetric
-    inheritance of protein aggregates during yeast cell division.**
+9.  **Population-level effectiveness of pre-exposure prophylaxis for HIV
+    prevention among men who have sex with men in Montréal (Canada): a
+    modelling study of surveillance and survey data.**
 
-    Sun G, Hwang C, Jung T, Liu J, Li R.
+    Doyle CM, Milwid RM, Cox J, Xia Y, Lambert G, Tremblay C, Otis J,
+    Boily MC, Baril JG, Thomas R, Blais AD, Trottier B, Grace D, Moore
+    DM, Mishra S, Maheu-Giroux M.
 
-    PLoS Comput Biol. 2023 Nov 27;19(11):e1011588. doi:
-    10.1371/journal.pcbi.1011588. Online ahead of print.
+    J Int AIDS Soc. 2023 Dec;26(12):e26194. doi: 10.1002/jia2.26194.
 
-    > We used high spatiotemporal imaging to quantify the key aspects of
-    > mitochondrial dynamics, including motility, fission, and fusion
-    > characteristics, upon aggregation of misfolded proteins in the
-    > mitochondrial matrix. Using these measured parameters, we
-    > developed an agent- …
+    > We evaluated the population-level impact of PrEP on HIV
+    > transmission among men who have sex with men (MSM) in Montreal,
+    > Quebec’s largest city, over 2013-2021. METHODS: We used an
+    > agent-based mathematical model of sexual HIV transmission to
+    > estimate the …
 
-10. **Protocol for the PATHOME study: a cohort study on urban societal
-    development and the ecology of enteric disease transmission among
-    infants, domestic animals and the environment.**
+10. **Exploring the dynamics of the 2022 mpox outbreak in Canada.**
 
-    Baker KK, Simiyu S, Busienei P, Gutema FD, Okoth B, Agira J, Amondi
-    CS, Ziraba A, Kapanka AG, Osinuga A, Ouma C, Sewell DK, Gaire S,
-    Tumwebaze IK, Mberu B.
+    Milwid RM, Li M, Fazil A, Maheu-Giroux M, Doyle CM, Xia Y, Cox J,
+    Grace D, Dvorakova M, Walker SC, Mishra S, Ogden NH.
 
-    BMJ Open. 2023 Nov 24;13(11):e076067. doi:
-    10.1136/bmjopen-2023-076067.
+    J Med Virol. 2023 Dec;95(12):e29256. doi: 10.1002/jmv.29256.
 
-    > These data will be used to inform and validate statistical and
-    > agent-based models (ABM) that identify individual or combined
-    > intervention strategies for reducing multipathogen transmission
-    > between humans, animals and environment in urban Kenya. …
+    > A compartmental model characterized epidemic drivers at
+    > national/provincial levels, while an agent-based model (ABM)
+    > assessed municipal-level impacts of vaccination. The models were
+    > parameterized and calibrated using empirical case and vaccinati …
 
 ## Code of Conduct
 
