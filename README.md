@@ -9,13 +9,139 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-12-10 00:39:24.
+update was on 2023-12-17 00:39:26.
 
 <div class="cell">
 
 </div>
 
-1.  **Hybrid Cellular Automata Modeling Reveals the Effects of Glucose
+1.  **An agent-based nested model integrating within-host and
+    between-host mechanisms to predict an epidemic.**
+
+    Tatsukawa Y, Arefin MR, Kuga K, Tanimoto J.
+
+    PLoS One. 2023 Dec 15;18(12):e0295954. doi:
+    10.1371/journal.pone.0295954. eCollection 2023.
+
+    > The COVID-19 pandemic has remarkably heightened concerns regarding
+    > the prediction of communicable disease spread. This study
+    > introduces an innovative agent-based modeling approach. In this
+    > model, the quantification of human-to-human transmission aligns …
+
+2.  **Investigating the Impact of Irrigation on Malaria Vector Larval
+    Habitats and Transmission Using a Hydrology-Based Model.**
+
+    Jiang AL, Lee MC, Selvaraj P, Degefa T, Getachew H, Merga H,
+    Yewhalaw D, Yan G, Hsu K.
+
+    Geohealth. 2023 Dec 10;7(12):e2023GH000868. doi:
+    10.1029/2023GH000868. eCollection 2023 Dec.
+
+    > By coupling a hydrologic model with an agent-based malaria model
+    > for a sugarcane plantation site in Arjo, Ethiopia, we demonstrated
+    > how incorporating hydrologic processes to estimate larval habitats
+    > can affect malaria transmission. Using the coupled …
+
+3.  **Social identity bias and communication network clustering interact
+    to shape patterns of opinion dynamics.**
+
+    Steiglechner P, Smaldino PE, Moser D, Merico A.
+
+    J R Soc Interface. 2023 Dec;20(209):20230372. doi:
+    10.1098/rsif.2023.0372. Epub 2023 Dec 13.
+
+    > Social influence aligns people’s opinions, but social identities
+    > and related in-group biases interfere with this alignment. …It is
+    > unclear how social identities affect the emergence of opinion
+    > patterns, such as consensus or disagreement, in a society. Here,
+    > we present an …
+
+4.  **New Forms of Collaboration Between the Social and Natural Sciences
+    Could Become Necessary for Understanding Rapid Collective
+    Transitions in Social Systems.**
+
+    Thurner S.
+
+    Perspect Psychol Sci. 2023 Dec 11:17456916231201135. doi:
+    10.1177/17456916231201135. Online ahead of print.
+
+    > The physics concept of universality might be key to understanding
+    > some tipping points in human societies and why agent-based models
+    > (ABMs) might make sense for identifying the transition points. If
+    > universality exists in social systems there is hope that rela …
+
+5.  **Simulating emergence of novelties using agent-based models.**
+
+    Suda M, Saito T, Iwahashi N, Regan C, Oka M.
+
+    PLoS One. 2023 Dec 11;18(12):e0294228. doi:
+    10.1371/journal.pone.0294228. eCollection 2023.
+
+    > In this study, we introduce a new model that incorporates context
+    > information into existing agent-based models in order to more
+    > accurately capture the structure and growth dynamics of these
+    > networks. Context information is introduced through labels …
+
+6.  **Microglial Roles in Alzheimer’s Disease: An Agent-Based Model to
+    Elucidate Microglial Spatiotemporal Response to Beta-Amyloid.**
+
+    Weathered C, Bardehle S, Yoon C, Kumar N, Leyns CEG, Kennedy ME,
+    Bloomingdale P, Pienaar E.
+
+    CPT Pharmacometrics Syst Pharmacol. 2023 Dec 11. doi:
+    10.1002/psp4.13095. Online ahead of print.
+
+    > Alzheimer’s Disease (AD) is characterized by beta-amyloid (Abeta)
+    > plaques in the brain and widespread neuronal damage. …To quantify
+    > the influence of individual microglia behaviors (activation,
+    > chemotaxis, phagocytosis, and proliferation) on plaque size and
+    > barrier covera …
+
+7.  **Selective sweep probabilities in spatially expanding
+    populations.**
+
+    Stein A, Kizhuttil R, Bak M, Noble R.
+
+    bioRxiv. 2023 Nov 27:2023.11.27.568915. doi:
+    10.1101/2023.11.27.568915. Preprint.
+
+    > However, most theoretical investigations of selective sweeps have
+    > assumed constant population size or have ignored spatial
+    > structure. Here we use mathematical modelling and analysis to
+    > investigate selective sweep probabilities in populations that grow
+    > with constant radial …
+
+8.  **Modeling preferential attraction to infected hosts in vector-borne
+    diseases.**
+
+    Thapa I, Ghersi D.
+
+    Front Public Health. 2023 Nov 22;11:1276029. doi:
+    10.3389/fpubh.2023.1276029. eCollection 2023.
+
+    > In order to determine the impact of this factor on viral spread,
+    > we built a dedicated agent-based model and parameterized it on
+    > dengue fever. We then performed a systematic study of how
+    > mosquitoes’ preferential attraction for infected hosts affects
+    > viral load …
+
+9.  **Modeling the impact of changing sexual behaviors with opposite-sex
+    partners and STI testing among women and men ages 15-44 on STI
+    diagnosis rates in the United States 2012-2019.**
+
+    Hamilton DT, Katz DA, Haderxhanaj LT, Copen CE, Spicknall IH, Hogben
+    M.
+
+    Infect Dis Model. 2023 Oct 30;8(4):1169-1176. doi:
+    10.1016/j.idm.2023.10.005. eCollection 2023 Dec.
+
+    > OBJECTIVE: To estimate the potential contributions of reported
+    > changes in frequency of penile-vaginal sex (PVS), condom use and
+    > STI screening to changes in gonorrhea and chlamydial diagnoses
+    > from 2012 to 2019. METHODS: An agent-based model of the
+    > heterosexual …
+
+10. **Hybrid Cellular Automata Modeling Reveals the Effects of Glucose
     Gradients on Tumour Spheroid Growth.**
 
     Messina L, Ferraro R, Peláez MJ, Wang Z, Cristini V, Dogra P,
@@ -29,132 +155,6 @@ update was on 2023-12-10 00:39:24.
     > growth dynamics, and guiding the development of pharmacological
     > strategies. …This model explores the potential evolution of 3D
     > tumor spheroids b …
-
-2.  **Efficient Radial-Shell Model for 3D Tumor Spheroid Dynamics with
-    Radiotherapy.**
-
-    Franke F, Michlíková S, Aland S, Kunz-Schughart LA, Voss-Böhme A,
-    Lange S.
-
-    Cancers (Basel). 2023 Nov 29;15(23):5645. doi:
-    10.3390/cancers15235645.
-
-    > We demonstrate that this radial-shell (RS) model reproduces
-    > experimental spheroid growth curves of several cell lines with and
-    > without radiotherapy, showing equal or better performance than
-    > published models such as 3D agent-based models. …Fina …
-
-3.  **Dynamics of Fibril Collagen Remodeling by Tumor Cells: A Model of
-    Tumor-Associated Collagen Signatures.**
-
-    Poonja S, Forero Pinto A, Lloyd MC, Damaghi M, Rejniak KA.
-
-    Cells. 2023 Nov 22;12(23):2688. doi: 10.3390/cells12232688.
-
-    > Here, we present a novel multi-cellular lattice-free
-    > (MultiCell-LF) agent-based model of ECM that, in contrast to
-    > static histology images, can simulate dynamic changes between
-    > TACSs. This model allowed us to identify the rules of cell-ECM
-    > physical inte …
-
-4.  **Homeostasis, injury and recovery dynamics at multiple scales in a
-    self-organizing mouse intestinal crypt.**
-
-    Gall L, Duckworth C, Jardi F, Lammens L, Parker A, Bianco A, Kimko
-    H, Pritchard DM, Pin C.
-
-    Elife. 2023 Dec 8;12:e85478. doi: 10.7554/eLife.85478. Online ahead
-    of print.
-
-    > With the aim of generating a more complete and integrated
-    > understanding of how the epithelium maintains homeostasis and
-    > recovers after injury, we have built a multi-scale agent-based
-    > model (ABM) of the mouse intestinal epithelium. We demonstrate
-    > that stable, …
-
-5.  **Toxic comments are associated with reduced activity of volunteer
-    editors on Wikipedia.**
-
-    Smirnov I, Oprea C, Strohmaier M.
-
-    PNAS Nexus. 2023 Dec 5;2(12):pgad385. doi:
-    10.1093/pnasnexus/pgad385. eCollection 2023 Dec.
-
-    > The effects of toxic comments are potentially even greater in the
-    > long term, as they are associated with a significantly increased
-    > risk of editors leaving the project altogether. Using an
-    > agent-based model, we demonstrate that toxicity attacks on
-    > Wikipedia ha …
-
-6.  **Modeling spatiotemporal domestic wastewater variability:
-    Implications for measuring treatment efficiency.**
-
-    DelaPaz-Ruíz N, Augustijn EW, Farnaghi M, Zurita-Milla R.
-
-    J Environ Manage. 2023 Dec 5;351:119680. doi:
-    10.1016/j.jenvman.2023.119680. Online ahead of print.
-
-    > Regulations for decentralized wastewater treatment plants (WWTP)
-    > can include rudimentary specifications for sporadic sampling,
-    > unencouraging continuous monitoring, and missing crucial domestic
-    > wastewater (DW) variability, especially in low- and middle-income
-    > countries. However, f …
-
-7.  **COVID-19 transmission in a resource dependent community with
-    heterogeneous populations: An agent-based modeling approach.**
-
-    Wood AD, Berry K.
-
-    Econ Hum Biol. 2023 Nov 19;52:101314. doi:
-    10.1016/j.ehb.2023.101314. Online ahead of print.
-
-    > During the pandemic, policy measures were debated, including
-    > community mask mandates, restricting workers to their boats and
-    > factories, and even closing the valuable seasonal fishery. We
-    > develop an agent-based SIR model (ABM) to examine COVID-19
-    > transmission …
-
-8.  **Adaptations to infer fitness interdependence promote the evolution
-    of cooperation.**
-
-    Colnaghi M, Santos FP, Van Lange PAM, Balliet D.
-
-    Proc Natl Acad Sci U S A. 2023 Dec 12;120(50):e2312242120. doi:
-    10.1073/pnas.2312242120. Epub 2023 Dec 6.
-
-    > The evolution of cooperation is a major question in the biological
-    > and behavioral sciences. While most theoretical studies model
-    > cooperation in the context of an isolated interaction (e.g., a
-    > Prisoner’s Dilemma), humans live in heterogeneous social
-    > environments, cha …
-
-9.  **Population-level effectiveness of pre-exposure prophylaxis for HIV
-    prevention among men who have sex with men in Montréal (Canada): a
-    modelling study of surveillance and survey data.**
-
-    Doyle CM, Milwid RM, Cox J, Xia Y, Lambert G, Tremblay C, Otis J,
-    Boily MC, Baril JG, Thomas R, Blais AD, Trottier B, Grace D, Moore
-    DM, Mishra S, Maheu-Giroux M.
-
-    J Int AIDS Soc. 2023 Dec;26(12):e26194. doi: 10.1002/jia2.26194.
-
-    > We evaluated the population-level impact of PrEP on HIV
-    > transmission among men who have sex with men (MSM) in Montreal,
-    > Quebec’s largest city, over 2013-2021. METHODS: We used an
-    > agent-based mathematical model of sexual HIV transmission to
-    > estimate the …
-
-10. **Exploring the dynamics of the 2022 mpox outbreak in Canada.**
-
-    Milwid RM, Li M, Fazil A, Maheu-Giroux M, Doyle CM, Xia Y, Cox J,
-    Grace D, Dvorakova M, Walker SC, Mishra S, Ogden NH.
-
-    J Med Virol. 2023 Dec;95(12):e29256. doi: 10.1002/jmv.29256.
-
-    > A compartmental model characterized epidemic drivers at
-    > national/provincial levels, while an agent-based model (ABM)
-    > assessed municipal-level impacts of vaccination. The models were
-    > parameterized and calibrated using empirical case and vaccinati …
 
 ## Code of Conduct
 
