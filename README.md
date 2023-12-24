@@ -9,152 +9,151 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-12-17 00:39:26.
+update was on 2023-12-24 00:38:45.
 
 <div class="cell">
 
 </div>
 
-1.  **An agent-based nested model integrating within-host and
-    between-host mechanisms to predict an epidemic.**
+1.  **Channel-Agnostic Training of Transmitter and Receiver for Wireless
+    Communications.**
 
-    Tatsukawa Y, Arefin MR, Kuga K, Tanimoto J.
+    Davey CP, Shakeel I, Deo RC, Salcedo-Sanz S.
 
-    PLoS One. 2023 Dec 15;18(12):e0295954. doi:
-    10.1371/journal.pone.0295954. eCollection 2023.
+    Sensors (Basel). 2023 Dec 15;23(24):9848. doi: 10.3390/s23249848.
 
-    > The COVID-19 pandemic has remarkably heightened concerns regarding
-    > the prediction of communicable disease spread. This study
-    > introduces an innovative agent-based modeling approach. In this
-    > model, the quantification of human-to-human transmission aligns …
+    > Wireless communications systems are traditionally designed by
+    > independently optimising signal processing functions based on a
+    > mathematical model. Deep learning-enabled communications have
+    > demonstrated end-to-end design by jointly optimising all
+    > components with respe …
 
-2.  **Investigating the Impact of Irrigation on Malaria Vector Larval
-    Habitats and Transmission Using a Hydrology-Based Model.**
+2.  **Cohesion: A Measure of Organisation and Epistemic Uncertainty of
+    Incoherent Ensembles.**
 
-    Jiang AL, Lee MC, Selvaraj P, Degefa T, Getachew H, Merga H,
-    Yewhalaw D, Yan G, Hsu K.
+    Davey T.
 
-    Geohealth. 2023 Dec 10;7(12):e2023GH000868. doi:
-    10.1029/2023GH000868. eCollection 2023 Dec.
+    Entropy (Basel). 2023 Nov 30;25(12):1605. doi: 10.3390/e25121605.
 
-    > By coupling a hydrologic model with an agent-based malaria model
-    > for a sugarcane plantation site in Arjo, Ethiopia, we demonstrated
-    > how incorporating hydrologic processes to estimate larval habitats
-    > can affect malaria transmission. Using the coupled …
+    > Here, we propose a measure of this self-consistency that is used
+    > to quantify our confidence in the outcomes of agent-based models,
+    > simulations or experiments of dynamical systems, which may or may
+    > not contain multiple attractors….
 
-3.  **Social identity bias and communication network clustering interact
-    to shape patterns of opinion dynamics.**
+3.  **Market Impact Analysis of Financial Literacy among A-Share Market
+    Investors: An Agent-Based Model.**
 
-    Steiglechner P, Smaldino PE, Moser D, Merico A.
+    Zhou R, Xiong X, Llacay B, Peffer G.
 
-    J R Soc Interface. 2023 Dec;20(209):20230372. doi:
-    10.1098/rsif.2023.0372. Epub 2023 Dec 13.
+    Entropy (Basel). 2023 Nov 29;25(12):1602. doi: 10.3390/e25121602.
 
-    > Social influence aligns people’s opinions, but social identities
-    > and related in-group biases interfere with this alignment. …It is
-    > unclear how social identities affect the emergence of opinion
-    > patterns, such as consensus or disagreement, in a society. Here,
-    > we present an …
+    > Financial literacy has become increasingly crucial in today’s
+    > complex financial markets. This paper explores the impact of
+    > financial literacy on the stock market by establishing an
+    > artificial financial market that aligns with the characteristics
+    > of the Chinese A-share mark …
 
-4.  **New Forms of Collaboration Between the Social and Natural Sciences
-    Could Become Necessary for Understanding Rapid Collective
-    Transitions in Social Systems.**
+4.  **Translating Virtual Prey-Predator Interaction to Real-World
+    Robotic Environments: Enabling Multimodal Sensing and Evolutionary
+    Dynamics.**
 
-    Thurner S.
+    Sun X, Hu C, Liu T, Yue S, Peng J, Fu Q.
 
-    Perspect Psychol Sci. 2023 Dec 11:17456916231201135. doi:
-    10.1177/17456916231201135. Online ahead of print.
+    Biomimetics (Basel). 2023 Dec 1;8(8):580. doi:
+    10.3390/biomimetics8080580.
 
-    > The physics concept of universality might be key to understanding
-    > some tipping points in human societies and why agent-based models
-    > (ABMs) might make sense for identifying the transition points. If
-    > universality exists in social systems there is hope that rela …
+    > Prey-predator interactions play a pivotal role in elucidating the
+    > evolution and adaptation of various organism’s traits. Numerous
+    > approaches have been employed to study the dynamics of
+    > prey-predator interaction systems, with agent-based methodologies
+    > gaining …
 
-5.  **Simulating emergence of novelties using agent-based models.**
+5.  **Impact of Vaccination and Nonpharmaceutical Interventions With
+    Possible COVID-19 Viral Evolutions Using an Agent-Based
+    Simulation.**
 
-    Suda M, Saito T, Iwahashi N, Regan C, Oka M.
+    Lee S, Zabinsky ZB, Wasserheit JN, Ross JM, Chen S, Liu S.
 
-    PLoS One. 2023 Dec 11;18(12):e0294228. doi:
-    10.1371/journal.pone.0294228. eCollection 2023.
+    AJPM Focus. 2023 Oct 10;3(1):100155. doi:
+    10.1016/j.focus.2023.100155. eCollection 2024 Feb.
 
-    > In this study, we introduce a new model that incorporates context
-    > information into existing agent-based models in order to more
-    > accurately capture the structure and growth dynamics of these
-    > networks. Context information is introduced through labels …
+    > As the virus keeps evolving to be more infectious and immune
+    > evasive, some question whether the COVID-19 pandemic can be
+    > managed through sustainable public health measures. METHODS: We
+    > developed an agent-based simulation to explore the impact of
+    > COVID-19 mutations, …
 
-6.  **Microglial Roles in Alzheimer’s Disease: An Agent-Based Model to
-    Elucidate Microglial Spatiotemporal Response to Beta-Amyloid.**
+6.  **COMMBINI: an experimentally-informed COmputational Model of
+    Macrophage dynamics in the Bone INjury Immunoresponse.**
 
-    Weathered C, Bardehle S, Yoon C, Kumar N, Leyns CEG, Kennedy ME,
-    Bloomingdale P, Pienaar E.
+    Borgiani E, Nasello G, Ory L, Herpelinck T, Groeneveldt L, Bucher
+    CH, Schmidt-Bleek K, Geris L.
 
-    CPT Pharmacometrics Syst Pharmacol. 2023 Dec 11. doi:
-    10.1002/psp4.13095. Online ahead of print.
+    Front Immunol. 2023 Nov 8;14:1231329. doi:
+    10.3389/fimmu.2023.1231329. eCollection 2023.
 
-    > Alzheimer’s Disease (AD) is characterized by beta-amyloid (Abeta)
-    > plaques in the brain and widespread neuronal damage. …To quantify
-    > the influence of individual microglia behaviors (activation,
-    > chemotaxis, phagocytosis, and proliferation) on plaque size and
-    > barrier covera …
+    > An agent-based model is employed to simulate the behavior of
+    > immune cells, inflammatory cytokines and fracture debris as well
+    > as their reciprocal multiscale biological interactions during the
+    > development of the early inflammation (up to 5 days post-injury).
+    > . …
 
-7.  **Selective sweep probabilities in spatially expanding
-    populations.**
+7.  **Agent-based simulation and child protection systems: Rationale,
+    implementation, and verification.**
 
-    Stein A, Kizhuttil R, Bak M, Noble R.
+    Wulczyn F, Kaligotla C, Hummel J, Wagner A, MacLeod A.
 
-    bioRxiv. 2023 Nov 27:2023.11.27.568915. doi:
-    10.1101/2023.11.27.568915. Preprint.
+    Child Abuse Negl. 2023 Dec 20;147:106578. doi:
+    10.1016/j.chiabu.2023.106578. Online ahead of print.
 
-    > However, most theoretical investigations of selective sweeps have
-    > assumed constant population size or have ignored spatial
-    > structure. Here we use mathematical modelling and analysis to
-    > investigate selective sweep probabilities in populations that grow
-    > with constant radial …
+    > BACKGROUND AND OBJECTIVE: Simulation models are an important tool
+    > used in health care and other disciplines to support operational
+    > research and decision-making. In the child protection literature,
+    > simulation models are an under-utilized source of research
+    > evidence. …
 
-8.  **Modeling preferential attraction to infected hosts in vector-borne
-    diseases.**
+8.  **An agent-based modeling approach for lung fibrosis in response to
+    COVID-19.**
 
-    Thapa I, Ghersi D.
+    Islam MA, Getz M, Macklin P, Ford Versypt AN.
 
-    Front Public Health. 2023 Nov 22;11:1276029. doi:
-    10.3389/fpubh.2023.1276029. eCollection 2023.
+    PLoS Comput Biol. 2023 Dec 21;19(12):e1011741. doi:
+    10.1371/journal.pcbi.1011741. Online ahead of print.
 
-    > In order to determine the impact of this factor on viral spread,
-    > we built a dedicated agent-based model and parameterized it on
-    > dengue fever. We then performed a systematic study of how
-    > mosquitoes’ preferential attraction for infected hosts affects
-    > viral load …
+    > Our simulation results also predicted fibrotic outcomes even with
+    > lower collagen area fraction when spatially-localized latent
+    > TGF-beta sources were active for longer times. We validated our
+    > model by comparing simulated dynamics for TGF-beta, collagen area
+    > fraction, and ma …
 
-9.  **Modeling the impact of changing sexual behaviors with opposite-sex
-    partners and STI testing among women and men ages 15-44 on STI
-    diagnosis rates in the United States 2012-2019.**
+9.  **A mixed-method approach to determining contact matrices in the
+    Cox’s Bazar refugee settlement.**
 
-    Hamilton DT, Katz DA, Haderxhanaj LT, Copen CE, Spicknall IH, Hogben
-    M.
+    Walker J, Aylett-Bullock J, Shi D, Kahindo Maina AG, Samir Evers E,
+    Harlass S, Krauss F.
 
-    Infect Dis Model. 2023 Oct 30;8(4):1169-1176. doi:
-    10.1016/j.idm.2023.10.005. eCollection 2023 Dec.
+    R Soc Open Sci. 2023 Dec 20;10(12):231066. doi: 10.1098/rsos.231066.
+    eCollection 2023 Dec.
 
-    > OBJECTIVE: To estimate the potential contributions of reported
-    > changes in frequency of penile-vaginal sex (PVS), condom use and
-    > STI screening to changes in gonorrhea and chlamydial diagnoses
-    > from 2012 to 2019. METHODS: An agent-based model of the
-    > heterosexual …
+    > In particular, no contact matrices exist for refugee
+    > settlements-locations under-served by epidemic models in general.
+    > In this paper, we present a novel, mixed-method approach for
+    > deriving contact matrices in populations, which combines a
+    > lightweight, rapidly deployable su …
 
-10. **Hybrid Cellular Automata Modeling Reveals the Effects of Glucose
-    Gradients on Tumour Spheroid Growth.**
+10. **Soliton approximation in continuum models of leader-follower
+    behavior.**
 
-    Messina L, Ferraro R, Peláez MJ, Wang Z, Cristini V, Dogra P,
-    Caserta S.
+    Terragni F, Martinson WD, Carretero M, Maini PK, Bonilla LL.
 
-    Cancers (Basel). 2023 Nov 30;15(23):5660. doi:
-    10.3390/cancers15235660.
+    Phys Rev E. 2023 Nov;108(5-1):054407. doi:
+    10.1103/PhysRevE.108.054407.
 
-    > PURPOSE: In recent years, mathematical models have become
-    > instrumental in cancer research, offering insights into tumor
-    > growth dynamics, and guiding the development of pharmacological
-    > strategies. …This model explores the potential evolution of 3D
-    > tumor spheroids b …
+    > Complex biological processes involve collective behavior of
+    > entities (bacteria, cells, animals) over many length and time
+    > scales and can be described by discrete models that track
+    > individuals or by continuum models involving densities and fields.
+    > We consider hybrid …
 
 ## Code of Conduct
 
