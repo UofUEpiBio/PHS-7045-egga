@@ -9,13 +9,53 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-12-24 00:38:45.
+update was on 2023-12-31 00:38:56.
 
 <div class="cell">
 
 </div>
 
-1.  **Channel-Agnostic Training of Transmitter and Receiver for Wireless
+1.  **Chaotic and Oscillatory Behavior of an Epidemic: Agent-Based
+    Model.**
+
+    Raczynski S.
+
+    Nonlinear Dynamics Psychol Life Sci. 2024 Jan;28(1):1-18.
+
+    > The spread of epidemics over a landscape of several population
+    > agglomerations is presented. A continuous, system dynamics version
+    > of an epidemics model is discussed and compared to the agent-based
+    > model. The validity of the continuous Susceptible-Infec …
+
+2.  **Heterodox modeling: practicing well-tuned provisioning or
+    commoning with networked multi-agent environments.**
+
+    Miyazaki S.
+
+    Rev Evol Polit Econ. 2023;4(3):597-610. doi:
+    10.1007/s43253-023-00109-7. Epub 2023 Oct 24.
+
+    > The article, thirdly, theorizes heterodox modeling as being based
+    > on a still imaginary, not-yet implemented, networked multi-agent
+    > online environment, which would integrate the modular programming
+    > of agent-based models, group exercises, r …
+
+3.  **Human Stem Cells for Ophthalmology: Recent Advances in Diagnostic
+    Image Analysis and Computational Modelling.**
+
+    Wadkin LE, Makarenko I, Parker NG, Shukurov A, Figueiredo FC, Lako
+    M.
+
+    Curr Stem Cell Rep. 2023;9(4):57-66. doi:
+    10.1007/s40778-023-00229-0. Epub 2023 Nov 18.
+
+    > PURPOSE OF REVIEW: To explore the advances and future research
+    > directions in image analysis and computational modelling of human
+    > stem cells (hSCs) for ophthalmological applications. RECENT
+    > FINDINGS: hSCs hold great potential in ocular regenerative
+    > medicine due to their app …
+
+4.  **Channel-Agnostic Training of Transmitter and Receiver for Wireless
     Communications.**
 
     Davey CP, Shakeel I, Deo RC, Salcedo-Sanz S.
@@ -28,7 +68,7 @@ update was on 2023-12-24 00:38:45.
     > demonstrated end-to-end design by jointly optimising all
     > components with respe …
 
-2.  **Cohesion: A Measure of Organisation and Epistemic Uncertainty of
+5.  **Cohesion: A Measure of Organisation and Epistemic Uncertainty of
     Incoherent Ensembles.**
 
     Davey T.
@@ -40,7 +80,7 @@ update was on 2023-12-24 00:38:45.
     > simulations or experiments of dynamical systems, which may or may
     > not contain multiple attractors….
 
-3.  **Market Impact Analysis of Financial Literacy among A-Share Market
+6.  **Market Impact Analysis of Financial Literacy among A-Share Market
     Investors: An Agent-Based Model.**
 
     Zhou R, Xiong X, Llacay B, Peffer G.
@@ -53,7 +93,7 @@ update was on 2023-12-24 00:38:45.
     > artificial financial market that aligns with the characteristics
     > of the Chinese A-share mark …
 
-4.  **Translating Virtual Prey-Predator Interaction to Real-World
+7.  **Translating Virtual Prey-Predator Interaction to Real-World
     Robotic Environments: Enabling Multimodal Sensing and Evolutionary
     Dynamics.**
 
@@ -68,7 +108,7 @@ update was on 2023-12-24 00:38:45.
     > prey-predator interaction systems, with agent-based methodologies
     > gaining …
 
-5.  **Impact of Vaccination and Nonpharmaceutical Interventions With
+8.  **Impact of Vaccination and Nonpharmaceutical Interventions With
     Possible COVID-19 Viral Evolutions Using an Agent-Based
     Simulation.**
 
@@ -83,7 +123,7 @@ update was on 2023-12-24 00:38:45.
     > developed an agent-based simulation to explore the impact of
     > COVID-19 mutations, …
 
-6.  **COMMBINI: an experimentally-informed COmputational Model of
+9.  **COMMBINI: an experimentally-informed COmputational Model of
     Macrophage dynamics in the Bone INjury Immunoresponse.**
 
     Borgiani E, Nasello G, Ory L, Herpelinck T, Groeneveldt L, Bucher
@@ -98,7 +138,7 @@ update was on 2023-12-24 00:38:45.
     > development of the early inflammation (up to 5 days post-injury).
     > . …
 
-7.  **Agent-based simulation and child protection systems: Rationale,
+10. **Agent-based simulation and child protection systems: Rationale,
     implementation, and verification.**
 
     Wulczyn F, Kaligotla C, Hummel J, Wagner A, MacLeod A.
@@ -111,49 +151,6 @@ update was on 2023-12-24 00:38:45.
     > research and decision-making. In the child protection literature,
     > simulation models are an under-utilized source of research
     > evidence. …
-
-8.  **An agent-based modeling approach for lung fibrosis in response to
-    COVID-19.**
-
-    Islam MA, Getz M, Macklin P, Ford Versypt AN.
-
-    PLoS Comput Biol. 2023 Dec 21;19(12):e1011741. doi:
-    10.1371/journal.pcbi.1011741. Online ahead of print.
-
-    > Our simulation results also predicted fibrotic outcomes even with
-    > lower collagen area fraction when spatially-localized latent
-    > TGF-beta sources were active for longer times. We validated our
-    > model by comparing simulated dynamics for TGF-beta, collagen area
-    > fraction, and ma …
-
-9.  **A mixed-method approach to determining contact matrices in the
-    Cox’s Bazar refugee settlement.**
-
-    Walker J, Aylett-Bullock J, Shi D, Kahindo Maina AG, Samir Evers E,
-    Harlass S, Krauss F.
-
-    R Soc Open Sci. 2023 Dec 20;10(12):231066. doi: 10.1098/rsos.231066.
-    eCollection 2023 Dec.
-
-    > In particular, no contact matrices exist for refugee
-    > settlements-locations under-served by epidemic models in general.
-    > In this paper, we present a novel, mixed-method approach for
-    > deriving contact matrices in populations, which combines a
-    > lightweight, rapidly deployable su …
-
-10. **Soliton approximation in continuum models of leader-follower
-    behavior.**
-
-    Terragni F, Martinson WD, Carretero M, Maini PK, Bonilla LL.
-
-    Phys Rev E. 2023 Nov;108(5-1):054407. doi:
-    10.1103/PhysRevE.108.054407.
-
-    > Complex biological processes involve collective behavior of
-    > entities (bacteria, cells, animals) over many length and time
-    > scales and can be described by discrete models that track
-    > individuals or by continuum models involving densities and fields.
-    > We consider hybrid …
 
 ## Code of Conduct
 
