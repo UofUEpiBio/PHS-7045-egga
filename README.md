@@ -9,13 +9,84 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2023-12-31 00:38:56.
+update was on 2024-01-07 00:40:18.
 
 <div class="cell">
 
 </div>
 
-1.  **Chaotic and Oscillatory Behavior of an Epidemic: Agent-Based
+1.  **Evaluating Losses from Water Scarcity and Benefits of Water
+    Conservation Measures to Intercity Supply Chains in China.**
+
+    She Y, Chen J, Zhou Q, Wang L, Duan K, Wang R, Qu S, Xu M, Zhao Y.
+
+    Environ Sci Technol. 2024 Jan 4. doi: 10.1021/acs.est.3c07491.
+    Online ahead of print.
+
+    > There is a pressing need for a new method to assess losses related
+    > to water scarcity. Here, we develop an agent-based complex network
+    > model to estimate the inter-regional and intersectoral impacts of
+    > water scarcity on both cities and basins. …Among the wate …
+
+2.  **An in silico micro-multiphysics agent-based approach for
+    simulating bone regeneration in a mouse femur defect model.**
+
+    Kendall JJ, Ledoux C, Marques FC, Boaretti D, Schulte FA, Morgan EF,
+    Müller R.
+
+    Front Bioeng Biotechnol. 2023 Dec 14;11:1289127. doi:
+    10.3389/fbioe.2023.1289127. eCollection 2023.
+
+    > This paper presents an in silico micro-multiphysics agent-based
+    > (micro-MPA) model for bone regeneration following an osteotomy.
+    > The model includes vasculature, bone, and immune cells, as well as
+    > their interaction with the local environment. …
+
+3.  **The impact of non-pharmaceutical interventions on the spread of
+    COVID-19 in Saudi Arabia: Simulation approach.**
+
+    Alhomaid A, Alzeer AH, Alsaawi F, Aljandal A, Al-Jafar R, Albalawi
+    M, Alotaibi D, Alabdullatif R, AlGhassab R, Mominkhan DM, Alharbi M,
+    Alghamdi AA, Almoklif M, Alabdulaali MK.
+
+    Saudi Pharm J. 2024 Jan;32(1):101886. doi:
+    10.1016/j.jsps.2023.101886. Epub 2023 Nov 30.
+
+    > OBJECTIVES: This paper aims to measure the impact of the
+    > implemented nonpharmaceutical interventions (NPIs) in the Kingdom
+    > of Saudi Arabia (KSA) during the pandemic using simulation
+    > modeling. METHODS: To measure the impact of NPI, a hybrid
+    > agent-based and sys …
+
+4.  **A Conversational Agent for Early Detection of Neurotoxic Effects
+    of Medications through Automated Intensive Observation.**
+
+    Pakhomov S, Solinsky J, Michalowski M, Bachanova V.
+
+    Pac Symp Biocomput. 2024;29:24-38.
+
+    > We present a fully automated AI-based system for intensive
+    > monitoring of cognitive symptoms of neurotoxicity that frequently
+    > appear as a result of immunotherapy of hematologic malignancies.
+    > …We have developed the Automated Neural Nursing Assistant (ANNA)
+    > system designed …
+
+5.  **Connecting Agent-Based Models with High-Dimensional Parameter
+    Spaces to Multidimensional Data Using SMoRe ParS: A Surrogate
+    Modeling Approach.**
+
+    Bergman DR, Norton KA, Jain HV, Jackson T.
+
+    Bull Math Biol. 2023 Dec 30;86(1):11. doi:
+    10.1007/s11538-023-01240-6.
+
+    > Across a broad range of disciplines, agent-based models (ABMs) are
+    > increasingly utilized for replicating, predicting, and
+    > understanding complex systems and their emergent behavior. …In so
+    > doing, we show that our approach of using an explicitly formulated
+    > su …
+
+6.  **Chaotic and Oscillatory Behavior of an Epidemic: Agent-Based
     Model.**
 
     Raczynski S.
@@ -27,7 +98,7 @@ update was on 2023-12-31 00:38:56.
     > of an epidemics model is discussed and compared to the agent-based
     > model. The validity of the continuous Susceptible-Infec …
 
-2.  **Heterodox modeling: practicing well-tuned provisioning or
+7.  **Heterodox modeling: practicing well-tuned provisioning or
     commoning with networked multi-agent environments.**
 
     Miyazaki S.
@@ -40,7 +111,7 @@ update was on 2023-12-31 00:38:56.
     > online environment, which would integrate the modular programming
     > of agent-based models, group exercises, r …
 
-3.  **Human Stem Cells for Ophthalmology: Recent Advances in Diagnostic
+8.  **Human Stem Cells for Ophthalmology: Recent Advances in Diagnostic
     Image Analysis and Computational Modelling.**
 
     Wadkin LE, Makarenko I, Parker NG, Shukurov A, Figueiredo FC, Lako
@@ -55,7 +126,7 @@ update was on 2023-12-31 00:38:56.
     > FINDINGS: hSCs hold great potential in ocular regenerative
     > medicine due to their app …
 
-4.  **Channel-Agnostic Training of Transmitter and Receiver for Wireless
+9.  **Channel-Agnostic Training of Transmitter and Receiver for Wireless
     Communications.**
 
     Davey CP, Shakeel I, Deo RC, Salcedo-Sanz S.
@@ -68,7 +139,7 @@ update was on 2023-12-31 00:38:56.
     > demonstrated end-to-end design by jointly optimising all
     > components with respe …
 
-5.  **Cohesion: A Measure of Organisation and Epistemic Uncertainty of
+10. **Cohesion: A Measure of Organisation and Epistemic Uncertainty of
     Incoherent Ensembles.**
 
     Davey T.
@@ -79,78 +150,6 @@ update was on 2023-12-31 00:38:56.
     > to quantify our confidence in the outcomes of agent-based models,
     > simulations or experiments of dynamical systems, which may or may
     > not contain multiple attractors….
-
-6.  **Market Impact Analysis of Financial Literacy among A-Share Market
-    Investors: An Agent-Based Model.**
-
-    Zhou R, Xiong X, Llacay B, Peffer G.
-
-    Entropy (Basel). 2023 Nov 29;25(12):1602. doi: 10.3390/e25121602.
-
-    > Financial literacy has become increasingly crucial in today’s
-    > complex financial markets. This paper explores the impact of
-    > financial literacy on the stock market by establishing an
-    > artificial financial market that aligns with the characteristics
-    > of the Chinese A-share mark …
-
-7.  **Translating Virtual Prey-Predator Interaction to Real-World
-    Robotic Environments: Enabling Multimodal Sensing and Evolutionary
-    Dynamics.**
-
-    Sun X, Hu C, Liu T, Yue S, Peng J, Fu Q.
-
-    Biomimetics (Basel). 2023 Dec 1;8(8):580. doi:
-    10.3390/biomimetics8080580.
-
-    > Prey-predator interactions play a pivotal role in elucidating the
-    > evolution and adaptation of various organism’s traits. Numerous
-    > approaches have been employed to study the dynamics of
-    > prey-predator interaction systems, with agent-based methodologies
-    > gaining …
-
-8.  **Impact of Vaccination and Nonpharmaceutical Interventions With
-    Possible COVID-19 Viral Evolutions Using an Agent-Based
-    Simulation.**
-
-    Lee S, Zabinsky ZB, Wasserheit JN, Ross JM, Chen S, Liu S.
-
-    AJPM Focus. 2023 Oct 10;3(1):100155. doi:
-    10.1016/j.focus.2023.100155. eCollection 2024 Feb.
-
-    > As the virus keeps evolving to be more infectious and immune
-    > evasive, some question whether the COVID-19 pandemic can be
-    > managed through sustainable public health measures. METHODS: We
-    > developed an agent-based simulation to explore the impact of
-    > COVID-19 mutations, …
-
-9.  **COMMBINI: an experimentally-informed COmputational Model of
-    Macrophage dynamics in the Bone INjury Immunoresponse.**
-
-    Borgiani E, Nasello G, Ory L, Herpelinck T, Groeneveldt L, Bucher
-    CH, Schmidt-Bleek K, Geris L.
-
-    Front Immunol. 2023 Nov 8;14:1231329. doi:
-    10.3389/fimmu.2023.1231329. eCollection 2023.
-
-    > An agent-based model is employed to simulate the behavior of
-    > immune cells, inflammatory cytokines and fracture debris as well
-    > as their reciprocal multiscale biological interactions during the
-    > development of the early inflammation (up to 5 days post-injury).
-    > . …
-
-10. **Agent-based simulation and child protection systems: Rationale,
-    implementation, and verification.**
-
-    Wulczyn F, Kaligotla C, Hummel J, Wagner A, MacLeod A.
-
-    Child Abuse Negl. 2023 Dec 20;147:106578. doi:
-    10.1016/j.chiabu.2023.106578. Online ahead of print.
-
-    > BACKGROUND AND OBJECTIVE: Simulation models are an important tool
-    > used in health care and other disciplines to support operational
-    > research and decision-making. In the child protection literature,
-    > simulation models are an under-utilized source of research
-    > evidence. …
 
 ## Code of Conduct
 
