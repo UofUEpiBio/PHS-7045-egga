@@ -9,13 +9,88 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-01-07 00:40:18.
+update was on 2024-01-14 00:40:20.
 
 <div class="cell">
 
 </div>
 
-1.  **Evaluating Losses from Water Scarcity and Benefits of Water
+1.  **The forecasted prevalence of comorbidities and multimorbidity in
+    people with HIV in the United States through the year 2030: A
+    modeling study.**
+
+    Althoff KN, Stewart C, Humes E, Gerace L, Boyd C, Gebo K, Justice
+    AC, Hyle EP, Coburn SB, Lang R, Silverberg MJ, Horberg MA, Lima VD,
+    Gill MJ, Karris M, Rebeiro PF, Thorne J, Rich AJ, Crane H, Kitahata
+    M, Rubtsova A, Wong C, Leng S, Marconi VC, D’Souza G, Kim HN,
+    Napravnik S, McGinnis K, Kirk GD, Sterling TR, Moore RD, Kasaie P.
+
+    PLoS Med. 2024 Jan 12;21(1):e1004325. doi:
+    10.1371/journal.pmed.1004325. Online ahead of print.
+
+    > The objective of our study was to forecast the prevalence of
+    > comorbidities and multimorbidity among people with HIV (PWH) using
+    > antiretroviral therapy (ART) in the United States (US)
+    > through 2030. METHODS AND FINDINGS: Using the PEARL model-an
+    > agent-based sim …
+
+2.  **Exploring Winegrowers’ Behaviours and Ecological Impacts Under
+    Climate Change and Policy Scenarios-Examples from Three European
+    Winegrowing Regions.**
+
+    Chen Y, Möth S, Winter S, Willemen L, Schwarz N.
+
+    Environ Manage. 2024 Jan 11. doi: 10.1007/s00267-023-01924-8. Online
+    ahead of print.
+
+    > Viticulture is an example of a socio-ecological system that poses
+    > serious challenges for sustainable soil management and pesticide
+    > use, with various interactions between winegrowers’
+    > decision-making and ecological consequences. This study introduces
+    > an agent-based …
+
+3.  **Modeling opinion misperception and the emergence of silence in
+    online social system.**
+
+    Vilone D, Polizzi E.
+
+    PLoS One. 2024 Jan 11;19(1):e0296075. doi:
+    10.1371/journal.pone.0296075. eCollection 2024.
+
+    > In the last decades an increasing deal of research has
+    > investigated the phenomenon of opinion misperception in human
+    > communities and, more recently, in social media. Opinion
+    > misperception is the wrong evaluation by community’s members of
+    > the real distribution of opinions o …
+
+4.  **A simulation-based analysis of the impact of rhetorical citations
+    in science.**
+
+    Bao H, Teplitskiy M.
+
+    Nat Commun. 2024 Jan 10;15(1):431. doi: 10.1038/s41467-023-44249-0.
+
+    > Here, we explore if rhetorical citations have some plausibly
+    > positive effects for science and disproportionately benefit the
+    > less prominent papers and researchers. We developed a set of
+    > agent-based models where agents can cite substantively and
+    > rhetorically. …
+
+5.  **Impact of different nucleic acid testing scenarios on COVID-19
+    transmission.**
+
+    Zhang X, Chen B, Le J, Hu Y.
+
+    Heliyon. 2023 Dec 13;10(1):e23700. doi:
+    10.1016/j.heliyon.2023.e23700. eCollection 2024 Jan 15.
+
+    > When COVID-19 infections occur in small-scale, how to efficiently
+    > detect and prevent the disease has become the main problem. In
+    > this study, based on the characteristics of the Omicron variant
+    > and China’s pandemic prevention and control strategies, the
+    > following thr …
+
+6.  **Evaluating Losses from Water Scarcity and Benefits of Water
     Conservation Measures to Intercity Supply Chains in China.**
 
     She Y, Chen J, Zhou Q, Wang L, Duan K, Wang R, Qu S, Xu M, Zhao Y.
@@ -28,7 +103,7 @@ update was on 2024-01-07 00:40:18.
     > model to estimate the inter-regional and intersectoral impacts of
     > water scarcity on both cities and basins. …Among the wate …
 
-2.  **An in silico micro-multiphysics agent-based approach for
+7.  **An in silico micro-multiphysics agent-based approach for
     simulating bone regeneration in a mouse femur defect model.**
 
     Kendall JJ, Ledoux C, Marques FC, Boaretti D, Schulte FA, Morgan EF,
@@ -42,7 +117,7 @@ update was on 2024-01-07 00:40:18.
     > The model includes vasculature, bone, and immune cells, as well as
     > their interaction with the local environment. …
 
-3.  **The impact of non-pharmaceutical interventions on the spread of
+8.  **The impact of non-pharmaceutical interventions on the spread of
     COVID-19 in Saudi Arabia: Simulation approach.**
 
     Alhomaid A, Alzeer AH, Alsaawi F, Aljandal A, Al-Jafar R, Albalawi
@@ -58,7 +133,7 @@ update was on 2024-01-07 00:40:18.
     > modeling. METHODS: To measure the impact of NPI, a hybrid
     > agent-based and sys …
 
-4.  **A Conversational Agent for Early Detection of Neurotoxic Effects
+9.  **A Conversational Agent for Early Detection of Neurotoxic Effects
     of Medications through Automated Intensive Observation.**
 
     Pakhomov S, Solinsky J, Michalowski M, Bachanova V.
@@ -71,7 +146,7 @@ update was on 2024-01-07 00:40:18.
     > …We have developed the Automated Neural Nursing Assistant (ANNA)
     > system designed …
 
-5.  **Connecting Agent-Based Models with High-Dimensional Parameter
+10. **Connecting Agent-Based Models with High-Dimensional Parameter
     Spaces to Multidimensional Data Using SMoRe ParS: A Surrogate
     Modeling Approach.**
 
@@ -85,71 +160,6 @@ update was on 2024-01-07 00:40:18.
     > understanding complex systems and their emergent behavior. …In so
     > doing, we show that our approach of using an explicitly formulated
     > su …
-
-6.  **Chaotic and Oscillatory Behavior of an Epidemic: Agent-Based
-    Model.**
-
-    Raczynski S.
-
-    Nonlinear Dynamics Psychol Life Sci. 2024 Jan;28(1):1-18.
-
-    > The spread of epidemics over a landscape of several population
-    > agglomerations is presented. A continuous, system dynamics version
-    > of an epidemics model is discussed and compared to the agent-based
-    > model. The validity of the continuous Susceptible-Infec …
-
-7.  **Heterodox modeling: practicing well-tuned provisioning or
-    commoning with networked multi-agent environments.**
-
-    Miyazaki S.
-
-    Rev Evol Polit Econ. 2023;4(3):597-610. doi:
-    10.1007/s43253-023-00109-7. Epub 2023 Oct 24.
-
-    > The article, thirdly, theorizes heterodox modeling as being based
-    > on a still imaginary, not-yet implemented, networked multi-agent
-    > online environment, which would integrate the modular programming
-    > of agent-based models, group exercises, r …
-
-8.  **Human Stem Cells for Ophthalmology: Recent Advances in Diagnostic
-    Image Analysis and Computational Modelling.**
-
-    Wadkin LE, Makarenko I, Parker NG, Shukurov A, Figueiredo FC, Lako
-    M.
-
-    Curr Stem Cell Rep. 2023;9(4):57-66. doi:
-    10.1007/s40778-023-00229-0. Epub 2023 Nov 18.
-
-    > PURPOSE OF REVIEW: To explore the advances and future research
-    > directions in image analysis and computational modelling of human
-    > stem cells (hSCs) for ophthalmological applications. RECENT
-    > FINDINGS: hSCs hold great potential in ocular regenerative
-    > medicine due to their app …
-
-9.  **Channel-Agnostic Training of Transmitter and Receiver for Wireless
-    Communications.**
-
-    Davey CP, Shakeel I, Deo RC, Salcedo-Sanz S.
-
-    Sensors (Basel). 2023 Dec 15;23(24):9848. doi: 10.3390/s23249848.
-
-    > Wireless communications systems are traditionally designed by
-    > independently optimising signal processing functions based on a
-    > mathematical model. Deep learning-enabled communications have
-    > demonstrated end-to-end design by jointly optimising all
-    > components with respe …
-
-10. **Cohesion: A Measure of Organisation and Epistemic Uncertainty of
-    Incoherent Ensembles.**
-
-    Davey T.
-
-    Entropy (Basel). 2023 Nov 30;25(12):1605. doi: 10.3390/e25121605.
-
-    > Here, we propose a measure of this self-consistency that is used
-    > to quantify our confidence in the outcomes of agent-based models,
-    > simulations or experiments of dynamical systems, which may or may
-    > not contain multiple attractors….
 
 ## Code of Conduct
 
