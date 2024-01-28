@@ -9,145 +9,139 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-01-21 00:40:37.
+update was on 2024-01-28 00:37:15.
 
 <div class="cell">
 
 </div>
 
-1.  **SARS-CoV-2 Delta and Omicron community transmission networks as
-    added value to contact tracing.**
+1.  **Coastal adaptation and migration dynamics under future shoreline
+    changes.**
 
-    Murray JM, Murray DD, Schvoerer E, Akand EH.
+    Tierolf L, Haer T, Athanasiou P, Luijendijk AP, Botzen WJW, Aerts
+    JCJH.
 
-    J Infect. 2024 Jan 17:S0163-4453(24)00023-9. doi:
-    10.1016/j.jinf.2024.01.004. Online ahead of print.
+    Sci Total Environ. 2024 Jan 24:170239. doi:
+    10.1016/j.scitotenv.2024.170239. Online ahead of print.
 
-    > RESULTS: Many of the sequences were identical, with clone sizes
-    > following power law distributions driven by negative binomial
-    > probability distributions for both the number of infections per
-    > individual and the number of mutations per transmission (median
-    > 0.74 nucleotide changes fo …
+    > We develop an agent-based model that simulates household and
+    > government agents adapting to shoreline change and increasing
+    > coastal flood risk. This model is coupled to a gravity-based model
+    > of migration to simulate coastward migration. .. …
 
-2.  **Free volume theory explains the unusual behavior of viscosity in a
-    non-confluent tissue during morphogenesis.**
+2.  **Water-Soluble Star Polymer as a Potential Photoactivated Nanotool
+    for Lysozyme Degradation.**
 
-    Das R, Sinha S, Li X, Kirkpatrick TR, Thirumalai D.
+    Mezzina L, Nicosia A, Barone L, Vento F, Mineo PG.
 
-    Elife. 2024 Jan 19;12:RP87966. doi: 10.7554/eLife.87966.
+    Polymers (Basel). 2024 Jan 22;16(2):301. doi: 10.3390/polym16020301.
 
-    > A recent experiment on zebrafish blastoderm morphogenesis showed
-    > that the viscosity (eta) of a non-confluent embryonic tissue grows
-    > sharply until a critical cell packing fraction ((S)). The increase
-    > in eta up to (S) is similar to the behavior observed in several
-    > gla …
+    > This work proposes the design of an artificial photo-protease
+    > agent based on a PEGylated mercury porphyrin, able to form a
+    > stable complex with l-Tryptophan, an amino acid present also in
+    > the lysozyme structure (a well-known protein model). …The obtained
+    > sys …
 
-3.  **Calibration of pedestrian ingress model based on CCTV surveillance
-    data using machine learning methods.**
+3.  **Flood Risk and Preventive Choices: A Framework for Studying Human
+    Behaviors.**
 
-    Pálková M, Uhlík O, Apeltauer T.
+    Sapienza A, Falcone R.
 
-    PLoS One. 2024 Jan 18;19(1):e0293679. doi:
-    10.1371/journal.pone.0293679. eCollection 2024.
+    Behav Sci (Basel). 2024 Jan 20;14(1):74. doi: 10.3390/bs14010074.
 
-    > Machine learning methods and agent-based models enable the
-    > optimization of the operation of high-capacity facilities. …The
-    > proposed method has the potential to significantly improve the
-    > accuracy and efficiency of input model predictions and optimize …
+    > This work aims to contribute to evaluating the role that human
+    > factors can play in responding to critical hydrogeological
+    > phenomena. In particular, we introduce an agent-based platform for
+    > analyzing social behaviors in these critical situations. In our
+    > experiments, …
 
-4.  **Antibody-dependent enhancement and neutralization against CVB4
-    investigated in vitro and in silico through an agent-based model.**
+4.  **Germinal centers are permissive to subdominant antibody
+    responses.**
 
-    Morvan C, Nekoua MP, Debuysschere C, Alidjinou EK, Hober D.
+    Robert PA, Arulraj T, Meyer-Hermann M.
 
-    J Med Virol. 2024 Jan;96(1):e29399. doi: 10.1002/jmv.29399.
+    Front Immunol. 2024 Jan 11;14:1238046. doi:
+    10.3389/fimmu.2023.1238046. eCollection 2023.
 
-    > To investigate ADE of CVB4-induced production of IFN-alpha, an
-    > agent-based model was constructed with enhancing and neutralizing
-    > antibodies. The model recapitulates viral neutralization and ADE
-    > in silico. The enhancing and neutralizing activities of se …
+5.  **Agent-based vs. equation-based multi-scale modeling for macrophage
+    polarization.**
 
-5.  **Using Agent-Based Modeling to Examine Risk for COVID-19 Infection
-    in Custodial Settings.**
+    Minucci SB, Heise RL, Reynolds AM.
 
-    Chakraborty R, Yang R, Felix T, Coldren J, Decker SH.
+    PLoS One. 2024 Jan 25;19(1):e0270779. doi:
+    10.1371/journal.pone.0270779. eCollection 2024.
 
-    J Correct Health Care. 2024 Jan 17. doi: 10.1089/jchc.23.05.0041.
-    Online ahead of print.
+    > To understand M1-M2 dynamics in the context of a localized
+    > response and explore the results of different mathematical
+    > modeling approaches based on the same biology, we utilized two
+    > different modeling techniques, ordinary differential equation
+    > (ODE) modelin …
 
-    > Research on pandemics in institutional settings often assumes that
-    > all human interactions within a jail pose similar viral
-    > transmission risks. We developed an agent-based model (ABM) called
-    > Simulation Applications for Forecasting Effective Responses in
-    > Correc …
+6.  **System identifiability in a time-evolving agent-based model.**
 
-6.  **Predictive models for health outcomes due to SARS-CoV-2, including
-    the effect of vaccination: a systematic review.**
+    Robin TT, Cascante-Vega J, Shaman J, Pei S.
 
-    Espinosa O, Mora L, Sanabria C, Ramos A, Rincón D, Bejarano V,
-    Rodríguez J, Barrera N, Álvarez-Moreno C, Cortés J, Saavedra C,
-    Robayo A, Franco OH.
+    PLoS One. 2024 Jan 25;19(1):e0290821. doi:
+    10.1371/journal.pone.0290821. eCollection 2024.
 
-    Syst Rev. 2024 Jan 16;13(1):30. doi: 10.1186/s13643-023-02411-1.
+    > Further, it is unclear what ‘correct’ really means for abstract
+    > parameters defined based on specific model forms. In this work, we
+    > explored the problem of non-identifiability in a stochastic system
+    > which, when overlooked, can significantly impede model predic …
 
-    > BACKGROUND: The interaction between modelers and policymakers is
-    > becoming more common due to the increase in computing speed seen
-    > in recent decades. …The countries with the highest number of
-    > studies were the United States, Canada, China, and the United
-    > Kingdom; no studie …
+7.  **Emergence of periodic circumferential actin cables from the
+    anisotropic fusion of actin nanoclusters during tubulogenesis.**
 
-7.  **Analyzing housing supply location choice: a comparative study of
-    the modelling frameworks.**
+    Sekine S, Tarama M, Wada H, Sami MM, Shibata T, Hayashi S.
 
-    Zhang Y, Miller EJ.
+    Nat Commun. 2024 Jan 24;15(1):464. doi: 10.1038/s41467-023-44684-z.
 
-    Sci Rep. 2024 Jan 16;14(1):1435. doi: 10.1038/s41598-024-51754-9.
+    > RNAi screening reveals the formin family protein, DAAM, as an
+    > essential component responding to tissue anisotropy, and
+    > non-muscle myosin II as a component required for nanocluster
+    > fusion. An agent-based model simulation suggests that crosslinkers
+    > play a cruci …
 
-    > The supply of new dwellings in urban simulation models have
-    > evolved from static, exogenous inputs to dynamic, agent-based
-    > determinations. …Both approaches are evaluated regarding
-    > estimation, prediction, and microsimulation system integration.
-    > The findings e …
+8.  **Using simulation modeling to demonstrate the performance of graph
+    theory metrics and connectivity algorithms.**
 
-8.  **An in vitro agent-based modelling approach to optimization of
-    culture medium for generating muscle cells.**
+    Lumia G, Modica G, Cushman S.
 
-    Hardman D, Hennig K, Gomes ER, Roman W, Bernabeu MO.
+    J Environ Manage. 2024 Jan 23;352:120073. doi:
+    10.1016/j.jenvman.2024.120073. Online ahead of print.
 
-    J R Soc Interface. 2024 Jan;21(210):20230603. doi:
-    10.1098/rsif.2023.0603. Epub 2024 Jan 17.
+    > We used the Pathwalker software to evaluate the performance of
+    > several connectivity model predictions based on graph theory,
+    > resistant kernels, and factorial least-cost paths. …As we
+    > expected, we found that the choice of connectivity model used was
+    > the vari …
 
-    > To study the effects of early-stage cell behaviours on mature cell
-    > quality, metrics drawn from experimental images or inferred by
-    > approximate Bayesian computation (ABC) were applied as inputs to
-    > an agent-based model (ABM) of skeletal muscle cell differentiati …
+9.  **A participatory approach to model the neighbourhood food
+    environment.**
 
-9.  **Processionary Caterpillars at the Edge of Complexity.**
+    Karapici A, Cummins S.
 
-    Collard P.
+    PLoS One. 2024 Jan 24;19(1):e0292700. doi:
+    10.1371/journal.pone.0292700. eCollection 2024.
 
-    Artif Life. 2024 Jan 17:1-22. doi: 10.1162/artl_a\_00420. Online
-    ahead of print.
+    > The effectiveness of this link will be tested in an Agent-Based
+    > model. The conceptual model illustrates the complexity of the
+    > factors responsible for inequalities in unhealthy eating. The GMB
+    > approach provides a basis for building an agent-ba …
 
-    > In the first part, we propose a formal definition of the concept
-    > of procession and compare field experiments conducted by
-    > entomologists with agent-based simulations to study real
-    > caterpillars’ processionaries as they are. In the second part, we
-    > explore the life of c …
+10. **Examining B-cell dynamics and responsiveness in different
+    inflammatory milieus using an agent-based model.**
 
-10. **Social and Ethical Implications of Digital Crisis Technologies:
-    Case Study of Pandemic Simulation Models During the COVID-19
-    Pandemic.**
+    Shin B, An G, Cockrell RC.
 
-    Bartl G.
+    PLoS Comput Biol. 2024 Jan 23;20(1):e1011776. doi:
+    10.1371/journal.pcbi.1011776. eCollection 2024 Jan.
 
-    J Med Internet Res. 2024 Jan 16;26:e45723. doi: 10.2196/45723.
-
-    > METHODS: This case study starts with a systematization of
-    > different simulation approaches to create a typology of pandemic
-    > simulation models. On the basis of this, various properties,
-    > functions, and challenges of these simulation models are revealed
-    > and discussed in …
+    > METHODS: The B-cell Immunity Agent-based Model (BCIABM) was
+    > developed by integrating knowledge regarding naive B-cells,
+    > short-lived plasma cells, long-lived plasma cells, memory B-cells,
+    > and regulatory B-cells, along with their various differentiation
+    > pathway …
 
 ## Code of Conduct
 
