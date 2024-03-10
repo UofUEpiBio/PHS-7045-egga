@@ -9,157 +9,159 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-03-03 00:36:41.
+update was on 2024-03-10 00:37:32.
 
 <div class="cell">
 
 </div>
 
-1.  **The potential for cascading failures in the international trade
-    network.**
+1.  **Model design choices impact biological insight: Unpacking the
+    broad landscape of spatial-temporal model development decisions.**
 
-    Kang H, Lee KM, Yang JS.
+    Yu JS, Bagheri N.
 
-    PLoS One. 2024 Mar 1;19(3):e0299833. doi:
-    10.1371/journal.pone.0299833. eCollection 2024.
+    PLoS Comput Biol. 2024 Mar 8;20(3):e1011917. doi:
+    10.1371/journal.pcbi.1011917. Online ahead of print.
 
-    > In our study, we introduce indicators that quantify the influence
-    > of each country in complex trade scenarios involving the exchange
-    > of raw materials, intermediate goods, and final products across
-    > multiple countries. We systematically employ an agent-based model
-    > …
+    > There are countless modeling approaches that can be used to
+    > characterize biological systems, further multiplied when
+    > accounting for the variety of model design choices. …In this
+    > study, we analyze agnostic and broadly applicable modeling choices
+    > at three lev …
 
-2.  **Tumor-immune metaphenotypes orchestrate an evolutionary bottleneck
-    that promotes metabolic transformation.**
+2.  **Myosin-induced F-actin fragmentation facilitates contraction of
+    actin networks.**
 
-    West J, Rentzeperis F, Adam C, Bravo R, Luddy KA, Robertson-Tessi M,
-    Anderson ARA.
+    Matsuda K, Jung W, Sato Y, Kobayashi T, Yamagishi M, Kim T, Yajima
+    J.
 
-    Front Immunol. 2024 Feb 15;15:1323319. doi:
-    10.3389/fimmu.2024.1323319. eCollection 2024.
+    Cytoskeleton (Hoboken). 2024 Mar 8. doi: 10.1002/cm.21848. Online
+    ahead of print.
 
-    > The model explores several immune escape mechanisms such as i)
-    > acid inactivation of immune cells, ii) competition for glucose,
-    > and iii) inhibitory immune checkpoint receptor expression (PD-L1).
-    > …These constraints are dependent on heterogeneity in vascular
-    > context, microe …
+    > While the role of buckling in network contraction has been studied
+    > extensively, to date, the role of tension-induced F-actin
+    > fragmentation in network contraction has not been investigated. In
+    > this study, we employed in vitro experiments and an agent-based
+    > computatio …
 
-3.  **Complex adaptive systems-based framework for modeling the health
-    impacts of climate change.**
+3.  **Projecting the future impact of emerging SARS-CoV-2 variants under
+    uncertainty: Modeling the initial Omicron outbreak.**
 
-    Talukder B, Schubert JE, Tofighi M, Likongwe PJ, Choi EY, Mphepo GY,
-    Asgary A, Bunch MJ, Chiotha SS, Matthew R, Sanders BF, Hipel KW,
-    vanLoon GW, Orbinski J.
+    Moore S, Cavany S, Perkins TA, España GFC.
 
-    J Clim Chang Health. 2024 Jan-Feb;15:100292. doi:
-    10.1016/j.joclim.2023.100292.
-
-    > RESULTS AND DISCUSSION: The proposed CAS framework categorizes
-    > findings into six key sub-systems: ecological services, extreme
-    > weather, infectious diseases, food security, disaster risk
-    > management, and clinical public health. The study employs
-    > agent-based modelin …
-
-4.  **The use of social simulation modelling to understand adherence to
-    diabetic retinopathy screening programs.**
-
-    Pereira AP, Macedo J, Afonso A, Laureano RMS, de Lima Neto FB.
-
-    Sci Rep. 2024 Feb 29;14(1):4963. doi: 10.1038/s41598-024-55517-4.
-
-    > The success of screening programs depends to a large extent on the
-    > adherence of the target population, so it is therefore of
-    > fundamental importance to develop computer simulation models that
-    > make it possible to understand the factors that correlate with
-    > this adherence, as …
-
-5.  **COVSIM: A stochastic agent-based COVID-19 SIMulation model for
-    North Carolina.**
-
-    Rosenstrom ET, Ivy JS, Mayorga ME, Swann JL.
-
-    Epidemics. 2024 Feb 23;46:100752. doi: 10.1016/j.epidem.2024.100752.
+    Epidemics. 2024 Mar 2;47:100759. doi: 10.1016/j.epidem.2024.100759.
     Online ahead of print.
 
-    > We document the evolution and use of the stochastic agent-based
-    > COVID-19 simulation model (COVSIM) to study the impact of
-    > population behaviors and public health policy on disease spread
-    > within age, race/ethnicity, and urbanicity subpopulations in North
-    > Caroli …
+    > However, there was also considerable uncertainty regarding its
+    > likely impact due to questions about its relative
+    > transmissibility, severity, and degree of immune escape. We sought
+    > to evaluate the ability of an agent-based model to forecast
+    > incidence in the co …
 
-6.  **Comparing Contact Tracing Through Bluetooth and GPS Surveillance
-    Data: A Simulation-driven Approach.**
+4.  **Redefining pandemic preparedness: Multidisciplinary insights from
+    the CERP modelling workshop in infectious diseases, workshop
+    report.**
 
-    Qian W, Cooke A, Stanley KG, Osgood ND.
+    Nunes MC, Thommes E, Fröhlich H, Flahault A, Arino J, Baguelin M,
+    Biggerstaff M, Bizel-Bizellot G, Borchering R, Cacciapaglia G,
+    Cauchemez S, Barbier-Chebbah A, Claussen C, Choirat C, Cojocaru M,
+    Commaille-Chapus C, Hon C, Kong J, Lambert N, Lauer KB, Lehr T, Mahe
+    C, Marechal V, Mebarki A, Moghadas S, Niehus R, Opatowski L, Parino
+    F, Pruvost G, Schuppert A, Thiébaut R, Thomas-Bachli A, Viboud C, Wu
+    J, Crépey P, Coudeville L.
 
-    J Med Internet Res. 2024 Feb 27. doi: 10.2196/38170. Online ahead of
+    Infect Dis Model. 2024 Feb 23;9(2):501-518. doi:
+    10.1016/j.idm.2024.02.008. eCollection 2024 Jun.
+
+    > Significant advancements were noted in the development of
+    > predictive models, with examples from various countries showcasing
+    > the use of machine learning and artificial intelligence in
+    > detecting and monitoring disease trends. The role of open
+    > collaboration between various s …
+
+5.  **Incorporating temporal information during feature engineering
+    bolsters emulation of spatio-temporal emergence.**
+
+    Cain JY, Evarts JI, Yu JS, Bagheri N.
+
+    Bioinformatics. 2024 Mar 5:btae131. doi:
+    10.1093/bioinformatics/btae131. Online ahead of print.
+
+    > Effective emulation is a promising solution to manage the expense
+    > of increasingly complex high-resolution computational models. In
+    > this research, we focus on the emulation of a tumor
+    > microenvironment agent-based model to examine the relationship
+    > betwee …
+
+6.  **Eradicating an invasive mammal requires local elimination and
+    reduced reinvasion from an urban source population.**
+
+    Patterson CR, Lustig A, Seddon PJ, Wilson DJ, van Heezik Y.
+
+    Ecol Appl. 2024 Mar 5:e2949. doi: 10.1002/eap.2949. Online ahead of
     print.
 
-    > OBJECTIVE: In this paper, we compare GPS co-located versus
-    > Bluetooth beacon derived proximity contact data for their impacts
-    > on transmission models’ results, under community and types of
-    > diseases. METHODS: We examine the contact patterns derived from
-    > three datasets collect …
+    > This is complicated in urban areas, where habitat heterogeneity
+    > and a lack of baseline ecological knowledge increase uncertainty.
+    > We applied a spatial agent-based model to predict the reinvasion
+    > of a well-studied species, the brushtail possum (Trichosurus vul …
 
-7.  **Modeling the persistence of Opisthorchis viverrini worm burden
-    after mass-drug administration and education campaigns with
-    systematic adherence.**
+7.  **Reconciling the efficacy and effectiveness of masking on epidemic
+    outcomes.**
 
-    Kamber L, Bürli C, Harbrecht H, Odermatt P, Sayasone S, Chitnis N.
+    Yang W, Shaman J.
 
-    PLoS Negl Trop Dis. 2024 Feb 29;18(2):e0011362. doi:
-    10.1371/journal.pntd.0011362. Online ahead of print.
+    J R Soc Interface. 2024 Mar;21(212):20230666. doi:
+    10.1098/rsif.2023.0666. Epub 2024 Mar 6.
 
-    > A plausible explanation for this observation is systematic
-    > adherence of individuals in health campaigns, such as MDA and
-    > education, with some individuals consistently missing treatment.
-    > We developed an agent-based model of O. viverrini which allows us
-    > to intr …
+    > However, the reported effectiveness of masking has been much lower
+    > than laboratory measures of efficacy, leading to doubts on the
+    > utility of masking. Here, we develop an agent-based model that
+    > comprehensively accounts for individual masking behaviours and inf
+    > …
 
-8.  **The role of social attraction and social avoidance in shaping
-    modular networks.**
+8.  **The relationship between compartment models and their stochastic
+    counterparts: A comparative study with examples of the COVID-19
+    epidemic modeling.**
 
-    Romano V, Puga-Gonzalez I, MacIntosh AJJ, Sueur C.
+    Zhao Z, Zhou Y, Guan J, Yan Y, Zhao J, Peng Z, Chen F, Zhao Y, Shao
+    F.
 
-    R Soc Open Sci. 2024 Feb 28;11(2):231619. doi: 10.1098/rsos.231619.
-    eCollection 2024 Feb.
+    J Biomed Res. 2024 Mar 1:1-14. doi: 10.7555/JBR.37.20230137. Online
+    ahead of print.
 
-    > Nonetheless, little remains known about the type of immediate
-    > social structure (i.e. social network) that emerges from
-    > relationships that maximize beneficial interactions (e.g. social
-    > attraction towards informed individuals) and minimize costly
-    > relationships (e.g. social avoidanc …
+    > Deterministic compartment models (CMs) and stochastic models,
+    > including stochastic CMs and agent-based models, are widely
+    > utilized in epidemic modeling. …Additionally, we proposed a new
+    > stochastic compartment and agent mixed model …
 
-9.  **Benefits of Meeting the Healthy People 2030 Youth Sports
-    Participation Target.**
+9.  **A Cellular Potts Model of the interplay of synchronization and
+    aggregation.**
 
-    Martinez MF, Weatherwax C, Piercy K, Whitley MA, Bartsch SM,
-    Heneghan J, Fox M, Bowers MT, Chin KL, Velmurugan K, Dibbs A, Smith
-    AL, Pfeiffer KA, Farrey T, Tsintsifas A, Scannell SA, Lee BY.
+    Una R, Glimm T.
 
-    Am J Prev Med. 2024 Jan 23:S0749-3797(23)00517-2. doi:
-    10.1016/j.amepre.2023.12.018. Online ahead of print.
+    PeerJ. 2024 Feb 29;12:e16974. doi: 10.7717/peerj.16974. eCollection
+    2024.
 
-    > This study quantified the health and economic value of achieving
-    > this target. METHODS: An agent-based model developed in 2023
-    > represents each person aged 6-17 years in the U.S. On each
-    > simulated day, agents can participate in sports that affect their
-    > metaboli …
+    > To account for the effects of spatially extended cells, we use the
+    > Cellular Potts Model (CPM), a lattice agent-based model. We find
+    > four distinct possible phases: global synchronization, local
+    > synchronization, incoherence, and anti-synchronization (che …
 
-10. **Solid waste generation prediction model framework using
-    socioeconomic and demographic factors with real-time MSW collection
-    data.**
+10. **Privacy-preserving federated machine learning on FAIR health data:
+    A real-world application.**
 
-    Fontaine L, Legros R, Frayret JM.
+    Sinaci AA, Gencturk M, Alvarez-Romero C, Laleci Erturkmen GB,
+    Martinez-Garcia A, Escalona-Cuaresma MJ, Parra-Calderon CL.
 
-    Waste Manag Res. 2024 Feb 26:734242X241231414. doi:
-    10.1177/0734242X241231414. Online ahead of print.
+    Comput Struct Biotechnol J. 2024 Feb 17;24:136-145. doi:
+    10.1016/j.csbj.2024.02.014. eCollection 2024 Dec.
 
-    > This article proposes a framework for developing predictive models
-    > of end-of-life product flows, highlighting the importance of
-    > conducting thorough analyses before developing waste management
-    > and end-of-life product flow strategies. …A case study for the
-    > city of Gatineau …
+    > It aims to devise an architecture for executing classification
+    > algorithms in a federated manner, enabling collaborative
+    > model-building among health data owners without sharing their
+    > datasets. MATERIALS AND METHODS: Utilizing an agent-based
+    > architecture, a pri …
 
 ## Code of Conduct
 
