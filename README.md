@@ -9,159 +9,157 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-03-10 00:37:32.
+update was on 2024-03-17 00:37:27.
 
 <div class="cell">
 
 </div>
 
-1.  **Model design choices impact biological insight: Unpacking the
-    broad landscape of spatial-temporal model development decisions.**
+1.  **Effectiveness of interventions to reduce COVID-19 transmission in
+    schools.**
 
-    Yu JS, Bagheri N.
+    Pasco R, Fox SJ, Lachmann M, Meyers LA.
 
-    PLoS Comput Biol. 2024 Mar 8;20(3):e1011917. doi:
-    10.1371/journal.pcbi.1011917. Online ahead of print.
-
-    > There are countless modeling approaches that can be used to
-    > characterize biological systems, further multiplied when
-    > accounting for the variety of model design choices. …In this
-    > study, we analyze agnostic and broadly applicable modeling choices
-    > at three lev …
-
-2.  **Myosin-induced F-actin fragmentation facilitates contraction of
-    actin networks.**
-
-    Matsuda K, Jung W, Sato Y, Kobayashi T, Yamagishi M, Kim T, Yajima
-    J.
-
-    Cytoskeleton (Hoboken). 2024 Mar 8. doi: 10.1002/cm.21848. Online
-    ahead of print.
-
-    > While the role of buckling in network contraction has been studied
-    > extensively, to date, the role of tension-induced F-actin
-    > fragmentation in network contraction has not been investigated. In
-    > this study, we employed in vitro experiments and an agent-based
-    > computatio …
-
-3.  **Projecting the future impact of emerging SARS-CoV-2 variants under
-    uncertainty: Modeling the initial Omicron outbreak.**
-
-    Moore S, Cavany S, Perkins TA, España GFC.
-
-    Epidemics. 2024 Mar 2;47:100759. doi: 10.1016/j.epidem.2024.100759.
+    Epidemics. 2024 Mar 12;47:100762. doi: 10.1016/j.epidem.2024.100762.
     Online ahead of print.
 
-    > However, there was also considerable uncertainty regarding its
-    > likely impact due to questions about its relative
-    > transmissibility, severity, and degree of immune escape. We sought
-    > to evaluate the ability of an agent-based model to forecast
-    > incidence in the co …
+    > In-school mitigation efforts varied, depending on local COVID-19
+    > mandates and resources. Using a stochastic age-stratified
+    > agent-based model of SARS-CoV-2 transmission, we estimate the
+    > impacts of multiple in-school strategies on both infection rates
+    > and absen …
 
-4.  **Redefining pandemic preparedness: Multidisciplinary insights from
-    the CERP modelling workshop in infectious diseases, workshop
-    report.**
+2.  **Metabolic symbiosis between oxygenated and hypoxic tumour cells:
+    An agent-based modelling study.**
 
-    Nunes MC, Thommes E, Fröhlich H, Flahault A, Arino J, Baguelin M,
-    Biggerstaff M, Bizel-Bizellot G, Borchering R, Cacciapaglia G,
-    Cauchemez S, Barbier-Chebbah A, Claussen C, Choirat C, Cojocaru M,
-    Commaille-Chapus C, Hon C, Kong J, Lambert N, Lauer KB, Lehr T, Mahe
-    C, Marechal V, Mebarki A, Moghadas S, Niehus R, Opatowski L, Parino
-    F, Pruvost G, Schuppert A, Thiébaut R, Thomas-Bachli A, Viboud C, Wu
-    J, Crépey P, Coudeville L.
+    Jayathilake PG, Victori P, Pavillet CE, Lee CH, Voukantsis D, Miar
+    A, Arora A, Harris AL, Morten KJ, Buffa FM.
 
-    Infect Dis Model. 2024 Feb 23;9(2):501-518. doi:
-    10.1016/j.idm.2024.02.008. eCollection 2024 Jun.
+    PLoS Comput Biol. 2024 Mar 15;20(3):e1011944. doi:
+    10.1371/journal.pcbi.1011944. Online ahead of print.
 
-    > Significant advancements were noted in the development of
-    > predictive models, with examples from various countries showcasing
-    > the use of machine learning and artificial intelligence in
-    > detecting and monitoring disease trends. The role of open
-    > collaboration between various s …
+    > We employed a multi-scale approach that integrates multi-agent
+    > modelling, diffusion-reaction, stoichiometric equations, and
+    > Boolean networks to study metabolic cooperation between hypoxic
+    > and oxygenated cells exposed to varying oxygen, nutrient, and
+    > inhibitor concentration …
 
-5.  **Incorporating temporal information during feature engineering
-    bolsters emulation of spatio-temporal emergence.**
+3.  **Health and Economic Value of Eliminating Socioeconomic Disparities
+    in US Youth Physical Activity.**
 
-    Cain JY, Evarts JI, Yu JS, Bagheri N.
+    Powell-Wiley TM, Martinez MF, Heneghan J, Weatherwax C, Osei Baah F,
+    Velmurugan K, Chin KL, Ayers C, Cintron MA, Ortiz-Whittingham LR,
+    Sandler D, Sharda S, Whitley M, Bartsch SM, O’Shea KJ, Tsintsifas A,
+    Dibbs A, Scannell SA, Lee BY.
 
-    Bioinformatics. 2024 Mar 5:btae131. doi:
-    10.1093/bioinformatics/btae131. Online ahead of print.
+    JAMA Health Forum. 2024 Mar 1;5(3):e240088. doi:
+    10.1001/jamahealthforum.2024.0088.
 
-    > Effective emulation is a promising solution to manage the expense
-    > of increasingly complex high-resolution computational models. In
-    > this research, we focus on the emulation of a tumor
-    > microenvironment agent-based model to examine the relationship
-    > betwee …
+    > OBJECTIVE: To determine the potential public health and economic
+    > effects of eliminating disparities in PA levels among US youth SES
+    > groups. DESIGN AND SETTING: An agent-based model representing all
+    > 6- to 17-year-old children in the US was used to simulate the …
 
-6.  **Eradicating an invasive mammal requires local elimination and
-    reduced reinvasion from an urban source population.**
+4.  **Mathematical models of Plasmodium vivax transmission: A scoping
+    review.**
 
-    Patterson CR, Lustig A, Seddon PJ, Wilson DJ, van Heezik Y.
+    Anwar MN, Smith L, Devine A, Mehra S, Walker CR, Ivory E, Conway E,
+    Mueller I, McCaw JM, Flegg JA, Hickson RI.
 
-    Ecol Appl. 2024 Mar 5:e2949. doi: 10.1002/eap.2949. Online ahead of
-    print.
+    PLoS Comput Biol. 2024 Mar 14;20(3):e1011931. doi:
+    10.1371/journal.pcbi.1011931. Online ahead of print.
 
-    > This is complicated in urban areas, where habitat heterogeneity
-    > and a lack of baseline ecological knowledge increase uncertainty.
-    > We applied a spatial agent-based model to predict the reinvasion
-    > of a well-studied species, the brushtail possum (Trichosurus vul …
+    > We categorise P. vivax models according to whether a deterministic
+    > or agent-based approach was used. …In most of the published
+    > literature, the rationale for different modelling approaches was
+    > driven by the research question at hand. Some models …
 
-7.  **Reconciling the efficacy and effectiveness of masking on epidemic
-    outcomes.**
+5.  **Walking Dead Macrophage-Based Positive Enhancement MRI for
+    Ultrahighly Efficient Diagnosis of Nephritis.**
 
-    Yang W, Shaman J.
+    Lin P, Wu W, Chen C, Chen Y, Ouyang S, Song Z, Xia Y, An Y, Zhang N,
+    Zhao P, Lin B, Tao J.
 
-    J R Soc Interface. 2024 Mar;21(212):20230666. doi:
-    10.1098/rsif.2023.0666. Epub 2024 Mar 6.
-
-    > However, the reported effectiveness of masking has been much lower
-    > than laboratory measures of efficacy, leading to doubts on the
-    > utility of masking. Here, we develop an agent-based model that
-    > comprehensively accounts for individual masking behaviours and inf
-    > …
-
-8.  **The relationship between compartment models and their stochastic
-    counterparts: A comparative study with examples of the COVID-19
-    epidemic modeling.**
-
-    Zhao Z, Zhou Y, Guan J, Yan Y, Zhao J, Peng Z, Chen F, Zhao Y, Shao
-    F.
-
-    J Biomed Res. 2024 Mar 1:1-14. doi: 10.7555/JBR.37.20230137. Online
+    Anal Chem. 2024 Mar 14. doi: 10.1021/acs.analchem.3c05777. Online
     ahead of print.
 
-    > Deterministic compartment models (CMs) and stochastic models,
-    > including stochastic CMs and agent-based models, are widely
-    > utilized in epidemic modeling. …Additionally, we proposed a new
-    > stochastic compartment and agent mixed model …
+    > To achieve an effective and noninvasive diagnosis, we propose a
+    > nephritis-specific, positive magnetic resonance imaging (MRI)
+    > contrast agent based on Gd(3+) anchored walking dead macrophage
+    > Gd-RAW. Gd-RAW exhibits high selectivity for inflammatory renal
+    > parenchyma a …
 
-9.  **A Cellular Potts Model of the interplay of synchronization and
-    aggregation.**
+6.  **Nonrandom foraging and resource distributions affect the
+    relationships between host density, contact rates and parasite
+    transmission.**
 
-    Una R, Glimm T.
+    Gajewski Z, McEmurray P, Wojdak J, McGregor C, Zeller L, Cooper H,
+    Belden LK, Hopkins S.
 
-    PeerJ. 2024 Feb 29;12:e16974. doi: 10.7717/peerj.16974. eCollection
-    2024.
+    Ecol Lett. 2024 Mar;27(3):e14385. doi: 10.1111/ele.14385.
 
-    > To account for the effects of spatially extended cells, we use the
-    > Cellular Potts Model (CPM), a lattice agent-based model. We find
-    > four distinct possible phases: global synchronization, local
-    > synchronization, incoherence, and anti-synchronization (che …
+    > Here, we used a factorial experiment with constant resource and
+    > host densities to quantify host contact rates across seven
+    > resource distributions. We also used an agent-based model to
+    > compare pathogen transmission when host movement was based on
+    > random foragi …
 
-10. **Privacy-preserving federated machine learning on FAIR health data:
-    A real-world application.**
+7.  **Simulating the Effect of Environmental Change on Evolving
+    Populations.**
 
-    Sinaci AA, Gencturk M, Alvarez-Romero C, Laleci Erturkmen GB,
-    Martinez-Garcia A, Escalona-Cuaresma MJ, Parra-Calderon CL.
+    Bullinaria JA.
 
-    Comput Struct Biotechnol J. 2024 Feb 17;24:136-145. doi:
-    10.1016/j.csbj.2024.02.014. eCollection 2024 Dec.
+    Artif Life. 2024 Mar 13:1-24. doi: 10.1162/artl_a\_00429. Online
+    ahead of print.
 
-    > It aims to devise an architecture for executing classification
-    > algorithms in a federated manner, enabling collaborative
-    > model-building among health data owners without sharing their
-    > datasets. MATERIALS AND METHODS: Utilizing an agent-based
-    > architecture, a pri …
+    > They also reveal significant dependences on the associated
+    > mutation rates and the extent to which they can evolve, and they
+    > clarify how evolution often leads populations into strategies with
+    > higher risks of extinction. Overall, this study shows how modeling
+    > the effect of e …
+
+8.  **Feasibility of hepatitis C elimination by screening and treatment
+    alone in high-income countries.**
+
+    Tian F, Forouzannia F, Feng Z, Biondi MJ, Mendlowitz AB, Feld JJ,
+    Sander B, Wong WWL.
+
+    Hepatology. 2024 Mar 13. doi: 10.1097/HEP.0000000000000779. Online
+    ahead of print.
+
+    > APPROACH RESULTS: We developed an agent-based model to
+    > characterize the HCV epidemic in a high-income country with
+    > ongoing immigration. Combinations of prevention such as
+    > harm-reduction, screening, and treatment strategies were
+    > considered. Model parame …
+
+9.  **Whole systems approaches to diet and healthy weight: A scoping
+    review of reviews.**
+
+    Breslin G, Fakoya O, Wills W, Lloyd N, Bontoft C, Wellings A,
+    Harding S, Jackson J, Barrett K, Wagner AP, Miners L, Greco HA,
+    Brown KE.
+
+    PLoS One. 2024 Mar 13;19(3):e0292945. doi:
+    10.1371/journal.pone.0292945. eCollection 2024.
+
+    > Included review papers were those that focused on the application
+    > of a whole system approach to diet and/or healthy weight, and/or
+    > reported the theory/model used to implement or simulate this
+    > approach. Databases were searched from 1995 to March 2022 using a
+    > combination of …
+
+10. **HyPedSim: A Multi-Level Crowd-Simulation Framework-Methodology,
+    Calibration, and Validation.**
+
+    Dang HT, Gaudou B, Verstaevel N.
+
+    Sensors (Basel). 2024 Mar 2;24(5):1639. doi: 10.3390/s24051639.
+
+    > This paper proposes and evaluates a novel agent-based model to
+    > enable agents to dynamically change their operational model based
+    > on local density. …Additionally, a local sensitivity analysis is
+    > then conducted to identify the most sensitive parameters …
 
 ## Code of Conduct
 
