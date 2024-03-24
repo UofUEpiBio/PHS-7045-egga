@@ -9,157 +9,152 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-03-17 00:37:27.
+update was on 2024-03-24 00:39:20.
 
 <div class="cell">
 
 </div>
 
-1.  **Effectiveness of interventions to reduce COVID-19 transmission in
-    schools.**
+1.  **In silico agent-based modeling approach to characterize multiple
+    in vitro tuberculosis infection models.**
 
-    Pasco R, Fox SJ, Lachmann M, Meyers LA.
+    Petrucciani A, Hoerter A, Kotze L, Du Plessis N, Pienaar E.
 
-    Epidemics. 2024 Mar 12;47:100762. doi: 10.1016/j.epidem.2024.100762.
-    Online ahead of print.
+    PLoS One. 2024 Mar 22;19(3):e0299107. doi:
+    10.1371/journal.pone.0299107. eCollection 2024.
 
-    > In-school mitigation efforts varied, depending on local COVID-19
-    > mandates and resources. Using a stochastic age-stratified
-    > agent-based model of SARS-CoV-2 transmission, we estimate the
-    > impacts of multiple in-school strategies on both infection rates
-    > and absen …
+    > To this end, we introduce an agent-based model (ABM)
+    > representation of the interactions between immune cells and
+    > bacteria in an in vitro setting. This in silico model was used to
+    > simulate both traditional and spheroid cell culture models by chan
+    > …
 
-2.  **Metabolic symbiosis between oxygenated and hypoxic tumour cells:
-    An agent-based modelling study.**
+2.  **Dysregulated FGFR3 signaling alters the immune landscape in
+    bladder cancer and presents therapeutic possibilities in an
+    agent-based model.**
 
-    Jayathilake PG, Victori P, Pavillet CE, Lee CH, Voukantsis D, Miar
-    A, Arora A, Harris AL, Morten KJ, Buffa FM.
+    Bergman DR, Wang Y, Trujillo E, Fernald AA, Li L, Pearson AT, Sweis
+    RF, Jackson TL.
 
-    PLoS Comput Biol. 2024 Mar 15;20(3):e1011944. doi:
-    10.1371/journal.pcbi.1011944. Online ahead of print.
+    Front Immunol. 2024 Mar 7;15:1358019. doi:
+    10.3389/fimmu.2024.1358019. eCollection 2024.
 
-    > We employed a multi-scale approach that integrates multi-agent
-    > modelling, diffusion-reaction, stoichiometric equations, and
-    > Boolean networks to study metabolic cooperation between hypoxic
-    > and oxygenated cells exposed to varying oxygen, nutrient, and
-    > inhibitor concentration …
+    > Emerging data suggests that the combination of these two therapies
+    > could lead to improved clinical outcomes, but the optimal strategy
+    > for combining these agents remains uncertain. Mathematical models,
+    > specifically agent-based models (ABMs), have shown …
 
-3.  **Health and Economic Value of Eliminating Socioeconomic Disparities
-    in US Youth Physical Activity.**
+3.  **Complexity synchronization in emergent intelligence.**
 
-    Powell-Wiley TM, Martinez MF, Heneghan J, Weatherwax C, Osei Baah F,
-    Velmurugan K, Chin KL, Ayers C, Cintron MA, Ortiz-Whittingham LR,
-    Sandler D, Sharda S, Whitley M, Bartsch SM, O’Shea KJ, Tsintsifas A,
-    Dibbs A, Scannell SA, Lee BY.
+    Mahmoodi K, Kerick SE, Franaszczuk PJ, Parsons TD, Grigolini P, West
+    BJ.
 
-    JAMA Health Forum. 2024 Mar 1;5(3):e240088. doi:
-    10.1001/jamahealthforum.2024.0088.
+    Sci Rep. 2024 Mar 21;14(1):6758. doi: 10.1038/s41598-024-57384-5.
 
-    > OBJECTIVE: To determine the potential public health and economic
-    > effects of eliminating disparities in PA levels among US youth SES
-    > groups. DESIGN AND SETTING: An agent-based model representing all
-    > 6- to 17-year-old children in the US was used to simulate the …
+    > In this work, we use a simple multi-agent-based-model (MABM) of a
+    > social network, implementing selfish algorithm (SA) agents, to
+    > create an adaptive environment and show, using a modified
+    > diffusion entropy analysis (DEA), that the mutual-adaptive
+    > interaction b …
 
-4.  **Mathematical models of Plasmodium vivax transmission: A scoping
-    review.**
+4.  **Coexistence of critical phenomena: the concept of manifold
+    multi-spectral criticality.**
 
-    Anwar MN, Smith L, Devine A, Mehra S, Walker CR, Ivory E, Conway E,
-    Mueller I, McCaw JM, Flegg JA, Hickson RI.
+    Chorowski M, Kutner R, Struzik ZR.
 
-    PLoS Comput Biol. 2024 Mar 14;20(3):e1011931. doi:
-    10.1371/journal.pcbi.1011931. Online ahead of print.
+    Sci Rep. 2024 Mar 21;14(1):6833. doi: 10.1038/s41598-024-53014-2.
 
-    > We categorise P. vivax models according to whether a deterministic
-    > or agent-based approach was used. …In most of the published
-    > literature, the rationale for different modelling approaches was
-    > driven by the research question at hand. Some models …
+    > Prompted by the ubiquity of empirical observations of critical
+    > phenomena, often in non-equilibrium macrostates, we developed a
+    > modelling approach in which several critical phenomena coexist.
+    > Instead of a single critical point, many coexisting critical
+    > points in the system …
 
-5.  **Walking Dead Macrophage-Based Positive Enhancement MRI for
-    Ultrahighly Efficient Diagnosis of Nephritis.**
+5.  **How individuals’ opinions influence society’s resistance to
+    epidemics: an agent-based model approach.**
 
-    Lin P, Wu W, Chen C, Chen Y, Ouyang S, Song Z, Xia Y, An Y, Zhang N,
-    Zhao P, Lin B, Tao J.
+    Yu G, Garee M, Ventresca M, Yih Y.
 
-    Anal Chem. 2024 Mar 14. doi: 10.1021/acs.analchem.3c05777. Online
-    ahead of print.
+    BMC Public Health. 2024 Mar 20;24(1):863. doi:
+    10.1186/s12889-024-18310-6.
 
-    > To achieve an effective and noninvasive diagnosis, we propose a
-    > nephritis-specific, positive magnetic resonance imaging (MRI)
-    > contrast agent based on Gd(3+) anchored walking dead macrophage
-    > Gd-RAW. Gd-RAW exhibits high selectivity for inflammatory renal
-    > parenchyma a …
+    > However, a comprehensive understanding of the effects of
+    > opinion-related factors on disease spread still requires further
+    > exploration. METHODS: We propose an agent-based simulation
+    > framework incorporating opinion dynamics within an epidemic model
+    > based on the …
 
-6.  **Nonrandom foraging and resource distributions affect the
-    relationships between host density, contact rates and parasite
-    transmission.**
+6.  **An agent-based framework to study forced migration: A case study
+    of Ukraine.**
 
-    Gajewski Z, McEmurray P, Wojdak J, McGregor C, Zeller L, Cooper H,
-    Belden LK, Hopkins S.
+    Mehrab Z, Stundal L, Venkatramanan S, Swarup S, Lewis B, Mortveit
+    HS, Barrett CL, Pandey A, Wells CR, Galvani AP, Singer BH, Leblang
+    D, Colwell RR, Marathe MV.
 
-    Ecol Lett. 2024 Mar;27(3):e14385. doi: 10.1111/ele.14385.
+    PNAS Nexus. 2024 Mar 19;3(3):pgae080. doi:
+    10.1093/pnasnexus/pgae080. eCollection 2024 Mar.
 
-    > Here, we used a factorial experiment with constant resource and
-    > host densities to quantify host contact rates across seven
-    > resource distributions. We also used an agent-based model to
-    > compare pathogen transmission when host movement was based on
-    > random foragi …
+    > Existing work is hindered by a reliance on observational data
+    > which is only available well after the fact. In this work, we
+    > study the efficacy of a data-driven agent-based framework
+    > motivated by social and behavioral theory in predicting outflow of
+    > migrants as a res …
 
-7.  **Simulating the Effect of Environmental Change on Evolving
-    Populations.**
+7.  **The bone ecosystem facilitates multiple myeloma relapse and the
+    evolution of heterogeneous drug resistant disease.**
 
-    Bullinaria JA.
+    Bishop RT, Miller AK, Froid M, Nerlakanti N, Li T, Frieling JS, Nasr
+    MM, Nyman KJ, Sudalagunta PR, Canevarolo RR, Silva AS, Shain KH,
+    Lynch CC, Basanta D.
 
-    Artif Life. 2024 Mar 13:1-24. doi: 10.1162/artl_a\_00429. Online
-    ahead of print.
+    Nat Commun. 2024 Mar 19;15(1):2458. doi: 10.1038/s41467-024-46594-0.
 
-    > They also reveal significant dependences on the associated
-    > mutation rates and the extent to which they can evolve, and they
-    > clarify how evolution often leads populations into strategies with
-    > higher risks of extinction. Overall, this study shows how modeling
-    > the effect of e …
+    > Defining how, when and where myeloma cell intrinsic and extrinsic
+    > bone microenvironmental mechanisms cause relapse is challenging
+    > with current biological approaches. Here, we report a
+    > biology-driven spatiotemporal hybrid agent-based model of the
+    > MM-bone micro …
 
-8.  **Feasibility of hepatitis C elimination by screening and treatment
-    alone in high-income countries.**
+8.  **Incorporating social vulnerability in infectious disease
+    mathematical modelling: a scoping review.**
 
-    Tian F, Forouzannia F, Feng Z, Biondi MJ, Mendlowitz AB, Feld JJ,
-    Sander B, Wong WWL.
+    Naidoo M, Shephard W, Kambewe I, Mtshali N, Cope S, Rubio FA,
+    Rasella D.
 
-    Hepatology. 2024 Mar 13. doi: 10.1097/HEP.0000000000000779. Online
-    ahead of print.
+    BMC Med. 2024 Mar 18;22(1):125. doi: 10.1186/s12916-024-03333-y.
 
-    > APPROACH RESULTS: We developed an agent-based model to
-    > characterize the HCV epidemic in a high-income country with
-    > ongoing immigration. Combinations of prevention such as
-    > harm-reduction, screening, and treatment strategies were
-    > considered. Model parame …
+    > RESULTS: Of 4075 results, 89 articles were identified. Two-thirds
+    > of articles used a compartmental model (n = 58, 65.2%), with a
+    > quarter using agent-based models (n = 24, 27.0%). …For all
+    > agent-based models, characteristics were …
 
-9.  **Whole systems approaches to diet and healthy weight: A scoping
-    review of reviews.**
+9.  **Ameliorative effect of an acidic polysaccharide from Phellinus
+    linteus on ulcerative colitis in a DSS-induced mouse model.**
 
-    Breslin G, Fakoya O, Wills W, Lloyd N, Bontoft C, Wellings A,
-    Harding S, Jackson J, Barrett K, Wagner AP, Miners L, Greco HA,
-    Brown KE.
+    Hu J, Mei Y, Zhang H, Li J, Zhang M, Li Y, Yang W, Liu Y, Liang Y.
 
-    PLoS One. 2024 Mar 13;19(3):e0292945. doi:
-    10.1371/journal.pone.0292945. eCollection 2024.
+    Int J Biol Macromol. 2024 Mar 17;265(Pt 1):130959. doi:
+    10.1016/j.ijbiomac.2024.130959. Online ahead of print.
 
-    > Included review papers were those that focused on the application
-    > of a whole system approach to diet and/or healthy weight, and/or
-    > reported the theory/model used to implement or simulate this
-    > approach. Databases were searched from 1995 to March 2022 using a
-    > combination of …
+    > High-throughput sequencing showed that PLAP restored gut
+    > microbiota diversity and species abundances in the UC model, and
+    > gas chromatographic analysis showed that it increased levels of
+    > beneficial short-chain fatty acids. Our findings indicate that
+    > PLAP has strong potentia …
 
-10. **HyPedSim: A Multi-Level Crowd-Simulation Framework-Methodology,
-    Calibration, and Validation.**
+10. **Histology-guided mathematical model of tumor oxygenation:
+    sensitivity analysis of physical and computational parameters.**
 
-    Dang HT, Gaudou B, Verstaevel N.
+    Ojwang’ AME, Bazargan S, Johnson JO, Pilon-Thomas S, Rejniak KA.
 
-    Sensors (Basel). 2024 Mar 2;24(5):1639. doi: 10.3390/s24051639.
+    bioRxiv \[Preprint\]. 2024 Mar 10:2024.03.05.583363. doi:
+    10.1101/2024.03.05.583363.
 
-    > This paper proposes and evaluates a novel agent-based model to
-    > enable agents to dynamically change their operational model based
-    > on local density. …Additionally, a local sensitivity analysis is
-    > then conducted to identify the most sensitive parameters …
+    > A hybrid off-lattice agent-based model has been developed to
+    > reconstruct the tumor tissue oxygenation landscape based on
+    > histology images and simulated interactions between vasculature
+    > and cells with microenvironment metabolites. Here, we performed a
+    > robustne …
 
 ## Code of Conduct
 
