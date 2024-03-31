@@ -9,13 +9,137 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-03-24 00:39:20.
+update was on 2024-03-31 00:39:01.
 
 <div class="cell">
 
 </div>
 
-1.  **In silico agent-based modeling approach to characterize multiple
+1.  **Economic and labour market impacts of migration in Austria: an
+    agent-based modelling approach.**
+
+    Poledna S, Strelkovskii N, Conte A, Goujon A, Linnerooth-Bayer J,
+    Catalano M, Rovenskaya E.
+
+    Comp Migr Stud. 2024;12(1):18. doi: 10.1186/s40878-024-00374-3. Epub
+    2024 Mar 26.
+
+    > This study examines the potential economic and labour market
+    > impacts of a hypothetical but plausible migration scenario of
+    > 250,000 new migrants inspired by Austria’s experience in 2015.
+    > Using the agent-based macroeconomic model developed by Poledna et
+    > al. (Eu …
+
+2.  **Ridesourcing platforms thrive on socio-economic inequality.**
+
+    de Ruijter A, Cats O, van Lint H.
+
+    Sci Rep. 2024 Mar 28;14(1):7371. doi: 10.1038/s41598-024-57540-x.
+
+    > We test the relation between inequality and system performance by
+    > means of an agent-based simulation model representing within-day
+    > and day-to-day supply-demand interaction in the ridesourcing
+    > market. The model captures travellers’ mode choice with a he …
+
+3.  **Reducing Sample Size While Improving Equity in Vaccine Clinical
+    Trials: A Machine Learning-Based Recruitment Methodology with
+    Application to Improving Trials of Hepatitis C Virus Vaccines in
+    People Who Inject Drugs.**
+
+    Chiu R, Tatara E, Mackesy-Amiti ME, Page K, Ozik J, Boodram B,
+    Dahari H, Gutfraind A.
+
+    Healthcare (Basel). 2024 Mar 13;12(6):644. doi:
+    10.3390/healthcare12060644.
+
+    > We investigate trial recruitment informed by machine learning and
+    > evaluate a strategy for HCV vaccine trials termed
+    > PREDICTEE-Predictive Recruitment and Enrichment method balancing
+    > Demographics and Incidence for Clinical Trial Equity and
+    > Efficiency. PREDICTEE utilizes a survival …
+
+4.  **On Playing with Emotion: A Spatial Evolutionary Variation of the
+    Ultimatum Game.**
+
+    Charcon DY, Monteiro LHA.
+
+    Entropy (Basel). 2024 Feb 27;26(3):204. doi: 10.3390/e26030204.
+
+    > If the second player, called the responder, accepts the offer, the
+    > money is divided according to the proposal; if the responder
+    > declines the offer, both players receive no money. In this
+    > article, an agent-based model is employed to evaluate the
+    > performance of …
+
+5.  **The impact of climate change on the agriculture and the economy of
+    Southern Gaul: New perspectives of agent-based modelling.**
+
+    Bernigaud N, Bondeau A, Guiot J, Bertoncello F, Ouriachi MJ, Bouby
+    L, Leveau P, Bernard L, Isoardi D.
+
+    PLoS One. 2024 Mar 27;19(3):e0298895. doi:
+    10.1371/journal.pone.0298895. eCollection 2024.
+
+    > What impact did the Roman Climate Optimum (RCO) and the Late
+    > Antique Little Ice Age (LALIA) have on the rise and fall of the
+    > Roman Empire? Our article presents an agent-based modelling (ABM)
+    > approach developed to evaluate the impact of climate change on the
+    > p …
+
+6.  **Digital twins in city planning.**
+
+    Batty M.
+
+    Nat Comput Sci. 2024 Mar;4(3):192-199. doi:
+    10.1038/s43588-024-00606-7. Epub 2024 Mar 26.
+
+    > Here, I provide a perspective on digital twins of cities that
+    > cover a wide array of different types, ranging from aggregate
+    > economic and behavioral processes to more disaggregate
+    > agent-based, cellular and micro-simulations. A key element in
+    > these applications is the …
+
+7.  **Evaluation of Strategies for Transitioning to Annual SARS-CoV-2
+    Vaccination Campaigns in the United States.**
+
+    Wells CR, Pandey A, Moghadas SM, Fitzpatrick MC, Singer BH, Galvani
+    AP.
+
+    Ann Intern Med. 2024 Mar 26. doi: 10.7326/M23-2451. Online ahead of
+    print.
+
+    > OBJECTIVE: To evaluate the effectiveness of an annual SARS-CoV-2
+    > vaccination campaign, quantify the health and economic benefits of
+    > a second dose provided to children younger than 2 years and adults
+    > aged 50 years or older, and optimize the timing of a second dose.
+    > DESIGN: An age- …
+
+8.  **Biomarkers and computational models for predicting efficacy to
+    tumor ICI immunotherapy.**
+
+    Qin Y, Huo M, Liu X, Li SC.
+
+    Front Immunol. 2024 Mar 8;15:1368749. doi:
+    10.3389/fimmu.2024.1368749. eCollection 2024.
+
+    > Among the knowledge-based mechanistic models are
+    > pharmacokinetic/pharmacodynamic (PK/PD) models, partial
+    > differential equation (PDE) models, signal networks-based models,
+    > quantitative systems pharmacology (QSP) models, and agent-based …
+
+9.  **Agent-based systems in healthcare.**
+
+    Montagna S, Mariani S, Schumacher MI, Manzo G.
+
+    Comput Methods Programs Biomed. 2024 Mar 19;248:108140. doi:
+    10.1016/j.cmpb.2024.108140. Online ahead of print.
+
+    > This Special Issue is dedicated to discussing which are the
+    > advantages, challenges and open issues in the application of the
+    > agent-based approach as a part of the digital transformation in
+    > the healthcare sector. Agent-based technology in healthcare opt …
+
+10. **In silico agent-based modeling approach to characterize multiple
     in vitro tuberculosis infection models.**
 
     Petrucciani A, Hoerter A, Kotze L, Du Plessis N, Pienaar E.
@@ -28,133 +152,6 @@ update was on 2024-03-24 00:39:20.
     > bacteria in an in vitro setting. This in silico model was used to
     > simulate both traditional and spheroid cell culture models by chan
     > …
-
-2.  **Dysregulated FGFR3 signaling alters the immune landscape in
-    bladder cancer and presents therapeutic possibilities in an
-    agent-based model.**
-
-    Bergman DR, Wang Y, Trujillo E, Fernald AA, Li L, Pearson AT, Sweis
-    RF, Jackson TL.
-
-    Front Immunol. 2024 Mar 7;15:1358019. doi:
-    10.3389/fimmu.2024.1358019. eCollection 2024.
-
-    > Emerging data suggests that the combination of these two therapies
-    > could lead to improved clinical outcomes, but the optimal strategy
-    > for combining these agents remains uncertain. Mathematical models,
-    > specifically agent-based models (ABMs), have shown …
-
-3.  **Complexity synchronization in emergent intelligence.**
-
-    Mahmoodi K, Kerick SE, Franaszczuk PJ, Parsons TD, Grigolini P, West
-    BJ.
-
-    Sci Rep. 2024 Mar 21;14(1):6758. doi: 10.1038/s41598-024-57384-5.
-
-    > In this work, we use a simple multi-agent-based-model (MABM) of a
-    > social network, implementing selfish algorithm (SA) agents, to
-    > create an adaptive environment and show, using a modified
-    > diffusion entropy analysis (DEA), that the mutual-adaptive
-    > interaction b …
-
-4.  **Coexistence of critical phenomena: the concept of manifold
-    multi-spectral criticality.**
-
-    Chorowski M, Kutner R, Struzik ZR.
-
-    Sci Rep. 2024 Mar 21;14(1):6833. doi: 10.1038/s41598-024-53014-2.
-
-    > Prompted by the ubiquity of empirical observations of critical
-    > phenomena, often in non-equilibrium macrostates, we developed a
-    > modelling approach in which several critical phenomena coexist.
-    > Instead of a single critical point, many coexisting critical
-    > points in the system …
-
-5.  **How individuals’ opinions influence society’s resistance to
-    epidemics: an agent-based model approach.**
-
-    Yu G, Garee M, Ventresca M, Yih Y.
-
-    BMC Public Health. 2024 Mar 20;24(1):863. doi:
-    10.1186/s12889-024-18310-6.
-
-    > However, a comprehensive understanding of the effects of
-    > opinion-related factors on disease spread still requires further
-    > exploration. METHODS: We propose an agent-based simulation
-    > framework incorporating opinion dynamics within an epidemic model
-    > based on the …
-
-6.  **An agent-based framework to study forced migration: A case study
-    of Ukraine.**
-
-    Mehrab Z, Stundal L, Venkatramanan S, Swarup S, Lewis B, Mortveit
-    HS, Barrett CL, Pandey A, Wells CR, Galvani AP, Singer BH, Leblang
-    D, Colwell RR, Marathe MV.
-
-    PNAS Nexus. 2024 Mar 19;3(3):pgae080. doi:
-    10.1093/pnasnexus/pgae080. eCollection 2024 Mar.
-
-    > Existing work is hindered by a reliance on observational data
-    > which is only available well after the fact. In this work, we
-    > study the efficacy of a data-driven agent-based framework
-    > motivated by social and behavioral theory in predicting outflow of
-    > migrants as a res …
-
-7.  **The bone ecosystem facilitates multiple myeloma relapse and the
-    evolution of heterogeneous drug resistant disease.**
-
-    Bishop RT, Miller AK, Froid M, Nerlakanti N, Li T, Frieling JS, Nasr
-    MM, Nyman KJ, Sudalagunta PR, Canevarolo RR, Silva AS, Shain KH,
-    Lynch CC, Basanta D.
-
-    Nat Commun. 2024 Mar 19;15(1):2458. doi: 10.1038/s41467-024-46594-0.
-
-    > Defining how, when and where myeloma cell intrinsic and extrinsic
-    > bone microenvironmental mechanisms cause relapse is challenging
-    > with current biological approaches. Here, we report a
-    > biology-driven spatiotemporal hybrid agent-based model of the
-    > MM-bone micro …
-
-8.  **Incorporating social vulnerability in infectious disease
-    mathematical modelling: a scoping review.**
-
-    Naidoo M, Shephard W, Kambewe I, Mtshali N, Cope S, Rubio FA,
-    Rasella D.
-
-    BMC Med. 2024 Mar 18;22(1):125. doi: 10.1186/s12916-024-03333-y.
-
-    > RESULTS: Of 4075 results, 89 articles were identified. Two-thirds
-    > of articles used a compartmental model (n = 58, 65.2%), with a
-    > quarter using agent-based models (n = 24, 27.0%). …For all
-    > agent-based models, characteristics were …
-
-9.  **Ameliorative effect of an acidic polysaccharide from Phellinus
-    linteus on ulcerative colitis in a DSS-induced mouse model.**
-
-    Hu J, Mei Y, Zhang H, Li J, Zhang M, Li Y, Yang W, Liu Y, Liang Y.
-
-    Int J Biol Macromol. 2024 Mar 17;265(Pt 1):130959. doi:
-    10.1016/j.ijbiomac.2024.130959. Online ahead of print.
-
-    > High-throughput sequencing showed that PLAP restored gut
-    > microbiota diversity and species abundances in the UC model, and
-    > gas chromatographic analysis showed that it increased levels of
-    > beneficial short-chain fatty acids. Our findings indicate that
-    > PLAP has strong potentia …
-
-10. **Histology-guided mathematical model of tumor oxygenation:
-    sensitivity analysis of physical and computational parameters.**
-
-    Ojwang’ AME, Bazargan S, Johnson JO, Pilon-Thomas S, Rejniak KA.
-
-    bioRxiv \[Preprint\]. 2024 Mar 10:2024.03.05.583363. doi:
-    10.1101/2024.03.05.583363.
-
-    > A hybrid off-lattice agent-based model has been developed to
-    > reconstruct the tumor tissue oxygenation landscape based on
-    > histology images and simulated interactions between vasculature
-    > and cells with microenvironment metabolites. Here, we performed a
-    > robustne …
 
 ## Code of Conduct
 
