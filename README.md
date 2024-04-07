@@ -9,149 +9,144 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-03-31 00:39:01.
+update was on 2024-04-07 00:39:12.
 
 <div class="cell">
 
 </div>
 
-1.  **Economic and labour market impacts of migration in Austria: an
-    agent-based modelling approach.**
+1.  **Dynamics of Information Flow and Task Allocation of Social Insect
+    Colonies: Impacts of Spatial Interactions and Task Switching.**
 
-    Poledna S, Strelkovskii N, Conte A, Goujon A, Linnerooth-Bayer J,
-    Catalano M, Rovenskaya E.
+    Chen J, Guo X, Charbonneau D, Azizi A, Fewell J, Kang Y.
 
-    Comp Migr Stud. 2024;12(1):18. doi: 10.1186/s40878-024-00374-3. Epub
-    2024 Mar 26.
+    Bull Math Biol. 2024 Apr 6;86(5):50. doi:
+    10.1007/s11538-024-01280-6.
 
-    > This study examines the potential economic and labour market
-    > impacts of a hypothetical but plausible migration scenario of
-    > 250,000 new migrants inspired by Austria’s experience in 2015.
-    > Using the agent-based macroeconomic model developed by Poledna et
-    > al. (Eu …
+    > How workers spatially distribute within the colony, or spatial
+    > heterogeneity degree (SHD), plays a vital role in contact
+    > dynamics, influencing information spread and task allocation. We
+    > used agent-based models to explore factors affecting spatial
+    > heterogeneit …
 
-2.  **Ridesourcing platforms thrive on socio-economic inequality.**
+2.  **Potential Impact of a Diagnostic Test for Detecting Prepatent
+    Guinea Worm Infections in Dogs.**
 
-    de Ruijter A, Cats O, van Lint H.
+    Smalley H, Keskinocak P, Swann J, Hanna C, Weiss A.
 
-    Sci Rep. 2024 Mar 28;14(1):7371. doi: 10.1038/s41598-024-57540-x.
+    Am J Trop Med Hyg. 2024 Apr 2:tpmd230534. doi:
+    10.4269/ajtmh.23-0534. Online ahead of print.
 
-    > We test the relation between inequality and system performance by
-    > means of an agent-based simulation model representing within-day
-    > and day-to-day supply-demand interaction in the ridesourcing
-    > market. The model captures travellers’ mode choice with a he …
+    > We investigate the potential benefits of a hypothetical diagnostic
+    > test that could be capable of detecting prepatent infections in
+    > dogs. We adapt an agent-based simulation model for forecasting the
+    > impact of interventions on guinea worm disease in dogs to exa …
 
-3.  **Reducing Sample Size While Improving Equity in Vaccine Clinical
-    Trials: A Machine Learning-Based Recruitment Methodology with
-    Application to Improving Trials of Hepatitis C Virus Vaccines in
-    People Who Inject Drugs.**
+3.  **Agent-based models under uncertainty.**
 
-    Chiu R, Tatara E, Mackesy-Amiti ME, Page K, Ozik J, Boodram B,
-    Dahari H, Gutfraind A.
+    Stepanov V, Ferson S.
 
-    Healthcare (Basel). 2024 Mar 13;12(6):644. doi:
-    10.3390/healthcare12060644.
+    F1000Res. 2024 Mar 14;12:834. doi: 10.12688/f1000research.135249.3.
+    eCollection 2023.
 
-    > We investigate trial recruitment informed by machine learning and
-    > evaluate a strategy for HCV vaccine trials termed
-    > PREDICTEE-Predictive Recruitment and Enrichment method balancing
-    > Demographics and Incidence for Clinical Trial Equity and
-    > Efficiency. PREDICTEE utilizes a survival …
+    > BACKGROUND: Monte Carlo (MC) is often used when trying to assess
+    > the consequences of uncertainty in agent-based models (ABMs).
+    > However, this approach is not appropriate when the uncertainty is
+    > epistemic rather than aleatory, that is, when it represents a lack
+    > …
 
-4.  **On Playing with Emotion: A Spatial Evolutionary Variation of the
-    Ultimatum Game.**
+4.  **Agent-based modeling of stress anisotropy driven nematic ordering
+    in growing biofilms.**
 
-    Charcon DY, Monteiro LHA.
+    Li C, Nijjer J, Feng L, Zhang Q, Yan J, Zhang S.
 
-    Entropy (Basel). 2024 Feb 27;26(3):204. doi: 10.3390/e26030204.
-
-    > If the second player, called the responder, accepts the offer, the
-    > money is divided according to the proposal; if the responder
-    > declines the offer, both players receive no money. In this
-    > article, an agent-based model is employed to evaluate the
-    > performance of …
-
-5.  **The impact of climate change on the agriculture and the economy of
-    Southern Gaul: New perspectives of agent-based modelling.**
-
-    Bernigaud N, Bondeau A, Guiot J, Bertoncello F, Ouriachi MJ, Bouby
-    L, Leveau P, Bernard L, Isoardi D.
-
-    PLoS One. 2024 Mar 27;19(3):e0298895. doi:
-    10.1371/journal.pone.0298895. eCollection 2024.
-
-    > What impact did the Roman Climate Optimum (RCO) and the Late
-    > Antique Little Ice Age (LALIA) have on the rise and fall of the
-    > Roman Empire? Our article presents an agent-based modelling (ABM)
-    > approach developed to evaluate the impact of climate change on the
-    > p …
-
-6.  **Digital twins in city planning.**
-
-    Batty M.
-
-    Nat Comput Sci. 2024 Mar;4(3):192-199. doi:
-    10.1038/s43588-024-00606-7. Epub 2024 Mar 26.
-
-    > Here, I provide a perspective on digital twins of cities that
-    > cover a wide array of different types, ranging from aggregate
-    > economic and behavioral processes to more disaggregate
-    > agent-based, cellular and micro-simulations. A key element in
-    > these applications is the …
-
-7.  **Evaluation of Strategies for Transitioning to Annual SARS-CoV-2
-    Vaccination Campaigns in the United States.**
-
-    Wells CR, Pandey A, Moghadas SM, Fitzpatrick MC, Singer BH, Galvani
-    AP.
-
-    Ann Intern Med. 2024 Mar 26. doi: 10.7326/M23-2451. Online ahead of
+    Soft Matter. 2024 Apr 2. doi: 10.1039/d3sm01535a. Online ahead of
     print.
 
-    > OBJECTIVE: To evaluate the effectiveness of an annual SARS-CoV-2
-    > vaccination campaign, quantify the health and economic benefits of
-    > a second dose provided to children younger than 2 years and adults
-    > aged 50 years or older, and optimize the timing of a second dose.
-    > DESIGN: An age- …
+    > However, the intricate process by which complex multicellular
+    > patterns emerge from a single founder cell remains elusive. In
+    > this study, we utilize an agent-based model, validated through
+    > single-cell microscopy imaging, to track the three-dimensional
+    > (3D) mor …
 
-8.  **Biomarkers and computational models for predicting efficacy to
-    tumor ICI immunotherapy.**
+5.  **Control of Medical Digital Twins with Artificial Neural
+    Networks.**
 
-    Qin Y, Huo M, Liu X, Li SC.
+    Böttcher L, Fonseca LL, Laubenbacher RC.
 
-    Front Immunol. 2024 Mar 8;15:1368749. doi:
-    10.3389/fimmu.2024.1368749. eCollection 2024.
+    bioRxiv \[Preprint\]. 2024 Mar 20:2024.03.18.585589. doi:
+    10.1101/2024.03.18.585589.
 
-    > Among the knowledge-based mechanistic models are
-    > pharmacokinetic/pharmacodynamic (PK/PD) models, partial
-    > differential equation (PDE) models, signal networks-based models,
-    > quantitative systems pharmacology (QSP) models, and agent-based …
+    > This poses a challenge to existing model-based control and
+    > optimization approaches that cannot be readily applied to such
+    > models. …This work introduces dynamics-informed neural-network
+    > controllers as an alternative approach to control of medical
+    > digital twins. As …
 
-9.  **Agent-based systems in healthcare.**
+6.  **Comprehensive Lipidomic Automation Workflow using Large Language
+    Models.**
 
-    Montagna S, Mariani S, Schumacher MI, Manzo G.
+    Beveridge C, Iyer S, Randolph CE, Muhoberac M, Manchanda P,
+    Clingenpeel AC, Tichy S, Chopra G.
 
-    Comput Methods Programs Biomed. 2024 Mar 19;248:108140. doi:
-    10.1016/j.cmpb.2024.108140. Online ahead of print.
+    ArXiv \[Preprint\]. 2024 Mar 22:arXiv:2403.15076v1.
 
-    > This Special Issue is dedicated to discussing which are the
-    > advantages, challenges and open issues in the application of the
-    > agent-based approach as a part of the digital transformation in
-    > the healthcare sector. Agent-based technology in healthcare opt …
+    > We also developed an integrated language user interface with large
+    > language models using artificially intelligent (AI) agents that
+    > permits users to interact with the CLAW platform using a chatbot
+    > terminal to perform statistical and bioinformatic analyses. We
+    > envision CLAW …
 
-10. **In silico agent-based modeling approach to characterize multiple
-    in vitro tuberculosis infection models.**
+7.  **Control of Medical Digital Twins with Artificial Neural
+    Networks.**
 
-    Petrucciani A, Hoerter A, Kotze L, Du Plessis N, Pienaar E.
+    Böttcher L, Fonseca LL, Laubenbacher RC.
 
-    PLoS One. 2024 Mar 22;19(3):e0299107. doi:
-    10.1371/journal.pone.0299107. eCollection 2024.
+    ArXiv \[Preprint\]. 2024 Mar 18:arXiv:2403.13851v1.
 
-    > To this end, we introduce an agent-based model (ABM)
-    > representation of the interactions between immune cells and
-    > bacteria in an in vitro setting. This in silico model was used to
-    > simulate both traditional and spheroid cell culture models by chan
-    > …
+    > This poses a challenge to existing model-based control and
+    > optimization approaches that cannot be readily applied to such
+    > models. …This work introduces dynamics-informed neural-network
+    > controllers as an alternative approach to control of medical
+    > digital twins. As …
+
+8.  **Risk-sensitive learning is a winning strategy for leading an urban
+    invasion.**
+
+    Breen AJ, Deffner D.
+
+    Elife. 2024 Apr 2;12:RP89315. doi: 10.7554/eLife.89315.
+
+    > Confirming this mechanism, agent-based forward simulations of
+    > reinforcement learning-where we simulate ‘birds’ based on
+    > empirical estimates of our grackles’ reinforcement
+    > learning-replicate our sex-difference behavioural data. Finally,
+    > evolutionary modelling …
+
+9.  **Cue-driven microbial cooperation and communication: evolving
+    quorum sensing with honest signaling.**
+
+    Czárán T, Scheuring I, Zachar I, Számadó S.
+
+    BMC Biol. 2024 Apr 2;22(1):73. doi: 10.1186/s12915-024-01857-6.
+
+    > RESULTS: We investigated the evolutionary dynamics of QS in
+    > populations of cooperators for whom the QS signal is an inevitable
+    > side effect of producing the public good itself (cue-based QS).
+    > Using spatially explicit agent-based lattice simulations of
+    > QS-aided thresh …
+
+10. **Determinants of successful disease control through voluntary
+    quarantine dynamics on social networks.**
+
+    Shi S, Wang Z, Chen X, Fu F.
+
+    ArXiv \[Preprint\]. 2024 Mar 13:arXiv:2307.06297v2.
+
+    > To better understand self-motivated health behavior choices under
+    > these factors, here we incorporate voluntary quarantine into an
+    > endemic disease model – the susceptible-infected-susceptible (SIS)
+    > model – and perform comprehensive agent-based simulat …
 
 ## Code of Conduct
 
