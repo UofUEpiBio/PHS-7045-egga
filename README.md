@@ -9,13 +9,94 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-04-07 00:39:12.
+update was on 2024-04-14 00:39:46.
 
 <div class="cell">
 
 </div>
 
-1.  **Dynamics of Information Flow and Task Allocation of Social Insect
+1.  **AESIS-1, a Rheumatoid Arthritis Therapeutic Peptide, Accelerates
+    Wound Healing by Promoting Fibroblast Migration in a CXCR2-Dependent
+    Manner.**
+
+    Park SB, Yang Y, Bang SI, Kim TS, Cho D.
+
+    Int J Mol Sci. 2024 Apr 1;25(7):3937. doi: 10.3390/ijms25073937.
+
+    > In this study, we attempted to use the anti-RA material AESIS-1 as
+    > a therapeutic wound-healing agent based on disease-modifying
+    > antirheumatic drugs (DMARDs), which can help restore prompt wound
+    > healing. The efficacy of AESIS-1 in wound healing was assessed
+    > using a f …
+
+2.  **How Network Structure Shapes Languages: Disentangling the Factors
+    Driving Variation in Communicative Agents.**
+
+    Josserand M, Allassonnière-Tang M, Pellegrino F, Dediu D, de Boer B.
+
+    Cogn Sci. 2024 Apr;48(4):e13439. doi: 10.1111/cogs.13439.
+
+    > While previous studies have highlighted the role of network
+    > structure in language change, the specific aspects of network
+    > structure that shape language variability remain largely unknown.
+    > To address this gap, we developed a Bayesian agent-based model of
+    > langu …
+
+3.  **Assessing and managing the risk of Aedes mosquito introductions
+    via the global maritime trade network.**
+
+    Willoughby JR, McKenzie BA, Ahn J, Steury TD, Lepzcyk CA, Zohdy S.
+
+    PLoS Negl Trop Dis. 2024 Apr 10;18(4):e0012110. doi:
+    10.1371/journal.pntd.0012110. Online ahead of print.
+
+    > We used historical maritime movement data in combination with an
+    > agent-based model to understand invasion risk in the United States
+    > Gulf Coast and how the risk of these invasions could be reduced.
+    > …Additionally, in 2012, 99.2% of the arrivals into target po …
+
+4.  **Optimization of periodic treatment strategies for bacterial
+    biofilms using an agent-based in silico approach.**
+
+    Blee JA, Gorochowski TE, Hauert S.
+
+    J R Soc Interface. 2024 Apr;21(213):20240078. doi:
+    10.1098/rsif.2024.0078. Epub 2024 Apr 10.
+
+    > Because the dynamics and mechanisms of biofilm growth and the
+    > formation of persister cells are diverse and are affected by
+    > environmental conditions, it remains a challenge to design optimal
+    > periodic dosing regimens. Here, we develop a computational
+    > agent-based mo …
+
+5.  **Measuring the communicative constitution of organization as
+    network formation.**
+
+    Schwing KM, Pitt J.
+
+    PLoS One. 2024 Apr 9;19(4):e0300399. doi:
+    10.1371/journal.pone.0300399. eCollection 2024.
+
+    > We propose a set of metrics, based upon the four flows theory of
+    > the communicative constitution of organizations, to evaluate the
+    > emergence of organization in a social network. Using an
+    > agent-based model (ABM), we validate that our metrics chart the
+    > evolution …
+
+6.  **School Nutrition Stakeholders Find Utility in MealSim: An
+    Agent-Based Model.**
+
+    Palmer S, Ciubotariu I, Ofori R, Saenz M, Ellison B, Prescott MP.
+
+    J Nutr Educ Behav. 2024 Apr 5:S1499-4046(24)00045-9. doi:
+    10.1016/j.jneb.2024.02.008. Online ahead of print.
+
+    > OBJECTIVE: To obtain feedback from school nutrition stakeholders
+    > on an agent-based model simulating school lunch to inform model
+    > refinement and future applications. …Stakeholders also provided
+    > suggestions for training school nutrition administrators …
+
+7.  **Dynamics of Information Flow and Task Allocation of Social Insect
     Colonies: Impacts of Spatial Interactions and Task Switching.**
 
     Chen J, Guo X, Charbonneau D, Azizi A, Fewell J, Kang Y.
@@ -29,7 +110,7 @@ update was on 2024-04-07 00:39:12.
     > used agent-based models to explore factors affecting spatial
     > heterogeneit …
 
-2.  **Potential Impact of a Diagnostic Test for Detecting Prepatent
+8.  **Potential Impact of a Diagnostic Test for Detecting Prepatent
     Guinea Worm Infections in Dogs.**
 
     Smalley H, Keskinocak P, Swann J, Hanna C, Weiss A.
@@ -42,7 +123,7 @@ update was on 2024-04-07 00:39:12.
     > dogs. We adapt an agent-based simulation model for forecasting the
     > impact of interventions on guinea worm disease in dogs to exa …
 
-3.  **Agent-based models under uncertainty.**
+9.  **Agent-based models under uncertainty.**
 
     Stepanov V, Ferson S.
 
@@ -55,7 +136,7 @@ update was on 2024-04-07 00:39:12.
     > epistemic rather than aleatory, that is, when it represents a lack
     > …
 
-4.  **Agent-based modeling of stress anisotropy driven nematic ordering
+10. **Agent-based modeling of stress anisotropy driven nematic ordering
     in growing biofilms.**
 
     Li C, Nijjer J, Feng L, Zhang Q, Yan J, Zhang S.
@@ -68,85 +149,6 @@ update was on 2024-04-07 00:39:12.
     > this study, we utilize an agent-based model, validated through
     > single-cell microscopy imaging, to track the three-dimensional
     > (3D) mor …
-
-5.  **Control of Medical Digital Twins with Artificial Neural
-    Networks.**
-
-    Böttcher L, Fonseca LL, Laubenbacher RC.
-
-    bioRxiv \[Preprint\]. 2024 Mar 20:2024.03.18.585589. doi:
-    10.1101/2024.03.18.585589.
-
-    > This poses a challenge to existing model-based control and
-    > optimization approaches that cannot be readily applied to such
-    > models. …This work introduces dynamics-informed neural-network
-    > controllers as an alternative approach to control of medical
-    > digital twins. As …
-
-6.  **Comprehensive Lipidomic Automation Workflow using Large Language
-    Models.**
-
-    Beveridge C, Iyer S, Randolph CE, Muhoberac M, Manchanda P,
-    Clingenpeel AC, Tichy S, Chopra G.
-
-    ArXiv \[Preprint\]. 2024 Mar 22:arXiv:2403.15076v1.
-
-    > We also developed an integrated language user interface with large
-    > language models using artificially intelligent (AI) agents that
-    > permits users to interact with the CLAW platform using a chatbot
-    > terminal to perform statistical and bioinformatic analyses. We
-    > envision CLAW …
-
-7.  **Control of Medical Digital Twins with Artificial Neural
-    Networks.**
-
-    Böttcher L, Fonseca LL, Laubenbacher RC.
-
-    ArXiv \[Preprint\]. 2024 Mar 18:arXiv:2403.13851v1.
-
-    > This poses a challenge to existing model-based control and
-    > optimization approaches that cannot be readily applied to such
-    > models. …This work introduces dynamics-informed neural-network
-    > controllers as an alternative approach to control of medical
-    > digital twins. As …
-
-8.  **Risk-sensitive learning is a winning strategy for leading an urban
-    invasion.**
-
-    Breen AJ, Deffner D.
-
-    Elife. 2024 Apr 2;12:RP89315. doi: 10.7554/eLife.89315.
-
-    > Confirming this mechanism, agent-based forward simulations of
-    > reinforcement learning-where we simulate ‘birds’ based on
-    > empirical estimates of our grackles’ reinforcement
-    > learning-replicate our sex-difference behavioural data. Finally,
-    > evolutionary modelling …
-
-9.  **Cue-driven microbial cooperation and communication: evolving
-    quorum sensing with honest signaling.**
-
-    Czárán T, Scheuring I, Zachar I, Számadó S.
-
-    BMC Biol. 2024 Apr 2;22(1):73. doi: 10.1186/s12915-024-01857-6.
-
-    > RESULTS: We investigated the evolutionary dynamics of QS in
-    > populations of cooperators for whom the QS signal is an inevitable
-    > side effect of producing the public good itself (cue-based QS).
-    > Using spatially explicit agent-based lattice simulations of
-    > QS-aided thresh …
-
-10. **Determinants of successful disease control through voluntary
-    quarantine dynamics on social networks.**
-
-    Shi S, Wang Z, Chen X, Fu F.
-
-    ArXiv \[Preprint\]. 2024 Mar 13:arXiv:2307.06297v2.
-
-    > To better understand self-motivated health behavior choices under
-    > these factors, here we incorporate voluntary quarantine into an
-    > endemic disease model – the susceptible-infected-susceptible (SIS)
-    > model – and perform comprehensive agent-based simulat …
 
 ## Code of Conduct
 
