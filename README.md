@@ -9,13 +9,124 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-04-28 00:39:18.
+update was on 2024-05-05 00:38:56.
 
 <div class="cell">
 
 </div>
 
-1.  **Spatial transcriptome-guided multi-scale framework connects P.
+1.  **Impact of Tissue Damage and Hemodynamics on Restenosis Following
+    Percutaneous Transluminal Angioplasty: A Patient-Specific Multiscale
+    Model.**
+
+    Corti A, Marradi M, Çelikbudak Orhon C, Boccafoschi F, Büchler P,
+    Rodriguez Matas JF, Chiastra C.
+
+    Ann Biomed Eng. 2024 May 3. doi: 10.1007/s10439-024-03520-1. Online
+    ahead of print.
+
+    > Multiscale agent-based modeling frameworks have recently emerged
+    > as promising mechanobiological models to capture the interplay
+    > between biomechanical forces, cellular behavior, and molecular
+    > pathways underlying restenosis following percutaneous translu …
+
+2.  **Visual social information use in collective foraging.**
+
+    Mezey D, Deffner D, Kurvers RHJM, Romanczuk P.
+
+    PLoS Comput Biol. 2024 May 3;20(5):e1012087. doi:
+    10.1371/journal.pcbi.1012087. Online ahead of print.
+
+    > Using collective foraging to study the key trade-off between
+    > personal and social information use, we present a mechanistic,
+    > spatially-explicit agent-based model that combines
+    > individual-level evidence accumulation of personal and (visual)
+    > social cues with par …
+
+3.  **Approximate inference for longitudinal mechanistic HIV contact
+    network.**
+
+    Smiley O, Hoffmann T, Onnela JP.
+
+    Appl Netw Sci. 2024;9(1):12. doi: 10.1007/s41109-024-00616-4. Epub
+    2024 Apr 30.
+
+    > Network models are increasingly used to study infectious disease
+    > spread. Exponential Random Graph models have a history in this
+    > area, with scalable inference methods now available. …Combining
+    > mechanistic models with Approximate Bayesian Computation allows f
+    > …
+
+4.  **Predator-prey interactions across hunting mode, spatial domain
+    size, and habitat complexities.**
+
+    Orrick K, Sommer N, Rowland F, Ferraro K.
+
+    Ecology. 2024 May 1:e4316. doi: 10.1002/ecy.4316. Online ahead of
+    print.
+
+    > Theory suggests that the emergence and subsequent predominance of
+    > consumptive or NCEs depend on the given habitat’s complexity as
+    > well as predator hunting mode and spatial domain sizes of both
+    > predator and prey, but their relative influence on the outcome of
+    > predator-prey interac …
+
+5.  **The health equity implications of the Health Resources and
+    Services Administration’s Ryan White HIV/AIDS Program.**
+
+    Goyal R, Hotchkiss J, Gilman B, Klein PW, Mills RJ, Starling J,
+    Martin NK, Patton T, Cohen SM, Cheever L.
+
+    AIDS. 2024 Jun 1;38(7):1025-1032. doi: 10.1097/QAD.0000000000003836.
+    Epub 2024 Jan 11.
+
+    > OBJECTIVE: Investigate the role of the Ryan White HIV/AIDS Program
+    > (RWHAP) - which funds services for vulnerable and historically
+    > disadvantaged populations with HIV - in reducing health inequities
+    > among people with HIV over a 10-year horizon. DESIGN: We use an
+    > agent-bas …
+
+6.  **Decentralized multi-agent reinforcement learning based on
+    best-response policies.**
+
+    Gabler V, Wollherr D.
+
+    Front Robot AI. 2024 Apr 16;11:1229026. doi:
+    10.3389/frobt.2024.1229026. eCollection 2024.
+
+    > Our approach decouples the MARL problem into a set of distributed
+    > agents that model the other agents as responsive entities. In
+    > particular, we propose using two separate critics per agent to
+    > distinguish between the joint task reward and agent-based costs as
+    > c …
+
+7.  **Integrative analysis of yeast colony growth.**
+
+    Gaizer T, Juhász J, Pillér B, Szakadáti H, Pongor CI, Csikász-Nagy
+    A.
+
+    Commun Biol. 2024 Apr 29;7(1):511. doi: 10.1038/s42003-024-06218-1.
+
+    > We present the developement and parameterization of a quantitative
+    > agent-based model for yeast colony growth to reproduce
+    > measurements on colony size and cell number in a colony at
+    > non-standard environmental conditions. …We show that initial
+    > colony spread, …
+
+8.  **Agent-based modeling in cancer biomedicine: applications and tools
+    for calibration and validation.**
+
+    Cogno N, Axenie C, Bauer R, Vavourakis V.
+
+    Cancer Biol Ther. 2024 Dec 31;25(1):2344600. doi:
+    10.1080/15384047.2024.2344600. Epub 2024 Apr 28.
+
+    > Agent-based models and simulations are especially interesting
+    > candidates among computational modeling procedures in cancer
+    > research due to the capability to, for instance, recapitulate the
+    > dynamics of neoplasia and tumor - host interactions. …We cons …
+
+9.  **Spatial transcriptome-guided multi-scale framework connects P.
     aeruginosa metabolic states to oxidative stress biofilm
     microenvironment.**
 
@@ -30,7 +141,7 @@ update was on 2024-04-28 00:39:18.
     > heterogeneous biofilm metabolism. This work presents a Multi-scale
     > model of Metabolis …
 
-2.  **Screening Strategies to Reduce COVID-19 Mortality in Nursing
+10. **Screening Strategies to Reduce COVID-19 Mortality in Nursing
     Homes.**
 
     Dong S, Jutkowitz E, Giardina J, Bilinski A.
@@ -43,118 +154,6 @@ update was on 2024-04-28 00:39:18.
     > AND SETTING: An agent-based model was developed to simulate
     > SARS-CoV-2 transmission in the nursing home setting. …The
     > population us …
-
-3.  **Conformity and Mass Media Influence in the Sznajd Model on Regular
-    Lattices.**
-
-    Wołoszyn M.
-
-    Entropy (Basel). 2024 Mar 30;26(4):307. doi: 10.3390/e26040307.
-
-    > Understanding the dynamics governing those processes is,
-    > therefore, one of the main aims of sociophysics. In this work, the
-    > Sznajd model of opinion dynamics is investigated with Monte Carlo
-    > simulations performed on four different regular lattices:
-    > triangular, honeycomb, an …
-
-4.  **Protective effects of antibiotic resistant bacteria on
-    susceptibles in biofilm: Influential factors, mechanism, and
-    modeling.**
-
-    Xu F, Jiang M, Li D, Yu P, Ma H, Lu H.
-
-    Sci Total Environ. 2024 Apr 23:172668. doi:
-    10.1016/j.scitotenv.2024.172668. Online ahead of print.
-
-    > Compared to AmpS, AmpR displayed superiority in adhesion,
-    > antibiotic degradation, motility, and quorum sensing, allowing
-    > them to preferentially colonize biofilm edge and areas with higher
-    > ampicillin. An agent-based model incorporating protective effects
-    > succe …
-
-5.  **Selective social interactions and speed-induced leadership in
-    schooling fish.**
-
-    Puy A, Gimeno E, Torrents J, Bartashevich P, Miguel MC,
-    Pastor-Satorras R, Romanczuk P.
-
-    Proc Natl Acad Sci U S A. 2024 Apr 30;121(18):e2309733121. doi:
-    10.1073/pnas.2309733121. Epub 2024 Apr 25.
-
-    > Here, we introduce a force map technique suitable for the analysis
-    > of the alignment forces experienced by individuals. After
-    > validating it using an agent-based model, we apply the force map
-    > to experimental data of schooling fish. …This mechanism implies
-    > the …
-
-6.  **Noise and opinion dynamics: how ambiguity promotes pro-majority
-    consensus in the presence of confirmation bias.**
-
-    Steiglechner P, Keijzer MA, E Smaldino P, Moser D, Merico A.
-
-    R Soc Open Sci. 2024 Apr 24;11(4):231071. doi: 10.1098/rsos.231071.
-    eCollection 2024 Apr.
-
-    > Opinion dynamics are affected by cognitive biases and noise. While
-    > mathematical models have focused extensively on biases, we still
-    > know surprisingly little about how noise shapes opinion patterns.
-    > Here, we use an agent-based opinion dynamics model to …
-
-7.  **A Role for Cross-linking Proteins in Actin Filament Network
-    Organization and Force Generation.**
-
-    Hill JM, Cai S, Carver MD, Drubin DG.
-
-    bioRxiv \[Preprint\]. 2024 Apr 20:2024.04.19.590161. doi:
-    10.1101/2024.04.19.590161.
-
-    > Endocytic internalization is severely impeded in the absence of
-    > fimbrin, an actin filament crosslinking protein called Sac6 in
-    > budding yeast. Here, we combine live-cell imaging and mathematical
-    > modeling to gain new insights into the role of actin filament
-    > crosslinking prot …
-
-8.  **Controlling inter-particle distances in crowds of motile,
-    cognitive, active particles.**
-
-    Negi RS, Iyer P, Gompper G.
-
-    Sci Rep. 2024 Apr 24;14(1):9443. doi: 10.1038/s41598-024-59022-6.
-
-    > This becomes particularly relevant in systems of active agents,
-    > which can sense their environment and react by adjusting their
-    > direction of motion. We employ agent-based simulations to
-    > investigate the complex interplay between agent activity,
-    > characterized by Peclet …
-
-9.  **Hierarchically embedded scales of movement shape the social
-    networks of vampire bats.**
-
-    Hartman CRA, Wilkinson GS, Razik I, Hamilton IM, Hobson EA, Carter
-    GG.
-
-    Proc Biol Sci. 2024 Apr 30;291(2021):20232880. doi:
-    10.1098/rspb.2023.2880. Epub 2024 Apr 24.
-
-    > Using existing data from common vampire bats (Desmodus rotundus),
-    > we created an agent-based model of how three nested scales of
-    > movement-among roosts, clusters and grooming partners-each
-    > influence a bat’s grooming network centrality. …Simulations
-    > revealed h …
-
-10. **Is chromium(III) pharmacologically relevant? An update focused on
-    studies with diabetic rodent models.**
-
-    Vincent JB.
-
-    J Trace Elem Med Biol. 2024 Apr 20;84:127453. doi:
-    10.1016/j.jtemb.2024.127453. Online ahead of print.
-
-    > A decade ago, the author assessed the status of chromium as the
-    > trivalent ion as an essential element and as a therapeutic agent
-    > based on rodent studies for this journal. The current review was
-    > undertaken to update considerations regarding the status of
-    > chromium, fo …
 
 ## Code of Conduct
 
