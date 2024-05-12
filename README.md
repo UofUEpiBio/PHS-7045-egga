@@ -9,151 +9,149 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-05-05 00:38:56.
+update was on 2024-05-12 00:40:10.
 
 <div class="cell">
 
 </div>
 
-1.  **Impact of Tissue Damage and Hemodynamics on Restenosis Following
-    Percutaneous Transluminal Angioplasty: A Patient-Specific Multiscale
-    Model.**
+1.  **Mechanics limits ecological diversity and promotes heterogeneity
+    in confined bacterial communities.**
 
-    Corti A, Marradi M, Çelikbudak Orhon C, Boccafoschi F, Büchler P,
-    Rodriguez Matas JF, Chiastra C.
+    Ma T, Rothschild J, Halabeya F, Zilman A, Milstein JN.
 
-    Ann Biomed Eng. 2024 May 3. doi: 10.1007/s10439-024-03520-1. Online
-    ahead of print.
+    Proc Natl Acad Sci U S A. 2024 May 14;121(20):e2322321121. doi:
+    10.1073/pnas.2322321121. Epub 2024 May 10.
 
-    > Multiscale agent-based modeling frameworks have recently emerged
-    > as promising mechanobiological models to capture the interplay
-    > between biomechanical forces, cellular behavior, and molecular
-    > pathways underlying restenosis following percutaneous translu …
+    > However, the role of mechanical interactions in shaping the
+    > ecology is still poorly understood. Here, we study a model system
+    > consisting of two populations of nonmotile Escherichia coli
+    > bacteria competing within open, monolayer microchannels. …A more
+    > coccus morphology is …
 
-2.  **Visual social information use in collective foraging.**
+2.  **Can Generative AI improve social science?**
 
-    Mezey D, Deffner D, Kurvers RHJM, Romanczuk P.
+    Bail CA.
 
-    PLoS Comput Biol. 2024 May 3;20(5):e1012087. doi:
-    10.1371/journal.pcbi.1012087. Online ahead of print.
+    Proc Natl Acad Sci U S A. 2024 May 21;121(21):e2314021121. doi:
+    10.1073/pnas.2314021121. Epub 2024 May 9.
 
-    > Using collective foraging to study the key trade-off between
-    > personal and social information use, we present a mechanistic,
-    > spatially-explicit agent-based model that combines
-    > individual-level evidence accumulation of personal and (visual)
-    > social cues with par …
+    > I argue Generative AI has the potential to improve survey
+    > research, online experiments, automated content analyses,
+    > agent-based models, and other techniques commonly used to study
+    > human behavior. …
 
-3.  **Approximate inference for longitudinal mechanistic HIV contact
-    network.**
+3.  **Towards early diagnosis of Alzheimer’s disease: advances in
+    immune-related blood biomarkers and computational approaches.**
 
-    Smiley O, Hoffmann T, Onnela JP.
+    Krix S, Wilczynski E, Falgàs N, Sánchez-Valle R, Yoles E, Nevo U,
+    Baruch K, Fröhlich H.
 
-    Appl Netw Sci. 2024;9(1):12. doi: 10.1007/s41109-024-00616-4. Epub
-    2024 Apr 30.
+    Front Immunol. 2024 Apr 23;15:1343900. doi:
+    10.3389/fimmu.2024.1343900. eCollection 2024.
 
-    > Network models are increasingly used to study infectious disease
-    > spread. Exponential Random Graph models have a history in this
-    > area, with scalable inference methods now available. …Combining
-    > mechanistic models with Approximate Bayesian Computation allows f
+    > Here, we give a background on recent advances in research on
+    > brain-immune system cross-talk in Alzheimer’s disease and review
+    > machine learning approaches, which can combine multiple biomarkers
+    > with further information (e.g. age, sex, APOE genotype) into
+    > predictive models s …
+
+4.  **Uncovering physical activity trade-offs in transportation policy:
+    A spatial agent-based model of Bogota, Colombia.**
+
+    Stankov I, Meisel JD, Sarmiento OL, Delclòs-Alió X, Hidalgo D,
+    Guzman LA, Rodriguez DA, Hammond RA, Diez Roux AV.
+
+    Int J Behav Nutr Phys Act. 2024 May 8;21(1):54. doi:
+    10.1186/s12966-024-01570-1.
+
+    > BACKGROUND: Transportation policies can impact health outcomes
+    > while simultaneously promoting social equity and environmental
+    > sustainability. We developed an agent-based model (ABM) to
+    > simulate the impacts of fare subsidies and congestion taxes on
+    > commuter de …
+
+5.  **The impact of mobility costs on cooperation and welfare in spatial
+    social dilemmas.**
+
+    Bara J, Santos FP, Turrini P.
+
+    Sci Rep. 2024 May 8;14(1):10572. doi: 10.1038/s41598-024-60806-z.
+
+    > Importantly, agents can pay a cost to move to a cleaner site. Both
+    > analytically and through agent-based simulations we find that, in
+    > general, introducing mobility costs increases pollution felt in
+    > the limit of fast movement (equivalently slow strategy revision).
     > …
 
-4.  **Predator-prey interactions across hunting mode, spatial domain
-    size, and habitat complexities.**
+6.  **Impact of interventions to reduce nosocomial transmission of
+    SARS-CoV-2 in English NHS Trusts: a computational modelling study.**
 
-    Orrick K, Sommer N, Rowland F, Ferraro K.
+    Evans S, Stimson J, Pople D, White PJ, Wilcox MH, Robotham JV.
 
-    Ecology. 2024 May 1:e4316. doi: 10.1002/ecy.4316. Online ahead of
-    print.
+    BMC Infect Dis. 2024 May 7;24(1):475. doi:
+    10.1186/s12879-024-09330-z.
 
-    > Theory suggests that the emergence and subsequent predominance of
-    > consumptive or NCEs depend on the given habitat’s complexity as
-    > well as predator hunting mode and spatial domain sizes of both
-    > predator and prey, but their relative influence on the outcome of
-    > predator-prey interac …
+    > A panel of experts in infection prevention and control informed
+    > intervention choice and helped ensure the model reflected
+    > implementation in practice. Model parameters and associated
+    > uncertainty were derived using national and local data, literature
+    > review and formal …
 
-5.  **The health equity implications of the Health Resources and
-    Services Administration’s Ryan White HIV/AIDS Program.**
+7.  **Utilizing Agent-Based Modeling for Optimization of Wayfinding in
+    Hospital: A Case Study.**
 
-    Goyal R, Hotchkiss J, Gilman B, Klein PW, Mills RJ, Starling J,
-    Martin NK, Patton T, Cohen SM, Cheever L.
+    Khasraghi GS, Nejat A.
 
-    AIDS. 2024 Jun 1;38(7):1025-1032. doi: 10.1097/QAD.0000000000003836.
-    Epub 2024 Jan 11.
+    HERD. 2024 May 6:19375867241248593. doi: 10.1177/19375867241248593.
+    Online ahead of print.
 
-    > OBJECTIVE: Investigate the role of the Ryan White HIV/AIDS Program
-    > (RWHAP) - which funds services for vulnerable and historically
-    > disadvantaged populations with HIV - in reducing health inequities
-    > among people with HIV over a 10-year horizon. DESIGN: We use an
-    > agent-bas …
+    > Although architectural design can aid in simplifying user access,
+    > existing approaches lack a specific focus on wayfinding
+    > optimization despite its significant impact on users’ navigational
+    > abilities. METHODS: In this study, an agent-based model was
+    > employed t …
 
-6.  **Decentralized multi-agent reinforcement learning based on
-    best-response policies.**
+8.  **Subtractive proteomics-guided vaccine targets identification and
+    designing of multi-epitopes vaccine for immune response instigation
+    against Burkholderia pseudomallei.**
 
-    Gabler V, Wollherr D.
+    Alshabrmi FM, Alatawi EA.
 
-    Front Robot AI. 2024 Apr 16;11:1229026. doi:
-    10.3389/frobt.2024.1229026. eCollection 2024.
+    Int J Biol Macromol. 2024 May 4:132105. doi:
+    10.1016/j.ijbiomac.2024.132105. Online ahead of print.
 
-    > Our approach decouples the MARL problem into a set of distributed
-    > agents that model the other agents as responsive entities. In
-    > particular, we propose using two separate critics per agent to
-    > distinguish between the joint task reward and agent-based costs as
-    > c …
+    > In this study, a methodical workflow using subtractive proteomics,
+    > vaccine designing, molecular simulation, and agent-based modeling
+    > approaches were used to annotate the whole proteome of
+    > Burkholderia pseudomallei (strain K96243) for vaccine designing.
+    > …Fut …
 
-7.  **Integrative analysis of yeast colony growth.**
+9.  **Multi-agent simulation of doughnut deep fat frying considering two
+    domain heating media and sample flipping.**
 
-    Gaizer T, Juhász J, Pillér B, Szakadáti H, Pongor CI, Csikász-Nagy
-    A.
+    Ghaitaranpour A, Koocheki A, Mohebbi M.
 
-    Commun Biol. 2024 Apr 29;7(1):511. doi: 10.1038/s42003-024-06218-1.
+    Curr Res Food Sci. 2024 Apr 25;8:100751. doi:
+    10.1016/j.crfs.2024.100751. eCollection 2024.
 
-    > We present the developement and parameterization of a quantitative
-    > agent-based model for yeast colony growth to reproduce
-    > measurements on colony size and cell number in a colony at
-    > non-standard environmental conditions. …We show that initial
-    > colony spread, …
+    > Two domain heating media and sample flipping during processing
+    > were considered when developing an agent-based model to explain
+    > coupled heat and mass transfer phenomena during deep fat frying of
+    > doughnuts. The model was validated by comparing the moistu …
 
-8.  **Agent-based modeling in cancer biomedicine: applications and tools
-    for calibration and validation.**
+10. **A seven-step guide to spatial, agent-based modelling of tumour
+    evolution.**
 
-    Cogno N, Axenie C, Bauer R, Vavourakis V.
+    Colyer B, Bak M, Basanta D, Noble R.
 
-    Cancer Biol Ther. 2024 Dec 31;25(1):2344600. doi:
-    10.1080/15384047.2024.2344600. Epub 2024 Apr 28.
+    Evol Appl. 2024 May 2;17(5):e13687. doi: 10.1111/eva.13687.
+    eCollection 2024 May.
 
-    > Agent-based models and simulations are especially interesting
-    > candidates among computational modeling procedures in cancer
-    > research due to the capability to, for instance, recapitulate the
-    > dynamics of neoplasia and tumor - host interactions. …We cons …
-
-9.  **Spatial transcriptome-guided multi-scale framework connects P.
-    aeruginosa metabolic states to oxidative stress biofilm
-    microenvironment.**
-
-    Kuper TJ, Islam MM, Peirce-Cottler SM, Papin JA, Ford RM.
-
-    PLoS Comput Biol. 2024 Apr 26;20(4):e1012031. doi:
-    10.1371/journal.pcbi.1012031. eCollection 2024 Apr.
-
-    > With the generation of spatially resolved transcriptomics of
-    > microbial biofilms, computational tools can be used to integrate
-    > this data to elucidate the multi-scale mechanisms controlling
-    > heterogeneous biofilm metabolism. This work presents a Multi-scale
-    > model of Metabolis …
-
-10. **Screening Strategies to Reduce COVID-19 Mortality in Nursing
-    Homes.**
-
-    Dong S, Jutkowitz E, Giardina J, Bilinski A.
-
-    JAMA Health Forum. 2024 Apr 5;5(4):e240688. doi:
-    10.1001/jamahealthforum.2024.0688.
-
-    > OBJECTIVE: To evaluate the cost-effectiveness of screening
-    > strategies in reducing COVID-19 mortality in nursing homes. DESIGN
-    > AND SETTING: An agent-based model was developed to simulate
-    > SARS-CoV-2 transmission in the nursing home setting. …The
-    > population us …
+    > Spatial agent-based models are frequently used to investigate the
+    > evolution of solid tumours subject to localized cell-cell
+    > interactions and microenvironmental heterogeneity. …Our guide is
+    > aimed at both aspiring modellers and other biologists and onc …
 
 ## Code of Conduct
 
