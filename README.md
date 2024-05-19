@@ -9,149 +9,147 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-05-12 00:40:10.
+update was on 2024-05-19 00:40:16.
 
 <div class="cell">
 
 </div>
 
-1.  **Mechanics limits ecological diversity and promotes heterogeneity
-    in confined bacterial communities.**
+1.  **Critical properties of Heider balance on multiplex networks.**
 
-    Ma T, Rothschild J, Halabeya F, Zilman A, Milstein JN.
+    Mohandas K, Suchecki K, Hołyst JA.
 
-    Proc Natl Acad Sci U S A. 2024 May 14;121(20):e2322321121. doi:
-    10.1073/pnas.2322321121. Epub 2024 May 10.
+    Phys Rev E. 2024 Apr;109(4-1):044306. doi:
+    10.1103/PhysRevE.109.044306.
 
-    > However, the role of mechanical interactions in shaping the
-    > ecology is still poorly understood. Here, we study a model system
-    > consisting of two populations of nonmotile Escherichia coli
-    > bacteria competing within open, monolayer microchannels. …A more
-    > coccus morphology is …
+    > Since people’s relations are rarely single faceted, we investigate
+    > Heider balance dynamics on a multiplex network, consisting of
+    > several copies of the same agent displaying correlated relations
+    > at different layers building the multiplex. Intralayer
+    > interactions in our model …
 
-2.  **Can Generative AI improve social science?**
+2.  **Socioeconomic agents as active matter in nonequilibrium
+    Sakoda-Schelling models.**
 
-    Bail CA.
+    Zakine R, Garnier-Brun J, Becharat AC, Benzaquen M.
 
-    Proc Natl Acad Sci U S A. 2024 May 21;121(21):e2314021121. doi:
-    10.1073/pnas.2314021121. Epub 2024 May 9.
+    Phys Rev E. 2024 Apr;109(4-1):044310. doi:
+    10.1103/PhysRevE.109.044310.
 
-    > I argue Generative AI has the potential to improve survey
-    > research, online experiments, automated content analyses,
-    > agent-based models, and other techniques commonly used to study
-    > human behavior. …
+    > How robust are socioeconomic agent-based models with respect to
+    > the details of the agents’ decision rule? …We believe our approach
+    > provides a unifying framework to further study geography-dependent
+    > agent-based models, notably paving the …
 
-3.  **Towards early diagnosis of Alzheimer’s disease: advances in
-    immune-related blood biomarkers and computational approaches.**
+3.  **Model-Driven Decision Support: A Community-Based
+    Meta-Implementation Strategy to Predict Population Impact.**
 
-    Krix S, Wilczynski E, Falgàs N, Sánchez-Valle R, Yoles E, Nevo U,
-    Baruch K, Fröhlich H.
+    Johnson K, Vermeer W, Hills H, Chin-Purcell L, Barnett J, Burns T,
+    Dean MJ, Hendricks Brown C.
 
-    Front Immunol. 2024 Apr 23;15:1343900. doi:
-    10.3389/fimmu.2024.1343900. eCollection 2024.
+    Ann Epidemiol. 2024 May 14:S1047-2797(24)00066-8. doi:
+    10.1016/j.annepidem.2024.05.002. Online ahead of print.
 
-    > Here, we give a background on recent advances in research on
-    > brain-immune system cross-talk in Alzheimer’s disease and review
-    > machine learning approaches, which can combine multiple biomarkers
-    > with further information (e.g. age, sex, APOE genotype) into
-    > predictive models s …
+    > METHODS: We describe a community-based model-driven decision
+    > support (MDDS) approach that requires community engagement, local
+    > data, and predictive modeling tools (agent-based modeling in our
+    > case studies) to improve decision-making on implement …
 
-4.  **Uncovering physical activity trade-offs in transportation policy:
-    A spatial agent-based model of Bogota, Colombia.**
+4.  **Impact of redefining statistical significance on P-hacking and
+    false positive rates: An agent-based model.**
 
-    Stankov I, Meisel JD, Sarmiento OL, Delclòs-Alió X, Hidalgo D,
-    Guzman LA, Rodriguez DA, Hammond RA, Diez Roux AV.
+    Fitzpatrick BG, Gorman DM, Trombatore C.
 
-    Int J Behav Nutr Phys Act. 2024 May 8;21(1):54. doi:
-    10.1186/s12966-024-01570-1.
+    PLoS One. 2024 May 16;19(5):e0303262. doi:
+    10.1371/journal.pone.0303262. eCollection 2024.
 
-    > BACKGROUND: Transportation policies can impact health outcomes
-    > while simultaneously promoting social equity and environmental
-    > sustainability. We developed an agent-based model (ABM) to
-    > simulate the impacts of fare subsidies and congestion taxes on
-    > commuter de …
+    > In response, it has been proposed that the threshold for
+    > statistical significance be changed from 0.05 to 0.005. The aim of
+    > the current study was to use an evolutionary agent-based model
+    > comprised of researchers who test hypotheses and strive to
+    > increase thei …
 
-5.  **The impact of mobility costs on cooperation and welfare in spatial
-    social dilemmas.**
+5.  **Development and validation of the Michigan Chronic Disease
+    Simulation Model (MICROSIM).**
 
-    Bara J, Santos FP, Turrini P.
+    Burke JF, Copeland LL, Sussman JB, Hayward RA, Gross AL, Briceño EM,
+    Whitney R, Giordani BJ, Elkind MSV, Manly JJ, Gottesman RF, Gaskin
+    DJ, Sidney S, Yaffe K, Sacco RL, Heckbert SR, Hughes TM, Galecki AT,
+    Levine DA.
 
-    Sci Rep. 2024 May 8;14(1):10572. doi: 10.1038/s41598-024-60806-z.
+    PLoS One. 2024 May 16;19(5):e0300005. doi:
+    10.1371/journal.pone.0300005. eCollection 2024.
 
-    > Importantly, agents can pay a cost to move to a cleaner site. Both
-    > analytically and through agent-based simulations we find that, in
-    > general, introducing mobility costs increases pollution felt in
-    > the limit of fast movement (equivalently slow strategy revision).
-    > …
+    > This manuscript describes the design principles, implementation
+    > details, and population-level validation of a novel
+    > population-health microsimulation framework, the MIchigan ChROnic
+    > Disease SIMulation (MICROSIM), for The Effect of Lower Blood
+    > Pressure over the Life Course on Late …
 
-6.  **Impact of interventions to reduce nosocomial transmission of
-    SARS-CoV-2 in English NHS Trusts: a computational modelling study.**
+6.  **Task-oriented machine learning surrogates for tipping points of
+    agent-based models.**
 
-    Evans S, Stimson J, Pople D, White PJ, Wilcox MH, Robotham JV.
+    Fabiani G, Evangelou N, Cui T, Bello-Rivas JM, Martin-Linares CP,
+    Siettos C, Kevrekidis IG.
 
-    BMC Infect Dis. 2024 May 7;24(1):475. doi:
-    10.1186/s12879-024-09330-z.
+    Nat Commun. 2024 May 15;15(1):4117. doi: 10.1038/s41467-024-48024-7.
 
-    > A panel of experts in infection prevention and control informed
-    > intervention choice and helped ensure the model reflected
-    > implementation in practice. Model parameters and associated
-    > uncertainty were derived using national and local data, literature
-    > review and formal …
+    > We present a machine learning framework bridging manifold
+    > learning, neural networks, Gaussian processes, and Equation-Free
+    > multiscale approach, for the construction of different types of
+    > effective reduced order models from detailed agent-based
+    > simulators and …
 
-7.  **Utilizing Agent-Based Modeling for Optimization of Wayfinding in
-    Hospital: A Case Study.**
+7.  **Interactions between pili affect the outcome of bacterial
+    competition driven by the type VI secretion system.**
 
-    Khasraghi GS, Nejat A.
+    Otto SB, Servajean R, Lemopoulos A, Bitbol AF, Blokesch M.
 
-    HERD. 2024 May 6:19375867241248593. doi: 10.1177/19375867241248593.
-    Online ahead of print.
+    Curr Biol. 2024 May 10:S0960-9822(24)00513-X. doi:
+    10.1016/j.cub.2024.04.041. Online ahead of print.
 
-    > Although architectural design can aid in simplifying user access,
-    > existing approaches lack a specific focus on wayfinding
-    > optimization despite its significant impact on users’ navigational
-    > abilities. METHODS: In this study, an agent-based model was
-    > employed t …
+    > To determine the factors that enable or hinder the T6SS’s targeted
+    > reduction of competitors carrying pili, we developed a
+    > physics-grounded computational model for autoaggregation.
+    > Collectively, our research demonstrates that T4Ps involved in
+    > cell-to-cell contact can impose …
 
-8.  **Subtractive proteomics-guided vaccine targets identification and
-    designing of multi-epitopes vaccine for immune response instigation
-    against Burkholderia pseudomallei.**
+8.  **Making evidence go further: Advancing synergy between agent-based
+    modeling and randomized control trials.**
 
-    Alshabrmi FM, Alatawi EA.
+    Hammond RA, Barkin S.
 
-    Int J Biol Macromol. 2024 May 4:132105. doi:
-    10.1016/j.ijbiomac.2024.132105. Online ahead of print.
+    Proc Natl Acad Sci U S A. 2024 May 21;121(21):e2314993121. doi:
+    10.1073/pnas.2314993121. Epub 2024 May 15.
 
-    > In this study, a methodical workflow using subtractive proteomics,
-    > vaccine designing, molecular simulation, and agent-based modeling
-    > approaches were used to annotate the whole proteome of
-    > Burkholderia pseudomallei (strain K96243) for vaccine designing.
-    > …Fut …
+9.  **Quantitative systems pharmacology modeling of tumor heterogeneity
+    in response to BH3-mimetics using virtual tumors calibrated with
+    cell viability assays.**
 
-9.  **Multi-agent simulation of doughnut deep fat frying considering two
-    domain heating media and sample flipping.**
+    Derippe T, Fouliard S, Decleves X, Mager DE.
 
-    Ghaitaranpour A, Koocheki A, Mohebbi M.
+    CPT Pharmacometrics Syst Pharmacol. 2024 May 15. doi:
+    10.1002/psp4.13158. Online ahead of print.
 
-    Curr Res Food Sci. 2024 Apr 25;8:100751. doi:
-    10.1016/j.crfs.2024.100751. eCollection 2024.
+    > This article proposes a new quantitative systems pharmacology
+    > (QSP)-based methodology in which cell viability assays are used to
+    > calibrate virtual tumors (VTs) made of virtual cells whose fate is
+    > determined by simulations from an apoptosis QSP model. VTs
+    > representing SU-DH …
 
-    > Two domain heating media and sample flipping during processing
-    > were considered when developing an agent-based model to explain
-    > coupled heat and mass transfer phenomena during deep fat frying of
-    > doughnuts. The model was validated by comparing the moistu …
+10. **Wireless sequential dual light delivery for programmed PDT in
+    vivo.**
 
-10. **A seven-step guide to spatial, agent-based modelling of tumour
-    evolution.**
+    Liu J, Sun B, Li W, Kim HJ, Gan SU, Ho JS, Rahmat JNB, Zhang Y.
 
-    Colyer B, Bak M, Basanta D, Noble R.
+    Light Sci Appl. 2024 May 15;13(1):113. doi:
+    10.1038/s41377-024-01437-x.
 
-    Evol Appl. 2024 May 2;17(5):e13687. doi: 10.1111/eva.13687.
-    eCollection 2024 May.
-
-    > Spatial agent-based models are frequently used to investigate the
-    > evolution of solid tumours subject to localized cell-cell
-    > interactions and microenvironmental heterogeneity. …Our guide is
-    > aimed at both aspiring modellers and other biologists and onc …
+    > Optimal irradiation time, dose, and RB-M concentration were
+    > determined using an agent-based digital simulation method. In
+    > vitro and in vivo validation experiments in an orthotopic rat
+    > liver hepatocellular carcinoma disease model confirmed that the
+    > nanocarrier …
 
 ## Code of Conduct
 
