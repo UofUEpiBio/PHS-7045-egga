@@ -9,147 +9,150 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-05-19 00:40:16.
+update was on 2024-05-26 00:40:42.
 
 <div class="cell">
 
 </div>
 
-1.  **Critical properties of Heider balance on multiplex networks.**
+1.  **Feedback between stochastic gene networks and population dynamics
+    enables cellular decision-making.**
 
-    Mohandas K, Suchecki K, Hołyst JA.
+    Piho P, Thomas P.
 
-    Phys Rev E. 2024 Apr;109(4-1):044306. doi:
-    10.1103/PhysRevE.109.044306.
+    Sci Adv. 2024 May 24;10(21):eadl4895. doi: 10.1126/sciadv.adl4895.
+    Epub 2024 May 24.
 
-    > Since people’s relations are rarely single faceted, we investigate
-    > Heider balance dynamics on a multiplex network, consisting of
-    > several copies of the same agent displaying correlated relations
-    > at different layers building the multiplex. Intralayer
-    > interactions in our model …
+    > Such noise arises from fluctuations in reactions synthesizing
+    > proteins and plays a crucial role in how cells make decisions and
+    > respond to stress or drugs. We propose a general stochastic
+    > agent-based model for growing populations capturing the feedback
+    > betwee …
 
-2.  **Socioeconomic agents as active matter in nonequilibrium
-    Sakoda-Schelling models.**
+2.  **The Efficacy and Safety of Tandem Transplant Versus Single Stem
+    Cell Transplant for Multiple Myeloma Patients: A Systematic Review
+    and Meta-Analysis.**
 
-    Zakine R, Garnier-Brun J, Becharat AC, Benzaquen M.
+    Chen YH, Fogel L, Sun AY, Yang C, Patel R, Chang WC, Chen PH, Jhou
+    HJ, Chen YC, Dai MS, Lee CH.
 
-    Phys Rev E. 2024 Apr;109(4-1):044310. doi:
-    10.1103/PhysRevE.109.044310.
+    Diagnostics (Basel). 2024 May 16;14(10):1030. doi:
+    10.3390/diagnostics14101030.
 
-    > How robust are socioeconomic agent-based models with respect to
-    > the details of the agents’ decision rule? …We believe our approach
-    > provides a unifying framework to further study geography-dependent
-    > agent-based models, notably paving the …
+    > The primary outcomes were progression-free survival (PFS), overall
+    > survival (OS), overall response rate (ORR), complete response rate
+    > (CRR), and treatment-related mortality (TRM). We used a
+    > random-effects model to calculate pooled hazard ratios (HRs) and
+    > relative risks (RR …
 
-3.  **Model-Driven Decision Support: A Community-Based
-    Meta-Implementation Strategy to Predict Population Impact.**
+3.  **CCTFv2: Modeling Cyber Competitions.**
 
-    Johnson K, Vermeer W, Hills H, Chin-Purcell L, Barnett J, Burns T,
-    Dean MJ, Hendricks Brown C.
+    Qolomany B, Calay TJ, Hossain L, Mulahuwaish A, Bou Abdo J.
 
-    Ann Epidemiol. 2024 May 14:S1047-2797(24)00066-8. doi:
-    10.1016/j.annepidem.2024.05.002. Online ahead of print.
+    Entropy (Basel). 2024 Apr 30;26(5):384. doi: 10.3390/e26050384.
 
-    > METHODS: We describe a community-based model-driven decision
-    > support (MDDS) approach that requires community engagement, local
-    > data, and predictive modeling tools (agent-based modeling in our
-    > case studies) to improve decision-making on implement …
+    > This work follows a cross-validating two-approach methodology. The
+    > first is the computational modeling of cyber competitions using
+    > Agent-Based Modeling. Team members are modeled, in NetLogo, as
+    > collaborating agents competing over a network in a …
 
-4.  **Impact of redefining statistical significance on P-hacking and
-    false positive rates: An agent-based model.**
+4.  **Understanding the Role of Naive Learners in Cultural Change.**
 
-    Fitzpatrick BG, Gorman DM, Trombatore C.
+    Chimento M, Aplin LM.
 
-    PLoS One. 2024 May 16;19(5):e0303262. doi:
-    10.1371/journal.pone.0303262. eCollection 2024.
+    Am Nat. 2024 Jun;203(6):695-712. doi: 10.1086/730110. Epub 2024 Apr
+    15.
 
-    > In response, it has been proposed that the threshold for
-    > statistical significance be changed from 0.05 to 0.005. The aim of
-    > the current study was to use an evolutionary agent-based model
-    > comprised of researchers who test hypotheses and strive to
-    > increase thei …
+    > We conducted a formal exploration of this hypothesis using a
+    > generative model that concurrently simulated its two key
+    > ingredients: social transmission and reinforcement learning.
+    > …These effects depended on network and learning parameters. Our
+    > model provides formal …
 
-5.  **Development and validation of the Michigan Chronic Disease
-    Simulation Model (MICROSIM).**
+5.  **Modelling techniques in cholera epidemiology: A systematic and
+    critical review.**
 
-    Burke JF, Copeland LL, Sussman JB, Hayward RA, Gross AL, Briceño EM,
-    Whitney R, Giordani BJ, Elkind MSV, Manly JJ, Gottesman RF, Gaskin
-    DJ, Sidney S, Yaffe K, Sacco RL, Heckbert SR, Hughes TM, Galecki AT,
-    Levine DA.
+    Anteneh LM, Lokonon BE, Kakaï RG.
 
-    PLoS One. 2024 May 16;19(5):e0300005. doi:
-    10.1371/journal.pone.0300005. eCollection 2024.
+    Math Biosci. 2024 May 20;373:109210. doi: 10.1016/j.mbs.2024.109210.
+    Online ahead of print.
 
-    > This manuscript describes the design principles, implementation
-    > details, and population-level validation of a novel
-    > population-health microsimulation framework, the MIchigan ChROnic
-    > Disease SIMulation (MICROSIM), for The Effect of Lower Blood
-    > Pressure over the Life Course on Late …
+    > About 52%, 21%, and 9%, of the studies, were based on
+    > compartmental (e.g., SIRB), statistical (time series and
+    > regression), and spatial (spatiotemporal clustering) models,
+    > respectively, while the rest of the analysed studies used other
+    > modelling approaches such as n …
 
-6.  **Task-oriented machine learning surrogates for tipping points of
-    agent-based models.**
+6.  **Growth-induced collective bending and kinetic trapping of
+    cytoskeletal filaments.**
 
-    Fabiani G, Evangelou N, Cui T, Bello-Rivas JM, Martin-Linares CP,
-    Siettos C, Kevrekidis IG.
+    Banerjee DS, Freedman SL, Murrell MP, Banerjee S.
 
-    Nat Commun. 2024 May 15;15(1):4117. doi: 10.1038/s41467-024-48024-7.
+    Cytoskeleton (Hoboken). 2024 May 22. doi: 10.1002/cm.21877. Online
+    ahead of print.
 
-    > We present a machine learning framework bridging manifold
-    > learning, neural networks, Gaussian processes, and Equation-Free
-    > multiscale approach, for the construction of different types of
-    > effective reduced order models from detailed agent-based
-    > simulators and …
+    > To understand how filament growth shapes the emergent architecture
+    > of actin networks, we developed a minimal agent-based model
+    > coupling filament mechanics and growth in a limiting subunit pool.
+    > …
 
-7.  **Interactions between pili affect the outcome of bacterial
-    competition driven by the type VI secretion system.**
+7.  **Novel multi-cluster workflow system to support real-time
+    HPC-enabled epidemic science: Investigating the impact of vaccine
+    acceptance on COVID-19 spread.**
 
-    Otto SB, Servajean R, Lemopoulos A, Bitbol AF, Blokesch M.
+    Bhattacharya P, Machi D, Chen J, Hoops S, Lewis B, Mortveit H,
+    Venkatramanan S, Wilson ML, Marathe A, Porebski P, Klahn B, Outten
+    J, Vullikanti A, Xie D, Adiga A, Brown S, Barrett C, Marathe M.
 
-    Curr Biol. 2024 May 10:S0960-9822(24)00513-X. doi:
-    10.1016/j.cub.2024.04.041. Online ahead of print.
+    J Parallel Distrib Comput. 2024 Sep;191:104899. doi:
+    10.1016/j.jpdc.2024.104899. Epub 2024 May 4.
 
-    > To determine the factors that enable or hinder the T6SS’s targeted
-    > reduction of competitors carrying pili, we developed a
-    > physics-grounded computational model for autoaggregation.
-    > Collectively, our research demonstrates that T4Ps involved in
-    > cell-to-cell contact can impose …
+    > MacKenzie is a novel HPC meta-scheduler that can execute US-scale
+    > simulation models and associated workflows that typically present
+    > significant big data challenges. …We use a 288 million node
+    > synthetic social contact network (digital twin) spanning all 50 US
+    > states plus …
 
-8.  **Making evidence go further: Advancing synergy between agent-based
-    modeling and randomized control trials.**
+8.  **Untangling the stranglehold through mathematical modelling of
+    Streptococcus equi subspecies equi transmission.**
 
-    Hammond RA, Barkin S.
+    Houben RMAC, Newton JR, van Maanen C, Waller AS, Sloet van
+    Oldruitenborgh-Oosterbaan MM, Heesterbeek JAP.
 
-    Proc Natl Acad Sci U S A. 2024 May 21;121(21):e2314993121. doi:
-    10.1073/pnas.2314993121. Epub 2024 May 15.
+    Prev Vet Med. 2024 May 17;228:106230. doi:
+    10.1016/j.prevetmed.2024.106230. Online ahead of print.
 
-9.  **Quantitative systems pharmacology modeling of tumor heterogeneity
-    in response to BH3-mimetics using virtual tumors calibrated with
-    cell viability assays.**
+    > A compartmental deterministic model was constructed. Parameter
+    > values were estimated from current literature wherever possible.
+    > …In some of worst-case scenarios, vaccination alone would not
+    > suffice to prevent major outbreaks from occurring. A stochastic
+    > agent-b …
 
-    Derippe T, Fouliard S, Decleves X, Mager DE.
+9.  **Using an epidemiological model to explore the interplay between
+    sharing and advertising in viral videos.**
 
-    CPT Pharmacometrics Syst Pharmacol. 2024 May 15. doi:
-    10.1002/psp4.13158. Online ahead of print.
+    Li Y, Shao L.
 
-    > This article proposes a new quantitative systems pharmacology
-    > (QSP)-based methodology in which cell viability assays are used to
-    > calibrate virtual tumors (VTs) made of virtual cells whose fate is
-    > determined by simulations from an apoptosis QSP model. VTs
-    > representing SU-DH …
+    Sci Rep. 2024 May 18;14(1):11351. doi: 10.1038/s41598-024-61814-9.
 
-10. **Wireless sequential dual light delivery for programmed PDT in
-    vivo.**
+    > We mathematically analyze the global stability of the system and
+    > propose an agent-based modeling approach to evaluate the
+    > efficiency of sharing and advertising. We further provide a case
+    > study of music videos on YouTube to show the validity of our model
+    > …
 
-    Liu J, Sun B, Li W, Kim HJ, Gan SU, Ho JS, Rahmat JNB, Zhang Y.
+10. **Mathematical modeling of hypoxia and adenosine to explore tumor
+    escape mechanisms in DC-based immunotherapy.**
 
-    Light Sci Appl. 2024 May 15;13(1):113. doi:
-    10.1038/s41377-024-01437-x.
+    Ghiyabi E, Arabameri A, Charmi M.
 
-    > Optimal irradiation time, dose, and RB-M concentration were
-    > determined using an agent-based digital simulation method. In
-    > vitro and in vivo validation experiments in an orthotopic rat
-    > liver hepatocellular carcinoma disease model confirmed that the
-    > nanocarrier …
+    Sci Rep. 2024 May 18;14(1):11387. doi: 10.1038/s41598-024-62209-6.
+
+    > However, challenges include understanding dynamics, optimal
+    > vaccine dosages, and timing. Mathematical models, including
+    > agent-based, diffusion, and ordinary differential equations,
+    > address these challenges. Here, we employ these models for the
+    > first ti …
 
 ## Code of Conduct
 
