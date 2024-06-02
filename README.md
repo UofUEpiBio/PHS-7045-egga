@@ -9,13 +9,126 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-05-26 00:40:42.
+update was on 2024-06-02 00:40:52.
 
 <div class="cell">
 
 </div>
 
-1.  **Feedback between stochastic gene networks and population dynamics
+1.  **Evaluating targeted COVID-19 vaccination strategies with
+    agent-based modeling.**
+
+    Hladish TJ, Pillai AN, Pearson CAB, Toh KB, Tamayo AC, Stoltzfus A,
+    Longini IM.
+
+    PLoS Comput Biol. 2024 May 31;20(5):e1012128. doi:
+    10.1371/journal.pcbi.1012128. Online ahead of print.
+
+    > We evaluate approaches to vaccine distribution using an
+    > agent-based model of human activity and COVID-19 transmission
+    > calibrated to detailed trends in cases, hospitalizations, deaths,
+    > seroprevalence, and vaccine breakthrough infections in Florida,
+    > USA. …
+
+2.  **Graphical analysis of agent-based opinion formation models.**
+
+    Devia CA, Giordano G.
+
+    PLoS One. 2024 May 30;19(5):e0303204. doi:
+    10.1371/journal.pone.0303204. eCollection 2024.
+
+    > Agent-based models of opinion formation are becoming increasingly
+    > complex, because of their size and of the embedding of several
+    > individual psychological traits of the agents, aimed at
+    > realistically capturing the multifaceted aspects of social
+    > interaction. .. …
+
+3.  **Habitat remediation followed by managed connectivity reduces
+    unwanted changes in evolutionary trajectory of high extirpation risk
+    populations.**
+
+    Lamka GF, Willoughby JR.
+
+    PLoS One. 2024 May 30;19(5):e0304276. doi:
+    10.1371/journal.pone.0304276. eCollection 2024.
+
+    > Unfortunately, monitoring changes in genetic diversity from
+    > management actions such as assisted migration and predicting the
+    > extent of introduced genetic variation that is needed to prevent
+    > extirpation is difficult and costly in situ. Therefore, we
+    > designed an agent-bas …
+
+4.  **Incorporating endogenous human behavior in models of COVID-19
+    transmission: A systematic scoping review.**
+
+    Hamilton A, Haghpanah F, Tulchinsky A, Kipshidze N, Poleon S, Lin G,
+    Du H, Gardner L, Klein E.
+
+    Dialogues Health. 2024 May 7;4:100179. doi:
+    10.1016/j.dialog.2024.100179. eCollection 2024 Jun.
+
+    > Fewer models incorporated behavior endogenously (e.g., dynamically
+    > changing a model parameter throughout the simulation). …Similarly,
+    > 15% used a network model, 11% used an agent-based model, 7% used a
+    > system dynamics model, and 1 …
+
+5.  **In silico study of heterogeneous tumour-derived organoid response
+    to CAR T-cell therapy.**
+
+    Luque LM, Carlevaro CM, Rodriguez-Lomba E, Lomba E.
+
+    Sci Rep. 2024 May 29;14(1):12307. doi: 10.1038/s41598-024-63125-5.
+
+    > While understanding antigen heterogeneity is important for
+    > effective therapeutics, a good therapy strategy could enhance the
+    > therapy efficiency. In this work we introduce an agent-based model
+    > (ABM), built upon a previous ABM, to rationalise the outcomes of
+    > di …
+
+6.  **Optimizing Solid Tumor Treatment with Antibody-drug Conjugates
+    Using Agent-Based Modeling: Considering the Role of a Carrier Dose
+    and Payload Class.**
+
+    Calopiz MC, Linderman JJ, Thurber GM.
+
+    Pharm Res. 2024 May 28. doi: 10.1007/s11095-024-03715-0. Online
+    ahead of print.
+
+    > OBJECTIVE: In this work, we study two carrier dose regimens: 1)
+    > matching payload potency to cellular delivery but potentially not
+    > reaching cells farther away from blood vessels, or 2) dosing to
+    > tumor saturation but risking a reduction in cell killing from a
+    > lower amount of payloa …
+
+7.  **An agent-based model of the spread of behavioural risk-factors for
+    cardiovascular disease in city-scale populations.**
+
+    Archbold J, Clohessy S, Herath D, Griffiths N, Oyebode O.
+
+    PLoS One. 2024 May 28;19(5):e0303051. doi:
+    10.1371/journal.pone.0303051. eCollection 2024.
+
+    > Exploiting these social influences may lead to effective and
+    > efficient public health interventions to prevent CVD. This project
+    > aimed to construct and validate an agent-based model (ABM) of how
+    > the four major behavioural risk-factors for CVD spread through so
+    > …
+
+8.  **Advancing autologous CAR T-cell therapy through real-time patient
+    health data integration: a simulation-based approach.**
+
+    Tseng CY, Wang K, Lin LH, Zhang C, White CC 3rd, Wang B.
+
+    Cytotherapy. 2024 May 6:S1465-3249(24)00707-2. doi:
+    10.1016/j.jcyt.2024.05.001. Online ahead of print.
+
+    > SimPAC integrates system dynamics and agent-based simulation
+    > techniques, facilitating the adaptation of manufacturing processes
+    > and production schedules based on real-time patient health
+    > conditions. SimPAC can model various patient disease progressions
+    > using …
+
+9.  **Feedback between stochastic gene networks and population dynamics
     enables cellular decision-making.**
 
     Piho P, Thomas P.
@@ -29,7 +142,7 @@ update was on 2024-05-26 00:40:42.
     > agent-based model for growing populations capturing the feedback
     > betwee …
 
-2.  **The Efficacy and Safety of Tandem Transplant Versus Single Stem
+10. **The Efficacy and Safety of Tandem Transplant Versus Single Stem
     Cell Transplant for Multiple Myeloma Patients: A Systematic Review
     and Meta-Analysis.**
 
@@ -44,115 +157,6 @@ update was on 2024-05-26 00:40:42.
     > (CRR), and treatment-related mortality (TRM). We used a
     > random-effects model to calculate pooled hazard ratios (HRs) and
     > relative risks (RR …
-
-3.  **CCTFv2: Modeling Cyber Competitions.**
-
-    Qolomany B, Calay TJ, Hossain L, Mulahuwaish A, Bou Abdo J.
-
-    Entropy (Basel). 2024 Apr 30;26(5):384. doi: 10.3390/e26050384.
-
-    > This work follows a cross-validating two-approach methodology. The
-    > first is the computational modeling of cyber competitions using
-    > Agent-Based Modeling. Team members are modeled, in NetLogo, as
-    > collaborating agents competing over a network in a …
-
-4.  **Understanding the Role of Naive Learners in Cultural Change.**
-
-    Chimento M, Aplin LM.
-
-    Am Nat. 2024 Jun;203(6):695-712. doi: 10.1086/730110. Epub 2024 Apr
-    15.
-
-    > We conducted a formal exploration of this hypothesis using a
-    > generative model that concurrently simulated its two key
-    > ingredients: social transmission and reinforcement learning.
-    > …These effects depended on network and learning parameters. Our
-    > model provides formal …
-
-5.  **Modelling techniques in cholera epidemiology: A systematic and
-    critical review.**
-
-    Anteneh LM, Lokonon BE, Kakaï RG.
-
-    Math Biosci. 2024 May 20;373:109210. doi: 10.1016/j.mbs.2024.109210.
-    Online ahead of print.
-
-    > About 52%, 21%, and 9%, of the studies, were based on
-    > compartmental (e.g., SIRB), statistical (time series and
-    > regression), and spatial (spatiotemporal clustering) models,
-    > respectively, while the rest of the analysed studies used other
-    > modelling approaches such as n …
-
-6.  **Growth-induced collective bending and kinetic trapping of
-    cytoskeletal filaments.**
-
-    Banerjee DS, Freedman SL, Murrell MP, Banerjee S.
-
-    Cytoskeleton (Hoboken). 2024 May 22. doi: 10.1002/cm.21877. Online
-    ahead of print.
-
-    > To understand how filament growth shapes the emergent architecture
-    > of actin networks, we developed a minimal agent-based model
-    > coupling filament mechanics and growth in a limiting subunit pool.
-    > …
-
-7.  **Novel multi-cluster workflow system to support real-time
-    HPC-enabled epidemic science: Investigating the impact of vaccine
-    acceptance on COVID-19 spread.**
-
-    Bhattacharya P, Machi D, Chen J, Hoops S, Lewis B, Mortveit H,
-    Venkatramanan S, Wilson ML, Marathe A, Porebski P, Klahn B, Outten
-    J, Vullikanti A, Xie D, Adiga A, Brown S, Barrett C, Marathe M.
-
-    J Parallel Distrib Comput. 2024 Sep;191:104899. doi:
-    10.1016/j.jpdc.2024.104899. Epub 2024 May 4.
-
-    > MacKenzie is a novel HPC meta-scheduler that can execute US-scale
-    > simulation models and associated workflows that typically present
-    > significant big data challenges. …We use a 288 million node
-    > synthetic social contact network (digital twin) spanning all 50 US
-    > states plus …
-
-8.  **Untangling the stranglehold through mathematical modelling of
-    Streptococcus equi subspecies equi transmission.**
-
-    Houben RMAC, Newton JR, van Maanen C, Waller AS, Sloet van
-    Oldruitenborgh-Oosterbaan MM, Heesterbeek JAP.
-
-    Prev Vet Med. 2024 May 17;228:106230. doi:
-    10.1016/j.prevetmed.2024.106230. Online ahead of print.
-
-    > A compartmental deterministic model was constructed. Parameter
-    > values were estimated from current literature wherever possible.
-    > …In some of worst-case scenarios, vaccination alone would not
-    > suffice to prevent major outbreaks from occurring. A stochastic
-    > agent-b …
-
-9.  **Using an epidemiological model to explore the interplay between
-    sharing and advertising in viral videos.**
-
-    Li Y, Shao L.
-
-    Sci Rep. 2024 May 18;14(1):11351. doi: 10.1038/s41598-024-61814-9.
-
-    > We mathematically analyze the global stability of the system and
-    > propose an agent-based modeling approach to evaluate the
-    > efficiency of sharing and advertising. We further provide a case
-    > study of music videos on YouTube to show the validity of our model
-    > …
-
-10. **Mathematical modeling of hypoxia and adenosine to explore tumor
-    escape mechanisms in DC-based immunotherapy.**
-
-    Ghiyabi E, Arabameri A, Charmi M.
-
-    Sci Rep. 2024 May 18;14(1):11387. doi: 10.1038/s41598-024-62209-6.
-
-    > However, challenges include understanding dynamics, optimal
-    > vaccine dosages, and timing. Mathematical models, including
-    > agent-based, diffusion, and ordinary differential equations,
-    > address these challenges. Here, we employ these models for the
-    > first ti …
 
 ## Code of Conduct
 
