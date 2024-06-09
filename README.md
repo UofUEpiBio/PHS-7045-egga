@@ -9,154 +9,150 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-06-02 00:40:52.
+update was on 2024-06-09 00:42:38.
 
 <div class="cell">
 
 </div>
 
-1.  **Evaluating targeted COVID-19 vaccination strategies with
-    agent-based modeling.**
+1.  **Analysis of rural broadband adoption dynamics: A theory-driven
+    agent-based model.**
 
-    Hladish TJ, Pillai AN, Pearson CAB, Toh KB, Tamayo AC, Stoltzfus A,
-    Longini IM.
+    Agarwal A, Canfield C.
 
-    PLoS Comput Biol. 2024 May 31;20(5):e1012128. doi:
-    10.1371/journal.pcbi.1012128. Online ahead of print.
+    PLoS One. 2024 Jun 6;19(6):e0302146. doi:
+    10.1371/journal.pone.0302146. eCollection 2024.
 
-    > We evaluate approaches to vaccine distribution using an
-    > agent-based model of human activity and COVID-19 transmission
-    > calibrated to detailed trends in cases, hospitalizations, deaths,
-    > seroprevalence, and vaccine breakthrough infections in Florida,
-    > USA. …
+    > However, there is typically insufficient data available to
+    > understand consumer attitudes. We propose using an agent-based
+    > model grounded in the Theory of Planned Behavior, a behavioral
+    > theory that explains the consumer’s decision-making process. The
+    > model …
 
-2.  **Graphical analysis of agent-based opinion formation models.**
+2.  **Elucidating the interaction between stretch and stiffness using an
+    agent-based spring network model of progressive pulmonary
+    fibrosis.**
 
-    Devia CA, Giordano G.
+    Hall JK, Bates JHT, Krishnan R, Kim JH, Deng Y, Lutchen KR, Suki B.
 
-    PLoS One. 2024 May 30;19(5):e0303204. doi:
-    10.1371/journal.pone.0303204. eCollection 2024.
+    Front Netw Physiol. 2024 May 22;4:1396383. doi:
+    10.3389/fnetp.2024.1396383. eCollection 2024.
 
-    > Agent-based models of opinion formation are becoming increasingly
-    > complex, because of their size and of the embedding of several
-    > individual psychological traits of the agents, aimed at
-    > realistically capturing the multifaceted aspects of social
-    > interaction. .. …
+    > Pulmonary fibrosis is a deadly disease that involves the
+    > dysregulation of fibroblasts and myofibroblasts, which are
+    > mechanosensitive. Previous computational models have succeeded in
+    > modeling stiffness-mediated fibroblasts behaviors; however, these
+    > models have …
 
-3.  **Habitat remediation followed by managed connectivity reduces
-    unwanted changes in evolutionary trajectory of high extirpation risk
-    populations.**
+3.  **How can agent-based modelling provide new insights into the impact
+    of minimum unit pricing in Scotland?**
 
-    Lamka GF, Willoughby JR.
+    Boyd J, Holmes J, Gibbs N, Buckley C, Purshouse R, Meier P.
 
-    PLoS One. 2024 May 30;19(5):e0304276. doi:
-    10.1371/journal.pone.0304276. eCollection 2024.
+    Drug Alcohol Rev. 2024 Jun 5. doi: 10.1111/dar.13880. Online ahead
+    of print.
 
-    > Unfortunately, monitoring changes in genetic diversity from
-    > management actions such as assisted migration and predicting the
-    > extent of introduced genetic variation that is needed to prevent
-    > extirpation is difficult and costly in situ. Therefore, we
-    > designed an agent-bas …
+    > ., balance between on-licence and off-licence outlets), lead to
+    > long-term population-level trends (e.g., youth drinking) and
+    > social harms (e.g., violence). Agent-based modelling captures
+    > heterogeneity, emergence, feedback loops and adaptive and dynamic
+    > featur …
 
-4.  **Incorporating endogenous human behavior in models of COVID-19
-    transmission: A systematic scoping review.**
+4.  **Game-theoretic agent-based modelling of micro-level conflict:
+    Evidence from the ISIS-Kurdish war.**
 
-    Hamilton A, Haghpanah F, Tulchinsky A, Kipshidze N, Poleon S, Lin G,
-    Du H, Gardner L, Klein E.
+    Macmillan-Scott O, Ünver A, Musolesi M.
 
-    Dialogues Health. 2024 May 7;4:100179. doi:
-    10.1016/j.dialog.2024.100179. eCollection 2024 Jun.
+    PLoS One. 2024 Jun 5;19(6):e0297483. doi:
+    10.1371/journal.pone.0297483. eCollection 2024.
 
-    > Fewer models incorporated behavior endogenously (e.g., dynamically
-    > changing a model parameter throughout the simulation). …Similarly,
-    > 15% used a network model, 11% used an agent-based model, 7% used a
-    > system dynamics model, and 1 …
+    > This article delves into the dynamics of a dyadic political
+    > violence case study in Rojava, Northern Syria, focusing on the
+    > conflict between Kurdish rebels and ISIS from January 1, 2017, to
+    > December 31, 2019. We employ agent-based modelling and a
+    > formalisation …
 
-5.  **In silico study of heterogeneous tumour-derived organoid response
-    to CAR T-cell therapy.**
+5.  **COVID-19 outbreaks in residential aged care facilities: an
+    agent-based modeling study.**
 
-    Luque LM, Carlevaro CM, Rodriguez-Lomba E, Lomba E.
+    McAndrew F, Sacks-Davis R, Abeysuriya RG, Delport D, West D, Parta
+    I, Majumdar S, Hellard M, Scott N.
 
-    Sci Rep. 2024 May 29;14(1):12307. doi: 10.1038/s41598-024-63125-5.
+    Front Public Health. 2024 May 21;12:1344916. doi:
+    10.3389/fpubh.2024.1344916. eCollection 2024.
 
-    > While understanding antigen heterogeneity is important for
-    > effective therapeutics, a good therapy strategy could enhance the
-    > therapy efficiency. In this work we introduce an agent-based model
-    > (ABM), built upon a previous ABM, to rationalise the outcomes of
-    > di …
+    > INTRODUCTION: A disproportionate number of COVID-19 deaths occur
+    > in Residential Aged Care Facilities (RACFs), where better evidence
+    > is needed to target COVID-19 interventions to prevent mortality.
+    > This study used an agent-based model to assess the role of com …
 
-6.  **Optimizing Solid Tumor Treatment with Antibody-drug Conjugates
-    Using Agent-Based Modeling: Considering the Role of a Carrier Dose
-    and Payload Class.**
+6.  **Pleiotropy alleviates the fitness costs associated with resource
+    allocation trade-offs in immune signalling networks.**
 
-    Calopiz MC, Linderman JJ, Thurber GM.
+    Martin RA, Tate AT.
 
-    Pharm Res. 2024 May 28. doi: 10.1007/s11095-024-03715-0. Online
-    ahead of print.
+    Proc Biol Sci. 2024 Jun;291(2024):20240446. doi:
+    10.1098/rspb.2024.0446. Epub 2024 Jun 5.
 
-    > OBJECTIVE: In this work, we study two carrier dose regimens: 1)
-    > matching payload potency to cellular delivery but potentially not
-    > reaching cells farther away from blood vessels, or 2) dosing to
-    > tumor saturation but risking a reduction in cell killing from a
-    > lower amount of payloa …
+    > To investigate factors that could influence the evolutionary
+    > maintenance of pleiotropy in gene networks, we developed an
+    > agent-based model of co-evolution between parasites and hosts.
+    > Hosts comprise signalling networks that must faithfully complete a
+    > developm …
 
-7.  **An agent-based model of the spread of behavioural risk-factors for
-    cardiovascular disease in city-scale populations.**
+7.  **Agent-based model demonstrates the impact of nonlinear, complex
+    interactions between cytokinces on muscle regeneration.**
 
-    Archbold J, Clohessy S, Herath D, Griffiths N, Oyebode O.
+    Haase M, Comlekoglu T, Petrucciani A, Peirce SM, Blemker SS.
 
-    PLoS One. 2024 May 28;19(5):e0303051. doi:
-    10.1371/journal.pone.0303051. eCollection 2024.
+    Elife. 2024 Jun 3;13:RP91924. doi: 10.7554/eLife.91924.
 
-    > Exploiting these social influences may lead to effective and
-    > efficient public health interventions to prevent CVD. This project
-    > aimed to construct and validate an agent-based model (ABM) of how
-    > the four major behavioural risk-factors for CVD spread through so
+    > To understand the degree to which individual cellular behaviors
+    > impact endogenous mechanisms of muscle recovery, we developed an
+    > agent-based model (ABM) using the Cellular-Potts framework to
+    > simulate the dynamic microenvironment of a cross-section of murine
+    > s …
+
+8.  **Surrogate Modeling and Control of Medical Digital Twins.**
+
+    Fonseca LL, Böttcher L, Mehrad B, Laubenbacher RC.
+
+    ArXiv \[Preprint\]. 2024 May 20:arXiv:2402.05750v2.
+
+    > This paper introduces surrogate modeling algorithms for the
+    > purpose of optimal control applications. As a use case, we focus
+    > on agent-based models (ABMs), a common model type in biomedicine
+    > for which there are no readily available optimal contro …
+
+9.  **Spatial interactions modulate tumor growth and immune
+    infiltration.**
+
+    West J, Marzban S, Srivast S, Kartika S, Bravo R, Safriel R, Zarski
+    A, Anderson A, Chung C, Amelio A.
+
+    Res Sq \[Preprint\]. 2024 May 22:rs.3.rs-3962451. doi:
+    10.21203/rs.3.rs-3962451/v1.
+
+    > Historically, agent-based models of cancer progression have been
+    > constructed with rules that govern birth, death and migration,
+    > with attempts to map local rules to emergent global growth
+    > dynamics. …Lenia is subsequently used to develop data-informed
+    > mode …
+
+10. **Liquid-like condensates that bind actin drive filament
+    polymerization and bundling.**
+
+    Walker C, Chandrasekaran A, Mansour D, Graham K, Torres A, Wang L,
+    Lafer EM, Rangamani P, Stachowiak JC.
+
+    bioRxiv \[Preprint\]. 2024 May 22:2024.05.04.592527. doi:
+    10.1101/2024.05.04.592527.
+
+    > To probe the minimum requirements for condensate-mediated actin
+    > bundling, we developed an agent-based computational model. Guided
+    > by its predictions, we hypothesized that any condensate-forming
+    > protein that binds actin could bundle filaments through multivale
     > …
-
-8.  **Advancing autologous CAR T-cell therapy through real-time patient
-    health data integration: a simulation-based approach.**
-
-    Tseng CY, Wang K, Lin LH, Zhang C, White CC 3rd, Wang B.
-
-    Cytotherapy. 2024 May 6:S1465-3249(24)00707-2. doi:
-    10.1016/j.jcyt.2024.05.001. Online ahead of print.
-
-    > SimPAC integrates system dynamics and agent-based simulation
-    > techniques, facilitating the adaptation of manufacturing processes
-    > and production schedules based on real-time patient health
-    > conditions. SimPAC can model various patient disease progressions
-    > using …
-
-9.  **Feedback between stochastic gene networks and population dynamics
-    enables cellular decision-making.**
-
-    Piho P, Thomas P.
-
-    Sci Adv. 2024 May 24;10(21):eadl4895. doi: 10.1126/sciadv.adl4895.
-    Epub 2024 May 24.
-
-    > Such noise arises from fluctuations in reactions synthesizing
-    > proteins and plays a crucial role in how cells make decisions and
-    > respond to stress or drugs. We propose a general stochastic
-    > agent-based model for growing populations capturing the feedback
-    > betwee …
-
-10. **The Efficacy and Safety of Tandem Transplant Versus Single Stem
-    Cell Transplant for Multiple Myeloma Patients: A Systematic Review
-    and Meta-Analysis.**
-
-    Chen YH, Fogel L, Sun AY, Yang C, Patel R, Chang WC, Chen PH, Jhou
-    HJ, Chen YC, Dai MS, Lee CH.
-
-    Diagnostics (Basel). 2024 May 16;14(10):1030. doi:
-    10.3390/diagnostics14101030.
-
-    > The primary outcomes were progression-free survival (PFS), overall
-    > survival (OS), overall response rate (ORR), complete response rate
-    > (CRR), and treatment-related mortality (TRM). We used a
-    > random-effects model to calculate pooled hazard ratios (HRs) and
-    > relative risks (RR …
 
 ## Code of Conduct
 
