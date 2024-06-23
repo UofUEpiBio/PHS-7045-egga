@@ -9,144 +9,149 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-06-16 00:42:14.
+update was on 2024-06-23 00:41:34.
 
 <div class="cell">
 
 </div>
 
-1.  **Maternal care leads to the evolution of long, slow lives.**
+1.  **Electrical signaling in three-dimensional bacterial biofilms using
+    an agent-based fire-diffuse-fire model.**
 
-    Zipple MN, Reeve HK, Peniston OJ.
+    Carneiro da Cunha Martorelli V, Akabuogu E, Krašovec R, Roberts IS,
+    Waigh TA.
 
-    Proc Natl Acad Sci U S A. 2024 Jun 18;121(25):e2403491121. doi:
-    10.1073/pnas.2403491121. Epub 2024 Jun 14.
+    Phys Rev E. 2024 May;109(5-1):054402. doi:
+    10.1103/PhysRevE.109.054402.
 
-    > Here, we hypothesize that these two axes of variation are causally
-    > related to each other, such that extended dependence of offspring
-    > on maternal presence leads to the evolution of longer lives at the
-    > expense of reproduction. We use a combination of deterministic
-    > modeling a …
+    > Agent-based models were used to describe electrical signaling in
+    > bacterial biofilms in three dimensions. Specifically, wavefronts
+    > of potassium ions in Escherichia coli biofilms subjected to stress
+    > from blue light were modeled from experimental data. El …
 
-2.  **Mechanistic modeling of alarm signaling in seed-harvester ants.**
+2.  **Digital cloning of online social networks for language-sensitive
+    agent-based modeling of misinformation spread.**
 
-    Lin MR, Guo X, Azizi A, Fewell JH, Milner F.
+    Puri P, Hassler G, Katragadda S, Shenk A.
 
-    Math Biosci Eng. 2024 Mar 27;21(4):5536-5555. doi:
-    10.3934/mbe.2024244.
+    PLoS One. 2024 Jun 21;19(6):e0304889. doi:
+    10.1371/journal.pone.0304889. eCollection 2024.
 
-    > To effectively address potential dangers, a social group must
-    > swiftly communicate the threat throughout the collective while
-    > conserving energy in the event that the threat is unfounded.
-    > Through a combination of modeling, simulation, and empirical
-    > observations of alarm spre …
+    > We develop a simulation framework for studying misinformation
+    > spread within online social networks that blends agent-based
+    > modeling and natural language processing techniques. …Unlike many
+    > other agent-based methods in this space, information s …
 
-3.  **Using electric vehicles to enhance power outage resilience - An
-    agent-based modeling approach.**
+3.  **Enhancing Agricultural Sustainability Through Rhizomicrobiome: A
+    Review.**
 
-    Churchill M, Monroe J, Bristow D, Crawford C.
+    Behera PR, Behera KK, Sethi G, Prabina BJ, Bai AT, Sipra BS, Adarsh
+    V, Das S, Behera KC, Singh L, Mishra MK, Behera M.
 
-    Heliyon. 2024 May 29;10(11):e32104. doi:
-    10.1016/j.heliyon.2024.e32104. eCollection 2024 Jun 15.
+    J Basic Microbiol. 2024 Jun 20:e2400100. doi:
+    10.1002/jobm.202400100. Online ahead of print.
 
-    > While the bulk of the past work has focused on using EVs to
-    > increase the resilience of the distribution grid, or individual
-    > buildings, to a power outage, this paper was novel in its use of
-    > an agent-based model to study EVs that are performing functions to
-    > inc …
+    > This includes rhizosphere engineering, synthetic microbiome
+    > application, agent-based modeling of the rhizobiome, and
+    > metagenomic studies. …
 
-4.  **What’s luck got to do with it? A generative model for examining
-    the role of stochasticity in age-at-death, with implications for
-    bioarchaeology.**
+4.  **Intelligent extraction of reservoir dispatching information
+    integrating large language model and structured prompts.**
 
-    Wyatt B, Anderson A, Ward S, Wilson LAB.
+    Yang Y, Chen S, Zhu Y, Liu X, Ma W, Feng L.
 
-    Am J Hum Biol. 2024 Jun 12:e24115. doi: 10.1002/ajhb.24115. Online
-    ahead of print.
+    Sci Rep. 2024 Jun 19;14(1):14140. doi: 10.1038/s41598-024-64954-0.
 
-    > The present study introduces a computer simulation approach to
-    > modeling stochasticity’s contribution to the mortality schedule of
-    > a simulated cohort. METHODS: The present study employs an
-    > agent-based model of 15,100 individuals across a 120 year period …
+    > Furthermore, utilizing natural language prompts to guide large
+    > language models in completing reservoir dispatch extraction tasks
+    > also presents challenges of cognitive load and instability in
+    > model output. …Initially, a variety of labels are refined
+    > according to th …
 
-5.  **Agent-based modeling to estimate the impact of lockdown scenarios
-    and events on a pandemic exemplified on SARS-CoV-2.**
+5.  **A Neurosurgical Readmissions Reduction Program in an Academic
+    Hospital Leveraging Machine Learning, Workflow Analysis, and
+    Simulation.**
 
-    Nitzsche C, Simm S.
+    Wu TC, Kim A, Tsai CT, Gao A, Ghuman T, Paul A, Castillo A, Cheng J,
+    Adogwa O, Ngwenya LB, Foreman B, Wu DTY.
 
-    Sci Rep. 2024 Jun 11;14(1):13391. doi: 10.1038/s41598-024-63795-1.
+    Appl Clin Inform. 2024 May;15(3):479-488. doi:
+    10.1055/s-0044-1787119. Epub 2024 Jun 19.
 
-    > In actual pandemic situations like COVID-19, it is important to
-    > understand the influence of single mitigation measures as well as
-    > combinations to create most dynamic impact for lockdown scenarios.
-    > Therefore we created an agent-based model (ABM) to simulate th …
+    > OBJECTIVES: Train individual predictive models with good
+    > performance (area under the receiver operating characteristic
+    > curve or AUROC \> 0.8), identify potential interventions through
+    > semi-structured interviews, and demonstrate estimated clinical and
+    > financial impact of …
 
-6.  **Overdose deaths before and during the COVID-19 pandemic in a US
-    county.**
+6.  **Diffusive lensing as a mechanism of intracellular transport and
+    compartmentalization.**
 
-    Brown CH, Johnson KA, Hills HA, Vermeer W, Clarke DL, Barnett JT,
-    Newman RT, Burns TL, Pellan WA.
+    Raja Venkatesh A, Le KH, Weld DM, Brandman O.
 
-    Front Public Health. 2024 May 27;12:1366161. doi:
-    10.3389/fpubh.2024.1366161. eCollection 2024.
+    Elife. 2024 Jun 18;12:RP89794. doi: 10.7554/eLife.89794.
 
-    > As a next step in predicting which policies and practices will
-    > best reduce local overdoses, we propose using simulation modeling
-    > with agent-based models to examine complex interacting systems….
+    > While inhomogeneous diffusivity has been identified as a
+    > ubiquitous feature of the cellular interior, its implications for
+    > particle mobility and concentration at different length scales
+    > remain largely unexplored. In this work, we use agent-based
+    > simulations of diffu …
 
-7.  **Engineering a Computable Epiblast for in silico Modeling of
-    Developmental Toxicity.**
+7.  **The Wound Environment Agent-based Model (WEABM): a digital twin
+    platform for characterization and complex therapeutic discovery for
+    volumetric muscle loss.**
 
-    Barham K, Spencer R, Baker NC, Knudsen TB.
+    Cockrell C, Vodovotz Y, Zamora R, An G.
 
-    Reprod Toxicol. 2024 Jun 8:108625. doi:
-    10.1016/j.reprotox.2024.108625. Online ahead of print.
+    bioRxiv \[Preprint\]. 2024 Jun 10:2024.06.04.595972. doi:
+    10.1101/2024.06.04.595972.
 
-    > Mesodermal fate is modeled by synthetic activity of the
-    > BMP4-NODAL-WNT signaling axis. …Executing the model renders a
-    > quantitative cell-level computation of mesodermal fate and
-    > consequences of perturbation based on known biology. …
+    > Digital Twins (DTs) are the subject of a recent report from the
+    > National Academies of Science, Engineering and Medicine (NASEM),
+    > which provides guidance as to the definition, capabilities and
+    > research challenges associated with the development and
+    > implementation of DTs. Specifica …
 
-8.  **Capillary interactions drive the self-organization of bacterial
-    colonies.**
+8.  **Dynamic Coalition Formation among IoT Service Providers: A
+    Systematic Exploration of IoT Dynamics Using an Agent-Based Model.**
 
-    Black ME, Fei C, Alert R, Wingreen NS, Shaevitz JW.
+    Shakya J, Chopin M, Merghem-Boulahia L.
 
-    bioRxiv \[Preprint\]. 2024 Jun 2:2024.05.28.596252. doi:
-    10.1101/2024.05.28.596252.
+    Sensors (Basel). 2024 May 28;24(11):3471. doi: 10.3390/s24113471.
 
-    > We develop an experimental apparatus that allows us to control
-    > bacterial collective behaviors by varying the strength and range
-    > of capillary forces. Combining 3D imaging and cell tracking with
-    > agent-based modeling, we demonstrate that capillary attraction org
-    > …
+    > This paper introduces an Agent-Based Model (ABM) designed to
+    > investigate the dynamics of the Internet of Things (IoT)
+    > ecosystem, focusing on dynamic coalition formation among IoT
+    > Service Providers (SPs). Drawing on insights from our previous
+    > research in 5G ne …
 
-9.  **From multiplicity of infection to force of infection for sparsely
-    sampled Plasmodium falciparum populations at high transmission.**
+9.  **Trajectory-based global sensitivity analysis in multiscale
+    models.**
 
-    Zhan Q, Tiedje K, Day KP, Pascual M.
+    Bazyleva V, Garibay VM, Roy D.
 
-    medRxiv \[Preprint\]. 2024 May 27:2024.02.12.24302148. doi:
-    10.1101/2024.02.12.24302148.
+    Sci Rep. 2024 Jun 17;14(1):13902. doi: 10.1038/s41598-024-64331-x.
 
-    > FOI remains difficult, expensive, and labor-intensive to
-    > accurately measure, especially in high-transmission regions,
-    > whether directly via cohort studies or indirectly via the fitting
-    > of epidemiological models to repeated cross-sectional surveys. We
-    > propose here the applic …
+    > This research introduces a novel global sensitivity analysis (GSA)
+    > framework for agent-based models (ABMs) that explicitly handles
+    > their distinctive features, such as multi-level structure and
+    > temporal dynamics. …The new framework encourages the use of mani …
 
-10. **Agent-based modeling of the COVID-19 pandemic in Florida.**
+10. **Architectural interventions to mitigate the spread of SARS-CoV-2
+    in emergency departments.**
 
-    Pillai AN, Toh KB, Perdomo D, Bhargava S, Stoltzfus A, Longini IM
-    Jr, Pearson CAB, Hladish TJ.
+    Hernandez-Mejia G, Scheithauer S, Blaschke S, Kucheryava N, Schwarz
+    K, Moellmann J, Tomori DV, Bartz A, Jaeger VK, Lange B, Kuhlmann A,
+    Holzhausen J, Karch A.
 
-    Epidemics. 2024 May 17;47:100774. doi: 10.1016/j.epidem.2024.100774.
-    Online ahead of print.
+    J Hosp Infect. 2024 Jun 15:S0195-6701(24)00204-4. doi:
+    10.1016/j.jhin.2024.05.019. Online ahead of print.
 
-    > Our group predominantly uses agent-based models (ABMs) to study
-    > fine-scale intervention scenarios. …In this manuscript, we discuss
-    > how our group navigated this transition as we modeled the
-    > pandemic. The role of modelers often included nearly r …
+    > In this interdisciplinary study, we explore how infection
+    > prevention and control (IPC) architectural interventions mitigate
+    > the spread of emerging respiratory pathogens using the example of
+    > SARS-CoV-2 in a prototypical ED. METHODS: Using an agent-based
+    > approach, we …
 
 ## Code of Conduct
 
