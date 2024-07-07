@@ -9,13 +9,136 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-06-30 00:42:52.
+update was on 2024-07-07 00:43:19.
 
 <div class="cell">
 
 </div>
 
-1.  **Models of bee responses to land use and land cover changes in
+1.  **An agent-based model for cell microenvironment simulation using
+    FLAMEGPU2.**
+
+    Borau C, Chisholm R, Richmond P, Walker D.
+
+    Comput Biol Med. 2024 Jul 5;179:108831. doi:
+    10.1016/j.compbiomed.2024.108831. Online ahead of print.
+
+    > This work presents an advanced agent-based model developed within
+    > the FLAMEGPU2 framework, aimed at simulating the intricate
+    > dynamics of cell microenvironments. …Through four example
+    > applications, we demonstrate the model’s versatility in capt …
+
+2.  **HPVsim: An agent-based model of HPV transmission and cervical
+    disease.**
+
+    Stuart RM, Cohen JA, Kerr CC, Mathur P; National Disease Modelling
+    Consortium of India; Abeysuriya RG, Zimmermann M, Rao DW, Boudreau
+    MC, Lee S, Yang L, Klein DJ.
+
+    PLoS Comput Biol. 2024 Jul 5;20(7):e1012181. doi:
+    10.1371/journal.pcbi.1012181. Online ahead of print.
+
+    > Open-source modelling tools are needed to shift the capacity for
+    > such evaluations in-country. Here, we introduce the Human
+    > papillomavirus simulator (HPVsim), a new open-source software
+    > package for creating flexible agent-based models parameterised
+    > with …
+
+3.  **ENERGY Pro: Spatially explicit agent-based model on achieving
+    positive energy districts.**
+
+    Derkenbaeva E, Hofstede GJ, van Leeuwen E, Halleck Vega S, Wolfers
+    J.
+
+    MethodsX. 2024 May 28;12:102779. doi: 10.1016/j.mex.2024.102779.
+    eCollection 2024 Jun.
+
+    > This article describes the ENERGY Pro agent-based model using the
+    > Overview, Design Concept, and Details + Human Decision-making
+    > (ODD+D protocol). …The article also describes sensitivity
+    > analysis, validation results, and how to use and adapt the model …
+
+4.  **Influential individuals can promote prosocial practices in
+    heterogeneous societies: a mathematical and agent-based model.**
+
+    Crabtree SA, Wren CD, Dixit A, Levin SA.
+
+    PNAS Nexus. 2024 Jul 2;3(7):pgae224. doi: 10.1093/pnasnexus/pgae224.
+    eCollection 2024 Jul.
+
+    > We construct a general theoretical framework to examine a
+    > game-theoretic model to assess the ease of achieving a cooperative
+    > outcome. We then build a dynamic agent-based model to examine
+    > three distinct governance types in a heterogenous population: mon
+    > …
+
+5.  **Use of Individual-Based Mathematical Modelling to Understand More
+    About Antibiotic Resistance Within-Host.**
+
+    Saula AY, Rowlatt C, Bowness R.
+
+    Methods Mol Biol. 2024;2833:93-108. doi:
+    10.1007/978-1-0716-3981-8_10.
+
+    > To model complex systems, individual-based models (IBMs),
+    > sometimes called “agent-based models” (ABMs), describe a
+    > simplification of the system through an adequate representation of
+    > the elements. …Events that seldom occur such as the accumulat …
+
+6.  **Epidemic spreading on spatial higher-order network.**
+
+    Gu W, Qiu Y, Li W, Zhang Z, Liu X, Song Y, Wang W.
+
+    Chaos. 2024 Jul 1;34(7):073105. doi: 10.1063/5.0219759.
+
+    > Therefore, this study attempts to model and simulate higher-order
+    > interactions among mobile populations and explore their impact on
+    > epidemic transmission. This study simulated the spread of the
+    > epidemic in a spatial high-order network based on agent-based …
+
+7.  **PhysiCell Studio: a graphical tool to make agent-based modeling
+    more accessible.**
+
+    Heiland R, Bergman D, Lyons B, Waldow G, Cass J, Lima da Rocha H,
+    Ruscone M, Noël V, Macklin P.
+
+    GigaByte. 2024 Jun 19;2024:gigabyte128. doi: 10.46471/gigabyte.128.
+    eCollection 2024.
+
+    > In the best case, the model will be defined using some format
+    > specification - a markup language - that will provide easy model
+    > sharing (and a minimal step toward reproducibility). PhysiCell is
+    > an open-source, physics-based multicellular simulation framework
+    > with an …
+
+8.  **Balancing long-term and short-term strategies in a sustainability
+    game.**
+
+    Bertolotti F, Roman S.
+
+    iScience. 2024 May 27;27(6):110020. doi: 10.1016/j.isci.2024.110020.
+    eCollection 2024 Jun 21.
+
+    > This article aims to enhance the understanding of this issue by
+    > analyzing how sustainability concerns change over time by means of
+    > a game, and the effect of this variation on the final status of a
+    > system. Leveraging insights from the game, we implement an
+    > agent-based …
+
+9.  **Minimal cellular automaton model with heterogeneous cell sizes
+    predicts epithelial colony growth.**
+
+    Lange S, Schmied J, Willam P, Voss-Böhme A.
+
+    J Theor Biol. 2024 Jun 27:111882. doi: 10.1016/j.jtbi.2024.111882.
+    Online ahead of print.
+
+    > Cellular automata (CA) have been employed in the past as
+    > numerically efficient mathematical models to study the dynamics of
+    > cell ensembles, but they are not suitable to explore the origins
+    > of contact inhibition as such agent-based models assume fixed c …
+
+10. **Models of bee responses to land use and land cover changes in
     agricultural landscapes - a review and research agenda.**
 
     Rouabah A, Rabolin-Meinrad C, Gay C, Therond O.
@@ -27,131 +150,6 @@ update was on 2024-06-30 00:42:52.
     > to explore the impact of land use and land cover changes on bee
     > populations, and synthesised information about the modelled
     > systems, modelling approaches, and key model characteristics …
-
-2.  **Advancing the understanding and treatment of post-traumatic stress
-    disorder with computational modelling.**
-
-    Birkeland MS, Sundnes J.
-
-    Eur J Psychotraumatol. 2024 Jun 27:2360814. doi:
-    10.1080/20008066.2024.2360814. Online ahead of print.
-
-    > In this paper, we propose that one way forward is to use
-    > computational modelling to formulate more precise theories of PTSD
-    > that can be evaluated by (1) assessing whether the model can
-    > explain fundamental phenomena related to PTSD, and (2) comparing
-    > simulated outcom …
-
-3.  **Enhancing Clinical Validation for Early Cardiovascular Disease
-    Prediction through Simulation, AI, and Web Technology.**
-
-    Sufian MA, Hamzi W, Zaman S, Alsadder L, Hamzi B, Varadarajan J,
-    Azad MAK.
-
-    Diagnostics (Basel). 2024 Jun 20;14(12):1308. doi:
-    10.3390/diagnostics14121308.
-
-    > Cardiovascular diseases (CVDs) remain a major global health
-    > challenge and a leading cause of mortality, highlighting the need
-    > for improved predictive models. We introduce an innovative
-    > agent-based dynamic simulation technique that enhances our AI
-    > models …
-
-4.  **Exploration of the potential of a boosted sterile insect technique
-    to control fruit flies in mango orchards.**
-
-    Diouf EG, Brévault T, Ndiaye S, Piou C.
-
-    Pest Manag Sci. 2024 Jun 24. doi: 10.1002/ps.8248. Online ahead of
-    print.
-
-    > The objective of the present study was to assess the relevance of
-    > such technology to control the fruit fly Bactrocera dorsalis and
-    > fruit losses in mango orchards using. An agent-based simulation
-    > model named BOOSTIT was used to explore the reduction of fruit l …
-
-5.  **Review of the Brain’s Behaviour after Injury and Disease for Its
-    Application in an Agent-Based Model (ABM).**
-
-    Irastorza-Valera L, Soria-Gómez E, Benitez JM, Montáns FJ,
-    Saucedo-Mora L.
-
-    Biomimetics (Basel). 2024 Jun 14;9(6):362. doi:
-    10.3390/biomimetics9060362.
-
-    > This bibliographic review aims to cover mostly findings related to
-    > changes in the physical distribution of neurons and their
-    > connections-the connectome-both structural and functional, as well
-    > as their modelling approaches. It does not intend to offer an
-    > extensive descripti …
-
-6.  **Semiparametric inference of effective reproduction number dynamics
-    from wastewater pathogen surveillance data.**
-
-    Goldstein IH, Parker DM, Jiang S, Minin VM.
-
-    ArXiv \[Preprint\]. 2024 Jun 21:arXiv:2308.15770v3.
-
-    > As a byproduct of our primary goal, we also produce a new model
-    > for estimating the effective reproduction number from case data
-    > using the same framework. We test this modeling framework in an
-    > agent-based simulation study with a realistic data generatin …
-
-7.  **Heterogeneous Thresholds, Social Ranking, and the Emergence of
-    Vague Categories.**
-
-    Lawry J.
-
-    Artif Life. 2024 Jun 20:1-16. doi: 10.1162/artl_a\_00442. Online
-    ahead of print.
-
-    > If thresholds are heterogeneous across a population of agents,
-    > then graded population level responses can emerge in a context in
-    > which individual responses are discrete and limited. In this
-    > article, I propose a threshold-based model for social learning of
-    > shared quality ca …
-
-8.  **Modeling the Impact of COVID-19 Mitigation Strategies in
-    Pennsylvania, USA.**
-
-    Krauland MG, Roberts MS.
-
-    MDM Policy Pract. 2024 Jun 20;9(1):23814683241260744. doi:
-    10.1177/23814683241260744. eCollection 2024 Jan-Jun.
-
-    > To estimate the impact on mortality of nonpharmaceutical
-    > interventions (NPIs) implemented early in the COVID-19 pandemic.
-    > Methods. We implemented an agent-based modified SEIR model of
-    > COVID-19, calibrated to match death numbers reported in
-    > Pennsylvania from J …
-
-9.  **Long-term resilience in wastewater management: Optimizing treated
-    wastewater allocation with a dynamic multi-agent approach.**
-
-    Nazeryzadeh N, Nikoo MR, Afzali SH.
-
-    J Environ Manage. 2024 Jun 22;365:121527. doi:
-    10.1016/j.jenvman.2024.121527. Online ahead of print.
-
-    > Recognizing the intricate interplays among these sectors, System
-    > Dynamics (SD) and Agent-Based Modeling (ABM) were integrated in a
-    > Complex Adaptive System (CAS) to capture the interactions and
-    > feedback mechanisms inherent within treated wastewater allocation
-    > …
-
-10. **Electrical signaling in three-dimensional bacterial biofilms using
-    an agent-based fire-diffuse-fire model.**
-
-    Carneiro da Cunha Martorelli V, Akabuogu E, Krašovec R, Roberts IS,
-    Waigh TA.
-
-    Phys Rev E. 2024 May;109(5-1):054402. doi:
-    10.1103/PhysRevE.109.054402.
-
-    > Agent-based models were used to describe electrical signaling in
-    > bacterial biofilms in three dimensions. Specifically, wavefronts
-    > of potassium ions in Escherichia coli biofilms subjected to stress
-    > from blue light were modeled from experimental data. El …
 
 ## Code of Conduct
 
