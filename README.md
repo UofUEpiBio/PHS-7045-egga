@@ -9,13 +9,106 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-07-07 00:43:19.
+update was on 2024-07-14 00:44:04.
 
 <div class="cell">
 
 </div>
 
-1.  **An agent-based model for cell microenvironment simulation using
+1.  **Dissecting the Spatially Restricted Effects of
+    Microenvironment-Mediated Resistance on Targeted Therapy
+    Responses.**
+
+    Miti T, Desai B, Miroshnychenko D, Basanta D, Marusyk A.
+
+    Cancers (Basel). 2024 Jun 29;16(13):2405. doi:
+    10.3390/cancers16132405.
+
+    > To address this problem, we integrated spatial inferences of
+    > proliferation-death dynamics from an experimental animal model of
+    > targeted therapy responses with spatial mathematical modeling. …
+
+2.  **In Vivo PET Detection of Lung Micrometastasis in Mice by Targeting
+    Endothelial VCAM-1 Using a Dual-Contrast PET/MRI Probe.**
+
+    Melemenidis S, Knight JC, Kersemans V, Perez-Balderas F, Zarghami N,
+    Soto MS, Cornelissen B, Muschel RJ, Sibson NR.
+
+    Int J Mol Sci. 2024 Jun 28;25(13):7160. doi: 10.3390/ijms25137160.
+
+    > We have previously demonstrated that an antibody-targeted MRI
+    > contrast agent based on microparticles of iron oxide (MPIO; 1 mum
+    > diameter) enables the imaging of endothelial vascular cell
+    > adhesion molecule-1 (VCAM-1). Using a mouse model of lung
+    > metastasis, up …
+
+3.  **Agent-based model predicts that layered structure and 3D movement
+    work synergistically to reduce bacterial load in 3D in vitro models
+    of tuberculosis granuloma.**
+
+    Petrucciani A, Hoerter A, Kotze L, Du Plessis N, Pienaar E.
+
+    PLoS Comput Biol. 2024 Jul 12;20(7):e1012266. doi:
+    10.1371/journal.pcbi.1012266. Online ahead of print.
+
+    > Previously we developed a biomimetic 3D spheroid granuloma model
+    > that controls bacteria better than a traditional monolayer culture
+    > counterpart. We used agent-based simulations to predict the
+    > mechanistic reason for this difference. …
+
+4.  **Correction to “A seven-step guide to spatial, agent-based
+    modelling of tumour evolution”.**
+
+    \[No authors listed\]
+
+    Evol Appl. 2024 Jul 9;17(7):e13756. doi: 10.1111/eva.13756.
+    eCollection 2024 Jul.
+
+5.  **Deep learning-based dimensional emotion recognition for
+    conversational agent-based cognitive behavioral therapy.**
+
+    Striegl J, Richter JW, Grossmann L, Bråstad B, Gotthardt M, Rück C,
+    Wallert J, Loitsch C.
+
+    PeerJ Comput Sci. 2024 Jun 24;10:e2104. doi: 10.7717/peerj-cs.2104.
+    eCollection 2024.
+
+    > This model significantly outperforms existing state-of-the-art
+    > models in detecting the dimensions of valence, arousal, and
+    > dominance, achieving a Pearson correlation coefficient of r =
+    > 0.90, r = 0.77, and r = 0.64, respectively. Furthermore, a
+    > feasibility study invo …
+
+6.  **Modeling the Impact of Proactive Community Case Management on
+    Reducing Confirmed Malaria Cases in Sub-Saharan African Countries.**
+
+    Wang Y, Wang X, Gurbaxani B, Gutman JR, Keskinocak P, Smalley HK,
+    Thwing J.
+
+    Am J Trop Med Hyg. 2024 Jul 9:tpmd230844. doi:
+    10.4269/ajtmh.23-0844. Online ahead of print.
+
+    > Pilot experiments have shown the potential of ProCCM for
+    > controlling malaria transmission; identifying the best strategy
+    > for administering ProCCM in terms of interval timings and number
+    > of sweeps could lead to further reductions in malaria infections.
+    > We developed an agent …
+
+7.  **Building multiscale models with PhysiBoSS, an agent-based modeling
+    tool.**
+
+    Ruscone M, Checcoli A, Heiland R, Barillot E, Macklin P, Calzone L,
+    Noël V.
+
+    ArXiv \[Preprint\]. 2024 Jun 26:arXiv:2406.18371v1.
+
+    > Multiscale models provide a unique tool for studying complex
+    > processes that study events occurring at different scales across
+    > space and time. …This article introduces three examples of
+    > multiscale models which rely on the framework PhysiBoSS, an add-on
+    > of PhysiCell …
+
+8.  **An agent-based model for cell microenvironment simulation using
     FLAMEGPU2.**
 
     Borau C, Chisholm R, Richmond P, Walker D.
@@ -28,7 +121,7 @@ update was on 2024-07-07 00:43:19.
     > dynamics of cell microenvironments. …Through four example
     > applications, we demonstrate the model’s versatility in capt …
 
-2.  **HPVsim: An agent-based model of HPV transmission and cervical
+9.  **HPVsim: An agent-based model of HPV transmission and cervical
     disease.**
 
     Stuart RM, Cohen JA, Kerr CC, Mathur P; National Disease Modelling
@@ -44,7 +137,7 @@ update was on 2024-07-07 00:43:19.
     > package for creating flexible agent-based models parameterised
     > with …
 
-3.  **ENERGY Pro: Spatially explicit agent-based model on achieving
+10. **ENERGY Pro: Spatially explicit agent-based model on achieving
     positive energy districts.**
 
     Derkenbaeva E, Hofstede GJ, van Leeuwen E, Halleck Vega S, Wolfers
@@ -57,99 +150,6 @@ update was on 2024-07-07 00:43:19.
     > Overview, Design Concept, and Details + Human Decision-making
     > (ODD+D protocol). …The article also describes sensitivity
     > analysis, validation results, and how to use and adapt the model …
-
-4.  **Influential individuals can promote prosocial practices in
-    heterogeneous societies: a mathematical and agent-based model.**
-
-    Crabtree SA, Wren CD, Dixit A, Levin SA.
-
-    PNAS Nexus. 2024 Jul 2;3(7):pgae224. doi: 10.1093/pnasnexus/pgae224.
-    eCollection 2024 Jul.
-
-    > We construct a general theoretical framework to examine a
-    > game-theoretic model to assess the ease of achieving a cooperative
-    > outcome. We then build a dynamic agent-based model to examine
-    > three distinct governance types in a heterogenous population: mon
-    > …
-
-5.  **Use of Individual-Based Mathematical Modelling to Understand More
-    About Antibiotic Resistance Within-Host.**
-
-    Saula AY, Rowlatt C, Bowness R.
-
-    Methods Mol Biol. 2024;2833:93-108. doi:
-    10.1007/978-1-0716-3981-8_10.
-
-    > To model complex systems, individual-based models (IBMs),
-    > sometimes called “agent-based models” (ABMs), describe a
-    > simplification of the system through an adequate representation of
-    > the elements. …Events that seldom occur such as the accumulat …
-
-6.  **Epidemic spreading on spatial higher-order network.**
-
-    Gu W, Qiu Y, Li W, Zhang Z, Liu X, Song Y, Wang W.
-
-    Chaos. 2024 Jul 1;34(7):073105. doi: 10.1063/5.0219759.
-
-    > Therefore, this study attempts to model and simulate higher-order
-    > interactions among mobile populations and explore their impact on
-    > epidemic transmission. This study simulated the spread of the
-    > epidemic in a spatial high-order network based on agent-based …
-
-7.  **PhysiCell Studio: a graphical tool to make agent-based modeling
-    more accessible.**
-
-    Heiland R, Bergman D, Lyons B, Waldow G, Cass J, Lima da Rocha H,
-    Ruscone M, Noël V, Macklin P.
-
-    GigaByte. 2024 Jun 19;2024:gigabyte128. doi: 10.46471/gigabyte.128.
-    eCollection 2024.
-
-    > In the best case, the model will be defined using some format
-    > specification - a markup language - that will provide easy model
-    > sharing (and a minimal step toward reproducibility). PhysiCell is
-    > an open-source, physics-based multicellular simulation framework
-    > with an …
-
-8.  **Balancing long-term and short-term strategies in a sustainability
-    game.**
-
-    Bertolotti F, Roman S.
-
-    iScience. 2024 May 27;27(6):110020. doi: 10.1016/j.isci.2024.110020.
-    eCollection 2024 Jun 21.
-
-    > This article aims to enhance the understanding of this issue by
-    > analyzing how sustainability concerns change over time by means of
-    > a game, and the effect of this variation on the final status of a
-    > system. Leveraging insights from the game, we implement an
-    > agent-based …
-
-9.  **Minimal cellular automaton model with heterogeneous cell sizes
-    predicts epithelial colony growth.**
-
-    Lange S, Schmied J, Willam P, Voss-Böhme A.
-
-    J Theor Biol. 2024 Jun 27:111882. doi: 10.1016/j.jtbi.2024.111882.
-    Online ahead of print.
-
-    > Cellular automata (CA) have been employed in the past as
-    > numerically efficient mathematical models to study the dynamics of
-    > cell ensembles, but they are not suitable to explore the origins
-    > of contact inhibition as such agent-based models assume fixed c …
-
-10. **Models of bee responses to land use and land cover changes in
-    agricultural landscapes - a review and research agenda.**
-
-    Rouabah A, Rabolin-Meinrad C, Gay C, Therond O.
-
-    Biol Rev Camb Philos Soc. 2024 Jun 28. doi: 10.1111/brv.13109.
-    Online ahead of print.
-
-    > Here, we reviewed 42 studies that developed non-correlative models
-    > to explore the impact of land use and land cover changes on bee
-    > populations, and synthesised information about the modelled
-    > systems, modelling approaches, and key model characteristics …
 
 ## Code of Conduct
 
