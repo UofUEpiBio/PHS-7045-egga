@@ -9,147 +9,148 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-07-14 00:44:04.
+update was on 2024-07-21 00:43:54.
 
 <div class="cell">
 
 </div>
 
-1.  **Dissecting the Spatially Restricted Effects of
-    Microenvironment-Mediated Resistance on Targeted Therapy
-    Responses.**
+1.  **Dual-modal imaging-guided agent based on NIR-II
+    aggregation-induced emission luminogens with balanced
+    phototheranostic performance.**
 
-    Miti T, Desai B, Miroshnychenko D, Basanta D, Marusyk A.
+    Dong C, Zhang Z, Wu H, Liang X, Pang S, Wu K, Sun J, Dong X, Sun L,
+    Gu X, Zhao C.
 
-    Cancers (Basel). 2024 Jun 29;16(13):2405. doi:
-    10.3390/cancers16132405.
+    Chem Sci. 2024 Jun 7;15(28):10969-10979. doi: 10.1039/d4sc01916d.
+    eCollection 2024 Jul 17.
 
-    > To address this problem, we integrated spatial inferences of
-    > proliferation-death dynamics from an experimental animal model of
-    > targeted therapy responses with spatial mathematical modeling. …
+    > These nanoparticles were applied to fluorescence-photothermal
+    > dual-mode imaging-guided photothermal ablation in a HeLa tumor
+    > xenograft mouse model, resulting in favorable photothermal
+    > clearance outcomes….
 
-2.  **In Vivo PET Detection of Lung Micrometastasis in Mice by Targeting
-    Endothelial VCAM-1 Using a Dual-Contrast PET/MRI Probe.**
+2.  **Role of heterogeneity: National scale data-driven agent-based
+    modeling for the US COVID-19 Scenario Modeling Hub.**
 
-    Melemenidis S, Knight JC, Kersemans V, Perez-Balderas F, Zarghami N,
-    Soto MS, Cornelissen B, Muschel RJ, Sibson NR.
+    Chen J, Bhattacharya P, Hoops S, Machi D, Adiga A, Mortveit H,
+    Venkatramanan S, Lewis B, Marathe M.
 
-    Int J Mol Sci. 2024 Jun 28;25(13):7160. doi: 10.3390/ijms25137160.
+    Epidemics. 2024 Jun 27;48:100779. doi: 10.1016/j.epidem.2024.100779.
+    Online ahead of print.
 
-    > We have previously demonstrated that an antibody-targeted MRI
-    > contrast agent based on microparticles of iron oxide (MPIO; 1 mum
-    > diameter) enables the imaging of endothelial vascular cell
-    > adhesion molecule-1 (VCAM-1). Using a mouse model of lung
-    > metastasis, up …
+    > UVA-EpiHiper is a national scale agent-based model to support the
+    > US COVID-19 Scenario Modeling Hub (SMH). …We then discuss how the
+    > detailed output produced by UVA-EpiHiper can be analyzed to obtain
+    > interesting insights. We find that despite the comp …
 
-3.  **Agent-based model predicts that layered structure and 3D movement
-    work synergistically to reduce bacterial load in 3D in vitro models
-    of tuberculosis granuloma.**
+3.  **A three-dimensional lattice-free agent-based model of
+    intracellular ice formation and propagation and intercellular
+    mechanics in liver tissues.**
 
-    Petrucciani A, Hoerter A, Kotze L, Du Plessis N, Pienaar E.
+    Amiri F, Benson JD.
 
-    PLoS Comput Biol. 2024 Jul 12;20(7):e1012266. doi:
-    10.1371/journal.pcbi.1012266. Online ahead of print.
-
-    > Previously we developed a biomimetic 3D spheroid granuloma model
-    > that controls bacteria better than a traditional monolayer culture
-    > counterpart. We used agent-based simulations to predict the
-    > mechanistic reason for this difference. …
-
-4.  **Correction to “A seven-step guide to spatial, agent-based
-    modelling of tumour evolution”.**
-
-    \[No authors listed\]
-
-    Evol Appl. 2024 Jul 9;17(7):e13756. doi: 10.1111/eva.13756.
+    R Soc Open Sci. 2024 Jul 17;11(7):231337. doi: 10.1098/rsos.231337.
     eCollection 2024 Jul.
 
-5.  **Deep learning-based dimensional emotion recognition for
-    conversational agent-based cognitive behavioral therapy.**
+    > Understanding how ice spreads can accelerate protocol development
+    > and enable model-based decision-making. Previous models of
+    > intracellular ice formation in individual cells have been extended
+    > to one-cell-wide arrays to establish the theory of intercellular
+    > ice propa …
 
-    Striegl J, Richter JW, Grossmann L, Bråstad B, Gotthardt M, Rück C,
-    Wallert J, Loitsch C.
+4.  **Linking discrete and continuous models of cell birth and
+    migration.**
 
-    PeerJ Comput Sci. 2024 Jun 24;10:e2104. doi: 10.7717/peerj-cs.2104.
-    eCollection 2024.
+    Martinson WD, Volkening A, Schmidtchen M, Venkataraman C, Carrillo
+    JA.
 
-    > This model significantly outperforms existing state-of-the-art
-    > models in detecting the dimensions of valence, arousal, and
-    > dominance, achieving a Pearson correlation coefficient of r =
-    > 0.90, r = 0.77, and r = 0.64, respectively. Furthermore, a
-    > feasibility study invo …
+    R Soc Open Sci. 2024 Jul 17;11(7):232002. doi: 10.1098/rsos.232002.
+    eCollection 2024 Jul.
 
-6.  **Modeling the Impact of Proactive Community Case Management on
-    Reducing Confirmed Malaria Cases in Sub-Saharan African Countries.**
+    > Discrete models provide straightforward interpretations by
+    > tracking each individual yet can be computationally expensive. …We
+    > illustrate our approach on an example motivated by zebrafish-skin
+    > pattern formation, in which we create a continuous framework
+    > describing the mov …
 
-    Wang Y, Wang X, Gurbaxani B, Gutman JR, Keskinocak P, Smalley HK,
-    Thwing J.
+5.  **An agent-based modelling framework to study growth mechanisms in
+    EGFR-L858R mutant cell alveolar type II cells.**
 
-    Am J Trop Med Hyg. 2024 Jul 9:tpmd230844. doi:
-    10.4269/ajtmh.23-0844. Online ahead of print.
+    Coggan H, Weeden CE, Pearce P, Dalwadi MP, Magness A, Swanton C,
+    Page KM.
 
-    > Pilot experiments have shown the potential of ProCCM for
-    > controlling malaria transmission; identifying the best strategy
-    > for administering ProCCM in terms of interval timings and number
-    > of sweeps could lead to further reductions in malaria infections.
-    > We developed an agent …
+    R Soc Open Sci. 2024 Jul 17;11(7):240413. doi: 10.1098/rsos.240413.
+    eCollection 2024 Jul.
 
-7.  **Building multiscale models with PhysiBoSS, an agent-based modeling
-    tool.**
+6.  **Modeling the dynamic impacts of maritime network blockage on
+    global supply chains.**
 
-    Ruscone M, Checcoli A, Heiland R, Barillot E, Macklin P, Calzone L,
-    Noël V.
+    Qu S, She Y, Zhou Q, Verschuur J, Zhao LT, Liu H, Xu M, Wei YM.
 
-    ArXiv \[Preprint\]. 2024 Jun 26:arXiv:2406.18371v1.
+    Innovation (Camb). 2024 Jun 5;5(4):100653. doi:
+    10.1016/j.xinn.2024.100653. eCollection 2024 Jul 1.
 
-    > Multiscale models provide a unique tool for studying complex
-    > processes that study events occurring at different scales across
-    > space and time. …This article introduces three examples of
-    > multiscale models which rely on the framework PhysiBoSS, an add-on
-    > of PhysiCell …
+    > A salient example is the March 2021 Suez Canal blockage, which
+    > delayed 432 vessels carrying cargo valued at $92.7 billion,
+    > triggering widespread supply chain disruptions. Our ability to
+    > model the spatiotemporal ramifications of such incidents remains
+    > limited. To fill this …
 
-8.  **An agent-based model for cell microenvironment simulation using
-    FLAMEGPU2.**
+7.  **Clonal dynamics of surface-driven growing tissues.**
 
-    Borau C, Chisholm R, Richmond P, Walker D.
+    Mukhamadiarov RI, Ciarchi M, Olmeda F, Rulands S.
 
-    Comput Biol Med. 2024 Jul 5;179:108831. doi:
-    10.1016/j.compbiomed.2024.108831. Online ahead of print.
+    Phys Rev E. 2024 Jun;109(6-1):064407. doi:
+    10.1103/PhysRevE.109.064407.
 
-    > This work presents an advanced agent-based model developed within
-    > the FLAMEGPU2 framework, aimed at simulating the intricate
-    > dynamics of cell microenvironments. …Through four example
-    > applications, we demonstrate the model’s versatility in capt …
+    > To this end, we derive the clone size distributions using
+    > analytical calculations in the limit of negligible cell migration
+    > and cell death, and we test our predictions with an agent-based
+    > stochastic sampling technique. We show that for surface-driven
+    > growth the clon …
 
-9.  **HPVsim: An agent-based model of HPV transmission and cervical
-    disease.**
+8.  **Noisy kinetic-exchange opinion model with aging.**
 
-    Stuart RM, Cohen JA, Kerr CC, Mathur P; National Disease Modelling
-    Consortium of India; Abeysuriya RG, Zimmermann M, Rao DW, Boudreau
-    MC, Lee S, Yang L, Klein DJ.
+    Vieira AR, Llabrés J, Toral R, Anteneodo C.
 
-    PLoS Comput Biol. 2024 Jul 5;20(7):e1012181. doi:
-    10.1371/journal.pcbi.1012181. Online ahead of print.
+    Phys Rev E. 2024 Jun;109(6-1):064119. doi:
+    10.1103/PhysRevE.109.064119.
 
-    > Open-source modelling tools are needed to shift the capacity for
-    > such evaluations in-country. Here, we introduce the Human
-    > papillomavirus simulator (HPVsim), a new open-source software
-    > package for creating flexible agent-based models parameterised
-    > with …
+    > We study the critical behavior of a noisy kinetic opinion model
+    > subject to resilience to change depending on aging, defined as the
+    > number of interactions before a change of opinion state. …For the
+    > opinion dynamics in a complete graph, we obtain analytical
+    > predictions for …
 
-10. **ENERGY Pro: Spatially explicit agent-based model on achieving
-    positive energy districts.**
+9.  **Admission screening testing of patients and staff N95 masks are
+    cost-effective in reducing COVID-19 hospital acquired infections.**
 
-    Derkenbaeva E, Hofstede GJ, van Leeuwen E, Halleck Vega S, Wolfers
-    J.
+    McAndrew F, Abeysuriya RG, Sacks-Davis R, Sammann M, Lister DM, West
+    D, Majumdar S, Scott N.
 
-    MethodsX. 2024 May 28;12:102779. doi: 10.1016/j.mex.2024.102779.
-    eCollection 2024 Jun.
+    J Hosp Infect. 2024 Jul 15:S0195-6701(24)00236-6. doi:
+    10.1016/j.jhin.2024.06.015. Online ahead of print.
 
-    > This article describes the ENERGY Pro agent-based model using the
-    > Overview, Design Concept, and Details + Human Decision-making
-    > (ODD+D protocol). …The article also describes sensitivity
-    > analysis, validation results, and how to use and adapt the model …
+    > This study assessed the cost-effectiveness of clinical staff N95
+    > masks and admission screening testing of patients to reduce
+    > COVID-19 hospital-acquired infections. METHODS: An agent-based
+    > model was calibrated to data on 178 outbreaks in acute care
+    > settings in …
+
+10. **Stress sharing as cognitive glue for collective intelligences: A
+    computational model of stress as a coordinator for morphogenesis.**
+
+    Shreesha L, Levin M.
+
+    Biochem Biophys Res Commun. 2024 Jul 14;731:150396. doi:
+    10.1016/j.bbrc.2024.150396. Online ahead of print.
+
+    > One mechanism that has been proposed for enabling individual cells
+    > to coordinate toward specific morphological outcomes is the
+    > sharing of stress (where stress is a physiological parameter that
+    > reflects the current amount of error in the context of a
+    > homeostatic loop). Here, we co …
 
 ## Code of Conduct
 
