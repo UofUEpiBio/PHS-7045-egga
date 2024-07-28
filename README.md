@@ -9,148 +9,148 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-07-21 00:43:54.
+update was on 2024-07-28 00:44:18.
 
 <div class="cell">
 
 </div>
 
-1.  **Dual-modal imaging-guided agent based on NIR-II
-    aggregation-induced emission luminogens with balanced
-    phototheranostic performance.**
+1.  **Congenital Rubella Syndrome Does Not Increase with Introduction of
+    Rubella-Containing Vaccine.**
 
-    Dong C, Zhang Z, Wu H, Liang X, Pang S, Wu K, Sun J, Dong X, Sun L,
-    Gu X, Zhao C.
+    Frey K.
 
-    Chem Sci. 2024 Jun 7;15(28):10969-10979. doi: 10.1039/d4sc01916d.
-    eCollection 2024 Jul 17.
+    Vaccines (Basel). 2024 Jul 22;12(7):811. doi:
+    10.3390/vaccines12070811.
 
-    > These nanoparticles were applied to fluorescence-photothermal
-    > dual-mode imaging-guided photothermal ablation in a HeLa tumor
-    > xenograft mouse model, resulting in favorable photothermal
-    > clearance outcomes….
+    > The dynamics of rubella transmission were explored using EMOD, a
+    > software tool for building stochastic, agent-based infection
+    > models. Simulations of pre-vaccine, endemic transmission of
+    > rubella virus introduced RCV at varying levels of coverage to
+    > determine t …
 
-2.  **Role of heterogeneity: National scale data-driven agent-based
-    modeling for the US COVID-19 Scenario Modeling Hub.**
+2.  **Evaluating the Interaction of Emerging Diseases on White-Tailed
+    Deer Populations Using an Agent-Based Modeling Approach.**
 
-    Chen J, Bhattacharya P, Hoops S, Machi D, Adiga A, Mortveit H,
-    Venkatramanan S, Lewis B, Marathe M.
+    Strasburg M, Christensen S.
 
-    Epidemics. 2024 Jun 27;48:100779. doi: 10.1016/j.epidem.2024.100779.
-    Online ahead of print.
+    Pathogens. 2024 Jun 28;13(7):545. doi: 10.3390/pathogens13070545.
 
-    > UVA-EpiHiper is a national scale agent-based model to support the
-    > US COVID-19 Scenario Modeling Hub (SMH). …We then discuss how the
-    > detailed output produced by UVA-EpiHiper can be analyzed to obtain
-    > interesting insights. We find that despite the comp …
+    > The objective of our study was to evaluate the potential for HD
+    > outbreaks to buffer CWD risk where the diseases co-occur. Using an
+    > agent-based modeling approach, we found that frequent, intense HD
+    > outbreaks have the potential to mitigate CWD risk, especially …
 
-3.  **A three-dimensional lattice-free agent-based model of
-    intracellular ice formation and propagation and intercellular
-    mechanics in liver tissues.**
+3.  **Advancing PFAS risk assessment: Integrative approaches using
+    agent-based modelling and physiologically-based kinetic for
+    environmental and health safety.**
 
-    Amiri F, Benson JD.
+    Iulini M, Russo G, Crispino E, Paini A, Fragki S, Corsini E,
+    Pappalardo F.
 
-    R Soc Open Sci. 2024 Jul 17;11(7):231337. doi: 10.1098/rsos.231337.
+    Comput Struct Biotechnol J. 2024 Jul 1;23:2763-2778. doi:
+    10.1016/j.csbj.2024.06.036. eCollection 2024 Dec.
+
+    > While the European Food Safety Authority (EFSA) has assessed the
+    > risk to human health related to the presence of PFAS in food, in
+    > which a reduced antibody response to vaccination in infants was
+    > considered as the most critical human health effect, a
+    > comprehensive grasp of the mole …
+
+4.  **Modelling constructivist language acquisition through
+    syntactico-semantic pattern finding.**
+
+    Doumen J, Beuls K, Van Eecke P.
+
+    R Soc Open Sci. 2024 Jul 24;11(7):231998. doi: 10.1098/rsos.231998.
     eCollection 2024 Jul.
 
-    > Understanding how ice spreads can accelerate protocol development
-    > and enable model-based decision-making. Previous models of
-    > intracellular ice formation in individual cells have been extended
-    > to one-cell-wide arrays to establish the theory of intercellular
-    > ice propa …
+    > In this article, we fill part of this void by introducing a
+    > mechanistic model of the constructivist acquisition of language
+    > through syntactico-semantic pattern finding. …
 
-4.  **Linking discrete and continuous models of cell birth and
-    migration.**
+5.  **Imitation versus serendipity in ranking dynamics.**
 
-    Martinson WD, Volkening A, Schmidtchen M, Venkataraman C, Carrillo
-    JA.
+    De Domenico F, Caccioli F, Livan G, Montagna G, Nicrosini O.
 
-    R Soc Open Sci. 2024 Jul 17;11(7):232002. doi: 10.1098/rsos.232002.
+    R Soc Open Sci. 2024 Jul 24;11(7):240177. doi: 10.1098/rsos.240177.
     eCollection 2024 Jul.
 
-    > Discrete models provide straightforward interpretations by
-    > tracking each individual yet can be computationally expensive. …We
-    > illustrate our approach on an example motivated by zebrafish-skin
-    > pattern formation, in which we create a continuous framework
-    > describing the mov …
+    > We investigate the tradeoff between imitation and serendipity in
+    > an agent-based model. Agents in the model receive payoffs based on
+    > their actions and may switch to different actions by either
+    > imitating others or through random selection. …
 
-5.  **An agent-based modelling framework to study growth mechanisms in
-    EGFR-L858R mutant cell alveolar type II cells.**
+6.  **Voronoi diagrams and Delaunay triangulation for modelling animal
+    territorial behaviour.**
 
-    Coggan H, Weeden CE, Pearce P, Dalwadi MP, Magness A, Swanton C,
-    Page KM.
+    Guillermo-Ferreira R, Filippov AE, Kovalev A, Gorb SN.
 
-    R Soc Open Sci. 2024 Jul 17;11(7):240413. doi: 10.1098/rsos.240413.
+    Ecol Evol. 2024 Jul 23;14(7):e11715. doi: 10.1002/ece3.11715.
     eCollection 2024 Jul.
 
-6.  **Modeling the dynamic impacts of maritime network blockage on
-    global supply chains.**
+    > We explore the use of movable automata in numerical modelling of
+    > male competition for territory. We used territorial dragonflies as
+    > our biological inspiration for the model, assuming two types of
+    > competing males: (a) faster and larger males that adopt a face-off
+    > str …
 
-    Qu S, She Y, Zhou Q, Verschuur J, Zhao LT, Liu H, Xu M, Wei YM.
+7.  **Selective decision-making and collective behavior of fish by the
+    motion of visual attention.**
 
-    Innovation (Camb). 2024 Jun 5;5(4):100653. doi:
-    10.1016/j.xinn.2024.100653. eCollection 2024 Jul 1.
+    Ito S, Uchida N.
 
-    > A salient example is the March 2021 Suez Canal blockage, which
-    > delayed 432 vessels carrying cargo valued at $92.7 billion,
-    > triggering widespread supply chain disruptions. Our ability to
-    > model the spatiotemporal ramifications of such incidents remains
-    > limited. To fill this …
+    PNAS Nexus. 2024 Jul 2;3(7):pgae264. doi: 10.1093/pnasnexus/pgae264.
+    eCollection 2024 Jul.
 
-7.  **Clonal dynamics of surface-driven growing tissues.**
+    > Recently, experiments have revealed that organisms such as fish
+    > and insects selectively utilize a portion, rather than the
+    > entirety, of visual information. Here, focusing on fish, we
+    > propose an agent-based model where the direction of attention is
+    > guided by v …
 
-    Mukhamadiarov RI, Ciarchi M, Olmeda F, Rulands S.
+8.  **Evaluating equity-promoting interventions to prevent race-based
+    inequities in influenza outcomes.**
 
-    Phys Rev E. 2024 Jun;109(6-1):064407. doi:
-    10.1103/PhysRevE.109.064407.
+    Stafford E, Dimitrov D, Trinidad SB, Matrajt L.
 
-    > To this end, we derive the clone size distributions using
-    > analytical calculations in the limit of negligible cell migration
-    > and cell death, and we test our predictions with an agent-based
-    > stochastic sampling technique. We show that for surface-driven
-    > growth the clon …
+    medRxiv \[Preprint\]. 2024 Jul 11:2024.05.20.24307635. doi:
+    10.1101/2024.05.20.24307635.
 
-8.  **Noisy kinetic-exchange opinion model with aging.**
+    > OBJECTIVE: To determine and quantify the effects of different
+    > types of mitigation strategies on inequities in influenza outcomes
+    > (symptomatic infections and hospitalizations). DESIGN: In this
+    > simulation study, we fit a race-stratified agent-based model of
+    > inf …
 
-    Vieira AR, Llabrés J, Toral R, Anteneodo C.
+9.  **Cooperation in a non-ergodic world on a network - insurance and
+    beyond.**
 
-    Phys Rev E. 2024 Jun;109(6-1):064119. doi:
-    10.1103/PhysRevE.109.064119.
+    Wand T, Kamps O, Skjold B.
 
-    > We study the critical behavior of a noisy kinetic opinion model
-    > subject to resilience to change depending on aging, defined as the
-    > number of interactions before a change of opinion state. …For the
-    > opinion dynamics in a complete graph, we obtain analytical
-    > predictions for …
+    Chaos. 2024 Jul 1;34(7):073137. doi: 10.1063/5.0212768.
 
-9.  **Admission screening testing of patients and staff N95 masks are
-    cost-effective in reducing COVID-19 hospital acquired infections.**
+    > Recent work has, though, shown that assuming the risk individuals
+    > face is proportional to their wealth and optimizing the time
+    > average growth rate rather than the ensemble average results in a
+    > non-zero-sum game, where both parties benefit from cooperation
+    > through insurance contra …
 
-    McAndrew F, Abeysuriya RG, Sacks-Davis R, Sammann M, Lister DM, West
-    D, Majumdar S, Scott N.
+10. **Potential impact of curative and preventive interventions toward
+    hepatitis C elimination in people who inject drugs-A network
+    modeling study.**
 
-    J Hosp Infect. 2024 Jul 15:S0195-6701(24)00236-6. doi:
-    10.1016/j.jhin.2024.06.015. Online ahead of print.
+    Zhu L, Thompson WW, Hagan L, Randall LM, Rudolph AE, Young AM,
+    Havens JR, Salomon JA, Linas BP.
 
-    > This study assessed the cost-effectiveness of clinical staff N95
-    > masks and admission screening testing of patients to reduce
-    > COVID-19 hospital-acquired infections. METHODS: An agent-based
-    > model was calibrated to data on 178 outbreaks in acute care
-    > settings in …
+    Int J Drug Policy. 2024 Jul 20;130:104539. doi:
+    10.1016/j.drugpo.2024.104539. Online ahead of print.
 
-10. **Stress sharing as cognitive glue for collective intelligences: A
-    computational model of stress as a coordinator for morphogenesis.**
-
-    Shreesha L, Levin M.
-
-    Biochem Biophys Res Commun. 2024 Jul 14;731:150396. doi:
-    10.1016/j.bbrc.2024.150396. Online ahead of print.
-
-    > One mechanism that has been proposed for enabling individual cells
-    > to coordinate toward specific morphological outcomes is the
-    > sharing of stress (where stress is a physiological parameter that
-    > reflects the current amount of error in the context of a
-    > homeostatic loop). Here, we co …
+    > Direct-acting antiviral (DAA) treatments for HCV infection and
+    > interventions to prevent HCV transmission are critical components
+    > of an overall hepatitis C elimination strategy, but how they
+    > contribute to the elimination outcomes in different PWID network
+    > settings are unclear. MET …
 
 ## Code of Conduct
 
