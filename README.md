@@ -9,148 +9,143 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-07-28 00:44:18.
+update was on 2024-08-04 00:44:06.
 
 <div class="cell">
 
 </div>
 
-1.  **Congenital Rubella Syndrome Does Not Increase with Introduction of
-    Rubella-Containing Vaccine.**
+1.  **Developing an Agent-Based Model that Predicts Listeria spp.
+    Transmission to Assess Listeria Control Strategies in Retail
+    Stores.**
 
-    Frey K.
+    Jung Y, Qian C, Barnett-Neefs C, Ivanek R, Wiedmann M.
 
-    Vaccines (Basel). 2024 Jul 22;12(7):811. doi:
-    10.3390/vaccines12070811.
+    J Food Prot. 2024 Jul 31:100337. doi: 10.1016/j.jfp.2024.100337.
+    Online ahead of print.
 
-    > The dynamics of rubella transmission were explored using EMOD, a
-    > software tool for building stochastic, agent-based infection
-    > models. Simulations of pre-vaccine, endemic transmission of
-    > rubella virus introduced RCV at varying levels of coverage to
-    > determine t …
+    > However, limited tools are available for retailers to assess
+    > practices that can enhance control of Listeria transmission to
+    > fresh produce. Therefore, we developed an agent-based model that
+    > can simulate Listeria transmission in retail produce sections to
+    > optim …
 
-2.  **Evaluating the Interaction of Emerging Diseases on White-Tailed
-    Deer Populations Using an Agent-Based Modeling Approach.**
+2.  **Control of complex systems with generalized embedding and
+    empirical dynamic modeling.**
 
-    Strasburg M, Christensen S.
+    Park J, Sugihara G, Pao G.
 
-    Pathogens. 2024 Jun 28;13(7):545. doi: 10.3390/pathogens13070545.
+    PLoS One. 2024 Aug 1;19(8):e0305408. doi:
+    10.1371/journal.pone.0305408. eCollection 2024.
 
-    > The objective of our study was to evaluate the potential for HD
-    > outbreaks to buffer CWD risk where the diseases co-occur. Using an
-    > agent-based modeling approach, we found that frequent, intense HD
-    > outbreaks have the potential to mitigate CWD risk, especially …
+    > Further, many data-driven approaches consist of abstract internal
+    > representations that may have no obvious connection to the
+    > underlying dynamics and control, or, require extensive model
+    > design and training. Here, we remove these constraints by
+    > demonstrating model pr …
 
-3.  **Advancing PFAS risk assessment: Integrative approaches using
-    agent-based modelling and physiologically-based kinetic for
-    environmental and health safety.**
+3.  **Extensive loss of forage diversity in social bees owing to flower
+    constancy in simulated environments.**
 
-    Iulini M, Russo G, Crispino E, Paini A, Fragki S, Corsini E,
-    Pappalardo F.
+    Grüter C, Segers FHID, Hayes L.
 
-    Comput Struct Biotechnol J. 2024 Jul 1;23:2763-2778. doi:
-    10.1016/j.csbj.2024.06.036. eCollection 2024 Dec.
+    Proc Biol Sci. 2024 Jul;291(2027):20241036. doi:
+    10.1098/rspb.2024.1036. Epub 2024 Jul 31.
 
-    > While the European Food Safety Authority (EFSA) has assessed the
-    > risk to human health related to the presence of PFAS in food, in
-    > which a reduced antibody response to vaccination in infants was
-    > considered as the most critical human health effect, a
-    > comprehensive grasp of the mole …
+4.  **Attraction by pairwise coherence explains the emergence of
+    ideological sorting.**
 
-4.  **Modelling constructivist language acquisition through
-    syntactico-semantic pattern finding.**
+    Zimmerman F, Pedraza L, Navajas J, Balenzuela P.
 
-    Doumen J, Beuls K, Van Eecke P.
-
-    R Soc Open Sci. 2024 Jul 24;11(7):231998. doi: 10.1098/rsos.231998.
+    PNAS Nexus. 2024 Jul 8;3(7):pgae263. doi: 10.1093/pnasnexus/pgae263.
     eCollection 2024 Jul.
 
-    > In this article, we fill part of this void by introducing a
-    > mechanistic model of the constructivist acquisition of language
-    > through syntactico-semantic pattern finding. …
+    > We numerically integrated the model’s master equations that
+    > perfectly describe the system’s dynamics and found that
+    > ideological sorting only emerges in models that include
+    > pairwise-coherence favoritism. We then compared the model’s
+    > outcomes with …
 
-5.  **Imitation versus serendipity in ranking dynamics.**
+5.  **Predicting bacterial interaction outcomes from monoculture growth
+    and supernatant assays.**
 
-    De Domenico F, Caccioli F, Livan G, Montagna G, Nicrosini O.
+    Schmitz DA, Wechsler T, Mignot I, Kümmerli R.
 
-    R Soc Open Sci. 2024 Jul 24;11(7):240177. doi: 10.1098/rsos.240177.
+    ISME Commun. 2024 Mar 27;4(1):ycae045. doi: 10.1093/ismeco/ycae045.
+    eCollection 2024 Jan.
+
+6.  **An agent-based model for collaborative learning to combat
+    antimicrobial resistance: proof of concept based on broiler
+    production in Senegal.**
+
+    Python Ndekou P, Drake A, Lomax J, Dione M, Faye A, Njiemessa
+    Nsangou MD, Korir L, Sklar E.
+
+    Sci One Health. 2023 Nov 4;2:100051. doi: 10.1016/j.soh.2023.100051.
+    eCollection 2023.
+
+    > This paper reports on initial, proof-of-concept development of an
+    > agent-based model (ABM) as part of wider modelling efforts to
+    > support collaborations between groups interested in policy
+    > development for animal health and food systems. The model …
+
+7.  **Deviation from the recommended schedule: optimal dosing interval
+    for a two-dose vaccination programme.**
+
+    Wang Z, Röst G, Moghadas SM.
+
+    R Soc Open Sci. 2024 Jul 3;11(7):231971. doi: 10.1098/rsos.231971.
     eCollection 2024 Jul.
 
-    > We investigate the tradeoff between imitation and serendipity in
-    > an agent-based model. Agents in the model receive payoffs based on
-    > their actions and may switch to different actions by either
-    > imitating others or through random selection. …
+    > Facing this challenge during the early stages of the COVID-19
+    > vaccine deployment, a pivotal policy question arose: whether to
+    > administer a single dose to a larger proportion of the population
+    > by deferring the second dose, or to prioritize stronger protection
+    > for a smaller subset …
 
-6.  **Voronoi diagrams and Delaunay triangulation for modelling animal
-    territorial behaviour.**
+8.  **Derivation and simulation of a computational model of active cell
+    populations: How overlap avoidance, deformability, cell-cell
+    junctions and cytoskeletal forces affect alignment.**
 
-    Guillermo-Ferreira R, Filippov AE, Kovalev A, Gorb SN.
+    Leech V, Kenny FN, Marcotti S, Shaw TJ, Stramer BM, Manhart A.
 
-    Ecol Evol. 2024 Jul 23;14(7):e11715. doi: 10.1002/ece3.11715.
-    eCollection 2024 Jul.
+    PLoS Comput Biol. 2024 Jul 29;20(7):e1011879. doi:
+    10.1371/journal.pcbi.1011879. Online ahead of print.
 
-    > We explore the use of movable automata in numerical modelling of
-    > male competition for territory. We used territorial dragonflies as
-    > our biological inspiration for the model, assuming two types of
-    > competing males: (a) faster and larger males that adopt a face-off
-    > str …
+    > An important example are aligning fibroblasts in healthy or scar
+    > tissue. In this work we derive and simulate a mechanistic
+    > agent-based model of the collective behaviour of actively moving
+    > and interacting cells, with a focus on understanding collective
+    > alignme …
 
-7.  **Selective decision-making and collective behavior of fish by the
-    motion of visual attention.**
+9.  **Identifying Importation and Asymptomatic Spreaders of Multi-drug
+    Resistant Organisms in Hospital Settings.**
 
-    Ito S, Uchida N.
+    Cui J, Heavey J, Klein E, Madden GR, Vullikanti A, Prakash BA.
 
-    PNAS Nexus. 2024 Jul 2;3(7):pgae264. doi: 10.1093/pnasnexus/pgae264.
-    eCollection 2024 Jul.
+    medRxiv \[Preprint\]. 2024 Jul 15:2024.07.14.24310393. doi:
+    10.1101/2024.07.14.24310393.
 
-    > Recently, experiments have revealed that organisms such as fish
-    > and insects selectively utilize a portion, rather than the
-    > entirety, of visual information. Here, focusing on fish, we
-    > propose an agent-based model where the direction of attention is
-    > guided by v …
+    > In this work, we propose NEURABM, a new framework which integrates
+    > both neural networks and agent-based models (ABM) to combine the
+    > advantages of both modeling-based and machine learning-based
+    > methods. NEURABM simultaneously learns a neural network …
 
-8.  **Evaluating equity-promoting interventions to prevent race-based
-    inequities in influenza outcomes.**
+10. **An agent-based method to estimate 3D cell migration trajectories
+    from 2D measurements: Quantifying and comparing T vs CAR-T 3D cell
+    migration.**
 
-    Stafford E, Dimitrov D, Trinidad SB, Matrajt L.
+    Camacho-Gomez D, Movilla N, Borau C, Martin A, Oñate Salafranca C,
+    Pardo J, Gomez-Benito MJ, Garcia-Aznar JM.
 
-    medRxiv \[Preprint\]. 2024 Jul 11:2024.05.20.24307635. doi:
-    10.1101/2024.05.20.24307635.
+    Comput Methods Programs Biomed. 2024 Jul 19;255:108331. doi:
+    10.1016/j.cmpb.2024.108331. Online ahead of print.
 
-    > OBJECTIVE: To determine and quantify the effects of different
-    > types of mitigation strategies on inequities in influenza outcomes
-    > (symptomatic infections and hospitalizations). DESIGN: In this
-    > simulation study, we fit a race-stratified agent-based model of
-    > inf …
-
-9.  **Cooperation in a non-ergodic world on a network - insurance and
-    beyond.**
-
-    Wand T, Kamps O, Skjold B.
-
-    Chaos. 2024 Jul 1;34(7):073137. doi: 10.1063/5.0212768.
-
-    > Recent work has, though, shown that assuming the risk individuals
-    > face is proportional to their wealth and optimizing the time
-    > average growth rate rather than the ensemble average results in a
-    > non-zero-sum game, where both parties benefit from cooperation
-    > through insurance contra …
-
-10. **Potential impact of curative and preventive interventions toward
-    hepatitis C elimination in people who inject drugs-A network
-    modeling study.**
-
-    Zhu L, Thompson WW, Hagan L, Randall LM, Rudolph AE, Young AM,
-    Havens JR, Salomon JA, Linas BP.
-
-    Int J Drug Policy. 2024 Jul 20;130:104539. doi:
-    10.1016/j.drugpo.2024.104539. Online ahead of print.
-
-    > Direct-acting antiviral (DAA) treatments for HCV infection and
-    > interventions to prevent HCV transmission are critical components
-    > of an overall hepatitis C elimination strategy, but how they
-    > contribute to the elimination outcomes in different PWID network
-    > settings are unclear. MET …
+    > Quantifying three-dimensional (3D) cell migration requires
+    > microscopy techniques that may not be readily accessible. Thus, we
+    > introduce a straightforward mathematical model designed to infer
+    > 3D trajectories of cells from two-dimensional (2D) cell
+    > trajectories. METHODS: We …
 
 ## Code of Conduct
 
