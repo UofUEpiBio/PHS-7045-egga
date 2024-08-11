@@ -9,13 +9,109 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-08-04 00:44:06.
+update was on 2024-08-11 00:44:58.
 
 <div class="cell">
 
 </div>
 
-1.  **Developing an Agent-Based Model that Predicts Listeria spp.
+1.  **Modeling the population health impact of accurate and inaccurate
+    perceptions of harm from nicotine.**
+
+    Hannel T, Wei L, Muhammad-Kah RS, Largo EG, Sarkar M.
+
+    Harm Reduct J. 2024 Aug 9;21(1):145. doi:
+    10.1186/s12954-024-01059-x.
+
+    > We assessed the population health impact associated with nicotine
+    > perceptions. METHODS: Using a previously validated agent-based
+    > model to the U.S. population, we analyzed nationally
+    > representative data from the Population Assessment of Tobacco and
+    > Health (PAT …
+
+2.  **Interacting particle models on the impact of spatially
+    heterogeneous human behavioral factors on dynamics of infectious
+    diseases.**
+
+    Xiong Y, Wang C, Zhang Y.
+
+    PLoS Comput Biol. 2024 Aug 8;20(8):e1012345. doi:
+    10.1371/journal.pcbi.1012345. Online ahead of print.
+
+    > In order to understand how spatial characteristics like population
+    > mobility and clustering interplay with epidemic outbreaks, we
+    > formulate a stochastic-statistical environment-epidemic dynamic
+    > system (SEEDS) via an agent-based biased random walk model on a tw
+    > …
+
+3.  **Simulation studies of social systems: telling the story based on
+    provenance patterns.**
+
+    Wilsdorf P, Reinhardt O, Prike T, Hinsch M, Bijak J, Uhrmacher AM.
+
+    R Soc Open Sci. 2024 Aug 7;11(8):240258. doi: 10.1098/rsos.240258.
+    eCollection 2024 Aug.
+
+    > In this paper, we refine the provenance pattern-based approach to
+    > address specific challenges of social agent-based simulation
+    > studies. Specifically, we focus on the activities and entities
+    > involved in collecting and analysing primary data about human
+    > decisions, and …
+
+4.  **Semiparametric inference of effective reproduction number dynamics
+    from wastewater pathogen surveillance data.**
+
+    Goldstein IH, Parker DM, Jiang S, Minin VM.
+
+    Biometrics. 2024 Jul 1;80(3):ujae074. doi: 10.1093/biomtc/ujae074.
+
+    > As a byproduct of our primary goal, we also produce a new model
+    > for estimating the effective reproduction number from case data
+    > using the same framework. We test this modeling framework in an
+    > agent-based simulation study with a realistic data generatin …
+
+5.  **Effects of Intervention Timing on Health-Related Fake News:
+    Simulation Study.**
+
+    Gwon N, Jeong W, Kim JH, Oh KH, Jun JK.
+
+    JMIR Form Res. 2024 Aug 7;8:e48284. doi: 10.2196/48284.
+
+    > METHODS: A simulation was conducted using the
+    > susceptible-infected-recovered (SIR) model, which is a
+    > representative model of the virus spread mechanism. …NetLogo, an
+    > agent-based model, was used as the analytical tool. RESULTS: Fake
+    > news lasted …
+
+6.  **Near-field hydrodynamic interactions determine travelling wave
+    directions of collectively beating cilia.**
+
+    Cheng Z, Vilfan A, Wang Y, Golestanian R, Meng F.
+
+    J R Soc Interface. 2024 Aug;21(217):20240221. doi:
+    10.1098/rsif.2024.0221. Epub 2024 Aug 7.
+
+    > USA 118, e2102828118), we find that the first harmonic mode in the
+    > driving force acting on each individual cilium can determine the
+    > direction of the metachronal wave after considering the finite
+    > size of the beating trajectories, which is confirmed by our
+    > agent-based …
+
+7.  **Emergence of collective behaviours from local Voronoi topological
+    perception.**
+
+    Gonzalez I, Tisdell J, Choksi R, Nave JC.
+
+    R Soc Open Sci. 2024 Jun 5;11(6):231537. doi: 10.1098/rsos.231537.
+    eCollection 2024 Jun.
+
+    > This article addresses how diverse collective behaviours arise
+    > from simple and realistic decisions made entirely at the level of
+    > each agent’s personal space in the sense of the Voronoi diagram.
+    > We present a discrete-time model in two dimensions in which
+    > individual agents a …
+
+8.  **Developing an Agent-Based Model that Predicts Listeria spp.
     Transmission to Assess Listeria Control Strategies in Retail
     Stores.**
 
@@ -30,7 +126,7 @@ update was on 2024-08-04 00:44:06.
     > can simulate Listeria transmission in retail produce sections to
     > optim …
 
-2.  **Control of complex systems with generalized embedding and
+9.  **Control of complex systems with generalized embedding and
     empirical dynamic modeling.**
 
     Park J, Sugihara G, Pao G.
@@ -44,108 +140,13 @@ update was on 2024-08-04 00:44:06.
     > design and training. Here, we remove these constraints by
     > demonstrating model pr …
 
-3.  **Extensive loss of forage diversity in social bees owing to flower
+10. **Extensive loss of forage diversity in social bees owing to flower
     constancy in simulated environments.**
 
     Grüter C, Segers FHID, Hayes L.
 
     Proc Biol Sci. 2024 Jul;291(2027):20241036. doi:
     10.1098/rspb.2024.1036. Epub 2024 Jul 31.
-
-4.  **Attraction by pairwise coherence explains the emergence of
-    ideological sorting.**
-
-    Zimmerman F, Pedraza L, Navajas J, Balenzuela P.
-
-    PNAS Nexus. 2024 Jul 8;3(7):pgae263. doi: 10.1093/pnasnexus/pgae263.
-    eCollection 2024 Jul.
-
-    > We numerically integrated the model’s master equations that
-    > perfectly describe the system’s dynamics and found that
-    > ideological sorting only emerges in models that include
-    > pairwise-coherence favoritism. We then compared the model’s
-    > outcomes with …
-
-5.  **Predicting bacterial interaction outcomes from monoculture growth
-    and supernatant assays.**
-
-    Schmitz DA, Wechsler T, Mignot I, Kümmerli R.
-
-    ISME Commun. 2024 Mar 27;4(1):ycae045. doi: 10.1093/ismeco/ycae045.
-    eCollection 2024 Jan.
-
-6.  **An agent-based model for collaborative learning to combat
-    antimicrobial resistance: proof of concept based on broiler
-    production in Senegal.**
-
-    Python Ndekou P, Drake A, Lomax J, Dione M, Faye A, Njiemessa
-    Nsangou MD, Korir L, Sklar E.
-
-    Sci One Health. 2023 Nov 4;2:100051. doi: 10.1016/j.soh.2023.100051.
-    eCollection 2023.
-
-    > This paper reports on initial, proof-of-concept development of an
-    > agent-based model (ABM) as part of wider modelling efforts to
-    > support collaborations between groups interested in policy
-    > development for animal health and food systems. The model …
-
-7.  **Deviation from the recommended schedule: optimal dosing interval
-    for a two-dose vaccination programme.**
-
-    Wang Z, Röst G, Moghadas SM.
-
-    R Soc Open Sci. 2024 Jul 3;11(7):231971. doi: 10.1098/rsos.231971.
-    eCollection 2024 Jul.
-
-    > Facing this challenge during the early stages of the COVID-19
-    > vaccine deployment, a pivotal policy question arose: whether to
-    > administer a single dose to a larger proportion of the population
-    > by deferring the second dose, or to prioritize stronger protection
-    > for a smaller subset …
-
-8.  **Derivation and simulation of a computational model of active cell
-    populations: How overlap avoidance, deformability, cell-cell
-    junctions and cytoskeletal forces affect alignment.**
-
-    Leech V, Kenny FN, Marcotti S, Shaw TJ, Stramer BM, Manhart A.
-
-    PLoS Comput Biol. 2024 Jul 29;20(7):e1011879. doi:
-    10.1371/journal.pcbi.1011879. Online ahead of print.
-
-    > An important example are aligning fibroblasts in healthy or scar
-    > tissue. In this work we derive and simulate a mechanistic
-    > agent-based model of the collective behaviour of actively moving
-    > and interacting cells, with a focus on understanding collective
-    > alignme …
-
-9.  **Identifying Importation and Asymptomatic Spreaders of Multi-drug
-    Resistant Organisms in Hospital Settings.**
-
-    Cui J, Heavey J, Klein E, Madden GR, Vullikanti A, Prakash BA.
-
-    medRxiv \[Preprint\]. 2024 Jul 15:2024.07.14.24310393. doi:
-    10.1101/2024.07.14.24310393.
-
-    > In this work, we propose NEURABM, a new framework which integrates
-    > both neural networks and agent-based models (ABM) to combine the
-    > advantages of both modeling-based and machine learning-based
-    > methods. NEURABM simultaneously learns a neural network …
-
-10. **An agent-based method to estimate 3D cell migration trajectories
-    from 2D measurements: Quantifying and comparing T vs CAR-T 3D cell
-    migration.**
-
-    Camacho-Gomez D, Movilla N, Borau C, Martin A, Oñate Salafranca C,
-    Pardo J, Gomez-Benito MJ, Garcia-Aznar JM.
-
-    Comput Methods Programs Biomed. 2024 Jul 19;255:108331. doi:
-    10.1016/j.cmpb.2024.108331. Online ahead of print.
-
-    > Quantifying three-dimensional (3D) cell migration requires
-    > microscopy techniques that may not be readily accessible. Thus, we
-    > introduce a straightforward mathematical model designed to infer
-    > 3D trajectories of cells from two-dimensional (2D) cell
-    > trajectories. METHODS: We …
 
 ## Code of Conduct
 
