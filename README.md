@@ -9,13 +9,83 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-08-11 00:44:58.
+update was on 2024-08-18 00:44:05.
 
 <div class="cell">
 
 </div>
 
-1.  **Modeling the population health impact of accurate and inaccurate
+1.  **Of criminals and cancer: The importance of social bonds and innate
+    morality on cellular societies.**
+
+    Bukkuri A, Adler FR.
+
+    Cells Dev. 2024 Aug 14:203964. doi: 10.1016/j.cdev.2024.203964.
+    Online ahead of print.
+
+    > In this proof-of-concept paper, we draw on criminology to propose
+    > that cancer may alternatively be conceptualized as a relational
+    > problem: Although a cell’s genetics is essential, the influence of
+    > its interaction with other cells is equally important in
+    > determining its phenotype. …
+
+2.  **Paradoxes in the coevolution of contagions and institutions.**
+
+    St-Onge J, Burgio G, Rosenblatt SF, Waring TM, Hébert-Dufresne L.
+
+    Proc Biol Sci. 2024 Aug;291(2028):20241117. doi:
+    10.1098/rspb.2024.1117. Epub 2024 Aug 14.
+
+    > Epidemic models study the spread of undesired agents through
+    > populations, be it infectious diseases through a country,
+    > misinformation in social media or pests infesting a region.
+    > …Instead, interventions commonly come from local institutions such
+    > as public health departme …
+
+3.  **Effect of rotavirus vaccination on the burden of rotavirus disease
+    and associated antibiotic use in India: A dynamic agent-based
+    simulation analysis.**
+
+    Gleason A, Kumar CK, Klein E, Laxminarayan R, Nandi A.
+
+    Vaccine. 2024 Aug 12;42(22):126211. doi:
+    10.1016/j.vaccine.2024.126211. Online ahead of print.
+
+    > The objective of this study was to estimate the effects of the
+    > rotavirus vaccination program in India on disease burden and
+    > antibiotic misuse. METHODS: We built a dynamic agent-based model
+    > of rotavirus progression in children under five within each
+    > district i …
+
+4.  **Minds and markets as complex systems: an emerging approach to
+    cognitive economics.**
+
+    Johnson SGB, Schotanus PR, Kelso JAS.
+
+    Trends Cogn Sci. 2024 Aug 9:S1364-6613(24)00174-8. doi:
+    10.1016/j.tics.2024.07.003. Online ahead of print.
+
+    > We describe three ongoing research programs that strive toward
+    > these goals: (i) studying narratives as a cognitive and social
+    > representation used to guide decision-making; (ii) building
+    > cognitively informed agent-based models; and (iii) understanding
+    > markets …
+
+5.  **Breakdown of Boltzmann-type models for the alignment of
+    self-propelled rods.**
+
+    Murphy P, Perepelitsa M, Timofeyev I, Lieber-Kotz M, Islas B,
+    Igoshin OA.
+
+    Math Biosci. 2024 Aug 8:109266. doi: 10.1016/j.mbs.2024.109266.
+    Online ahead of print.
+
+    > We examine the accuracy of the kinetic model by comparing
+    > numerical solutions of the continuous equations to an agent-based
+    > model that implements the underlying rules governing microscopic
+    > alignment. …These results highlight the need to both develop …
+
+6.  **Modeling the population health impact of accurate and inaccurate
     perceptions of harm from nicotine.**
 
     Hannel T, Wei L, Muhammad-Kah RS, Largo EG, Sarkar M.
@@ -29,7 +99,7 @@ update was on 2024-08-11 00:44:58.
     > representative data from the Population Assessment of Tobacco and
     > Health (PAT …
 
-2.  **Interacting particle models on the impact of spatially
+7.  **Interacting particle models on the impact of spatially
     heterogeneous human behavioral factors on dynamics of infectious
     diseases.**
 
@@ -44,7 +114,7 @@ update was on 2024-08-11 00:44:58.
     > system (SEEDS) via an agent-based biased random walk model on a tw
     > …
 
-3.  **Simulation studies of social systems: telling the story based on
+8.  **Simulation studies of social systems: telling the story based on
     provenance patterns.**
 
     Wilsdorf P, Reinhardt O, Prike T, Hinsch M, Bijak J, Uhrmacher AM.
@@ -58,7 +128,7 @@ update was on 2024-08-11 00:44:58.
     > involved in collecting and analysing primary data about human
     > decisions, and …
 
-4.  **Semiparametric inference of effective reproduction number dynamics
+9.  **Semiparametric inference of effective reproduction number dynamics
     from wastewater pathogen surveillance data.**
 
     Goldstein IH, Parker DM, Jiang S, Minin VM.
@@ -70,7 +140,7 @@ update was on 2024-08-11 00:44:58.
     > using the same framework. We test this modeling framework in an
     > agent-based simulation study with a realistic data generatin …
 
-5.  **Effects of Intervention Timing on Health-Related Fake News:
+10. **Effects of Intervention Timing on Health-Related Fake News:
     Simulation Study.**
 
     Gwon N, Jeong W, Kim JH, Oh KH, Jun JK.
@@ -82,71 +152,6 @@ update was on 2024-08-11 00:44:58.
     > representative model of the virus spread mechanism. …NetLogo, an
     > agent-based model, was used as the analytical tool. RESULTS: Fake
     > news lasted …
-
-6.  **Near-field hydrodynamic interactions determine travelling wave
-    directions of collectively beating cilia.**
-
-    Cheng Z, Vilfan A, Wang Y, Golestanian R, Meng F.
-
-    J R Soc Interface. 2024 Aug;21(217):20240221. doi:
-    10.1098/rsif.2024.0221. Epub 2024 Aug 7.
-
-    > USA 118, e2102828118), we find that the first harmonic mode in the
-    > driving force acting on each individual cilium can determine the
-    > direction of the metachronal wave after considering the finite
-    > size of the beating trajectories, which is confirmed by our
-    > agent-based …
-
-7.  **Emergence of collective behaviours from local Voronoi topological
-    perception.**
-
-    Gonzalez I, Tisdell J, Choksi R, Nave JC.
-
-    R Soc Open Sci. 2024 Jun 5;11(6):231537. doi: 10.1098/rsos.231537.
-    eCollection 2024 Jun.
-
-    > This article addresses how diverse collective behaviours arise
-    > from simple and realistic decisions made entirely at the level of
-    > each agent’s personal space in the sense of the Voronoi diagram.
-    > We present a discrete-time model in two dimensions in which
-    > individual agents a …
-
-8.  **Developing an Agent-Based Model that Predicts Listeria spp.
-    Transmission to Assess Listeria Control Strategies in Retail
-    Stores.**
-
-    Jung Y, Qian C, Barnett-Neefs C, Ivanek R, Wiedmann M.
-
-    J Food Prot. 2024 Jul 31:100337. doi: 10.1016/j.jfp.2024.100337.
-    Online ahead of print.
-
-    > However, limited tools are available for retailers to assess
-    > practices that can enhance control of Listeria transmission to
-    > fresh produce. Therefore, we developed an agent-based model that
-    > can simulate Listeria transmission in retail produce sections to
-    > optim …
-
-9.  **Control of complex systems with generalized embedding and
-    empirical dynamic modeling.**
-
-    Park J, Sugihara G, Pao G.
-
-    PLoS One. 2024 Aug 1;19(8):e0305408. doi:
-    10.1371/journal.pone.0305408. eCollection 2024.
-
-    > Further, many data-driven approaches consist of abstract internal
-    > representations that may have no obvious connection to the
-    > underlying dynamics and control, or, require extensive model
-    > design and training. Here, we remove these constraints by
-    > demonstrating model pr …
-
-10. **Extensive loss of forage diversity in social bees owing to flower
-    constancy in simulated environments.**
-
-    Grüter C, Segers FHID, Hayes L.
-
-    Proc Biol Sci. 2024 Jul;291(2027):20241036. doi:
-    10.1098/rspb.2024.1036. Epub 2024 Jul 31.
 
 ## Code of Conduct
 
