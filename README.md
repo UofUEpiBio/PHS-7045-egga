@@ -9,149 +9,161 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-08-18 00:44:05.
+update was on 2024-08-25 00:45:04.
 
 <div class="cell">
 
 </div>
 
-1.  **Of criminals and cancer: The importance of social bonds and innate
-    morality on cellular societies.**
+1.  **Sensor-Based Fuzzy Inference of COVID-19 Transmission Risk in
+    Cruise Ships.**
 
-    Bukkuri A, Adler FR.
+    Triantafyllou G, Sovatzidi G, Dimas G, Kalozoumis PG, Drikakis D,
+    Kokkinakis IW, Markakis IA, Golna C, Iakovidis D.
 
-    Cells Dev. 2024 Aug 14:203964. doi: 10.1016/j.cdev.2024.203964.
-    Online ahead of print.
+    Stud Health Technol Inform. 2024 Aug 22;316:1817-1821. doi:
+    10.3233/SHTI240784.
 
-    > In this proof-of-concept paper, we draw on criminology to propose
-    > that cancer may alternatively be conceptualized as a relational
-    > problem: Although a cell’s genetics is essential, the influence of
-    > its interaction with other cells is equally important in
-    > determining its phenotype. …
+    > In contrast to previous approaches, the proposed method considers
+    > data captured by several sensors and the ship information system,
+    > according to a recently proposed smart ship design. Evaluation
+    > with agent-based simulations confirms the effectiveness of the
+    > proposed …
 
-2.  **Paradoxes in the coevolution of contagions and institutions.**
+2.  **Integrating mechanism-based T cell phenotypes into a model of
+    tumor-immune cell interactions.**
 
-    St-Onge J, Burgio G, Rosenblatt SF, Waring TM, Hébert-Dufresne L.
+    Tangella N, Cess CG, Ildefonso GV, Finley SD.
 
-    Proc Biol Sci. 2024 Aug;291(2028):20241117. doi:
-    10.1098/rspb.2024.1117. Epub 2024 Aug 14.
+    APL Bioeng. 2024 Aug 20;8(3):036111. doi: 10.1063/5.0205996.
+    eCollection 2024 Sep.
 
-    > Epidemic models study the spread of undesired agents through
-    > populations, be it infectious diseases through a country,
-    > misinformation in social media or pests infesting a region.
-    > …Instead, interventions commonly come from local institutions such
-    > as public health departme …
+    > It is difficult to gain mechanistic insights into the effects of
+    > cell-cell interactions in tumors using a purely experimental
+    > approach. However, computational modeling enables quantitative
+    > investigation of the tumor microenvironment, and agent-based
+    > modeli …
 
-3.  **Effect of rotavirus vaccination on the burden of rotavirus disease
-    and associated antibiotic use in India: A dynamic agent-based
-    simulation analysis.**
+3.  **Impact of varying pre-exposure prophylaxis programs on HIV and
+    Neisseria gonorrhoeae transmission among MSM in the Netherlands: a
+    modelling study.**
 
-    Gleason A, Kumar CK, Klein E, Laxminarayan R, Nandi A.
+    Reitsema M, Wallinga J, van Sighem AI, Bezemer D, van der Valk M,
+    van Aar F, Maria Heijne JC, Hoornenborg E, Rozhnova G, van Benthem
+    B, Xiridou M.
 
-    Vaccine. 2024 Aug 12;42(22):126211. doi:
-    10.1016/j.vaccine.2024.126211. Online ahead of print.
+    J Acquir Immune Defic Syndr. 2024 Aug 22. doi:
+    10.1097/QAI.0000000000003511. Online ahead of print.
 
-    > The objective of this study was to estimate the effects of the
-    > rotavirus vaccination program in India on disease burden and
-    > antibiotic misuse. METHODS: We built a dynamic agent-based model
-    > of rotavirus progression in children under five within each
-    > district i …
+    > SETTING: We assessed the impact of the PrEP program on
+    > transmission of HIV and Neisseria gonorrhea (NG) among MSM in the
+    > Netherlands and examined prospective variations of the program
+    > after 2024. METHODS: We used an agent-based model to estimate the
+    > effect of …
 
-4.  **Minds and markets as complex systems: an emerging approach to
-    cognitive economics.**
+4.  **How Model Organisms and Model Uncertainty Impact Our Understanding
+    of the Risk of Sublethal Impacts of Toxicants to Survival and Growth
+    of Ecologically Relevant Species.**
 
-    Johnson SGB, Schotanus PR, Kelso JAS.
+    Ivan LN, Jones ML, Albers JL, Carvan MJ, Garcia-Reyero N, Nacci D,
+    Clark B, Klingler R, Murphy CA.
 
-    Trends Cogn Sci. 2024 Aug 9:S1364-6613(24)00174-8. doi:
-    10.1016/j.tics.2024.07.003. Online ahead of print.
+    Environ Toxicol Chem. 2024 Aug 22. doi: 10.1002/etc.5958. Online
+    ahead of print.
 
-    > We describe three ongoing research programs that strive toward
-    > these goals: (i) studying narratives as a cognitive and social
-    > representation used to guide decision-making; (ii) building
-    > cognitively informed agent-based models; and (iii) understanding
-    > markets …
+    > We tested the hypotheses that the well-known sublethal impacts of
+    > methylmercury (MeHg) and a polychlorinated biphenyl (PCB126) would
+    > have meaningful impacts on cohort growth and survival in yellow
+    > perch (Perca flavescens) and Atlantic killifish (Fundulus
+    > heteroclitus) populations …
 
-5.  **Breakdown of Boltzmann-type models for the alignment of
-    self-propelled rods.**
+5.  **Mating with Multi-Armed Bandits: Reinforcement Learning Models of
+    Human Mate Search.**
 
-    Murphy P, Perepelitsa M, Timofeyev I, Lieber-Kotz M, Islas B,
-    Igoshin OA.
+    Conroy-Beam D.
 
-    Math Biosci. 2024 Aug 8:109266. doi: 10.1016/j.mbs.2024.109266.
-    Online ahead of print.
+    Open Mind (Camb). 2024 Aug 15;8:995-1011. doi:
+    10.1162/opmi_a\_00156. eCollection 2024.
 
-    > We examine the accuracy of the kinetic model by comparing
-    > numerical solutions of the continuous equations to an agent-based
-    > model that implements the underlying rules governing microscopic
-    > alignment. …These results highlight the need to both develop …
+    > Moreover, using agent-based models and a sample of k = 522
+    > real-world romantic dyads, I show that a reciprocity-weighted
+    > Thompson sampling algorithm performs well both in guiding mate
+    > search in noisy search environments and in reproducing the mate
+    > choices of …
 
-6.  **Modeling the population health impact of accurate and inaccurate
-    perceptions of harm from nicotine.**
+6.  **Current limitations and opportunities for improvements of
+    agent-based transport models for noise exposure assessment.**
 
-    Hannel T, Wei L, Muhammad-Kah RS, Largo EG, Sarkar M.
+    Galassi Luquezi L, Le Bescond V, Aumond P, Gastineau P, Can A.
 
-    Harm Reduct J. 2024 Aug 9;21(1):145. doi:
-    10.1186/s12954-024-01059-x.
+    J Environ Manage. 2024 Aug 19;368:122129. doi:
+    10.1016/j.jenvman.2024.122129. Online ahead of print.
 
-    > We assessed the population health impact associated with nicotine
-    > perceptions. METHODS: Using a previously validated agent-based
-    > model to the U.S. population, we analyzed nationally
-    > representative data from the Population Assessment of Tobacco and
-    > Health (PAT …
+    > Agent-based models represent a promising approach for simulating
+    > transport systems and assessing their environmental noise impact,
+    > potentially enhancing standard noise exposure assessments.
+    > However, it is very important to understand the relevance of these
+    > as …
 
-7.  **Interacting particle models on the impact of spatially
-    heterogeneous human behavioral factors on dynamics of infectious
-    diseases.**
+7.  **A novel framework for crash frequency prediction: Geographic
+    support vector regression based on agent-based activity models in
+    Greater Melbourne.**
 
-    Xiong Y, Wang C, Zhang Y.
+    Duong Q, Gilbert H, Nguyen H.
 
-    PLoS Comput Biol. 2024 Aug 8;20(8):e1012345. doi:
-    10.1371/journal.pcbi.1012345. Online ahead of print.
+    Accid Anal Prev. 2024 Aug 19;207:107747. doi:
+    10.1016/j.aap.2024.107747. Online ahead of print.
 
-    > In order to understand how spatial characteristics like population
-    > mobility and clustering interplay with epidemic outbreaks, we
-    > formulate a stochastic-statistical environment-epidemic dynamic
-    > system (SEEDS) via an agent-based biased random walk model on a tw
+    > This research introduces the Geographical Support Vector
+    > Regression (GSVR) framework, which incorporates generated distance
+    > matrices, to assess spatial variations and evaluate the influence
+    > of a wide range of factors, including traffic, infrastructure,
+    > socio-demographic, travel d …
+
+8.  **Wild salmon migration routes influence sea lice infestations: An
+    agent-based model predicting farm-related infestations on juvenile
+    salmon.**
+
+    Jeong J, McEwan G.
+
+    PLoS One. 2024 Aug 20;19(8):e0309215. doi:
+    10.1371/journal.pone.0309215. eCollection 2024.
+
+    > This study presents an Agent-Based Model (ABM) simulation to
+    > assess the impact of varying migration routes on sea lice (Caligus
+    > clemensi) infestation levels in juvenile wild sockeye salmon
+    > (Oncorhynchus nerka) in the Discovery Islands, British Columbia,
+    > Canad …
+
+9.  **Modeling the roles of cohesotaxis, cell-intercalation, and tissue
+    geometry in collective cell migration of Xenopus mesendoderm.**
+
+    Comlekoglu T, Dzamba BJ, Pacheco GG, Shook DR, Sego TJ, Glazier JA,
+    Peirce SM, DeSimone DW.
+
+    Biol Open. 2024 Aug 15;13(8):bio060615. doi: 10.1242/bio.060615.
+    Epub 2024 Aug 19.
+
+    > Mesendoderm explants removed from embryos provide an
+    > experimentally tractable system for characterizing collective cell
+    > movements and behaviors, yet the cellular mechanisms responsible
+    > for this mode of migration remain elusive. We introduce a novel
+    > agent-based compu …
+
+10. **Machine learning for the identification of phase transitions in
+    interacting agent-based systems: A Desai-Zwanzig example.**
+
+    Evangelou N, Giovanis DG, Kevrekidis GA, Pavliotis GA, Kevrekidis
+    IG.
+
+    Phys Rev E. 2024 Jul;110(1-1):014121. doi:
+    10.1103/PhysRevE.110.014121.
+
+    > Deriving closed-form analytical expressions for reduced-order
+    > models, and judiciously choosing the closures leading to them, has
+    > long been the strategy of choice for studying phase- and
+    > noise-induced transitions for agent-based models (ABMs). In this p
     > …
-
-8.  **Simulation studies of social systems: telling the story based on
-    provenance patterns.**
-
-    Wilsdorf P, Reinhardt O, Prike T, Hinsch M, Bijak J, Uhrmacher AM.
-
-    R Soc Open Sci. 2024 Aug 7;11(8):240258. doi: 10.1098/rsos.240258.
-    eCollection 2024 Aug.
-
-    > In this paper, we refine the provenance pattern-based approach to
-    > address specific challenges of social agent-based simulation
-    > studies. Specifically, we focus on the activities and entities
-    > involved in collecting and analysing primary data about human
-    > decisions, and …
-
-9.  **Semiparametric inference of effective reproduction number dynamics
-    from wastewater pathogen surveillance data.**
-
-    Goldstein IH, Parker DM, Jiang S, Minin VM.
-
-    Biometrics. 2024 Jul 1;80(3):ujae074. doi: 10.1093/biomtc/ujae074.
-
-    > As a byproduct of our primary goal, we also produce a new model
-    > for estimating the effective reproduction number from case data
-    > using the same framework. We test this modeling framework in an
-    > agent-based simulation study with a realistic data generatin …
-
-10. **Effects of Intervention Timing on Health-Related Fake News:
-    Simulation Study.**
-
-    Gwon N, Jeong W, Kim JH, Oh KH, Jun JK.
-
-    JMIR Form Res. 2024 Aug 7;8:e48284. doi: 10.2196/48284.
-
-    > METHODS: A simulation was conducted using the
-    > susceptible-infected-recovered (SIR) model, which is a
-    > representative model of the virus spread mechanism. …NetLogo, an
-    > agent-based model, was used as the analytical tool. RESULTS: Fake
-    > news lasted …
 
 ## Code of Conduct
 
