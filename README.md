@@ -9,13 +9,122 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-09-01 00:52:00.
+update was on 2024-09-08 00:47:51.
 
 <div class="cell">
 
 </div>
 
-1.  **Enforced specificity of an animal symbiosis.**
+1.  **Use of agent-based modeling to analyze potential non-occupational
+    exposures to asbestos of the general population of Sibate
+    (Colombia).**
+
+    Duraffour F, Ramos-Bonilla JP, Lysaniuk B.
+
+    Environ Monit Assess. 2024 Sep 6;196(10):900. doi:
+    10.1007/s10661-024-13052-9.
+
+    > The models utilized a multi-agent simulation process, focusing on
+    > a 10-year period (1986-1995). …A range of values for input data
+    > for the models were utilized, spanning from very conservative
+    > numbers to exposure-promoting values. …
+
+2.  **Epidemic spreading on mixing group with face-to-face
+    interaction.**
+
+    Gu W, Li W, Gao F, Su S, Zhang Z, Liu X, Wang W.
+
+    Chaos. 2024 Sep 1;34(9):093108. doi: 10.1063/5.0222847.
+
+    > Despite the critical relevance of face-to-face interactions in
+    > real-world situations, there is a significant lack of
+    > comprehensive study addressing the unique issues of mixed groups,
+    > particularly those with complex face-to-face interactions. We
+    > introduce a novel model empl …
+
+3.  **Moderate confirmation bias enhances decision-making in groups of
+    reinforcement-learning agents.**
+
+    Bergerot C, Barfuss W, Romanczuk P.
+
+    PLoS Comput Biol. 2024 Sep 4;20(9):e1012404. doi:
+    10.1371/journal.pcbi.1012404. Online ahead of print.
+
+    > To do so, we develop a Collective Asymmetric Reinforcement
+    > Learning (CARL) model in which artificial agents observe others’
+    > actions and rewards, and update this information asymmetrically.
+    > We use agent-based simulations to study how confirmation bias
+    > affects …
+
+4.  **The contribution of movement to social network structure and
+    spreading dynamics under simple and complex transmission.**
+
+    Chimento M, Farine DR.
+
+    Philos Trans R Soc Lond B Biol Sci. 2024 Oct 21;379(1912):20220524.
+    doi: 10.1098/rstb.2022.0524. Epub 2024 Sep 4.
+
+    > Here, we examine the effect of the social-spatial interface on
+    > spreading dynamics using a simulation model. We quantify the
+    > relative effects of different movement rules (localized,
+    > semi-localized, nomadic and resource-based movement) and social
+    > transmission rules (simple t …
+
+5.  **The influence of social and spatial processes on the epidemiology
+    of environmentally transmitted pathogens in wildlife: implications
+    for management.**
+
+    Pandey A, Wojan C, Feuka A, Craft ME, Manlove K, Pepin KM.
+
+    Philos Trans R Soc Lond B Biol Sci. 2024 Oct 21;379(1912):20220532.
+    doi: 10.1098/rstb.2022.0532. Epub 2024 Sep 4.
+
+    > A better understanding of how these factors interact to determine
+    > disease dynamics is required for developing robust surveillance
+    > and management strategies. Here, we use a simple agent-based model
+    > where we vary host mobility (spatial), host gregariousness (so …
+
+6.  **A wrap-around movement path randomization method to distinguish
+    social and spatial drivers of animal interactions.**
+
+    Gahm K, Nguyen R, Acácio M, Anglister N, Vaadia G, Spiegel O,
+    Pinter-Wollman N.
+
+    Philos Trans R Soc Lond B Biol Sci. 2024 Oct 21;379(1912):20220531.
+    doi: 10.1098/rstb.2022.0531. Epub 2024 Sep 4.
+
+    > Here, we update a reference model that detects social attraction
+    > above the effect of spatial constraints. We explore the use of our
+    > ‘wrap-around’ method and compare its performance to the previous
+    > approach using agent-based simulations. The wrap-around method …
+
+7.  **Diverse morphology and motility induced emergent order in
+    bacterial collectives.**
+
+    Mondal K, Bera P, Ghosh P.
+
+    J Chem Phys. 2024 Sep 7;161(9):094908. doi: 10.1063/5.0220700.
+
+    > In this study, we delve into the dynamics of a mixed bacterial
+    > population comprising two distinct species with different
+    > morphology and motility aspects. Employing agent-based modeling
+    > and computer simulations, we analyze the impacts of size ratios
+    > and packin …
+
+8.  **Determinants of successful disease control through voluntary
+    quarantine dynamics on social networks.**
+
+    Shi S, Wang Z, Chen X, Fu F.
+
+    Math Biosci. 2024 Aug 31;377:109288. doi: 10.1016/j.mbs.2024.109288.
+    Online ahead of print.
+
+    > To better understand self-motivated health behavior choices under
+    > these factors, here we incorporate voluntary quarantine into an
+    > endemic disease model - the susceptible-infected-susceptible (SIS)
+    > model - and perform comprehensive agent-based simulatio …
+
+9.  **Enforced specificity of an animal symbiosis.**
 
     Wagner JM, Wong JH, Millar JG, Haxhimali E, Bruckner A, Naragon TH,
     Boedicker JQ, Parker J.
@@ -29,7 +138,7 @@ update was on 2024-09-01 00:52:00.
     > species. …Remarkably, the rove beetle also performs its symbiotic
     > behavior …
 
-2.  **A model-based assessment of social isolation practices for
+10. **A model-based assessment of social isolation practices for
     COVID-19 outbreak response in residential care facilities.**
 
     Zachreson C, Tobin R, Walker C, Conway E, Shearer FM, McVernon J,
@@ -43,117 +152,6 @@ update was on 2024-09-01 00:52:00.
     > of modelling that assesses their effectiveness. METHODS: In
     > consultation with the Australian Government Department of Health
     > and Aged Care, w …
-
-3.  **Analyzing the impact of concealed carry weapons and school
-    resource officers on school shootings: An agent-based modeling
-    approach.**
-
-    Harrell NB, Weston RE, Alteri SP, Tzvetanov KT, Dietz JE.
-
-    J Emerg Manag. 2024 Jul-Aug;22(4):369-388. doi: 10.5055/jem.0818.
-
-    > This paper presents a simulation modeling study that examines the
-    > potential benefit of arming public school staff members with
-    > concealed carry weapons (CCWs) in combination with school resource
-    > officers (SROs) during active shooter events. By simulating real
-    > or hypothetica …
-
-4.  **Optimizing Indoor Airport Navigation with Advanced Visible Light
-    Communication Systems.**
-
-    Vieira M, Vieira MA, Galvão G, Louro P, Vieira P, Fantoni A.
-
-    Sensors (Basel). 2024 Aug 22;24(16):5445. doi: 10.3390/s24165445.
-
-    > The methodology includes the use of tetrachromatic LED-equipped
-    > luminaires with On-Off Keying (OOK) modulation and a mesh cellular
-    > hybrid structure. Detailed airport modeling and user analysis
-    > (pedestrians and luggage/passenger carriers) equipped with PINPIN
-    > optical sensor …
-
-5.  **Using exploratory modeling to challenge narratives of risk
-    governance in Mexico City.**
-
-    Eakin H, Bojórquez-Tapia LA, Miquelajauregui Y, Grave I, Aguilar BH,
-    Janssen MA.
-
-    Proc Natl Acad Sci U S A. 2024 Sep 3;121(36):e2313191121. doi:
-    10.1073/pnas.2313191121. Epub 2024 Aug 28.
-
-    > We present the results of the project “The Dynamics of
-    > Multi-Scalar Adaptation in the Megalopolis”, a dynamic,
-    > exploratory model of socio-hydrological risks in Mexico City that
-    > was designed to both endogenize and simultaneously challenge the
-    > dominant narratives that charac …
-
-6.  **Predicting population-level impacts of projected climate heating
-    on a temperate freshwater fish.**
-
-    Mintram KS, Brown AR, Maynard SK, Thorbek P, Tyler CR.
-
-    J Fish Biol. 2024 Aug 28. doi: 10.1111/jfb.15889. Online ahead of
-    print.
-
-    > To realistically predict the effects of projected climate heating
-    > on wildlife populations, mechanistic tools are required to
-    > incorporate the inherent physiological effects of temperature
-    > changes, as well as the associated effects on food availability
-    > within and across comparable …
-
-7.  **Landscape of fear: indirect effects of conflict can account for
-    large-scale population declines in non-state societies.**
-
-    Kondor D, Bennett JS, Gronenborn D, Turchin P.
-
-    J R Soc Interface. 2024 Aug;21(217):20240210. doi:
-    10.1098/rsif.2024.0210. Epub 2024 Aug 28.
-
-    > This process causes population decline in the abandoned regions
-    > and increased stress on local resources in better-protected areas
-    > that are targeted by refugees. By applying analytical and
-    > computational modelling, we demonstrate that these indirect
-    > effects of conflict are s …
-
-8.  **Hyper-diverse antigenic variation and resilience to
-    transmission-reducing intervention in falciparum malaria.**
-
-    Zhan Q, He Q, Tiedje KE, Day KP, Pascual M.
-
-    Nat Commun. 2024 Aug 26;15(1):7343. doi: 10.1038/s41467-024-51468-6.
-
-    > Incomplete immunity relates to the large antigenic variation of
-    > the parasite, with the major surface antigen of the blood stage of
-    > infection encoded by the multigene and recombinant family known as
-    > var. With a stochastic agent-based model, we investigate the …
-
-9.  **Sensor-Based Fuzzy Inference of COVID-19 Transmission Risk in
-    Cruise Ships.**
-
-    Triantafyllou G, Sovatzidi G, Dimas G, Kalozoumis PG, Drikakis D,
-    Kokkinakis IW, Markakis IA, Golna C, Iakovidis D.
-
-    Stud Health Technol Inform. 2024 Aug 22;316:1817-1821. doi:
-    10.3233/SHTI240784.
-
-    > In contrast to previous approaches, the proposed method considers
-    > data captured by several sensors and the ship information system,
-    > according to a recently proposed smart ship design. Evaluation
-    > with agent-based simulations confirms the effectiveness of the
-    > proposed …
-
-10. **Integrating mechanism-based T cell phenotypes into a model of
-    tumor-immune cell interactions.**
-
-    Tangella N, Cess CG, Ildefonso GV, Finley SD.
-
-    APL Bioeng. 2024 Aug 20;8(3):036111. doi: 10.1063/5.0205996.
-    eCollection 2024 Sep.
-
-    > It is difficult to gain mechanistic insights into the effects of
-    > cell-cell interactions in tumors using a purely experimental
-    > approach. However, computational modeling enables quantitative
-    > investigation of the tumor microenvironment, and agent-based
-    > modeli …
 
 ## Code of Conduct
 
