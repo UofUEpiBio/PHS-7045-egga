@@ -9,26 +9,121 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-09-15 00:50:07.
+update was on 2024-09-22 00:50:17.
 
 <div class="cell">
 
 </div>
 
-1.  **An Agent-Based Method for Feature Recognition and Path
+1.  **Revisiting the impact of Schistosoma mansoni regulating mechanisms
+    on transmission dynamics using SchiSTOP, a novel modelling
+    framework.**
+
+    Malizia V, de Vlas SJ, Roes KCB, Giardina F.
+
+    PLoS Negl Trop Dis. 2024 Sep 20;18(9):e0012464. doi:
+    10.1371/journal.pntd.0012464. eCollection 2024 Sep.
+
+    > METHODOLOGY/PRINCIPAL FINDINGS: We developed SchiSTOP: a hybrid
+    > stochastic agent-based and deterministic modelling framework
+    > for S. mansoni transmission in an age-structured human population.
+    > …However, the predicted probability of reaching the control targe
+    > …
+
+2.  **A picit jeu: Agent-based modelling with serious gaming for a
+    fire-resilient landscape.**
+
+    Vigna I, Millington J, Ascoli D, Comino E, Pezzoli A, Besana A.
+
+    J Environ Manage. 2024 Sep 18;370:122529. doi:
+    10.1016/j.jenvman.2024.122529. Online ahead of print.
+
+    > We present and discuss a methodology combining agent-based
+    > modelling with a role-playing game. It was tested in a valley of
+    > the Italian Alps, involving 23 local stakeholders in forest and
+    > pasture management in three game sessions. …
+
+3.  **Interplay of network structure and talent configuration on wealth
+    dynamics.**
+
+    Hur J, Ha M, Jeong H.
+
+    Phys Rev E. 2024 Aug;110(2-1):024312. doi:
+    10.1103/PhysRevE.110.024312.
+
+    > The economic success of individuals is often determined by a
+    > combination of talent, luck, and assistance from others. We
+    > introduce an agent-based model that simultaneously considers
+    > talent, luck, and social interaction. This model allows us to
+    > explore …
+
+4.  **Modelling patient trajectories in emergency department simulations
+    using retrospective patient cohorts.**
+
+    Delos Reyes R, Capurro D, Geard N.
+
+    Comput Biol Med. 2024 Sep 17;182:109147. doi:
+    10.1016/j.compbiomed.2024.109147. Online ahead of print.
+
+    > Here, we propose a data-driven ED simulation model in which
+    > patient trajectories are modelled based on both acuity and
+    > retrospective patient indicators. …Our work exemplifies how we can
+    > better utilise ED data to make the development and evaluation of
+    > ED simulation …
+
+5.  **Co-evolving networks for opinion and social dynamics in
+    agent-based models.**
+
+    Djurdjevac Conrad N, Quang Vu N, Nagel S.
+
+    Chaos. 2024 Sep 1;34(9):093116. doi: 10.1063/5.0226054.
+
+    > In this work, we address this gap, by introducing the co-evolving
+    > opinion and social dynamics using stochastic agent-based models.
+    > Agents’ mobility in a social space is governed by both their
+    > social and opinion similarity with others. …Our findings highligh
+    > …
+
+6.  **Measuring and understanding information storage and transfer in a
+    simulated human gut microbiome.**
+
+    Zoller H, Garcia Perez C, Betel Geijo Fernández J, Zu Castell W.
+
+    PLoS Comput Biol. 2024 Sep 17;20(9):e1012359. doi:
+    10.1371/journal.pcbi.1012359. eCollection 2024 Sep.
+
+    > We transfer this framework to a field of broad general interest,
+    > the human gut microbiome. We use BacArena, a software combining
+    > agent-based modelling and flux-balance analysis, to simulate a
+    > simplified human intestinal microbiome (SIHUMI). …
+
+7.  **Bayesian Calibration to Address the Challenge of Antimicrobial
+    Resistance: A Review.**
+
+    Rosato C, Green PL, Harris J, Maskell S, Hope W, Gerada A, Howard A.
+
+    IEEE Access. 2024;12:100772-100791. doi:
+    10.1109/ACCESS.2024.3427410.
+
+    > These inference algorithms are instrumental in calibrating complex
+    > statistical models to the vast amounts of AMR-related data.
+    > Popular statistical models include hierarchical and mixture models
+    > as well as discrete and stochastic epidemiological compartmental …
+
+8.  **An Agent-Based Method for Feature Recognition and Path
     Optimization of Computer Numerical Control Machining Trajectories.**
 
     Li P, Chen M, Ji C, Zhou Z, Lin X, Yu D.
 
     Sensors (Basel). 2024 Sep 3;24(17):5720. doi: 10.3390/s24175720.
 
-    > To address these issues, this paper proposes a method for CNC
-    > system machining trajectory feature recognition and path
-    > optimization based on intelligent agents. This method employs
-    > intelligent agents to construct models and analyze the key
-    > geometric information in the G-co …
+    > This method employs intelligent agents to construct models and
+    > analyze the key geometric information in the G-code generated
+    > during CNC machining, and it uses the MCRL deep learning model
+    > incorporating linear attention mechanisms and multiple neural
+    > networks for rec …
 
-2.  **Agent-Based Modeling of Virtual Tumors Reveals the Critical
+9.  **Agent-Based Modeling of Virtual Tumors Reveals the Critical
     Influence of Microenvironmental Complexity on Immunotherapy
     Efficacy.**
 
@@ -44,7 +139,7 @@ update was on 2024-09-15 00:50:07.
     > these reasons, agent-based models (ABMs) have gained popularity
     > because they c …
 
-3.  **Spatially fractionated GRID radiation potentiates immune-mediated
+10. **Spatially fractionated GRID radiation potentiates immune-mediated
     tumor control.**
 
     Bekker RA, Obertopp N, Redler G, Penagaricano J, Caudell JJ, Yamoah
@@ -58,98 +153,6 @@ update was on 2024-09-15 00:50:07.
     > radiotherapy to create areas of low or high dose exposure, may
     > create protective reservoirs of the tumor immune microenvironment,
     > thereby preserving ant …
-
-4.  **A generalized numerical model for clonal growth in scleractinian
-    coral colonies.**
-
-    Llabrés E, Re E, Pluma N, Sintes T, Duarte CM.
-
-    Proc Biol Sci. 2024 Sep;291(2030):20241327. doi:
-    10.1098/rspb.2024.1327. Epub 2024 Sep 13.
-
-    > Although the principles of coral clonal growth, involving polyp
-    > division for spatial extension, are well-understood, numerical
-    > modelling efforts are notably scarce in the literature. In this
-    > article, we present a parsimonious numerical model based on the
-    > cloning of …
-
-5.  **Walk this way: modeling foraging ant dynamics in multiple food
-    source environments.**
-
-    Hartman S, Ryan SD, Karamched BR.
-
-    J Math Biol. 2024 Sep 12;89(4):41. doi: 10.1007/s00285-024-02136-2.
-
-    > What makes this process so fascinating is the self-organization of
-    > ants into trails using chemical pheromone in the absence of direct
-    > communication. Here we present a stochastic lattice model that
-    > captures essential features of foraging ant dynamics inspired by
-    > recent a …
-
-6.  **A quantitative study of the effects of a dual layer coating
-    drug-eluting stent on safety and efficacy.**
-
-    Guo B, Chen S, Zhang Y, Yang Y, Song H, Zhang Y, Du T, Qiao A.
-
-    J Biomech. 2024 Sep 4;176:112304. doi:
-    10.1016/j.jbiomech.2024.112304. Online ahead of print.
-
-    > This framework consisted of four coupled modules, namely (1) a
-    > mechanical stimuli module, simulating mechanical stimuli caused by
-    > percutaneous coronary intervention through a finite element
-    > analysis, (2) an inflammation module, simulating inflammation of
-    > vascular smooth muscle ce …
-
-7.  **Smartboard: Visual Exploration of Team Tactics with LLM Agent.**
-
-    Liu Z, Xie X, He M, Zhao W, Wu Y, Cheng L, Zhang H, Wu Y.
-
-    IEEE Trans Vis Comput Graph. 2024 Sep 10;PP. doi:
-    10.1109/TVCG.2024.3456200. Online ahead of print.
-
-    > We develop an extensible framework that integrates large language
-    > models (LLMs) and visualizations to help users communicate with
-    > the coach agent with multimodal inputs. Based on the framework, we
-    > design and develop Smartboard, an agent-based interactive visu …
-
-8.  **Is the Run, Hide, Fight Concept Effective in Improving Hospital
-    Response to Shooting Incidents? A Systematic Review.**
-
-    Rummaneethorn N, Taubman C, Adamakos F.
-
-    Disaster Med Public Health Prep. 2024 Sep 9;18:e111. doi:
-    10.1017/dmp.2024.78.
-
-    > The measurements were subjective evaluations and survival
-    > probabilities post-concept. One agent-based modeling study
-    > suggested a high survival probability in non-medical settings. …
-
-9.  **Epidemiological Consequences of Individual Centrality on Wild
-    Chimpanzees.**
-
-    Pierron M, Sueur C, Shimada M, MacIntosh AJJ, Romano V.
-
-    Am J Primatol. 2024 Sep 8:e23682. doi: 10.1002/ajp.23682. Online
-    ahead of print.
-
-    > In this study, we built a party network from wild chimpanzees (Pan
-    > troglodytes), and used agent-based modeling to test: (i) whether
-    > individual attributes (sex, age) predict individual centrality
-    > (i.e., whether it is more or less socially connected); (ii) whet …
-
-10. **Interplay of virulence factors shapes ecology and treatment
-    outcomes in polymicrobial infections.**
-
-    Herzberg C, van Meegen EN, van Hasselt JGC.
-
-    Math Biosci. 2024 Sep 6;377:109293. doi: 10.1016/j.mbs.2024.109293.
-    Online ahead of print.
-
-    > The aim of this study was to assess how bacterial virulence
-    > factors targeting neutrophil function influence ecology and
-    > treatment outcomes of PMIs. An agent-based model was constructed
-    > which describes a dual-species bacterial population in the
-    > presence of neu …
 
 ## Code of Conduct
 
