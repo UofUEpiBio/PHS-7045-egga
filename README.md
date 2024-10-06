@@ -9,149 +9,148 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-09-29 00:51:21.
+update was on 2024-10-06 00:50:54.
 
 <div class="cell">
 
 </div>
 
-1.  **Role of Vaccination Strategies to Host-Pathogen Dynamics in Social
-    Interactions.**
+1.  **A novel format of TNF-alpha binding affibody molecule ameliorate
+    coronary artery endothelial injury in a mouse model of Kawasaki
+    disease.**
 
-    Gonzaga MN, de Oliveira MM, Atman APF.
+    Zhu J, Yu H, Xie L, Shuai D, Huang Z, Chen Y, Ni C, Jia C, Rong X,
+    Zhang L, Chu M.
 
-    Entropy (Basel). 2024 Aug 30;26(9):739. doi: 10.3390/e26090739.
+    Int J Biol Macromol. 2024 Oct 2:136255. doi:
+    10.1016/j.ijbiomac.2024.136255. Online ahead of print.
 
-    > This study presents extended Immunity Agent-Based Model (IABM)
-    > simulations to evaluate vaccination strategies in controlling the
-    > spread of infectious diseases. …
-
-2.  **Agent-based evolutionary game dynamics uncover the dual role of
-    resource heterogeneity in the evolution of cooperation.**
-
-    Yang Q, Tang Y, Gao D.
-
-    J Theor Biol. 2024 Sep 23:111952. doi: 10.1016/j.jtbi.2024.111952.
-    Online ahead of print.
-
-    > However, little is known about the underlying evolutionary drivers
-    > behind this phenomenon. Leveraging agent-based modeling and game
-    > theory, we explore how differences in resource availability across
-    > environments influence the evolution of cooperation. …
-
-3.  **Prediction of sperm motion behavior in microfluidic channel using
-    sperm swimming model.**
-
-    Hyakutake T, Higashiyama D, Tsuchiya T.
-
-    J Biomech. 2024 Sep 20;176:112336. doi:
-    10.1016/j.jbiomech.2024.112336. Online ahead of print.
-
-    > In this study, we constructed a sperm swimming model based on the
-    > concept of an agent-based model. This model allows analysis at the
-    > same spatio-temporal scale similar to microfluidic channels.
-    > …Using these models, we investigated sperm …
-
-4.  **Accuracy, rationality and specialization in a generalized model of
-    collective navigation.**
-
-    Mann RP, Bailey JD, Codling EA.
-
-    J R Soc Interface. 2024 Sep;21(218):20240207. doi:
-    10.1098/rsif.2024.0207. Epub 2024 Sep 25.
-
-    > Within groups, individuals may improve their navigational accuracy
-    > by following those with more experience or knowledge, by pooling
-    > information from many directional estimates (‘many wrongs’) or
-    > some combination of these strategies. Previous agent-based
-    > simulations …
-
-5.  **Health impact, budget impact, and price threshold for
-    cost-effectiveness of lenacapavir for HIV pre-exposure prophylaxis
-    in eastern and southern Africa: a modelling analysis.**
-
-    Wu L, Kaftan D, Wittenauer R, Arrouzet C, Patel N, Saravis AL, Pfau
-    B, Mudimu E, Bershteyn A, Sharma M.
-
-    Lancet HIV. 2024 Sep 20:S2352-3018(24)00239-X. doi:
-    10.1016/S2352-3018(24)00239-X. Online ahead of print.
-
-    > We aimed to estimate the health and budget impacts and threshold
-    > price at which lenacapavir could be cost-effective in eastern and
-    > southern Africa. METHODS: We adapted an agent-based network model,
-    > EMOD-HIV, to simulate lenacapavir scale-up in Zimbabwe, South …
-
-6.  **Molecular Photoswitching Unlocks Glucose Oxidase for
-    Synergistically Reinforcing Fenton Reactions for Antitumor
-    Chemodynamic Therapy.**
-
-    Tian Z, Wang Z, Bao W, Wujieti B, Liu M, Li X, Ma Z, Cui W.
-
-    Angew Chem Int Ed Engl. 2024 Sep 23:e202413633. doi:
-    10.1002/anie.202413633. Online ahead of print.
-
-    > The antitumor potency of such nanoparticle is verified in
-    > tumor-bearing model mice in vivo, proclaiming its potential as a
-    > potent and safe agent based on the unique mechanism of optically
-    > manipulating enzyme activity for synergistic antitumor
-    > therapeutics wit …
-
-7.  **Quantum Markov blankets for meta-learned classical inferential
-    paradoxes with suboptimal free energy.**
-
-    Clark KB.
-
-    Behav Brain Sci. 2024 Sep 23;47:e150. doi:
-    10.1017/S0140525X24000244.
-
-    > Quantum active Bayesian inference and quantum Markov blankets
-    > enable robust modeling and simulation of difficult-to-render
-    > natural agent-based classical inferential paradoxes interfaced
-    > with task-specific environments. …
-
-8.  **Forecasting and Predicting Stochastic Agent-Based Model Data with
-    Biologically-Informed Neural Networks.**
-
-    Nardini JT.
-
-    Bull Math Biol. 2024 Sep 23;86(11):130. doi:
-    10.1007/s11538-024-01357-2.
-
-    > Collective migration is an important component of many biological
-    > processes, including wound healing, tumorigenesis, and embryo
-    > development. Spatial agent-based models (ABMs) are often used to
-    > model collective migration, but it is challenging to thorou …
-
-9.  **Incorporating Social Determinants of Health in Infectious Disease
-    Models: A Systematic Review of Guidelines.**
-
-    Ali S, Li Z, Moqueet N, Moghadas SM, Galvani AP, Cooper LA, Stranges
-    S, Haworth-Brockman M, Pinto AD, Asaria M, Champredon D, Hamilton D,
-    Moulin M, John-Baptiste AA.
-
-    Med Decis Making. 2024 Sep 21:272989X241280611. doi:
-    10.1177/0272989X241280611. Online ahead of print.
-
-    > BACKGROUND: Infectious disease (ID) models have been the backbone
-    > of policy decisions during the COVID-19 pandemic. However, models
-    > often overlook variation in disease risk, health burden, and
-    > policy impact across social groups. …METHODS: To underscore the
-    > importa …
-
-10. **Revisiting the impact of Schistosoma mansoni regulating mechanisms
-    on transmission dynamics using SchiSTOP, a novel modelling
-    framework.**
-
-    Malizia V, de Vlas SJ, Roes KCB, Giardina F.
-
-    PLoS Negl Trop Dis. 2024 Sep 20;18(9):e0012464. doi:
-    10.1371/journal.pntd.0012464. eCollection 2024 Sep.
-
-    > METHODOLOGY/PRINCIPAL FINDINGS: We developed SchiSTOP: a hybrid
-    > stochastic agent-based and deterministic modelling framework
-    > for S. mansoni transmission in an age-structured human population.
-    > …However, the predicted probability of reaching the control targe
+    > Herein, we examine the potential therapeutic capabilities of a
+    > novel type of TNFalpha-targeting agent based on an affibody
+    > molecule possessing fundamentally different properties than mAbs.
     > …
+
+2.  **Cost-effectiveness of SARS-CoV-2 self-testing at routine
+    gatherings to minimize community-level infections in lower-middle
+    income countries: A mathematical modeling study.**
+
+    Hansen MA, Han AX, Chevalier JM, Klock E, Pandithakoralage H, Nooy
+    A, Ockhuisen T, Girdwood SJ, Lekodeba NA, Khan S, Jenkins HE,
+    Johnson CC, Sacks JA, Russell CA, Nichols BE.
+
+    PLoS One. 2024 Oct 4;19(10):e0311198. doi:
+    10.1371/journal.pone.0311198. eCollection 2024.
+
+    > Over the past four years, self-testing strategies have been an
+    > impactful tool for countries’ response to the COVID-19 pandemic,
+    > especially early on to mitigate the spread when vaccination and
+    > treatment options were limited. We used an agent-based
+    > mathematical mod …
+
+3.  **Quantifying age-specific household contacts in Aotearoa New
+    Zealand for infectious disease modelling.**
+
+    Sullivan C, Senanayake P, Plank MJ.
+
+    R Soc Open Sci. 2024 Oct 2;11(10):240550. doi: 10.1098/rsos.240550.
+    eCollection 2024 Oct.
+
+    > Here we use a comprehensive household composition dataset based on
+    > Aotearoa New Zealand census and administrative data to construct a
+    > household contact matrix and a synthetic population that can be
+    > used for modelling. We investigate the behaviour of a
+    > compartment-based and …
+
+4.  **Probability of early infection extinction depends linearly on the
+    virus clearance rate.**
+
+    Juhász N, Bartha FA, Marzban S, Han R, Röst G.
+
+    R Soc Open Sci. 2024 Oct 2;11(10):240903. doi: 10.1098/rsos.240903.
+    eCollection 2024 Oct.
+
+5.  **Metabolic interactions shape emergent biofilm structures in a
+    conceptual model of gut mucosal bacterial communities.**
+
+    Valiei A, Dickson A, Aminian-Dehkordi J, Mofrad MRK.
+
+    NPJ Biofilms Microbiomes. 2024 Oct 2;10(1):99. doi:
+    10.1038/s41522-024-00572-y.
+
+    > The gut microbiome plays a major role in human health; however,
+    > little is known about the structural arrangement of microbes and
+    > factors governing their distribution. In this work, we present an
+    > in silico agent-based model (ABM) to conceptually simulate the d …
+
+6.  **On the move: Influence of animal movements on count error during
+    drone surveys.**
+
+    Schultz EA, Ellison-Neary N, Boudreau MR, Street GM, Jones LR, Evans
+    KO, Iglay RB.
+
+    Ecol Evol. 2024 Sep 29;14(10):e70287. doi: 10.1002/ece3.70287.
+    eCollection 2024 Oct.
+
+    > However, drone-based surveys may also introduce counting errors,
+    > especially when monitoring mobile animals. Using an agent-based
+    > model simulation approach, we evaluated the error associated with
+    > counting a single animal across various drone flight patterns un …
+
+7.  **Exploring Trade-Offs for Online Mental Health Matching:
+    Agent-Based Modeling Study.**
+
+    Liu Y, Fang A, Moriarty G, Firman C, Kraut RE, Zhu H.
+
+    JMIR Form Res. 2024 Oct 1;8:e58241. doi: 10.2196/58241.
+
+    > OBJECTIVE: In this study, we collaborated with one of the world’s
+    > largest OMHCs; our contribution is to show the application of
+    > agent-based modeling for the design of online community matching
+    > algorithms. We developed an agent-based simulation f …
+
+8.  **SMoRe GloS: An efficient and flexible framework for inferring
+    global sensitivity of agent-based model parameters.**
+
+    Bergman DR, Jackson T, Jain HV, Norton KA.
+
+    bioRxiv \[Preprint\]. 2024 Sep 22:2024.09.18.613723. doi:
+    10.1101/2024.09.18.613723.
+
+    > Agent-based models (ABMs) have become essential tools for
+    > simulating complex biological, ecological, and social systems
+    > where emergent behaviors arise from the interactions among
+    > individual agents. …Remarkably, our method also estimates
+    > sensitivities for AB …
+
+9.  **Feature selection integrating Shapley values and mutual
+    information in reinforcement learning: An application in the
+    prediction of post-operative outcomes in patients with end-stage
+    renal disease.**
+
+    Kim SH, Park SY, Seo H, Woo J.
+
+    Comput Methods Programs Biomed. 2024 Sep 21;257:108416. doi:
+    10.1016/j.cmpb.2024.108416. Online ahead of print.
+
+    > METHODS: We proposed a multi-agent feature selection model based
+    > on a comprehensive reward function that combines classification
+    > model performance, Shapley additive explanations values, and the
+    > mutual information. …CONCLUSION: This study contributes important
+    > rese …
+
+10. **Integrating social learning and network formation for social
+    tipping towards a sustainable future.**
+
+    von Flüe L, Vogt S.
+
+    Curr Opin Psychol. 2024 Sep 24;60:101915. doi:
+    10.1016/j.copsyc.2024.101915. Online ahead of print.
+
+    > Understanding these dynamics is crucial for promoting a cultural
+    > shift towards sustainability, yet our grasp of how normative
+    > transformations occur remains limited. In this paper, we simulate
+    > an agent-based model in which agents choose between maintaining
+    > the …
 
 ## Code of Conduct
 
