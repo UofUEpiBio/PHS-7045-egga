@@ -9,13 +9,127 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-10-20 00:51:43.
+update was on 2024-10-27 00:51:31.
 
 <div class="cell">
 
 </div>
 
-1.  **Building multiscale models with PhysiBoSS, an agent-based modeling
+1.  **AMBER: A Modular Model for Tumor Growth, Vasculature and Radiation
+    Response.**
+
+    Kunz LV, Bosque JJ, Nikmaneshi M, Chamseddine I, Munn LL, Schuemann
+    J, Paganetti H, Bertolet A.
+
+    Bull Math Biol. 2024 Oct 26;86(12):139. doi:
+    10.1007/s11538-024-01371-4.
+
+    > In particular, agent-based models (ABMs) tracking individual
+    > agents and their interactions are useful for their flexibility and
+    > ability to model complex behaviors. …Additionally, the integration
+    > into tumor ABMs of precise radiation dose calculations …
+
+2.  **Do COVID-19 Infectious Disease Models Incorporate the Social
+    Determinants of Health? A Systematic Review.**
+
+    John-Baptiste AA, Moulin M, Li Z, Hamilton D, Crichlow G, Klein DE,
+    Alemu FW, Ghattas L, McDonald K, Asaria M, Sharpe C, Pandya E,
+    Moqueet N, Champredon D, Moghadas SM, Cooper LA, Pinto A, Stranges
+    S, Haworth-Brockman MJ, Galvani A, Ali S.
+
+    Public Health Rev. 2024 Oct 10;45:1607057. doi:
+    10.3389/phrs.2024.1607057. eCollection 2024.
+
+    > Most pertained to multiple countries (n = 15), the United States
+    > (n = 12), or China (n = 7). Most models were compartmental (n
+    > = 45) and agent-based (n = 7). Age was the most incorporated SDH
+    > (n = 74), followed by gender (n = 15), race/ethnicity (n = 7) and
+    > r …
+
+3.  **PhysiMeSS - a new physiCell addon for extracellular matrix
+    modelling.**
+
+    Noël V, Ruscone M, Shuttleworth R, Macnamara CK.
+
+    GigaByte. 2024 Oct 16;2024:gigabyte136. doi: 10.46471/gigabyte.136.
+    eCollection 2024.
+
+    > The extracellular matrix, composed of macromolecules like collagen
+    > fibres, provides structural support to cells and acts as a barrier
+    > that metastatic cells degrade to spread beyond the primary tumour.
+    > While agent-based frameworks, such as PhysiCell, can simulate the
+    > …
+
+4.  **Neutrophils under the microscope: neutrophil dynamics in
+    infection, inflammation, and cancer revealed using intravital
+    imaging.**
+
+    Yam AO, Jakovija A, Gatt C, Chtanova T.
+
+    Front Immunol. 2024 Oct 8;15:1458035. doi:
+    10.3389/fimmu.2024.1458035. eCollection 2024.
+
+    > Finally, we highlight how computational modeling techniques,
+    > especially agent-based modeling, complement experimental data by
+    > elucidating neutrophil kinetics at the level of individual cells
+    > as well as their collective behavior. …
+
+5.  **Gardens reduce seasonal hunger gaps for farmland pollinators.**
+
+    Timberlake TP, Tew NE, Memmott J.
+
+    Proc Biol Sci. 2024 Oct;291(2033):20241523. doi:
+    10.1098/rspb.2024.1523. Epub 2024 Oct 23.
+
+    > Consistent with this pattern, bumblebee activity increased in
+    > gardens relative to farmland during early spring and late summer.
+    > An agent-based model reinforces this point, showing that timing,
+    > not quantity, of garden nectar supply enhances bumblebee colony gr
+    > …
+
+6.  **Tuning collective actuation of active solids by optimizing
+    activity localization.**
+
+    Lazzari D, Dauchot O, Brito C.
+
+    Soft Matter. 2024 Oct 21. doi: 10.1039/d4sm00868e. Online ahead of
+    print.
+
+    > Here, we investigate numerically how localizing activity to a
+    > fraction of modes enables the selection of non-trivial collective
+    > actuation. We perform numerical simulations of an agent-based
+    > model on triangular and disordered lattices and vary the
+    > concentratio …
+
+7.  **Enhancing Medical Training Through Learning From Mistakes by
+    Interacting With an Ill-Trained Reinforcement Learning Agent.**
+
+    Kakdas YC, Kockara S, Halic T, Demirel D.
+
+    IEEE Trans Learn Technol. 2024;17:1248-1260. doi:
+    10.1109/tlt.2024.3372508. Epub 2024 Mar 4.
+
+    > This allows students to experience many outlier cases they might
+    > not encounter in an in-class educational model. In the assessment
+    > mode, an IRL-based method is used to evaluate how effective the
+    > participant is at correcting the mistakes performed by the RL
+    > agent. …
+
+8.  **OMIBONE: Omics-driven computer model of bone regeneration for
+    personalized treatment.**
+
+    Jaber M, Schmidt J, Kalkhof S, Gerstenfeld L, Duda GN, Checa S.
+
+    Bone. 2024 Oct 18;190:117288. doi: 10.1016/j.bone.2024.117288.
+    Online ahead of print.
+
+    > Here, we introduce a novel framework that allows to predict bone
+    > regeneration outcome using combined proteomic and mechanical
+    > analyses in a computer model. The framework uses Ingenuity Pathway
+    > Analysis (IPA) software to link protein changes to alterations in
+    > biological pro …
+
+9.  **Building multiscale models with PhysiBoSS, an agent-based modeling
     tool.**
 
     Ruscone M, Checcoli A, Heiland R, Barillot E, Macklin P, Calzone L,
@@ -30,7 +144,7 @@ update was on 2024-10-20 00:51:43.
     > multiscale models which rely on the framework PhysiBoSS, an add-on
     > of PhysiCel …
 
-2.  **Application of H(2)N-Fe(3)O(4) Nanoparticles for Prostate Cancer
+10. **Application of H(2)N-Fe(3)O(4) Nanoparticles for Prostate Cancer
     Magnetic Resonance Imaging in an Animal Model.**
 
     Blasiak B, MacDonald D, Jasiński K, Cheng FY, Tomanek B.
@@ -40,120 +154,6 @@ update was on 2024-10-20 00:51:43.
     > This paper presents the efficacy of a contrast agent based on
     > H(2)N-Fe(3)O(4) nanoparticles for the detection of prostate cancer
     > in an animal model using a preclinical 9.4 T MRI system. …
-
-3.  **A computational model reveals an early transient decrease in fiber
-    cross-linking that unlocks adult regeneration.**
-
-    Pacary A, Peurichard D, Vaysse L, Monsarrat P, Bolut C, Girel A,
-    Guissard C, Lorsignol A, Planat-Benard V, Paupert J, Ousset M,
-    Casteilla L.
-
-    NPJ Regen Med. 2024 Oct 15;9(1):29. doi: 10.1038/s41536-024-00373-z.
-
-    > We previously developed a computational agent based-model (ABM)
-    > that recapitulates mechanical interactions between cells and the
-    > extracellular-matrix (ECM), to investigate key drivers of tissue
-    > repair in adults. …Therefore, this work positions the computati …
-
-4.  **A role for cross-linking proteins in actin filament network
-    organization and force generation.**
-
-    Hill JM, Cai S, Carver MD, Drubin DG.
-
-    Proc Natl Acad Sci U S A. 2024 Oct 22;121(43):e2407838121. doi:
-    10.1073/pnas.2407838121. Epub 2024 Oct 15.
-
-    > Here, we combine live-cell imaging and mathematical modeling to
-    > gain insights into the role of actin filament crosslinking
-    > proteins in force generation. …Simulations of an experimentally
-    > constrained, agent-based mathematical model recapitulate the re …
-
-5.  **Serious Game Development for Public Health: Participatory Design
-    Approach to COVID-19 Quarantine Policy Education.**
-
-    Kwak M, Kim BJ, Chung JB.
-
-    JMIR Serious Games. 2024 Oct 15;12:e54968. doi: 10.2196/54968.
-
-    > To achieve its learning objectives, the game incorporated learning
-    > and game mechanics including an agent-based infection model, a
-    > social distancing policy model, and an economic model, which were
-    > developed based on previous literature. …To ach …
-
-6.  **Genomic profiling and spatial SEIR modeling of COVID-19
-    transmission in Western New York.**
-
-    Bard JE, Jiang N, Emerson J, Bartz M, Lamb NA, Marzullo BJ, Pohlman
-    A, Boccolucci A, Nowak NJ, Yergeau DA, Crooks AT, Surtees JA.
-
-    Front Microbiol. 2024 Sep 27;15:1416580. doi:
-    10.3389/fmicb.2024.1416580. eCollection 2024.
-
-    > In this study, we present a comprehensive analysis of COVID-19 in
-    > Western New York (WNY), integrating individual patient-level
-    > genomic sequencing data with a spatially informed agent-based
-    > disease Susceptible-Exposed-Infectious-Recovered (SEIR)
-    > computational mode …
-
-7.  **Pioneering bioinformatics with agent-based modelling: an
-    innovative protocol to accurately forecast skin or respiratory
-    allergic reactions to chemical sensitizers.**
-
-    Russo G, Crispino E, Casati S, Corsini E, Worth A, Pappalardo F.
-
-    Brief Bioinform. 2024 Sep 23;25(6):bbae506. doi:
-    10.1093/bib/bbae506.
-
-    > The core novelty of our method lies in the application of UISS-an
-    > advanced agent-based modelling system that simulates detailed
-    > immune system dynamics. By inputting the results from earlier
-    > stages, including docking scores and potential epitope
-    > identification …
-
-8.  **The PHEM-B toolbox of methods for incorporating the influences on
-    Behaviour into Public Health Economic Models.**
-
-    Squires H, Kelly MP, Gilbert N, Sniehotta F, Purshouse RC, Garcia L,
-    Breeze P, Brennan A, Gardner B, Bright S, Fischer A, Heppenstall A,
-    Wetton JD, Hernandez-Alava M, Boyd J, Buckley C, Vlaev I, Smith R,
-    Abbas A, Gibb R, Henney M, Moore E, Chater AM.
-
-    BMC Public Health. 2024 Oct 12;24(1):2794. doi:
-    10.1186/s12889-024-20225-1.
-
-    > RESULTS: The PHEM-B toolbox sets out 12 methods which can be used
-    > in different combinations to incorporate influences on behaviours
-    > into public health economic models: collaborations between
-    > modellers and behavioural scientists, literature reviewing,
-    > application of …
-
-9.  **Analysis of postdisaster economy using high-resolution disaster
-    and economy simulations.**
-
-    Gill A, Lalith M, Hori M, Ogawa Y.
-
-    Risk Anal. 2024 Oct 9. doi: 10.1111/risa.17662. Online ahead of
-    print.
-
-    > The framework consists of three components: a physics-based
-    > simulator to simulate the disaster and estimate the response of
-    > the infrastructure; a tool that estimates the losses suffered by
-    > the infrastructure based on its response; and an agent-based
-    > economic mode …
-
-10. **Emergent ecology in a microscale model of the surface ocean.**
-
-    Eigemann F, Hoffmann J, Schampera C, Liu S, Bolaños LM, Heemeyer M,
-    Carlson CA, Giovannoni S, Hellweger FL.
-
-    mBio. 2024 Oct 9:e0237224. doi: 10.1128/mbio.02372-24. Online ahead
-    of print.
-
-    > Microbial processes operate at the microscale, which is not
-    > resolved by existing ecosystem models. Here, we present a novel
-    > model that simulates a 1 mL three-dimensional cube using a hybrid
-    > Lagrangian-Eulerian approach, at ecologically relevant timescales.
-    > …We pre …
 
 ## Code of Conduct
 
