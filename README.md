@@ -9,13 +9,56 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-10-27 00:51:31.
+update was on 2024-11-03 00:51:43.
 
 <div class="cell">
 
 </div>
 
-1.  **AMBER: A Modular Model for Tumor Growth, Vasculature and Radiation
+1.  **Bacterial community dynamics as a result of growth-yield trade-off
+    and multispecies metabolic interactions toward understanding the gut
+    biofilm niche.**
+
+    Valiei A, Dickson AM, Aminian-Dehkordi J, Mofrad MRK.
+
+    BMC Microbiol. 2024 Oct 29;24(1):441. doi:
+    10.1186/s12866-024-03566-0.
+
+    > One example is gut mucosal communities, where dense, closely
+    > packed communities develop under the concurrent influence of
+    > nutrient transport from the lumen and fluid-mediated detachment of
+    > bacteria. In this study, we model a mucosal niche through a
+    > coupled agent- …
+
+2.  **Investigating immersion and migration decisions for agent-based
+    modelling: A cautionary tale.**
+
+    Bijak J, Modirrousta-Galian A, Higham PA, Prike T, Hinsch M, Nurse
+    S.
+
+    Open Res Eur. 2024 Oct 29;3:34. doi: 10.12688/openreseurope.15581.3.
+    eCollection 2023.
+
+    > BACKGROUND: Agent-based modelling provides an appealing
+    > methodological choice for simulating human behaviour and
+    > decisions. …Our results act as a cautionary tale for agent-based
+    > modellers, highlighting that the modelling needs sh …
+
+3.  **Coevolution of norm psychology and cooperation through exapted
+    conformity.**
+
+    Kido Y, Takezawa M.
+
+    Evol Hum Sci. 2024 Oct 24;6:e35. doi: 10.1017/ehs.2024.37.
+    eCollection 2024.
+
+    > This study theoretically explores the socialisation of humans
+    > under these norms. Our agent-based model simulates scenarios where
+    > diverse agents with heterogeneous norm psychologies engage in
+    > collective action to maximise their utility functions that capture
+    > t …
+
+4.  **AMBER: A Modular Model for Tumor Growth, Vasculature and Radiation
     Response.**
 
     Kunz LV, Bosque JJ, Nikmaneshi M, Chamseddine I, Munn LL, Schuemann
@@ -29,7 +72,7 @@ update was on 2024-10-27 00:51:31.
     > ability to model complex behaviors. …Additionally, the integration
     > into tumor ABMs of precise radiation dose calculations …
 
-2.  **Do COVID-19 Infectious Disease Models Incorporate the Social
+5.  **Do COVID-19 Infectious Disease Models Incorporate the Social
     Determinants of Health? A Systematic Review.**
 
     John-Baptiste AA, Moulin M, Li Z, Hamilton D, Crichlow G, Klein DE,
@@ -46,7 +89,7 @@ update was on 2024-10-27 00:51:31.
     > (n = 74), followed by gender (n = 15), race/ethnicity (n = 7) and
     > r …
 
-3.  **PhysiMeSS - a new physiCell addon for extracellular matrix
+6.  **PhysiMeSS - a new physiCell addon for extracellular matrix
     modelling.**
 
     Noël V, Ruscone M, Shuttleworth R, Macnamara CK.
@@ -60,7 +103,7 @@ update was on 2024-10-27 00:51:31.
     > While agent-based frameworks, such as PhysiCell, can simulate the
     > …
 
-4.  **Neutrophils under the microscope: neutrophil dynamics in
+7.  **Neutrophils under the microscope: neutrophil dynamics in
     infection, inflammation, and cancer revealed using intravital
     imaging.**
 
@@ -74,7 +117,7 @@ update was on 2024-10-27 00:51:31.
     > elucidating neutrophil kinetics at the level of individual cells
     > as well as their collective behavior. …
 
-5.  **Gardens reduce seasonal hunger gaps for farmland pollinators.**
+8.  **Gardens reduce seasonal hunger gaps for farmland pollinators.**
 
     Timberlake TP, Tew NE, Memmott J.
 
@@ -87,7 +130,7 @@ update was on 2024-10-27 00:51:31.
     > not quantity, of garden nectar supply enhances bumblebee colony gr
     > …
 
-6.  **Tuning collective actuation of active solids by optimizing
+9.  **Tuning collective actuation of active solids by optimizing
     activity localization.**
 
     Lazzari D, Dauchot O, Brito C.
@@ -101,7 +144,7 @@ update was on 2024-10-27 00:51:31.
     > model on triangular and disordered lattices and vary the
     > concentratio …
 
-7.  **Enhancing Medical Training Through Learning From Mistakes by
+10. **Enhancing Medical Training Through Learning From Mistakes by
     Interacting With an Ill-Trained Reinforcement Learning Agent.**
 
     Kakdas YC, Kockara S, Halic T, Demirel D.
@@ -114,46 +157,6 @@ update was on 2024-10-27 00:51:31.
     > mode, an IRL-based method is used to evaluate how effective the
     > participant is at correcting the mistakes performed by the RL
     > agent. …
-
-8.  **OMIBONE: Omics-driven computer model of bone regeneration for
-    personalized treatment.**
-
-    Jaber M, Schmidt J, Kalkhof S, Gerstenfeld L, Duda GN, Checa S.
-
-    Bone. 2024 Oct 18;190:117288. doi: 10.1016/j.bone.2024.117288.
-    Online ahead of print.
-
-    > Here, we introduce a novel framework that allows to predict bone
-    > regeneration outcome using combined proteomic and mechanical
-    > analyses in a computer model. The framework uses Ingenuity Pathway
-    > Analysis (IPA) software to link protein changes to alterations in
-    > biological pro …
-
-9.  **Building multiscale models with PhysiBoSS, an agent-based modeling
-    tool.**
-
-    Ruscone M, Checcoli A, Heiland R, Barillot E, Macklin P, Calzone L,
-    Noël V.
-
-    Brief Bioinform. 2024 Sep 23;25(6):bbae509. doi:
-    10.1093/bib/bbae509.
-
-    > Multiscale models provide a unique tool for analyzing complex
-    > processes that study events occurring at different scales across
-    > space and time. …This article introduces three examples of
-    > multiscale models which rely on the framework PhysiBoSS, an add-on
-    > of PhysiCel …
-
-10. **Application of H(2)N-Fe(3)O(4) Nanoparticles for Prostate Cancer
-    Magnetic Resonance Imaging in an Animal Model.**
-
-    Blasiak B, MacDonald D, Jasiński K, Cheng FY, Tomanek B.
-
-    Int J Mol Sci. 2024 Sep 26;25(19):10334. doi: 10.3390/ijms251910334.
-
-    > This paper presents the efficacy of a contrast agent based on
-    > H(2)N-Fe(3)O(4) nanoparticles for the detection of prostate cancer
-    > in an animal model using a preclinical 9.4 T MRI system. …
 
 ## Code of Conduct
 
