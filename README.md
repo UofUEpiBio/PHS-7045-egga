@@ -9,13 +9,131 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-11-03 00:51:43.
+update was on 2024-11-10 00:50:00.
 
 <div class="cell">
 
 </div>
 
-1.  **Bacterial community dynamics as a result of growth-yield trade-off
+1.  **Towards verifiable cancer digital twins: tissue level modeling
+    protocol for precision medicine.**
+
+    Kemkar S, Tao M, Ghosh A, Stamatakos G, Graf N, Poorey K,
+    Balakrishnan U, Trask N, Radhakrishnan R.
+
+    Front Physiol. 2024 Oct 23;15:1473125. doi:
+    10.3389/fphys.2024.1473125. eCollection 2024.
+
+    > Nevertheless, the complexity of the data gathered from these
+    > methods cannot be fully interpreted through multimodal data
+    > analysis alone. Mathematical modeling plays a crucial role in
+    > delineating the underlying mechanisms to explain sources of
+    > heterogeneity using patient-sp …
+
+2.  **Combining sterile insect releases with refuge areas to delay the
+    evolution of resistance to Bt sugarcane: an agent-based modeling
+    approach.**
+
+    Potgieter L, Human DJ, Downing S.
+
+    J Econ Entomol. 2024 Nov 6:toae248. doi: 10.1093/jee/toae248. Online
+    ahead of print.
+
+    > A lesser-known method to control against resistance development is
+    > sterile insect releases. In this article, an agent-based
+    > simulation model is used to test the effectiveness of combining
+    > the use of Bt sugarcane, refuge areas, and sterile insect releases
+    > as a …
+
+3.  **Quadrivalent Conjugate Vaccine and Invasive Meningococcal Disease
+    in US Adolescents and Young Adults.**
+
+    Shin T, Wells CR, Shoukat A, Potter-Schwartz L, Langevin E, Langley
+    JM, Galvani AP, Moghadas SM.
+
+    JAMA Netw Open. 2024 Nov 4;7(11):e2443551. doi:
+    10.1001/jamanetworkopen.2024.43551.
+
+    > The model included the entire age-stratified US population and was
+    > fitted to national incidence data for serogroups C, W, and Y from
+    > January 1, 2001, to December 31, 2021, with stratification by
+    > vaccination status for IMD cases. …CONCLUSIONS AND RELEVANCE: This
+    > decision …
+
+4.  **Routine immunization against Streptococcus pneumoniae and
+    Haemophilus influenzae type B and antibiotic consumption in India: a
+    dynamic modeling analysis.**
+
+    Kumar CK, Gleason AC, Parameswaran GG, Summan A, Klein E,
+    Laxminarayan R, Nandi A.
+
+    Lancet Reg Health Southeast Asia. 2024 Oct 16;31:100498. doi:
+    10.1016/j.lansea.2024.100498. eCollection 2024 Dec.
+
+    > We retrospectively estimated the population-level reductions in
+    > antibiotic use in India following the introduction of vaccines
+    > against Streptococcus pneumoniae and Haemophilius influenzae type
+    > B in the national immunization program for children in the
+    > mid-2010s and projected futu …
+
+5.  **Mathematical frameworks for the analysis of norms.**
+
+    Sontuoso A.
+
+    Curr Opin Psychol. 2024 Oct 16;60:101930. doi:
+    10.1016/j.copsyc.2024.101930. Online ahead of print.
+
+    > Research into society’s informal rules of conduct, or norms, has
+    > recently experienced a surge, extending across multiple academic
+    > disciplines. Despite this growth, the theoretical modeling of
+    > norms often remains siloed within specific paradigms, as different
+    > disciplines te …
+
+6.  **CFD investigations of a shape-memory polymer foam-based
+    endovascular embolization device for the treatment of intracranial
+    aneurysms.**
+
+    Cabaniss T, Bodlak R, Liu Y, Colby G, Lee H, Bohnstedt B, Garziera
+    R, Holzapfel G, Lee CH.
+
+    Res Sq \[Preprint\]. 2024 Oct 18:rs.3.rs-5014601. doi:
+    10.21203/rs.3.rs-5014601/v1.
+
+    > The hemodynamic and convective heat transfer effects of a
+    > patient-specific endovascular therapeutic agent based on shape
+    > memory polymer foam (SMPf) are evaluated using computational fluid
+    > dynamics studies for six patient-specific aneurysm geometries. The
+    > SMPf device …
+
+7.  **Investigating immersion and migration decisions for agent-based
+    modelling: A cautionary tale.**
+
+    Bijak J, Modirrousta-Galian A, Higham PA, Prike T, Hinsch M, Nurse
+    S.
+
+    Open Res Eur. 2024 Oct 29;3:34. doi: 10.12688/openreseurope.15581.3.
+    eCollection 2023.
+
+    > BACKGROUND: Agent-based modelling provides an appealing
+    > methodological choice for simulating human behaviour and
+    > decisions. …Our results act as a cautionary tale for agent-based
+    > modellers, highlighting that the modelling needs sh …
+
+8.  **LLMs and generative agent-based models for complex systems
+    research.**
+
+    Lu Y, Aleta A, Du C, Shi L, Moreno Y.
+
+    Phys Life Rev. 2024 Oct 28;51:283-293. doi:
+    10.1016/j.plrev.2024.10.013. Online ahead of print.
+
+    > In particular, Generative Agent-Based Models (GABMs), which
+    > integrate LLMs to simulate human behavior, have attracted
+    > increasing public attention due to their potential to model
+    > complex interactions in a wide range of artificial environments.
+    > This pape …
+
+9.  **Bacterial community dynamics as a result of growth-yield trade-off
     and multispecies metabolic interactions toward understanding the gut
     biofilm niche.**
 
@@ -30,21 +148,7 @@ update was on 2024-11-03 00:51:43.
     > bacteria. In this study, we model a mucosal niche through a
     > coupled agent- …
 
-2.  **Investigating immersion and migration decisions for agent-based
-    modelling: A cautionary tale.**
-
-    Bijak J, Modirrousta-Galian A, Higham PA, Prike T, Hinsch M, Nurse
-    S.
-
-    Open Res Eur. 2024 Oct 29;3:34. doi: 10.12688/openreseurope.15581.3.
-    eCollection 2023.
-
-    > BACKGROUND: Agent-based modelling provides an appealing
-    > methodological choice for simulating human behaviour and
-    > decisions. …Our results act as a cautionary tale for agent-based
-    > modellers, highlighting that the modelling needs sh …
-
-3.  **Coevolution of norm psychology and cooperation through exapted
+10. **Coevolution of norm psychology and cooperation through exapted
     conformity.**
 
     Kido Y, Takezawa M.
@@ -57,106 +161,6 @@ update was on 2024-11-03 00:51:43.
     > diverse agents with heterogeneous norm psychologies engage in
     > collective action to maximise their utility functions that capture
     > t …
-
-4.  **AMBER: A Modular Model for Tumor Growth, Vasculature and Radiation
-    Response.**
-
-    Kunz LV, Bosque JJ, Nikmaneshi M, Chamseddine I, Munn LL, Schuemann
-    J, Paganetti H, Bertolet A.
-
-    Bull Math Biol. 2024 Oct 26;86(12):139. doi:
-    10.1007/s11538-024-01371-4.
-
-    > In particular, agent-based models (ABMs) tracking individual
-    > agents and their interactions are useful for their flexibility and
-    > ability to model complex behaviors. …Additionally, the integration
-    > into tumor ABMs of precise radiation dose calculations …
-
-5.  **Do COVID-19 Infectious Disease Models Incorporate the Social
-    Determinants of Health? A Systematic Review.**
-
-    John-Baptiste AA, Moulin M, Li Z, Hamilton D, Crichlow G, Klein DE,
-    Alemu FW, Ghattas L, McDonald K, Asaria M, Sharpe C, Pandya E,
-    Moqueet N, Champredon D, Moghadas SM, Cooper LA, Pinto A, Stranges
-    S, Haworth-Brockman MJ, Galvani A, Ali S.
-
-    Public Health Rev. 2024 Oct 10;45:1607057. doi:
-    10.3389/phrs.2024.1607057. eCollection 2024.
-
-    > Most pertained to multiple countries (n = 15), the United States
-    > (n = 12), or China (n = 7). Most models were compartmental (n
-    > = 45) and agent-based (n = 7). Age was the most incorporated SDH
-    > (n = 74), followed by gender (n = 15), race/ethnicity (n = 7) and
-    > r …
-
-6.  **PhysiMeSS - a new physiCell addon for extracellular matrix
-    modelling.**
-
-    Noël V, Ruscone M, Shuttleworth R, Macnamara CK.
-
-    GigaByte. 2024 Oct 16;2024:gigabyte136. doi: 10.46471/gigabyte.136.
-    eCollection 2024.
-
-    > The extracellular matrix, composed of macromolecules like collagen
-    > fibres, provides structural support to cells and acts as a barrier
-    > that metastatic cells degrade to spread beyond the primary tumour.
-    > While agent-based frameworks, such as PhysiCell, can simulate the
-    > …
-
-7.  **Neutrophils under the microscope: neutrophil dynamics in
-    infection, inflammation, and cancer revealed using intravital
-    imaging.**
-
-    Yam AO, Jakovija A, Gatt C, Chtanova T.
-
-    Front Immunol. 2024 Oct 8;15:1458035. doi:
-    10.3389/fimmu.2024.1458035. eCollection 2024.
-
-    > Finally, we highlight how computational modeling techniques,
-    > especially agent-based modeling, complement experimental data by
-    > elucidating neutrophil kinetics at the level of individual cells
-    > as well as their collective behavior. …
-
-8.  **Gardens reduce seasonal hunger gaps for farmland pollinators.**
-
-    Timberlake TP, Tew NE, Memmott J.
-
-    Proc Biol Sci. 2024 Oct;291(2033):20241523. doi:
-    10.1098/rspb.2024.1523. Epub 2024 Oct 23.
-
-    > Consistent with this pattern, bumblebee activity increased in
-    > gardens relative to farmland during early spring and late summer.
-    > An agent-based model reinforces this point, showing that timing,
-    > not quantity, of garden nectar supply enhances bumblebee colony gr
-    > …
-
-9.  **Tuning collective actuation of active solids by optimizing
-    activity localization.**
-
-    Lazzari D, Dauchot O, Brito C.
-
-    Soft Matter. 2024 Oct 21. doi: 10.1039/d4sm00868e. Online ahead of
-    print.
-
-    > Here, we investigate numerically how localizing activity to a
-    > fraction of modes enables the selection of non-trivial collective
-    > actuation. We perform numerical simulations of an agent-based
-    > model on triangular and disordered lattices and vary the
-    > concentratio …
-
-10. **Enhancing Medical Training Through Learning From Mistakes by
-    Interacting With an Ill-Trained Reinforcement Learning Agent.**
-
-    Kakdas YC, Kockara S, Halic T, Demirel D.
-
-    IEEE Trans Learn Technol. 2024;17:1248-1260. doi:
-    10.1109/tlt.2024.3372508. Epub 2024 Mar 4.
-
-    > This allows students to experience many outlier cases they might
-    > not encounter in an in-class educational model. In the assessment
-    > mode, an IRL-based method is used to evaluate how effective the
-    > participant is at correcting the mistakes performed by the RL
-    > agent. …
 
 ## Code of Conduct
 
