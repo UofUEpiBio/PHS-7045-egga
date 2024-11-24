@@ -9,148 +9,145 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-11-17 00:53:14.
+update was on 2024-11-24 00:53:36.
 
 <div class="cell">
 
 </div>
 
-1.  **Modelling indoor airborne transmission combining architectural
-    design and people movement using the VIRIS simulator and web app.**
+1.  **Personalizing computational models to construct medical digital
+    twins.**
 
-    Xue Y, Jabi W, Woolley TE, Kaouri K.
+    Knapp AC, Cruz DA, Mehrad B, Laubenbacher RC.
 
-    Sci Rep. 2024 Nov 15;14(1):28220. doi: 10.1038/s41598-024-79525-6.
+    bioRxiv \[Preprint\]. 2024 Nov 7:2024.05.31.596692. doi:
+    10.1101/2024.05.31.596692.
 
-    > A Viral Infection Risk Indoor Simulator (VIRIS) has been developed
-    > to quickly assess and compare mitigations for airborne disease
-    > spread. This agent-based simulator combines people movement in an
-    > indoor space, viral transmission modelling and detailed archite …
+    > A commonly used modeling framework is that of an agent-based
+    > model, a computational model for simulating autonomous agents such
+    > as cells, which captures how system-level properties are affected
+    > by local interactions. …A fundamental problem tha …
 
-2.  **Influenza Vaccination, Household Composition, and Race-Based
-    Differences in Influenza Incidence: An Agent-Based Modeling Study.**
+2.  **Modelling plausible scenarios for the Omicron SARS-CoV-2 variant
+    from early-stage surveillance.**
 
-    Williams KV, Krauland MG, Harrison LH, Williams JV, Roberts MS,
-    Zimmerman RK.
+    Banks CJ, Colman E, Wood AJ, Doherty T, Kao RR.
 
-    Am J Public Health. 2024 Nov 14:e1-e8. doi:
-    10.2105/AJPH.2024.307878. Online ahead of print.
+    Epidemics. 2024 Nov 4;49:100800. doi: 10.1016/j.epidem.2024.100800.
+    Online ahead of print.
 
-    > We used the Framework for Reconstructing Epidemiological Dynamics,
-    > an agent-based model that assigns US Census-based age, race,
-    > households, and geographic location to agents (individual people),
-    > in US counties of varying racial and age composition. …
+    > We used a spatially explicit agent-based model of SARS-CoV-2
+    > transmission combined with spatially fine-grained COVID-19
+    > observation data from Public Health Scotland to investigate the
+    > initial rise of the Omicron (BA.1) variant of concern. …We found
+    > that the …
 
-3.  **Single-point mutated lanmodulin as a high-performance MRI contrast
-    agent for vascular and kidney imaging.**
+3.  **An off-lattice discrete model to characterise filamentous yeast
+    colony morphology.**
 
-    Liu Y, Gao D, He Y, Ma J, Chong SY, Qi X, Ting HJ, Luo Z, Yi Z, Tang
-    J, Chang C, Wang J, Sheng Z, Zheng H, Liu X.
+    Li K, Green JEF, Tronnolone H, Tam AKY, Black AJ, Gardner JM,
+    Sundstrom JF, Jiranek V, Binder BJ.
 
-    Nat Commun. 2024 Nov 13;15(1):9834. doi: 10.1038/s41467-024-54167-4.
+    PLoS Comput Biol. 2024 Nov 21;20(11):e1012605. doi:
+    10.1371/journal.pcbi.1012605. Online ahead of print.
 
-    > Magnetic resonance imaging contrast agents can enhance diagnostic
-    > precision but often face limitations such as short imaging
-    > windows, low tissue specificity, suboptimal contrast enhancement,
-    > or potential toxicity, which affect resolution and long-term
-    > monitoring. Here, we present …
+    > We combine an off-lattice agent-based mathematical model and
+    > experimentation to explore filamentous growth of a yeast colony. …
 
-4.  **A modelling study to explore the effects of regional
-    socio-economics on the spreading of epidemics.**
+4.  **Key factors influencing sustainable population growth: A
+    DEMATEL-ANP combined approach.**
 
-    Snellman JE, Barrio RA, Kaski KK, Korpi-Lagg MJ.
+    Pang F, Miao G, Li Y, Shi Y.
 
-    J Comput Soc Sci. 2024;7(3):2535-2562. doi:
-    10.1007/s42001-024-00322-2. Epub 2024 Aug 14.
+    Heliyon. 2024 Oct 16;10(21):e39404. doi:
+    10.1016/j.heliyon.2024.e39404. eCollection 2024 Nov 15.
 
-    > This calls for systematic investigation which factors affect
-    > significantly and either beneficially or adversely the disease
-    > spreading and regional socio-economics. Based on our recently
-    > developed hybrid agent-based socio-economy and epidemic spreading
-    > model w …
+    > Experiments using government and international organization
+    > databases include comparative experiments with deep learning
+    > prediction models, ensemble learning models, Causal Inference
+    > Models, complex network analysis models, and agent-based …
 
-5.  **Navigating the cohesion-diversity trade-off: understanding the
-    role of facilitators in co-creation using agent-based modelling.**
+5.  **Collective responses of flocking sheep (Ovis aries) to a herding
+    dog (border collie).**
 
-    Mahajan S.
+    Jadhav V, Pasqua R, Zanon C, Roy M, Tredan G, Bon R, Guttal V,
+    Theraulaz G.
 
-    Philos Trans A Math Phys Eng Sci. 2024 Dec 16;382(2285):20240093.
-    doi: 10.1098/rsta.2024.0093. Epub 2024 Nov 13.
+    Commun Biol. 2024 Nov 20;7(1):1543. doi: 10.1038/s42003-024-07245-8.
 
-    > This study aims to explore the nuanced role that facilitators play
-    > in navigating the balance between cohesion and diversity,
-    > particularly in groups characterized by pronounced faultlines.
-    > Employing agent-based modeling, the study examines how
-    > facilitators aff …
+    > Our analyses reveal that, even though the dog chases the sheep
+    > flock from behind, directional information on shorter time scales
+    > propagates from the front of the group towards the rear; further,
+    > the dog adjusts its movement in response to the flock’s dynamics.
+    > We introduce an …
 
-6.  **Empowering minorities and everyone in participatory budgeting: an
-    agent-based modelling perspective.**
+6.  **A stochastic population model for the impact of cancer cell
+    dormancy on therapy success.**
 
-    Carpentras D, Hänggli Fricker R, Helbing D.
+    Blath J, Kraut A, Paul T, Tóbiás A.
 
-    Philos Trans A Math Phys Eng Sci. 2024 Dec 16;382(2285):20240090.
-    doi: 10.1098/rsta.2024.0090. Epub 2024 Nov 13.
+    J Theor Biol. 2024 Nov 18:111995. doi: 10.1016/j.jtbi.2024.111995.
+    Online ahead of print.
 
-    > In this article, we study this possibility by using agent-based
-    > models. Specifically, we first show that a system combining CI and
-    > PB produces solutions that strongly penalize minorities if the
-    > solution quality depends on group size. …
+    > In this paper, we focus on individual cancer cells switching into
+    > and out of a dormant state both spontaneously as well as in
+    > response to treatment. We introduce an idealized mathematical
+    > model, based on stochastic agent-based interactions, for the
+    > dynamics o …
 
-7.  **Co-designing transport models as a heuristic planning tool.**
+7.  **Simulation design to find the welfare impacts of livestock trading
+    and disease transmission.**
 
-    Maheshwari T, Fourie P.
+    Hwang H.
 
-    Philos Trans A Math Phys Eng Sci. 2024 Dec 16;382(2285):20240110.
-    doi: 10.1098/rsta.2024.0110. Epub 2024 Nov 13.
+    PLoS One. 2024 Nov 20;19(11):e0310213. doi:
+    10.1371/journal.pone.0310213. eCollection 2024.
 
-    > This paper proposes an alternative approach, combining qualitative
-    > and normative urban design, with quantitative and predictive
-    > transport modelling. This requires urban designers and transport
-    > modellers to co-create goal-driven and agile transport models that
+    > This study designs a theoretical model and simulation model that
+    > can explain the welfare impacts of disease transmission that
+    > occurs in livestock trade. …Under the theoretical conditions an
+    > agent-based model is used to simulate livestock trans …
+
+8.  **Multivariate opinion evolution analysis on individual opinion
+    differences: An agent-based model.**
+
+    Liu S, Zhao H.
+
+    Phys Rev E. 2024 Oct;110(4-1):044301. doi:
+    10.1103/PhysRevE.110.044301.
+
+    > To this end, we propose the spiral competition model (SCM) to
+    > quantify the two spirals and explore the impact of this phenomenon
+    > on the evolution of public opinion. …Finally, we applied complex
+    > network theory to information dissemination, and the model was
+    > then si …
+
+9.  **Modeling urbanization dynamics by labor force migration.**
+
+    Goto H.
+
+    Phys Rev E. 2024 Oct;110(4-1):044314. doi:
+    10.1103/PhysRevE.110.044314.
+
+    > In this study, we present a simple microscopic model of labor
+    > force migration based on the active Brownian particles framework.
+    > In particular, agent-based simulations show that the model
+    > produces clusters of agents from a random initial distribution. .
     > …
 
-8.  **The influence of active agent motility on SIRS epidemiological
-    dynamics.**
+10. **Closing the gap in race-based inequities for seasonal influenza
+    hospitalizations: a modeling study.**
 
-    Kailasham R, Khair AS.
+    Stafford E, Dimitrov D, Trinidad SB, Matrajt L.
 
-    Soft Matter. 2024 Nov 12. doi: 10.1039/d4sm00864b. Online ahead of
-    print.
+    Clin Infect Dis. 2024 Nov 19:ciae564. doi: 10.1093/cid/ciae564.
+    Online ahead of print.
 
-    > Active Brownian disks moving in two dimensions that exchange
-    > information about their internal state stochastically are chosen
-    > to model epidemic spread in a self-propelled population of agents
-    > under the susceptible-infected-recovered-susceptible (SIRS)
-    > framework. …Salient …
-
-9.  **Population-level impact of switching to 1-dose human
-    papillomavirus vaccination in high-income countries: examining
-    uncertainties using mathematical modeling.**
-
-    Brisson M, Laprise JF, Drolet M, Chamberland É, Bénard É, Burger EA,
-    Jit M, Kim JJ, Markowitz LE, Sauvageau C, Sy S.
-
-    J Natl Cancer Inst Monogr. 2024 Nov 1;2024(67):387-399. doi:
-    10.1093/jncimonographs/lgae038.
-
-    > METHODS: We used HPV-ADVISE (Agent-based Dynamic model for
-    > VaccInation and Screening Evaluation), a transmission-dynamic
-    > model of HPV infection and cervical cancer, varying key model
-    > assumptions to identify those with the greatest impact on proj …
-
-10. **Coupled infectious disease and behavior dynamics. A review of
-    model assumptions.**
-
-    Reitenbach A, Sartori F, Banisch S, Golovin A, Calero Valdez A,
-    Kretzschmar M, Priesemann V, Maes M.
-
-    Rep Prog Phys. 2024 Nov 11. doi: 10.1088/1361-6633/ad90ef. Online
-    ahead of print.
-
-    > Second, we advocate an approach to comparing models’ assumptions
-    > about human behavior, the model aspect characterized by the
-    > strongest disagreement. …Third, we propose recommendations for
-    > future modeling endeavors and empirical research ai …
+    > METHODS: We developed a race-stratified (5 racial-ethnic groups)
+    > agent-based model of seasonal influenza transmission and quantify
+    > the effects of 5 idealized interventions aimed at reducing
+    > inequities in symptomatic infections and hospitalizations.
+    > …Notably …
 
 ## Code of Conduct
 
