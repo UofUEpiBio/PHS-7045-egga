@@ -3,19 +3,90 @@ commit](https://img.shields.io/github/last-commit/UofUEpiBio/PHS-7045-egga.png)
 
 # Latest papers on Agent-Based Modeling in PubMed
 
-This repository is an *Example using GitHub Actions* \[egge\] for the
+This repository is an *Example using GitHub Actions* \[egga\] for the
 Advanced Programming with R class. The project consists of a quarto
 document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-11-24 00:53:36.
+update was on 2024-11-26 16:13:46.
 
 <div class="cell">
 
 </div>
 
-1.  **Personalizing computational models to construct medical digital
+1.  **Integrated pharmacokinetic-pharmacodynamic and agent-based
+    modelling in drug development: Current status and future
+    perspectives.**
+
+    Yates JWT.
+
+    Adv Drug Deliv Rev. 2024 Nov 23:115474. doi:
+    10.1016/j.addr.2024.115474. Online ahead of print.
+
+    > These approaches have largely made use of deterministic,
+    > differential equation-based models, however there is a growing use
+    > of agent-based models. In this review, the current applications
+    > and practices of agent-based model developm …
+
+2.  **Cost-Effectiveness of Extending Human Papillomavirus Vaccination
+    to Population Subgroups Older Than 26 Years Who Are at Higher Risk
+    for Human Papillomavirus Infection in the United States.**
+
+    Laprise JF, Chesson HW, Markowitz LE, Drolet M, Brisson M.
+
+    Ann Intern Med. 2024 Nov 26. doi: 10.7326/M24-0421. Online ahead of
+    print.
+
+    > DESIGN: Individual-based transmission dynamic modeling of HPV
+    > transmission and associated diseases using HPV-ADVISE (Agent-based
+    > Dynamic model for VaccInation and Screening Evaluation). …
+
+3.  **Modeling Health and Economic Outcomes of Eliminating Sex
+    Disparities in Youth Physical Activity.**
+
+    Tamura K, Martinez MF, Deng Y, Heneghan J, Weatherwax C, Velmurugan
+    K, Chin KL, Rogers B, Moniruzzaman M, Whitley M, Bartsch SM, O’Shea
+    KJ, Dibbs A, Scannell S, Lee BY.
+
+    JAMA Netw Open. 2024 Nov 4;7(11):e2446775. doi:
+    10.1001/jamanetworkopen.2024.46775.
+
+    > DESIGN, SETTING, AND PARTICIPANTS: This simulation study used an
+    > agent-based model representing all children (aged 6 to 17 years)
+    > in the US, their PA and sports participation levels, and relevant
+    > physical and physiologic characteristics (eg, body mass index) …
+
+4.  **CFD investigations of a shape-memory polymer foam-based
+    endovascular embolization device for the treatment of intracranial
+    aneurysms.**
+
+    Cabaniss TL, Bodlak R, Liu Y, Colby GP, Lee H, Bohnstedt BN,
+    Garziera R, Holzapfel GA, Lee CH.
+
+    Biomech Model Mechanobiol. 2024 Nov 25. doi:
+    10.1007/s10237-024-01910-x. Online ahead of print.
+
+    > The hemodynamic and convective heat transfer effects of a
+    > patient-specific endovascular therapeutic agent based on
+    > shape-memory polymer foam (SMPf) are evaluated using computational
+    > fluid dynamics studies for six patient-specific aneurysm
+    > geometries. The SMPf device …
+
+5.  **Modelling the age pattern of fertility: an individual-level
+    approach.**
+
+    Ciganda D, Todd N.
+
+    R Soc Open Sci. 2024 Nov 20;11(11):240366. doi: 10.1098/rsos.240366.
+    eCollection 2024 Nov.
+
+    > Fitting statistical models to aggregate data is still the dominant
+    > approach in many demographic and biodemographic applications.
+    > Although these macro-level models have proven useful for a variety
+    > of tasks, they often have no demographic interpretation. …
+
+6.  **Personalizing computational models to construct medical digital
     twins.**
 
     Knapp AC, Cruz DA, Mehrad B, Laubenbacher RC.
@@ -28,7 +99,7 @@ update was on 2024-11-24 00:53:36.
     > as cells, which captures how system-level properties are affected
     > by local interactions. …A fundamental problem tha …
 
-2.  **Modelling plausible scenarios for the Omicron SARS-CoV-2 variant
+7.  **Modelling plausible scenarios for the Omicron SARS-CoV-2 variant
     from early-stage surveillance.**
 
     Banks CJ, Colman E, Wood AJ, Doherty T, Kao RR.
@@ -42,7 +113,7 @@ update was on 2024-11-24 00:53:36.
     > initial rise of the Omicron (BA.1) variant of concern. …We found
     > that the …
 
-3.  **An off-lattice discrete model to characterise filamentous yeast
+8.  **An off-lattice discrete model to characterise filamentous yeast
     colony morphology.**
 
     Li K, Green JEF, Tronnolone H, Tam AKY, Black AJ, Gardner JM,
@@ -54,7 +125,7 @@ update was on 2024-11-24 00:53:36.
     > We combine an off-lattice agent-based mathematical model and
     > experimentation to explore filamentous growth of a yeast colony. …
 
-4.  **Key factors influencing sustainable population growth: A
+9.  **Key factors influencing sustainable population growth: A
     DEMATEL-ANP combined approach.**
 
     Pang F, Miao G, Li Y, Shi Y.
@@ -67,7 +138,7 @@ update was on 2024-11-24 00:53:36.
     > prediction models, ensemble learning models, Causal Inference
     > Models, complex network analysis models, and agent-based …
 
-5.  **Collective responses of flocking sheep (Ovis aries) to a herding
+10. **Collective responses of flocking sheep (Ovis aries) to a herding
     dog (border collie).**
 
     Jadhav V, Pasqua R, Zanon C, Roy M, Tredan G, Bon R, Guttal V,
@@ -80,74 +151,6 @@ update was on 2024-11-24 00:53:36.
     > propagates from the front of the group towards the rear; further,
     > the dog adjusts its movement in response to the flock’s dynamics.
     > We introduce an …
-
-6.  **A stochastic population model for the impact of cancer cell
-    dormancy on therapy success.**
-
-    Blath J, Kraut A, Paul T, Tóbiás A.
-
-    J Theor Biol. 2024 Nov 18:111995. doi: 10.1016/j.jtbi.2024.111995.
-    Online ahead of print.
-
-    > In this paper, we focus on individual cancer cells switching into
-    > and out of a dormant state both spontaneously as well as in
-    > response to treatment. We introduce an idealized mathematical
-    > model, based on stochastic agent-based interactions, for the
-    > dynamics o …
-
-7.  **Simulation design to find the welfare impacts of livestock trading
-    and disease transmission.**
-
-    Hwang H.
-
-    PLoS One. 2024 Nov 20;19(11):e0310213. doi:
-    10.1371/journal.pone.0310213. eCollection 2024.
-
-    > This study designs a theoretical model and simulation model that
-    > can explain the welfare impacts of disease transmission that
-    > occurs in livestock trade. …Under the theoretical conditions an
-    > agent-based model is used to simulate livestock trans …
-
-8.  **Multivariate opinion evolution analysis on individual opinion
-    differences: An agent-based model.**
-
-    Liu S, Zhao H.
-
-    Phys Rev E. 2024 Oct;110(4-1):044301. doi:
-    10.1103/PhysRevE.110.044301.
-
-    > To this end, we propose the spiral competition model (SCM) to
-    > quantify the two spirals and explore the impact of this phenomenon
-    > on the evolution of public opinion. …Finally, we applied complex
-    > network theory to information dissemination, and the model was
-    > then si …
-
-9.  **Modeling urbanization dynamics by labor force migration.**
-
-    Goto H.
-
-    Phys Rev E. 2024 Oct;110(4-1):044314. doi:
-    10.1103/PhysRevE.110.044314.
-
-    > In this study, we present a simple microscopic model of labor
-    > force migration based on the active Brownian particles framework.
-    > In particular, agent-based simulations show that the model
-    > produces clusters of agents from a random initial distribution. .
-    > …
-
-10. **Closing the gap in race-based inequities for seasonal influenza
-    hospitalizations: a modeling study.**
-
-    Stafford E, Dimitrov D, Trinidad SB, Matrajt L.
-
-    Clin Infect Dis. 2024 Nov 19:ciae564. doi: 10.1093/cid/ciae564.
-    Online ahead of print.
-
-    > METHODS: We developed a race-stratified (5 racial-ethnic groups)
-    > agent-based model of seasonal influenza transmission and quantify
-    > the effects of 5 idealized interventions aimed at reducing
-    > inequities in symptomatic infections and hospitalizations.
-    > …Notably …
 
 ## Code of Conduct
 
