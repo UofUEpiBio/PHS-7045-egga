@@ -9,13 +9,123 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-12-08 00:56:09.
+update was on 2024-12-15 00:56:26.
 
 <div class="cell">
 
 </div>
 
-1.  **Agent-based modelling of Mycobacterium tuberculosis transmission:
+1.  **Dynamics of covert signaling: Modeling the emergence and
+    extinction of identity signals.**
+
+    Dunivin ZO, Smaldino PE.
+
+    Psychol Rev. 2024 Dec 12. doi: 10.1037/rev0000518. Online ahead of
+    print.
+
+    > We formalize this idea with both analytical and agent-based
+    > modeling of ingroup and outgroup individuals who learn about
+    > signals of group membership. Depending on the risk and associated
+    > cost of detection by the outgroup, the model yields three dynamic
+    > …
+
+2.  **Analysing public goods games using reinforcement learning: effect
+    of increasing group size on cooperation.**
+
+    Tamura K, Morita S.
+
+    R Soc Open Sci. 2024 Dec 11;11(12):241195. doi: 10.1098/rsos.241195.
+    eCollection 2024 Dec.
+
+3.  **Comparing the Safety and Efficacy of Remimazolam-based Total
+    Intravenous Anesthesia versus Volatile Agent-based Anesthesia: A
+    Meta-Analysis of Randomized Controlled Trials.**
+
+    Park JI, Na HS, Lee KO, Ryu JH, Shin HJ.
+
+    Korean J Anesthesiol. 2024 Dec 12. doi: 10.4097/kja.24444. Online
+    ahead of print.
+
+    > This study compared the safety and efficacy of remimazolam-based
+    > total intravenous anesthesia (TIVA) and volatile agent-based
+    > anesthesia in adults undergoing general anesthesia. METHODS: We
+    > searched electronic databases including PubMed, EMBASE, CENTRAL,
+    > and Scopus …
+
+4.  **Hybrid model to simulate host cell biomechanics and infection
+    spread during intracellular infection of epithelial monolayers.**
+
+    Aparicio-Yuste R, Hundsdorfer L, Bastounis EE, Gomez-Benito MJ.
+
+    Comput Biol Med. 2024 Dec 10;185:109506. doi:
+    10.1016/j.compbiomed.2024.109506. Online ahead of print.
+
+    > To further investigate these mechanisms, we propose a
+    > two-dimensional hybrid computational model that combines an
+    > agent-based model with a finite element method to simulate the
+    > kinematics and dynamics of epithelial cell monolayers in the
+    > absence or pre …
+
+5.  **Agent-Based Model of Combined Community- and Jail-Based Take-Home
+    Naloxone Distribution.**
+
+    Tatara E, Ozik J, Pollack HA, Schneider JA, Friedman SR, Harawa NT,
+    Boodram B, Salisbury-Afshar E, Hotton A, Ouellet L, Mackesy-Amiti
+    ME, Collier N, Macal CM.
+
+    JAMA Netw Open. 2024 Dec 2;7(12):e2448732. doi:
+    10.1001/jamanetworkopen.2024.48732.
+
+    > DESIGN, SETTING, AND PARTICIPANTS: This study developed the
+    > agent-based Justice-Community Circulation Model (JCCM) to model a
+    > synthetic population of individuals with and without a history of
+    > opioid use. …Data were analyzed between February 2022 and …
+
+6.  **Combining simulation models and machine learning in healthcare
+    management: strategies and applications.**
+
+    Ponsiglione AM, Zaffino P, Ricciardi C, Di Laura D, Spadea MF, De
+    Tommasi G, Improta G, Romano M, Amato F.
+
+    Prog Biomed Eng (Bristol). 2024 Feb 9;6(2). doi:
+    10.1088/2516-1091/ad225a.
+
+    > Simulation models and artificial intelligence (AI) are largely
+    > used to address healthcare and biomedical engineering problems.
+    > …Results showed that machine learning appears to be the most
+    > employed AI strategy in combination with simulation models, which
+    > mainly rel …
+
+7.  **Preserving friendships in school contacts: An algorithm to
+    construct synthetic temporal networks for epidemic modelling.**
+
+    Calmon L, Colosi E, Bassignana G, Barrat A, Colizza V.
+
+    PLoS Comput Biol. 2024 Dec 9;20(12):e1012661. doi:
+    10.1371/journal.pcbi.1012661. Online ahead of print.
+
+    > Publicly available data sets of contact data are however typically
+    > recorded over short time windows with respect to the duration of
+    > an epidemic. To inform models of disease transmission, data are
+    > thus often repeated several times, yielding synthetic data
+    > covering long enou …
+
+8.  **Extremely low frequency magnetic fields (ELF-MF) in Switzerland:
+    From exposure monitoring to daily exposure scenarios.**
+
+    Loizeau N, Haas D, Zahner M, Stephan C, Schindler J, Gugler M,
+    Fröhlich J, Ziegler T, Röösli M.
+
+    Environ Int. 2024 Dec 4;194:109181. doi:
+    10.1016/j.envint.2024.109181. Online ahead of print.
+
+    > Finally, we derived an environmental exposure matrix and modelled
+    > 27 daily time-weighted average ELF-MF exposure scenarios by
+    > combining typical time spent at home, work and transport
+    > environments. …This novel environmental exposure matrix is a
+    > useful tool for public comm …
+
+9.  **Agent-based modelling of Mycobacterium tuberculosis transmission:
     a systematic review.**
 
     Bui VL, Hughes AE, Ragonnet R, Meehan MT, Henderson A, McBryde ES,
@@ -29,7 +139,7 @@ update was on 2024-12-08 00:56:09.
     > the complex heterogeneity of TB transmission. …SELECTION CRITERIA:
     > Our review included peer-reviewed articles in English that im …
 
-2.  **Forecasting cardiovascular disease risk and burden in China from
+10. **Forecasting cardiovascular disease risk and burden in China from
     2020 to 2030: a simulation study based on a nationwide cohort.**
 
     Wang R, Wang Y, Lu J, Li Y, Wu C, Yang Y, Cui J, Xu W, Song L, Yang
@@ -42,115 +152,6 @@ update was on 2024-12-08 00:56:09.
     > using a nationwide cohort and to simulate the potential impact of
     > various control measures on morbidity and mortality. METHODS: An
     > agent-based model was employed to simulate annual CVD incidence …
-
-3.  **Effect of resource-associated signals on producer responses:
-    Insights from golden fish (Carassius auratus) and an agent-based
-    model.**
-
-    Avila-Chauvet L, Elenes-Rivera J, Cruz DM, Ojeda Aguilar YL.
-
-    J Comp Psychol. 2024 Dec 5. doi: 10.1037/com0000400. Online ahead of
-    print.
-
-    > Specifically, the study seeks to (a) outline a setup for goldfish
-    > (Carassius auratus) incorporating renewable patch zones, (b)
-    > evaluate the CS’s effect on the proportion of producers, and (c)
-    > develop an agent-based model capturing the CS’s effect on the
-    > propo …
-
-4.  **Spatiotemporal modeling quantifies cellular contributions to
-    uptake of Aspergillus fumigatus in the human lung.**
-
-    Saffer C, Timme S, Ortiz SC, Bertuzzi M, Figge MT.
-
-    Commun Biol. 2024 Dec 4;7(1):1615. doi: 10.1038/s42003-024-07302-2.
-
-    > In this study, we present a bottom-up modeling approach to
-    > incorporate experimental data on the dynamic increase of the
-    > conidial diameter and A. fumigatus uptake by AECs and AMs in a
-    > hybrid agent-based model (hABM) for the to-scale simulation of
-    > virtua …
-
-5.  **Life history traits of the target pest and transmission routes of
-    the biocide are critical for the success of the boosted Sterile
-    Insect Technique.**
-
-    Herbillon F, Diouf EG, Brévault T, Haramboure M, Fellous S, Piou C.
-
-    Curr Res Insect Sci. 2024 Nov 12;6:100101. doi:
-    10.1016/j.cris.2024.100101. eCollection 2024.
-
-    > The present study investigated to what extent life history traits
-    > of the target pest and biocides can make the boosted SIT more
-    > efficient than the classical SIT. We built a generic agent-based
-    > model (SIT++) that simulates the population dynamics of insect pes
-    > …
-
-6.  **Unveiling the nexus of scientific plans and real-world outcomes: A
-    comparative analysis of land use optimization and agent-based
-    simulation results in a natural landscape.**
-
-    Siroosi H, Heshmati GA, Salmanmahiny A.
-
-    J Environ Manage. 2024 Dec 2;373:123510. doi:
-    10.1016/j.jenvman.2024.123510. Online ahead of print.
-
-    > A combination of compromise programming and a simulated annealing
-    > algorithm, alongside an agent-based model (ABM) to simulate
-    > stakeholder preferences, was employed for land use optimization. …
-
-7.  **Dynamic Simulation Models of Suicide and Suicide-Related
-    Behaviors: Systematic Review.**
-
-    Gariepy G, Zahan R, Osgood ND, Yeoh B, Graham E, Orpana H.
-
-    JMIR Public Health Surveill. 2024 Dec 2;10:e63195. doi:
-    10.2196/63195.
-
-    > Two reviewers independently conducted the title and abstract and
-    > full-text screenings including studies using dynamic modeling
-    > methods (eg, System Dynamics and agent-based modeling) for suicide
-    > or suicide-related behaviors at the population level, and …
-
-8.  **Measuring network dynamics of opioid overdose deaths in the United
-    States.**
-
-    Tiwari K, Rahimian MA, Roberts MS, Kumar P, Buchanich JM.
-
-    Sci Rep. 2024 Nov 28;14(1):29563. doi: 10.1038/s41598-024-80627-4.
-
-    > To further validate our findings, we performed a series of
-    > robustness checks using a network autocorrelation model to account
-    > for social network effects, a spatial autocorrelation model to
-    > capture spatial dependencies, and a two-way fixed-effect model to
-    > cont …
-
-9.  **Mitigating the charging rush hour.**
-
-    Savanovic M, Göberndorfer L, Jäger G.
-
-    Heliyon. 2024 Nov 12;10(22):e40258. doi:
-    10.1016/j.heliyon.2024.e40258. eCollection 2024 Nov 30.
-
-    > One emerging phenomenon is the so-called charging rush hour,
-    > i.e. a sharp demand spike when many people arrive home and begin
-    > charging their electric cars. In this study we use an agent-based
-    > model calibrated with empirical data on mobility behaviour to
-    > inves …
-
-10. **Collective anti-predator escape manoeuvres through optimal attack
-    and avoidance strategies.**
-
-    Bartashevich P, Herbert-Read JE, Hansen MJ, Dhellemmes F, Domenici
-    P, Krause J, Romanczuk P.
-
-    Commun Biol. 2024 Nov 27;7(1):1586. doi: 10.1038/s42003-024-07267-2.
-
-    > Using drone-based empirical observations of schooling sardine prey
-    > (Sardinops sagax caerulea) attacked by striped marlin (Kajikia
-    > audax), we first find the majority of attacks produce fountain
-    > effects, with the dynamics of these escapes dependent on the
-    > predator’s attack directio …
 
 ## Code of Conduct
 
