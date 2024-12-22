@@ -9,149 +9,150 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-12-15 00:56:26.
+update was on 2024-12-22 00:51:59.
 
 <div class="cell">
 
 </div>
 
-1.  **Dynamics of covert signaling: Modeling the emergence and
-    extinction of identity signals.**
+1.  **Transmission models of respiratory infections in carceral
+    settings: A systematic review.**
 
-    Dunivin ZO, Smaldino PE.
+    Levintow SN, Remch M, Jones EP, Lessler J, Edwards JK,
+    Brinkley-Rubinstein L, Rice DK, Rosen DL, Powers KA.
 
-    Psychol Rev. 2024 Dec 12. doi: 10.1037/rev0000518. Online ahead of
-    print.
+    Epidemics. 2024 Dec 6;50:100809. doi: 10.1016/j.epidem.2024.100809.
+    Online ahead of print.
 
-    > We formalize this idea with both analytical and agent-based
-    > modeling of ingroup and outgroup individuals who learn about
-    > signals of group membership. Depending on the risk and associated
-    > cost of detection by the outgroup, the model yields three dynamic
-    > …
+    > We extracted information on the diseases, populations, and
+    > settings modeled; approaches used for parameterizing models and
+    > simulating transmission; outcomes of interest and techniques for
+    > model calibration, validation, and sensitivity analyses; and
+    > types, imp …
 
-2.  **Analysing public goods games using reinforcement learning: effect
-    of increasing group size on cooperation.**
+2.  **Exploring urban scenarios of individual residential waste sorting
+    using a spatially explicit agent-based model.**
 
-    Tamura K, Morita S.
+    Cohen J, Gil J, Rosado L.
 
-    R Soc Open Sci. 2024 Dec 11;11(12):241195. doi: 10.1098/rsos.241195.
-    eCollection 2024 Dec.
+    Waste Manag. 2024 Dec 18;193:350-362. doi:
+    10.1016/j.wasman.2024.12.020. Online ahead of print.
 
-3.  **Comparing the Safety and Efficacy of Remimazolam-based Total
-    Intravenous Anesthesia versus Volatile Agent-based Anesthesia: A
-    Meta-Analysis of Randomized Controlled Trials.**
+    > To bridge this gap, this study presents an agent-based model (ABM)
+    > that simulates residential waste sorting in urban scenarios,
+    > incorporating TPB for the agents’ behavioural architecture
+    > (residents). Three features distinguish this ABM from previous
+    > efforts: …
 
-    Park JI, Na HS, Lee KO, Ryu JH, Shin HJ.
+3.  **The impact of cognitive bias about infectious diseases on social
+    well-being.**
 
-    Korean J Anesthesiol. 2024 Dec 12. doi: 10.4097/kja.24444. Online
-    ahead of print.
+    Pestow R.
 
-    > This study compared the safety and efficacy of remimazolam-based
-    > total intravenous anesthesia (TIVA) and volatile agent-based
-    > anesthesia in adults undergoing general anesthesia. METHODS: We
-    > searched electronic databases including PubMed, EMBASE, CENTRAL,
-    > and Scopus …
+    Front Epidemiol. 2024 Dec 4;4:1418336. doi:
+    10.3389/fepid.2024.1418336. eCollection 2024.
 
-4.  **Hybrid model to simulate host cell biomechanics and infection
-    spread during intracellular infection of epithelial monolayers.**
+    > Second, we derive an integrated economic-epidemiological
+    > differential equation model from an agent-based model that
+    > combines myopic rational choice with infectious disease dynamics.
+    > Third, we characterize axiomatically a model of an ethical, imp …
 
-    Aparicio-Yuste R, Hundsdorfer L, Bastounis EE, Gomez-Benito MJ.
+4.  **Agent-based modeling for the tumor microenvironment (TME).**
 
-    Comput Biol Med. 2024 Dec 10;185:109506. doi:
-    10.1016/j.compbiomed.2024.109506. Online ahead of print.
+    Weerasinghe HN, Burrage PM, Jr DVN, Burrage K.
 
-    > To further investigate these mechanisms, we propose a
-    > two-dimensional hybrid computational model that combines an
-    > agent-based model with a finite element method to simulate the
-    > kinematics and dynamics of epithelial cell monolayers in the
-    > absence or pre …
+    Math Biosci Eng. 2024 Nov 25;21(11):7621-7647. doi:
+    10.3934/mbe.2024335.
 
-5.  **Agent-Based Model of Combined Community- and Jail-Based Take-Home
-    Naloxone Distribution.**
+    > If tumor cells spread to surrounding tissues or other organs, then
+    > the disease is life-threatening due to limited treatment options.
+    > This work applies an agent-based model to investigate the effect
+    > of intra-tumoral communication on tumor progression, plastici …
 
-    Tatara E, Ozik J, Pollack HA, Schneider JA, Friedman SR, Harawa NT,
-    Boodram B, Salisbury-Afshar E, Hotton A, Ouellet L, Mackesy-Amiti
-    ME, Collier N, Macal CM.
+5.  **Agent based modelling of blood borne viruses: a scoping review.**
 
-    JAMA Netw Open. 2024 Dec 2;7(12):e2448732. doi:
-    10.1001/jamanetworkopen.2024.48732.
+    Ale S, Hunter E, Kelleher JD.
 
-    > DESIGN, SETTING, AND PARTICIPANTS: This study developed the
-    > agent-based Justice-Community Circulation Model (JCCM) to model a
-    > synthetic population of individuals with and without a history of
-    > opioid use. …Data were analyzed between February 2022 and …
+    BMC Infect Dis. 2024 Dec 18;24(1):1411. doi:
+    10.1186/s12879-024-10271-w.
 
-6.  **Combining simulation models and machine learning in healthcare
-    management: strategies and applications.**
+    > BACKGROUND: The models that historically have been used to model
+    > infectious disease outbreaks are equation-based and statistical
+    > models. …Agent-based modelling (ABM) is an alternative modelling
+    > approach that is gaining popularity …
 
-    Ponsiglione AM, Zaffino P, Ricciardi C, Di Laura D, Spadea MF, De
-    Tommasi G, Improta G, Romano M, Amato F.
+6.  **Mitigating housing market shocks: an agent-based reinforcement
+    learning approach with implications for real-time decision
+    support.**
 
-    Prog Biomed Eng (Bristol). 2024 Feb 9;6(2). doi:
-    10.1088/2516-1091/ad225a.
+    Olmez S, Heppenstall A, Ge J, Elsenbroich C, Birks D.
 
-    > Simulation models and artificial intelligence (AI) are largely
-    > used to address healthcare and biomedical engineering problems.
-    > …Results showed that machine learning appears to be the most
-    > employed AI strategy in combination with simulation models, which
-    > mainly rel …
+    J Simul. 2024 Jul 9;18(6):921-939. doi:
+    10.1080/17477778.2024.2375446. eCollection 2024.
 
-7.  **Preserving friendships in school contacts: An algorithm to
-    construct synthetic temporal networks for epidemic modelling.**
+    > Research in modelling housing market dynamics using agent-based
+    > models (ABMs) has grown due to the rise of accessible
+    > individual-level data. …Importantly, our model shows how a central
+    > bank agent learned conservative behaviours in sensitive sc …
 
-    Calmon L, Colosi E, Bassignana G, Barrat A, Colizza V.
+7.  **Legislative rebellions and impeachments in a neural network
+    society.**
 
-    PLoS Comput Biol. 2024 Dec 9;20(12):e1012661. doi:
-    10.1371/journal.pcbi.1012661. Online ahead of print.
+    Neirotti J, Caticha N.
 
-    > Publicly available data sets of contact data are however typically
-    > recorded over short time windows with respect to the duration of
-    > an epidemic. To inform models of disease transmission, data are
-    > thus often repeated several times, yielding synthetic data
-    > covering long enou …
+    Phys Rev E. 2024 Nov;110(5-1):054110. doi:
+    10.1103/PhysRevE.110.054110.
 
-8.  **Extremely low frequency magnetic fields (ELF-MF) in Switzerland:
-    From exposure monitoring to daily exposure scenarios.**
+    > Inspired by studies of legislative-executive conflict in modern
+    > presidential democracies in South America, we present an
+    > agent-based statistical mechanics exploration of the collective,
+    > coordinated action of strategic political actors in the
+    > legislative chamber and …
 
-    Loizeau N, Haas D, Zahner M, Stephan C, Schindler J, Gugler M,
-    Fröhlich J, Ziegler T, Röösli M.
+8.  **Social network dynamics of tobacco smoking and alcohol use among
+    persons involved with the criminal legal system (PCLS): A modeling
+    study.**
 
-    Environ Int. 2024 Dec 4;194:109181. doi:
-    10.1016/j.envint.2024.109181. Online ahead of print.
+    Khanna AS, Rousell N, Davis T, Zhang Y, Sheeler D, Cioe P, Martin R,
+    Kahler CW.
 
-    > Finally, we derived an environmental exposure matrix and modelled
-    > 27 daily time-weighted average ELF-MF exposure scenarios by
-    > combining typical time spent at home, work and transport
-    > environments. …This novel environmental exposure matrix is a
-    > useful tool for public comm …
+    Int J Alcohol Drug Res. 2024 Dec 12;12(2):54-67. doi:
+    10.7895/ijadr.507. Epub 2024 Oct 1.
 
-9.  **Agent-based modelling of Mycobacterium tuberculosis transmission:
-    a systematic review.**
+    > However, collecting empirical data on these interrelationships is
+    > often hampered due to logistical and ethical challenges. METHODS:
+    > We developed an agent-based network model (ABNM) to simulate the
+    > effects of the incarceration-tobacco-alcohol syndemic in the s …
 
-    Bui VL, Hughes AE, Ragonnet R, Meehan MT, Henderson A, McBryde ES,
-    Trauer JM.
+9.  **Novel travel time aware metapopulation models and multi-layer
+    waning immunity for late-phase epidemic and endemic scenarios.**
 
-    BMC Infect Dis. 2024 Dec 6;24(1):1394. doi:
-    10.1186/s12879-024-10245-y.
+    Zunker H, Schmieding R, Kerkmann D, Schengen A, Diexer S,
+    Mikolajczyk R, Meyer-Hermann M, Kühn MJ.
 
-    > This has led to growing interest in advanced methodologies like
-    > agent-based modelling (ABM), which can more accurately represent
-    > the complex heterogeneity of TB transmission. …SELECTION CRITERIA:
-    > Our review included peer-reviewed articles in English that im …
+    PLoS Comput Biol. 2024 Dec 16;20(12):e1012630. doi:
+    10.1371/journal.pcbi.1012630. Online ahead of print.
 
-10. **Forecasting cardiovascular disease risk and burden in China from
-    2020 to 2030: a simulation study based on a nationwide cohort.**
+    > In the realm of infectious disease control, accurate modeling of
+    > the transmission dynamics is pivotal. As human mobility and
+    > commuting patterns are key components of communicable disease
+    > spread, we introduce a novel travel time aware metapopulation
+    > model. …The pro …
 
-    Wang R, Wang Y, Lu J, Li Y, Wu C, Yang Y, Cui J, Xu W, Song L, Yang
-    H, He W, Zhang Y, Zhang X, Li X, Hu S.
+10. **Mobility and non-household environments: understanding dengue
+    transmission patterns in urban contexts.**
 
-    Heart. 2024 Dec 5:heartjnl-2024-324650. doi:
-    10.1136/heartjnl-2024-324650. Online ahead of print.
+    Peña-García VH, Ndenga BA, Mutuku FM, Bisanzio D, LaBeaud AD,
+    Mordecai EA.
 
-    > This study aimed to project the burden of CVD from 2020 to 2030
-    > using a nationwide cohort and to simulate the potential impact of
-    > various control measures on morbidity and mortality. METHODS: An
-    > agent-based model was employed to simulate annual CVD incidence …
+    medRxiv \[Preprint\]. 2024 Dec 5:2024.05.28.24308061. doi:
+    10.1101/2024.05.28.24308061.
+
+    > Mounting entomological evidence has suggested a larger role of
+    > environments other than HH in transmission. Recently, an
+    > agent-based model (ABM) estimated that over half of infections
+    > occur in non-household (NH) environments like workplaces, markets,
+    > and recre …
 
 ## Code of Conduct
 
