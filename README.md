@@ -9,13 +9,56 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-12-22 00:51:59.
+update was on 2024-12-29 00:52:32.
 
 <div class="cell">
 
 </div>
 
-1.  **Transmission models of respiratory infections in carceral
+1.  **Epihiper-A high performance computational modeling framework to
+    support epidemic science.**
+
+    Chen J, Hoops S, Mortveit HS, Lewis BL, Machi D, Bhattacharya P,
+    Venkatramanan S, Wilson ML, Barrett CL, Marathe MV.
+
+    PNAS Nexus. 2024 Dec 11;4(1):pgae557. doi:
+    10.1093/pnasnexus/pgae557. eCollection 2025 Jan.
+
+    > This paper describes Epihiper, a state-of-the-art, high
+    > performance computational modeling framework for epidemic science.
+    > The Epihiper modeling framework supports custom disease models,
+    > and can simulate epidemics over dynamic, large-scale networks
+    > while supp …
+
+2.  **Dynamic co-clustering and self-sorting in interactive protocell
+    populations.**
+
+    Mishra A, Price H, Patil AJ, Mann S.
+
+    Angew Chem Int Ed Engl. 2024 Dec 23:e202420209. doi:
+    10.1002/anie.202420209. Online ahead of print.
+
+    > The design and implementation of collective actions in model
+    > protocell communities is an on-going challenge in synthetic
+    > protobiology. Herein, we covalently graft alginate or chitosan
+    > onto the outer surface of semipermeable enzyme-containing silica
+    > colloidosomes to produce …
+
+3.  **A multiphysics hybrid continuum - agent-based model of in vitro
+    vascularized organoids.**
+
+    Carrasco-Mantis A, Reina-Romo E, Sanz-Herrera JA.
+
+    Comput Biol Med. 2024 Dec 21;185:109559. doi:
+    10.1016/j.compbiomed.2024.109559. Online ahead of print.
+
+    > Parameters, such as fluid velocity and nutrient consumption, are
+    > analyzed along the organoid evolution. METHODS: The mathematical
+    > model created for this purpose combines continuum and discrete
+    > approaches. In the continuum part, the fluid flow and the
+    > diffusion of oxygen an …
+
+4.  **Transmission models of respiratory infections in carceral
     settings: A systematic review.**
 
     Levintow SN, Remch M, Jones EP, Lessler J, Edwards JK,
@@ -30,7 +73,7 @@ update was on 2024-12-22 00:51:59.
     > model calibration, validation, and sensitivity analyses; and
     > types, imp …
 
-2.  **Exploring urban scenarios of individual residential waste sorting
+5.  **Exploring urban scenarios of individual residential waste sorting
     using a spatially explicit agent-based model.**
 
     Cohen J, Gil J, Rosado L.
@@ -44,7 +87,7 @@ update was on 2024-12-22 00:51:59.
     > (residents). Three features distinguish this ABM from previous
     > efforts: …
 
-3.  **The impact of cognitive bias about infectious diseases on social
+6.  **The impact of cognitive bias about infectious diseases on social
     well-being.**
 
     Pestow R.
@@ -57,7 +100,7 @@ update was on 2024-12-22 00:51:59.
     > combines myopic rational choice with infectious disease dynamics.
     > Third, we characterize axiomatically a model of an ethical, imp …
 
-4.  **Agent-based modeling for the tumor microenvironment (TME).**
+7.  **Agent-based modeling for the tumor microenvironment (TME).**
 
     Weerasinghe HN, Burrage PM, Jr DVN, Burrage K.
 
@@ -69,7 +112,7 @@ update was on 2024-12-22 00:51:59.
     > This work applies an agent-based model to investigate the effect
     > of intra-tumoral communication on tumor progression, plastici …
 
-5.  **Agent based modelling of blood borne viruses: a scoping review.**
+8.  **Agent based modelling of blood borne viruses: a scoping review.**
 
     Ale S, Hunter E, Kelleher JD.
 
@@ -81,7 +124,7 @@ update was on 2024-12-22 00:51:59.
     > models. …Agent-based modelling (ABM) is an alternative modelling
     > approach that is gaining popularity …
 
-6.  **Mitigating housing market shocks: an agent-based reinforcement
+9.  **Mitigating housing market shocks: an agent-based reinforcement
     learning approach with implications for real-time decision
     support.**
 
@@ -95,7 +138,7 @@ update was on 2024-12-22 00:51:59.
     > individual-level data. …Importantly, our model shows how a central
     > bank agent learned conservative behaviours in sensitive sc …
 
-7.  **Legislative rebellions and impeachments in a neural network
+10. **Legislative rebellions and impeachments in a neural network
     society.**
 
     Neirotti J, Caticha N.
@@ -108,51 +151,6 @@ update was on 2024-12-22 00:51:59.
     > agent-based statistical mechanics exploration of the collective,
     > coordinated action of strategic political actors in the
     > legislative chamber and …
-
-8.  **Social network dynamics of tobacco smoking and alcohol use among
-    persons involved with the criminal legal system (PCLS): A modeling
-    study.**
-
-    Khanna AS, Rousell N, Davis T, Zhang Y, Sheeler D, Cioe P, Martin R,
-    Kahler CW.
-
-    Int J Alcohol Drug Res. 2024 Dec 12;12(2):54-67. doi:
-    10.7895/ijadr.507. Epub 2024 Oct 1.
-
-    > However, collecting empirical data on these interrelationships is
-    > often hampered due to logistical and ethical challenges. METHODS:
-    > We developed an agent-based network model (ABNM) to simulate the
-    > effects of the incarceration-tobacco-alcohol syndemic in the s …
-
-9.  **Novel travel time aware metapopulation models and multi-layer
-    waning immunity for late-phase epidemic and endemic scenarios.**
-
-    Zunker H, Schmieding R, Kerkmann D, Schengen A, Diexer S,
-    Mikolajczyk R, Meyer-Hermann M, Kühn MJ.
-
-    PLoS Comput Biol. 2024 Dec 16;20(12):e1012630. doi:
-    10.1371/journal.pcbi.1012630. Online ahead of print.
-
-    > In the realm of infectious disease control, accurate modeling of
-    > the transmission dynamics is pivotal. As human mobility and
-    > commuting patterns are key components of communicable disease
-    > spread, we introduce a novel travel time aware metapopulation
-    > model. …The pro …
-
-10. **Mobility and non-household environments: understanding dengue
-    transmission patterns in urban contexts.**
-
-    Peña-García VH, Ndenga BA, Mutuku FM, Bisanzio D, LaBeaud AD,
-    Mordecai EA.
-
-    medRxiv \[Preprint\]. 2024 Dec 5:2024.05.28.24308061. doi:
-    10.1101/2024.05.28.24308061.
-
-    > Mounting entomological evidence has suggested a larger role of
-    > environments other than HH in transmission. Recently, an
-    > agent-based model (ABM) estimated that over half of infections
-    > occur in non-household (NH) environments like workplaces, markets,
-    > and recre …
 
 ## Code of Conduct
 
