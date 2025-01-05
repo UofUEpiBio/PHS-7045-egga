@@ -9,148 +9,154 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2024-12-29 00:52:32.
+update was on 2025-01-05 00:52:11.
 
 <div class="cell">
 
 </div>
 
-1.  **Epihiper-A high performance computational modeling framework to
-    support epidemic science.**
+1.  **Long-range organization of intestinal 2D-crypts using exogenous
+    Wnt3a micropatterning.**
 
-    Chen J, Hoops S, Mortveit HS, Lewis BL, Machi D, Bhattacharya P,
-    Venkatramanan S, Wilson ML, Barrett CL, Marathe MV.
+    Larrañaga E, Marin-Riera M, Abad-Lázaro A, Bartolomé-Català D, Otero
+    A, Fernández-Majada V, Batlle E, Sharpe J, Ojosnegros S, Comelles J,
+    Martinez E.
 
-    PNAS Nexus. 2024 Dec 11;4(1):pgae557. doi:
-    10.1093/pnasnexus/pgae557. eCollection 2025 Jan.
+    Nat Commun. 2025 Jan 3;16(1):382. doi: 10.1038/s41467-024-55651-7.
 
-    > This paper describes Epihiper, a state-of-the-art, high
-    > performance computational modeling framework for epidemic science.
-    > The Epihiper modeling framework supports custom disease models,
-    > and can simulate epidemics over dynamic, large-scale networks
-    > while supp …
+    > By adjusting the spacing between Wnt3a ligand patterns at the
+    > microscale over large surfaces, we override endogenous Wnt3a to
+    > precisely control the distribution and long-range order of
+    > crypt-like regions in primary epithelial monolayers. Additionally,
+    > an agent-based …
 
-2.  **Dynamic co-clustering and self-sorting in interactive protocell
-    populations.**
+2.  **Mathematical modeling of impacts of patient differences on
+    renin-angiotensin system and applications to COVID-19 lung fibrosis
+    outcomes.**
 
-    Mishra A, Price H, Patil AJ, Mann S.
+    Islam MA, Ford Versypt AN.
 
-    Angew Chem Int Ed Engl. 2024 Dec 23:e202420209. doi:
-    10.1002/anie.202420209. Online ahead of print.
+    Comput Biol Med. 2025 Jan 2;186:109631. doi:
+    10.1016/j.compbiomed.2024.109631. Online ahead of print.
 
-    > The design and implementation of collective actions in model
-    > protocell communities is an on-going challenge in synthetic
-    > protobiology. Herein, we covalently graft alginate or chitosan
-    > onto the outer surface of semipermeable enzyme-containing silica
-    > colloidosomes to produce …
+    > Three submodels were connected-an agent-based model for in-host
+    > COVID-19 response in the lung tissue, a RAS dynamics model, and a
+    > fibrosis dynamics model to investigate the effects of
+    > patient-group-specific factors in the systemic alteration of …
 
-3.  **A multiphysics hybrid continuum - agent-based model of in vitro
-    vascularized organoids.**
+3.  **Modelling the Impact of HIF on Metabolism and the Extracellular
+    Matrix: Consequences for Tumour Growth and Invasion.**
 
-    Carrasco-Mantis A, Reina-Romo E, Sanz-Herrera JA.
+    Spinicci K, Powathil G, Stéphanou A.
 
-    Comput Biol Med. 2024 Dec 21;185:109559. doi:
-    10.1016/j.compbiomed.2024.109559. Online ahead of print.
+    Bull Math Biol. 2025 Jan 3;87(2):27. doi:
+    10.1007/s11538-024-01391-0.
 
-    > Parameters, such as fluid velocity and nutrient consumption, are
-    > analyzed along the organoid evolution. METHODS: The mathematical
-    > model created for this purpose combines continuum and discrete
-    > approaches. In the continuum part, the fluid flow and the
-    > diffusion of oxygen an …
+    > The goal of this paper is to explore the impact of the HIF protein
+    > on both the tumour metabolism and the cancer cell migration with a
+    > focus on the Warburg effect and collagen remodelling processes.
+    > Therefore, we present an agent-based model (ABM) of tumour gr …
 
-4.  **Transmission models of respiratory infections in carceral
-    settings: A systematic review.**
+4.  **Lifetime Disability-adjusted Life Year assessment of indolent
+    systemic mastocytosis.**
 
-    Levintow SN, Remch M, Jones EP, Lessler J, Edwards JK,
-    Brinkley-Rubinstein L, Rice DK, Rosen DL, Powers KA.
+    Mounié M, Derumeaux Burel H, Molinier L, Costa N, Bulai Livideanu C.
 
-    Epidemics. 2024 Dec 6;50:100809. doi: 10.1016/j.epidem.2024.100809.
-    Online ahead of print.
+    J Allergy Clin Immunol Pract. 2024 Dec 31:S2213-2198(24)01283-2.
+    doi: 10.1016/j.jaip.2024.12.034. Online ahead of print.
 
-    > We extracted information on the diseases, populations, and
-    > settings modeled; approaches used for parameterizing models and
-    > simulating transmission; outcomes of interest and techniques for
-    > model calibration, validation, and sensitivity analyses; and
-    > types, imp …
+    > METHODS: We used prospective and retrospective data on symptoms
+    > and quality of life from an ISM population recruited at the French
+    > expert center CEREMAST, to estimate Disability Weight allowing
+    > DALY calculation. An agent-based model was developed to more accu
+    > …
 
-5.  **Exploring urban scenarios of individual residential waste sorting
-    using a spatially explicit agent-based model.**
+5.  **Epidemiological models to estimate the burden of snakebite
+    envenoming: A systematic review.**
 
-    Cohen J, Gil J, Rosado L.
+    Gololo AA, Veettil SK, Anantachoti P, Taychakhoonavudh S, Patikorn
+    C.
 
-    Waste Manag. 2024 Dec 18;193:350-362. doi:
-    10.1016/j.wasman.2024.12.020. Online ahead of print.
+    Trop Med Int Health. 2025 Jan 1. doi: 10.1111/tmi.14080. Online
+    ahead of print.
 
-    > To bridge this gap, this study presents an agent-based model (ABM)
-    > that simulates residential waste sorting in urban scenarios,
-    > incorporating TPB for the agents’ behavioural architecture
-    > (residents). Three features distinguish this ABM from previous
-    > efforts: …
+    > A narrative synthesis was performed to summarise types of models,
+    > methodologies, input parameters, model outputs, and associating
+    > factors. RESULTS: Thirty-nine modelling studies were included from
+    > 2426 retrieved articles, comprising statistical models …
 
-6.  **The impact of cognitive bias about infectious diseases on social
-    well-being.**
+6.  **Matrix-producing cells’ orientation order facilitates Bacillus
+    subtilis biofilm self-healing.**
 
-    Pestow R.
+    Li J, Wang J, Wu J, Wang X.
 
-    Front Epidemiol. 2024 Dec 4;4:1418336. doi:
-    10.3389/fepid.2024.1418336. eCollection 2024.
+    Arch Microbiol. 2024 Dec 30;207(1):19. doi:
+    10.1007/s00203-024-04224-9.
 
-    > Second, we derive an integrated economic-epidemiological
-    > differential equation model from an agent-based model that
-    > combines myopic rational choice with infectious disease dynamics.
-    > Third, we characterize axiomatically a model of an ethical, imp …
+    > To investigate the self-healing mechanism, an agent-based model is
+    > employed to simulate the self-healing processes of biofilms at two
+    > ages. …
 
-7.  **Agent-based modeling for the tumor microenvironment (TME).**
+7.  **Theoretical modeling of hepatitis C acute infection in
+    liver-humanized mice support pre-clinical assessment of candidate
+    viruses for controlled-human-infection studies.**
 
-    Weerasinghe HN, Burrage PM, Jr DVN, Burrage K.
+    Shi Z, Mhlanga A, Ishida Y, Josephson A, Collier NT, Abe-Chayama H,
+    Tateno-Mukaidani C, Cotler SJ, Ozik J, Major M, Feld JJ, Chayama K,
+    Dahari H.
 
-    Math Biosci Eng. 2024 Nov 25;21(11):7621-7647. doi:
-    10.3934/mbe.2024335.
+    Sci Rep. 2024 Dec 30;14(1):31826. doi: 10.1038/s41598-024-83104-0.
 
-    > If tumor cells spread to surrounding tissues or other organs, then
-    > the disease is life-threatening due to limited treatment options.
-    > This work applies an agent-based model to investigate the effect
-    > of intra-tumoral communication on tumor progression, plastici …
+    > Designing and carrying out a controlled human infection (CHI)
+    > model for hepatitis C virus (HCV) is critical for vaccine
+    > development. However, key considerations for a CHI model protocol
+    > include understanding of the earliest viral-host kinetic events
+    > during the acute …
 
-8.  **Agent based modelling of blood borne viruses: a scoping review.**
+8.  **An agent based simulation of COVID-19 history in Catalonia using
+    extensive real datasets.**
 
-    Ale S, Hunter E, Kelleher JD.
+    Bosman M, Cordon Y, Duran-Sala M, Gabbanelli L, García-Pérez C,
+    Jordan X, Manera M, Masjuan P, Medina A, Mir LM, Oròs A, Vitagliano
+    V.
 
-    BMC Infect Dis. 2024 Dec 18;24(1):1411. doi:
-    10.1186/s12879-024-10271-w.
+    Sci Rep. 2024 Dec 30;14(1):31858. doi: 10.1038/s41598-024-83238-1.
 
-    > BACKGROUND: The models that historically have been used to model
-    > infectious disease outbreaks are equation-based and statistical
-    > models. …Agent-based modelling (ABM) is an alternative modelling
-    > approach that is gaining popularity …
+    > During the COVID-19 pandemic, effective public policy
+    > interventions have been crucial in combating virus transmission,
+    > sparking extensive debate on crisis management strategies and
+    > emphasizing the necessity for reliable models to inform
+    > governmental decisions, particularly …
 
-9.  **Mitigating housing market shocks: an agent-based reinforcement
-    learning approach with implications for real-time decision
-    support.**
+9.  **Plaque heterogeneity influences in-stent restenosis following
+    drug-eluting stent implantation: Insights from patient-specific
+    multiscale modelling.**
 
-    Olmez S, Heppenstall A, Ge J, Elsenbroich C, Birks D.
+    Corti A, Dal Ferro L, Akyildiz AC, Migliavacca F, McGinty S,
+    Chiastra C.
 
-    J Simul. 2024 Jul 9;18(6):921-939. doi:
-    10.1080/17477778.2024.2375446. eCollection 2024.
+    J Biomech. 2024 Dec 16;179:112485. doi:
+    10.1016/j.jbiomech.2024.112485. Online ahead of print.
 
-    > Research in modelling housing market dynamics using agent-based
-    > models (ABMs) has grown due to the rise of accessible
-    > individual-level data. …Importantly, our model shows how a central
-    > bank agent learned conservative behaviours in sensitive sc …
+    > Here, an original patient-specific multiscale agent-based
+    > modelling framework was developed to investigate the interplay
+    > between drug release, plaque composition and intervention-induced
+    > inflammation on in-stent restenosis following drug-eluting stent
+    > implant …
 
-10. **Legislative rebellions and impeachments in a neural network
-    society.**
+10. **Cost-Effectiveness Analysis of Vaccination Compliance Strategies
+    Using a Novel Hybrid Model for Influenza Vaccination.**
 
-    Neirotti J, Caticha N.
+    You D, Zhou Y, Yan Y, Chen F, Lu M, Shao F.
 
-    Phys Rev E. 2024 Nov;110(5-1):054110. doi:
-    10.1103/PhysRevE.110.054110.
+    China CDC Wkly. 2024 Dec 13;6(50):1337-1342. doi:
+    10.46234/ccdcw2024.265.
 
-    > Inspired by studies of legislative-executive conflict in modern
-    > presidential democracies in South America, we present an
-    > agent-based statistical mechanics exploration of the collective,
-    > coordinated action of strategic political actors in the
-    > legislative chamber and …
+    > This study evaluated the cost-effectiveness of vaccination
+    > compliance strategies by comparing an “adherence” strategy, which
+    > promoted continuous vaccination uptake, with a “volunteer”
+    > strategy through model-based simulations. METHODS: We developed a
+    > novel hybrid model …
 
 ## Code of Conduct
 
