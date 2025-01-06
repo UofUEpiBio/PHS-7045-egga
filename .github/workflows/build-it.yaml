@@ -48,16 +48,14 @@ jobs:
       BSKY_PASS: ${{ secrets.BSKY_PASS }}
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: ${{ github.event.before }}
-          fetch-depth: 0
+        id: checkout
       
       - name: Post it on BlueSky
         shell: bash
         run: |
           PASS=${{ env.BSKY_PASS }} make login
           make write_post
-          make post
+          HASH=${{ steps.checkout.outputs.commit }} make post
 
       
           
