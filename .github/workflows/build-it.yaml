@@ -40,4 +40,25 @@ jobs:
       - uses: EndBug/add-and-commit@v9
         with:
           add: README.md
+  
+  Post:
+    runs-on: ubuntu-latest
+    needs: Build
+    container: rocker/tidyverse:4.2.2
+    env:
+      BSKY_PASS: ${{ secrets.BSKY_PASS }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.before }}
+          fetch-depth: 0
+      
+      - name: Post it on BlueSky
+        shell: bash
+        run: |
+          PASS=${{ env.BSKY_PASS }} make login
+          make write_post
+          make post
+
+      
           
