@@ -44,7 +44,6 @@ jobs:
   Post:
     runs-on: ubuntu-latest
     needs: Build
-    container: rocker/tidyverse:4.2.2
     env:
       BSKY_PASS: ${{ secrets.BSKY_PASS }}
     steps:
