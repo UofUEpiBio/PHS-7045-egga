@@ -9,145 +9,151 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-01-19 00:50:21.
+update was on 2025-01-26 00:47:14.
 
 <div class="cell">
 
 </div>
 
-1.  **Modelling the impact and cost-effectiveness of upcoming Zika virus
-    vaccines on congenital Zika syndrome.**
+1.  **Early COVID-19 Pandemic Preparedness: Informing Public Health
+    Interventions and Hospital Capacity Planning Through Participatory
+    Hybrid Simulation Modeling.**
 
-    Song H, Jin S, Yang GJ, Lim NWH, Lim JT, Dickens BL.
+    Tian Y, Basran J, McDonald W, Osgood ND.
 
-    Vaccine. 2025 Jan 16;48:126728. doi: 10.1016/j.vaccine.2025.126728.
+    Int J Environ Res Public Health. 2024 Dec 30;22(1):39. doi:
+    10.3390/ijerph22010039.
+
+    > The objective was to use simulation modeling to guide the
+    > implementation of public health measures and short-term hospital
+    > capacity planning to mitigate the disease burden from March to
+    > June 2020. We developed a hybrid simulation model combining System
+    > Dynamics (SD) …
+
+2.  **Critical mobility in policy making for epidemic containment.**
+
+    Moreno López JA, Mateo D, Hernando A, Meloni S, Ramasco JJ.
+
+    Sci Rep. 2025 Jan 24;15(1):3055. doi: 10.1038/s41598-025-86759-5.
+
+    > Nonetheless, quantitative knowledge on the relationship between
+    > mobility-contagions and, consequently, on the efficiency of
+    > containment measures remains elusive. Here we introduce an
+    > agent-based model with a simple interaction between mobility and
+    > contacts. D …
+
+3.  **Updates to HIV transmission rate estimates along the HIV care
+    continuum in the United States, 2019.**
+
+    Baxter A, Gopalappa C, Islam MH, Viguerie A, Lyles C, Johnson AS,
+    Khurana N, Farnham PG.
+
+    J Acquir Immune Defic Syndr. 2025 Jan 23. doi:
+    10.1097/QAI.0000000000003623. Online ahead of print.
+
+    > METHODS: We updated Progression and Transmission of HIV 3.0, an
+    > agent-based simulation model, to estimate 2019 HIV transmission
+    > rates and distribution of transmissions by the HIV care continuum,
+    > race/ethnicity, transmission group, and age group. …
+
+4.  **Pharmacodynamics of interspecies interactions in polymicrobial
+    infections.**
+
+    Herzberg C, van Hasselt JGC.
+
+    NPJ Biofilms Microbiomes. 2025 Jan 21;11(1):20. doi:
+    10.1038/s41522-024-00621-6.
+
+    > Here, we investigated how interspecies interactions in a
+    > multi-species bacterial community affect the pharmacodynamic
+    > response to antimicrobial treatment. To this end, we developed an
+    > in silico model which combined agent-based modeling with ordinary
+    > di …
+
+5.  **Connectome-based biophysical models of pathological protein
+    spreading in neurodegenerative diseases.**
+
+    Ren P, Cui X, Liang X.
+
+    PLoS Comput Biol. 2025 Jan 21;21(1):e1012743. doi:
+    10.1371/journal.pcbi.1012743. eCollection 2025 Jan.
+
+    > To elucidate this dynamic process in vivo from a computational
+    > perspective, researchers have proposed three connectome-based
+    > biophysical models to simulate the spread of pathological
+    > proteins: the Network Diffusion Model, the Epidemic Spreading
+    > Model, and the …
+
+6.  **An agent-based model facilitating stakeholder engagement in
+    management of estuaries along the Texas Gulf Coast (USA).**
+
+    Wang HH, Banerjee P, Ragland CJ, Grant WE, Peterson TR.
+
+    MethodsX. 2024 Dec 20;14:103121. doi: 10.1016/j.mex.2024.103121.
+    eCollection 2025 Jun.
+
+    > We describe an agent-based model purposed for social learning,
+    > which was developed by stakeholders, with the technical assistance
+    > of professional modelers, to facilitate stakeholder involvement in
+    > modeling issues related to the development of an …
+
+7.  **Predictors of evacuation behavior: dataset on respondents’ route
+    choice and web interaction.**
+
+    Snopková D, Tancoš M, Herman L, Juřík V.
+
+    Sci Data. 2025 Jan 20;12(1):116. doi: 10.1038/s41597-025-04440-y.
+
+    > Empirical data on human evacuation behavior are invaluable for
+    > adjusting and training computational algorithms that simulate
+    > evacuation processes, including agent-based modeling. We provide a
+    > dataset on human decision-making during evacuations from virtual
+    > bu …
+
+8.  **Effects of improved partner notification on the transmission of
+    HIV and N. gonorrhoea among men who have sex with men: a modelling
+    study.**
+
+    Reitsema M, Wallinga J, van Benthem BHB, Op de Coul ELM, Van Sighem
+    A, Schim van der Loeff M, Xiridou M.
+
+    Sex Transm Infect. 2025 Jan 20:sextrans-2023-055772. doi:
+    10.1136/sextrans-2023-055772. Online ahead of print.
+
+    > We investigated the effects of improving PN on the transmission of
+    > HIV and Neisseria gonorrhoeae (NG) among MSM in the Netherlands.
+    > Methods We developed an agent-based model that describes the
+    > transmission of HIV and NG among MSM. In the baseline scenario, 14
+    > …
+
+9.  **Fibrotic extracellular matrix preferentially induces a partial
+    Epithelial-Mesenchymal Transition phenotype in a 3-D agent based
+    model of fibrosis.**
+
+    Kim KP, Lemmon CA.
+
+    Math Biosci. 2025 Jan 18:109375. doi: 10.1016/j.mbs.2025.109375.
     Online ahead of print.
 
-    > Vaccines currently in development offer hope for reducing ZIKV
-    > infections and CZS cases. METHODS: We developed an agent-based
-    > compartmental model, incorporating Singapore’s demographic
-    > dynamics, to simulate ZIKV epidemic trajectories and project the
-    > national …
+    > As such, we sought to develop a 3-D computational model of
+    > epithelial spheroids that captured both EMT signaling dynamics and
+    > TGF-beta1-FN tethering dynamics. We have incorporated the
+    > bi-stable EMT switch model developed by Tian et al. (2013) into a
+    > 3-D multicellula …
 
-2.  **On evolution of non-binding commitments: Comment on “LLMs and
-    generative agent-based models for complex systems research” by Y. Lu
-    et al.**
+10. **Evolutionary analysis of a coupled epidemic-voluntary vaccination
+    behavior model with immunity waning on complex networks.**
 
-    Song Z, Han TA.
+    Meng X, Fan Y, Qiao Y, Lin J, Cai Z, Si S.
 
-    Phys Life Rev. 2025 Jan 15;52:245-247. doi:
-    10.1016/j.plrev.2025.01.006. Online ahead of print.
+    Risk Anal. 2025 Jan 18. doi: 10.1111/risa.17699. Online ahead of
+    print.
 
-3.  **Bad year econometrics: Agent-based modeling of risk management
-    strategies under varying regimes of environmental change.**
-
-    Wren CD, Romanowska I, Riede F.
-
-    Sci Adv. 2025 Jan 17;11(3):eadr0314. doi: 10.1126/sciadv.adr0314.
-    Epub 2025 Jan 17.
-
-    > Resilience is the outcome of variable behavioral decisions, yet
-    > the process itself and the strategies behind it have rarely been
-    > addressed quantitatively. We present an agent-based model
-    > integrating four common risk management strategies, observed in
-    > past and …
-
-4.  **Estimated Burden of Metabolic Dysfunction-Associated Steatotic
-    Liver Disease in US Adults, 2020 to 2050.**
-
-    Le P, Tatar M, Dasarathy S, Alkhouri N, Herman WH, Taksler GB,
-    Deshpande A, Ye W, Adekunle OA, McCullough A, Rothberg MB.
-
-    JAMA Netw Open. 2025 Jan 2;8(1):e2454707. doi:
-    10.1001/jamanetworkopen.2024.54707.
-
-    > DESIGN, SETTING, AND PARTICIPANTS: This decision analytical
-    > modeling study used an agent-based state transition model that
-    > simulates the natural history of MASLD progression among adults 18
-    > years of age or older. …CONCLUSIONS AND RELEVANCE: In this d …
-
-5.  **Determinants of Dropout From a Virtual Agent-Based App for
-    Insomnia Management in a Self-Selected Sample of Users With Insomnia
-    Symptoms: Longitudinal Study.**
-
-    Sanchez Ortuño MM, Pecune F, Coelho J, Micoulaud-Franchi JA, Salles
-    N, Auriacombe M, Serre F, Levavasseur Y, De Sevin E, Sagaspe P,
-    Philip P.
-
-    JMIR Ment Health. 2025 Jan 15;12:e51022. doi: 10.2196/51022.
-
-    > When measures of perceptions of the app were included in the
-    > model, perceived benevolence and credibility of the VA decreased
-    > the odds of dropout (AOR 0.91, 95% CI 0.85-0.97). …
-
-6.  **Random walk models in the life sciences: including births, deaths
-    and local interactions.**
-
-    Plank MJ, Simpson MJ, Baker RE.
-
-    J R Soc Interface. 2025 Jan;22(222):20240422. doi:
-    10.1098/rsif.2024.0422. Epub 2025 Jan 15.
-
-    > In this article, we review the progress that has been made with
-    > models of interacting individuals. We aim to provide an overview
-    > that is accessible to researchers in application areas, as well as
-    > to specialist modellers. We focus particularly on derivation of
-    > asympt …
-
-7.  **Optimal control of agent-based models via surrogate modeling.**
-
-    Fonseca LL, Böttcher L, Mehrad B, Laubenbacher RC.
-
-    PLoS Comput Biol. 2025 Jan 14;21(1):e1012138. doi:
-    10.1371/journal.pcbi.1012138. Online ahead of print.
-
-    > This paper describes and validates an algorithm to solve optimal
-    > control problems for agent-based models (ABMs). For a given ABM
-    > and a given optimal control problem, the algorithm derives a
-    > surrogate model, typically lower-dimensional, in the form of a …
-
-8.  **The cognitive and evolutionary science of behavioural modernity
-    goes beyond material chronology.**
-
-    Sergiou ASE, Gabora L.
-
-    Behav Brain Sci. 2025 Jan 14;48:e16. doi: 10.1017/S0140525X24000943.
-
-    > Theories synthesize data from archaeology, anthropology,
-    > psychology, neuroscience, and genetics, and predictions arising
-    > from these theories are tested with mathematical and agent-based
-    > models….
-
-9.  **Vaccination Strategies for Ebola in the Democratic Republic of
-    Congo: The WHO-Ebola Modeling Collaboration.**
-
-    Ajelli M, Muyembe JJ, Touré A, Diallo A, Litvinova M, Merler S,
-    Mulangu S, Bagayoko A, Bah A, Bah I, Barry A, Barry F, Chérif M,
-    Condé D, Diallo AA, Diallo F, Diakité M, Doré K, Mapan KA, Koundouno
-    T, Onivogui PK, Lamah F, Maneno H, Nomou A, Sekouba K, Sani I,
-    Soumah A, Sy MM, Gsell PS, Halloran ME, Henao-Restrepo AM, Fall IS,
-    Ryan MJ, Salama P, Vespignani A, Longini IM Jr.
-
-    Int J Infect Dis. 2025 Jan 11:107779. doi:
-    10.1016/j.ijid.2025.107779. Online ahead of print.
-
-    > To simulate Ebola virus transmission, we used a spatially explicit
-    > agent-based model with households, health care facilities, and
-    > Ebola treatment units. Model parameters were calibrated using data
-    > collected under the ring-vaccination expanded-access pr …
-
-10. **The key role of cheaters in the persistence of cooperation.**
-
-    Babajanyan SG, Wolf YI, Koonin EV, Rochman ND.
-
-    bioRxiv \[Preprint\]. 2024 Nov 3:2024.10.30.621164. doi:
-    10.1101/2024.10.30.621164.
-
-    > Here we focus on coevolution of cooperators and cheaters in a
-    > multi-level selection framework, by modeling competition among
-    > groups composed of cooperators and cheaters. Cheaters enjoy a
-    > reproductive advantage over cooperators at the individual level,
-    > independent of the pr …
+    > The evolutionary model of voluntary vaccination strategy is
+    > integrated into the SIRSV model to characterize the impact of
+    > vaccination behavior on the infectious disease transmission. …The
+    > results indicate that the thresholds obtained from the agent-based
+    > …
 
 ## Code of Conduct
 
