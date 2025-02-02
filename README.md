@@ -9,7 +9,7 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-02-02 06:09:27.
+update was on 2025-02-02 06:22:09.
 
 <div class="cell">
 
