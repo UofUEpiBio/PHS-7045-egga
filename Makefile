@@ -20,8 +20,7 @@ login:
 
 write_post:
 	echo "Hello gente! Here is a list of the latest papers" > post.txt && \
-	echo "About ABMs in PubMed 🤖: $(URL)." >> post.txt && \
-	echo "(posted via GitHubActions)!" >> post.txt
+	echo "About ABMs in PubMed 🤖: $(URL)! #bot" >> post.txt 
 
 post: write_post
 	curl -X POST $(PDSHOST)/xrpc/com.atproto.repo.createRecord \
