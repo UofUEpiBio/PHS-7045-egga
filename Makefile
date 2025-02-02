@@ -3,7 +3,7 @@ PDSHOST=https://bsky.social
 endif
 
 ifndef BLUESKY_HANDLE
-BLUESKY_HANDLE=gvegayon.bsky.social
+BLUESKY_HANDLE=ggvy.cl
 endif
 
 ifndef HASH
