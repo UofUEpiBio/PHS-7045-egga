@@ -1,3 +1,5 @@
+
+
 ![GitHub last
 commit](https://img.shields.io/github/last-commit/UofUEpiBio/PHS-7045-egga.png)
 
@@ -9,14 +11,10 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-02-02 05:39:11.
+update was on 2025-02-01 23:05:09.459473.
 
-<div class="cell">
-
-</div>
-
-1.  **A critical review of heat pump adoption in empirical and modeling
-    literature.**
+1.  [**A critical review of heat pump adoption in empirical and modeling
+    literature.**](https://pubmed.ncbi.nlm.nih.gov/39886473/)
 
     Rao ND, Siam MRK, Bond TC.
 
@@ -29,8 +27,8 @@ update was on 2025-02-02 05:39:11.
     > decision-making behavior among energy models, and to suggest model
     > impr …
 
-2.  **Multicellular PID control for robust regulation of biological
-    processes.**
+2.  [**Multicellular PID control for robust regulation of biological
+    processes.**](https://pubmed.ncbi.nlm.nih.gov/39876792/)
 
     Martinelli V, Fiore D, Salzano D, di Bernardo M.
 
@@ -43,17 +41,20 @@ update was on 2025-02-02 05:39:11.
     > multicellular PID control strategy. …Future work will focus on
     > experimen …
 
-3.  **Correction: Agent based modelling of blood borne viruses: a
-    scoping review.**
+3.  [**Correction: Agent based modelling of blood borne viruses: a
+    scoping review.**](https://pubmed.ncbi.nlm.nih.gov/39871172/)
 
     Ale S, Hunter E, Kelleher JD.
 
     BMC Infect Dis. 2025 Jan 27;25(1):127. doi:
     10.1186/s12879-024-10430-z.
 
-4.  **Contagious acquisition of antimicrobial resistance is critical for
-    explaining emergence in western Canadian feedlots-insights from an
-    agent-based modelling tool.**
+    > 
+
+4.  [**Contagious acquisition of antimicrobial resistance is critical
+    for explaining emergence in western Canadian feedlots-insights from
+    an agent-based modelling
+    tool.**](https://pubmed.ncbi.nlm.nih.gov/39867600/)
 
     Ramsay D, McDonald W, Thompson M, Erickson N, Gow S, Osgood ND,
     Waldner C.
@@ -67,9 +68,10 @@ update was on 2025-02-02 05:39:11.
     > high-risk cattle on a typical western Canadian feedlot. …This
     > study compared the …
 
-5.  **Early COVID-19 Pandemic Preparedness: Informing Public Health
+5.  [**Early COVID-19 Pandemic Preparedness: Informing Public Health
     Interventions and Hospital Capacity Planning Through Participatory
-    Hybrid Simulation Modeling.**
+    Hybrid Simulation
+    Modeling.**](https://pubmed.ncbi.nlm.nih.gov/39857491/)
 
     Tian Y, Basran J, McDonald W, Osgood ND.
 
@@ -82,7 +84,8 @@ update was on 2025-02-02 05:39:11.
     > June 2020. We developed a hybrid simulation model combining System
     > Dynamics (SD) …
 
-6.  **Critical mobility in policy making for epidemic containment.**
+6.  [**Critical mobility in policy making for epidemic
+    containment.**](https://pubmed.ncbi.nlm.nih.gov/39856161/)
 
     Moreno López JA, Mateo D, Hernando A, Meloni S, Ramasco JJ.
 
@@ -94,8 +97,9 @@ update was on 2025-02-02 05:39:11.
     > agent-based model with a simple interaction between mobility and
     > contacts. D …
 
-7.  **Updates to HIV transmission rate estimates along the HIV care
-    continuum in the United States, 2019.**
+7.  [**Updates to HIV transmission rate estimates along the HIV care
+    continuum in the United States,
+    2019.**](https://pubmed.ncbi.nlm.nih.gov/39847445/)
 
     Baxter A, Gopalappa C, Islam MH, Viguerie A, Lyles C, Johnson AS,
     Khurana N, Farnham PG.
@@ -108,8 +112,8 @@ update was on 2025-02-02 05:39:11.
     > rates and distribution of transmissions by the HIV care continuum,
     > race/ethnicity, transmission group, and age group. …
 
-8.  **Pharmacodynamics of interspecies interactions in polymicrobial
-    infections.**
+8.  [**Pharmacodynamics of interspecies interactions in polymicrobial
+    infections.**](https://pubmed.ncbi.nlm.nih.gov/39837846/)
 
     Herzberg C, van Hasselt JGC.
 
@@ -122,8 +126,9 @@ update was on 2025-02-02 05:39:11.
     > in silico model which combined agent-based modeling with ordinary
     > di …
 
-9.  **Connectome-based biophysical models of pathological protein
-    spreading in neurodegenerative diseases.**
+9.  [**Connectome-based biophysical models of pathological protein
+    spreading in neurodegenerative
+    diseases.**](https://pubmed.ncbi.nlm.nih.gov/39836660/)
 
     Ren P, Cui X, Liang X.
 
@@ -136,8 +141,9 @@ update was on 2025-02-02 05:39:11.
     > proteins: the Network Diffusion Model, the Epidemic Spreading
     > Model, and the …
 
-10. **An agent-based model facilitating stakeholder engagement in
-    management of estuaries along the Texas Gulf Coast (USA).**
+10. [**An agent-based model facilitating stakeholder engagement in
+    management of estuaries along the Texas Gulf Coast
+    (USA).**](https://pubmed.ncbi.nlm.nih.gov/39834678/)
 
     Wang HH, Banerjee P, Ragland CJ, Grant WE, Peterson TR.
 

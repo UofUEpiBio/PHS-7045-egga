@@ -17,6 +17,10 @@ doc <- read_html("https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&sort=d
 
 # Titles
 titles <- xml_find_all(doc, xpath = '//*[@class="docsum-title"]')
+titles_href <- sprintf(
+  "https://pubmed.ncbi.nlm.nih.gov/%s",
+  gsub("^/", "", xml_attr(titles, "href"))
+)
 titles <- xml_text(titles)
 titles <- trimws(titles, which = "both")
 
@@ -41,7 +45,16 @@ abstract <- trimws(abstract, which = "both") #Removing trailing and leading spac
 #| echo: false
 for (i in 1:length(titles)) {
   
-  cat(sprintf("%i. **%s**\n\n    %s\n\n    %s\n\n    >%s\n\n", i, titles[i], authors[i], citation[i], abstract[i]))
+  cat(
+    sprintf(
+      "%i. [**%s**](%s)\n\n    %s\n\n    %s\n\n    >%s\n\n",
+      i,
+      titles[i],
+      titles_href[i],
+      authors[i],
+      citation[i],
+      abstract[i]
+      ))
   
 }
 ```
