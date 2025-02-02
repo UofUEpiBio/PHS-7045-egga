@@ -1,5 +1,3 @@
-
-
 ![GitHub last
 commit](https://img.shields.io/github/last-commit/UofUEpiBio/PHS-7045-egga.png)
 
@@ -11,7 +9,11 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-02-01 23:05:09.459473.
+update was on 2025-02-02 06:09:27.
+
+<div class="cell">
+
+</div>
 
 1.  [**A critical review of heat pump adoption in empirical and modeling
     literature.**](https://pubmed.ncbi.nlm.nih.gov/39886473/)
@@ -48,8 +50,6 @@ update was on 2025-02-01 23:05:09.459473.
 
     BMC Infect Dis. 2025 Jan 27;25(1):127. doi:
     10.1186/s12879-024-10430-z.
-
-    > 
 
 4.  [**Contagious acquisition of antimicrobial resistance is critical
     for explaining emergence in western Canadian feedlots-insights from
