@@ -9,13 +9,65 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-01-26 00:47:14.
+update was on 2025-02-02 00:49:22.
 
 <div class="cell">
 
 </div>
 
-1.  **Early COVID-19 Pandemic Preparedness: Informing Public Health
+1.  **A critical review of heat pump adoption in empirical and modeling
+    literature.**
+
+    Rao ND, Siam MRK, Bond TC.
+
+    iScience. 2024 Dec 19;28(1):111666. doi: 10.1016/j.isci.2024.111666.
+    eCollection 2025 Jan 17.
+
+    > We review the energy modeling and social science literature on
+    > heating equipment adoption to synthesize our understanding of
+    > adoption decisions, to identify best practices on representing
+    > decision-making behavior among energy models, and to suggest model
+    > impr …
+
+2.  **Multicellular PID control for robust regulation of biological
+    processes.**
+
+    Martinelli V, Fiore D, Salzano D, di Bernardo M.
+
+    J R Soc Interface. 2025 Jan;22(222):20240583. doi:
+    10.1098/rsif.2024.0583. Epub 2025 Jan 29.
+
+    > Our theoretical findings, validated through in silico experiments
+    > using the BSim agent-based simulation platform for bacterial
+    > populations, demonstrate the robustness and effectiveness of our
+    > multicellular PID control strategy. …Future work will focus on
+    > experimen …
+
+3.  **Correction: Agent based modelling of blood borne viruses: a
+    scoping review.**
+
+    Ale S, Hunter E, Kelleher JD.
+
+    BMC Infect Dis. 2025 Jan 27;25(1):127. doi:
+    10.1186/s12879-024-10430-z.
+
+4.  **Contagious acquisition of antimicrobial resistance is critical for
+    explaining emergence in western Canadian feedlots-insights from an
+    agent-based modelling tool.**
+
+    Ramsay D, McDonald W, Thompson M, Erickson N, Gow S, Osgood ND,
+    Waldner C.
+
+    Front Vet Sci. 2025 Jan 10;11:1466986. doi:
+    10.3389/fvets.2024.1466986. eCollection 2024.
+
+    > MATERIALS AND METHODS: A stochastic, continuous-time agent-based
+    > model (ABM) was developed to explore the dynamics of
+    > population-level AMR in Mannheimia haemolytica in pens of
+    > high-risk cattle on a typical western Canadian feedlot. …This
+    > study compared the …
+
+5.  **Early COVID-19 Pandemic Preparedness: Informing Public Health
     Interventions and Hospital Capacity Planning Through Participatory
     Hybrid Simulation Modeling.**
 
@@ -30,7 +82,7 @@ update was on 2025-01-26 00:47:14.
     > June 2020. We developed a hybrid simulation model combining System
     > Dynamics (SD) …
 
-2.  **Critical mobility in policy making for epidemic containment.**
+6.  **Critical mobility in policy making for epidemic containment.**
 
     Moreno López JA, Mateo D, Hernando A, Meloni S, Ramasco JJ.
 
@@ -42,7 +94,7 @@ update was on 2025-01-26 00:47:14.
     > agent-based model with a simple interaction between mobility and
     > contacts. D …
 
-3.  **Updates to HIV transmission rate estimates along the HIV care
+7.  **Updates to HIV transmission rate estimates along the HIV care
     continuum in the United States, 2019.**
 
     Baxter A, Gopalappa C, Islam MH, Viguerie A, Lyles C, Johnson AS,
@@ -56,7 +108,7 @@ update was on 2025-01-26 00:47:14.
     > rates and distribution of transmissions by the HIV care continuum,
     > race/ethnicity, transmission group, and age group. …
 
-4.  **Pharmacodynamics of interspecies interactions in polymicrobial
+8.  **Pharmacodynamics of interspecies interactions in polymicrobial
     infections.**
 
     Herzberg C, van Hasselt JGC.
@@ -70,7 +122,7 @@ update was on 2025-01-26 00:47:14.
     > in silico model which combined agent-based modeling with ordinary
     > di …
 
-5.  **Connectome-based biophysical models of pathological protein
+9.  **Connectome-based biophysical models of pathological protein
     spreading in neurodegenerative diseases.**
 
     Ren P, Cui X, Liang X.
@@ -84,7 +136,7 @@ update was on 2025-01-26 00:47:14.
     > proteins: the Network Diffusion Model, the Epidemic Spreading
     > Model, and the …
 
-6.  **An agent-based model facilitating stakeholder engagement in
+10. **An agent-based model facilitating stakeholder engagement in
     management of estuaries along the Texas Gulf Coast (USA).**
 
     Wang HH, Banerjee P, Ragland CJ, Grant WE, Peterson TR.
@@ -96,64 +148,6 @@ update was on 2025-01-26 00:47:14.
     > which was developed by stakeholders, with the technical assistance
     > of professional modelers, to facilitate stakeholder involvement in
     > modeling issues related to the development of an …
-
-7.  **Predictors of evacuation behavior: dataset on respondents’ route
-    choice and web interaction.**
-
-    Snopková D, Tancoš M, Herman L, Juřík V.
-
-    Sci Data. 2025 Jan 20;12(1):116. doi: 10.1038/s41597-025-04440-y.
-
-    > Empirical data on human evacuation behavior are invaluable for
-    > adjusting and training computational algorithms that simulate
-    > evacuation processes, including agent-based modeling. We provide a
-    > dataset on human decision-making during evacuations from virtual
-    > bu …
-
-8.  **Effects of improved partner notification on the transmission of
-    HIV and N. gonorrhoea among men who have sex with men: a modelling
-    study.**
-
-    Reitsema M, Wallinga J, van Benthem BHB, Op de Coul ELM, Van Sighem
-    A, Schim van der Loeff M, Xiridou M.
-
-    Sex Transm Infect. 2025 Jan 20:sextrans-2023-055772. doi:
-    10.1136/sextrans-2023-055772. Online ahead of print.
-
-    > We investigated the effects of improving PN on the transmission of
-    > HIV and Neisseria gonorrhoeae (NG) among MSM in the Netherlands.
-    > Methods We developed an agent-based model that describes the
-    > transmission of HIV and NG among MSM. In the baseline scenario, 14
-    > …
-
-9.  **Fibrotic extracellular matrix preferentially induces a partial
-    Epithelial-Mesenchymal Transition phenotype in a 3-D agent based
-    model of fibrosis.**
-
-    Kim KP, Lemmon CA.
-
-    Math Biosci. 2025 Jan 18:109375. doi: 10.1016/j.mbs.2025.109375.
-    Online ahead of print.
-
-    > As such, we sought to develop a 3-D computational model of
-    > epithelial spheroids that captured both EMT signaling dynamics and
-    > TGF-beta1-FN tethering dynamics. We have incorporated the
-    > bi-stable EMT switch model developed by Tian et al. (2013) into a
-    > 3-D multicellula …
-
-10. **Evolutionary analysis of a coupled epidemic-voluntary vaccination
-    behavior model with immunity waning on complex networks.**
-
-    Meng X, Fan Y, Qiao Y, Lin J, Cai Z, Si S.
-
-    Risk Anal. 2025 Jan 18. doi: 10.1111/risa.17699. Online ahead of
-    print.
-
-    > The evolutionary model of voluntary vaccination strategy is
-    > integrated into the SIRSV model to characterize the impact of
-    > vaccination behavior on the infectious disease transmission. …The
-    > results indicate that the thresholds obtained from the agent-based
-    > …
 
 ## Code of Conduct
 
