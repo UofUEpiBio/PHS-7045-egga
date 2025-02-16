@@ -9,165 +9,163 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-02-09 00:50:29.
+update was on 2025-02-16 00:52:04.
 
 <div class="cell">
 
 </div>
 
-1.  [**Timing matters in macrophage/CD4+ T cell interactions: an
-    agent-based model comparing Mycobacterium tuberculosis host-pathogen
-    interactions between latently infected and naive
-    individuals.**](https://pubmed.ncbi.nlm.nih.gov/39918314/)
+1.  [**Increasing child vaccination coverage can reduce influenza cases
+    across age groups: An agent-based modeling
+    study.**](https://pubmed.ncbi.nlm.nih.gov/39952478/)
 
-    Hoerter A, Petrucciani A, Bonifacio J, Arnett E, Schlesinger LS,
-    Pienaar E.
+    Williams KV, Krauland MG, Nowalk MP, Harrison LH, Williams JV,
+    Roberts MS, Zimmerman RK.
 
-    mSystems. 2025 Feb 7:e0129024. doi: 10.1128/msystems.01290-24.
+    J Infect. 2025 Feb 12:106443. doi: 10.1016/j.jinf.2025.106443.
     Online ahead of print.
 
-    > However, the mechanisms by which LTBI might offer protection
-    > against reinfection remain unclear, and quantifying the relative
-    > contributions of multiple control mechanisms is challenging using
-    > experimental methods alone. To complement in vitro models, we have
-    > developed an i …
+    > Direct and indirect benefits (decreased influenza cases and
+    > hospitalizations) of increased uptake among school-age children
+    > may be realized across the age spectrum. We used an agent-based
+    > model to determine the extent to which increased vaccination of
+    > childre …
 
-2.  [**Urban topology and dynamics can assess the importance of green
-    areas.**](https://pubmed.ncbi.nlm.nih.gov/39916249/)
+2.  [**Developing a Conceptual Model for Collective Patterns and
+    Leisure-Time Physical Activity Inequalities Among
+    Adults.**](https://pubmed.ncbi.nlm.nih.gov/39952255/)
 
-    Moi J, Chiesi L, Chirici G, Francini S, Borghi C, Costa P, Galmarini
-    B, Caldarelli G.
+    Jones SM, Hunter RF, Garcia L.
 
-    Phys Rev E. 2024 Dec;110(6-1):064128. doi:
-    10.1103/PhysRevE.110.064128.
-
-    > Here we present a method to estimate the impact of these areas on
-    > city life based on the network topology of the city itself and on
-    > a simple model of the dynamics of this structure. Movements
-    > between various areas of the city are simulated using an
-    > agent-based …
-
-3.  [**Simulations probe the role of space in the interplay between
-    drug-sensitive and drug-resistant cancer
-    cells.**](https://pubmed.ncbi.nlm.nih.gov/39914489/)
-
-    Pugh K, Jones RD, Powathil G, Hamis S.
-
-    J Theor Biol. 2025 Feb 4:112048. doi: 10.1016/j.jtbi.2025.112048.
+    J Phys Act Health. 2025 Feb 14:1-8. doi: 10.1123/jpah.2024-0721.
     Online ahead of print.
 
-    > Our baseline models are: (1) a temporally resolved ordinary
-    > differential equation (ODE) model, and (2) a spatio-temporally
-    > resolved agent-based model (ABM). The models simulate cells in
-    > well-mixed and spatially structured cell systems, re …
+    > RESULTS: The conceptual model has intention as its central
+    > construct to practice LTPA, and intention is directly influenced
+    > by dynamic interrelated processes between individual’s economic,
+    > psychosocial, and perceived physical environment factors. …Going
+    > forward, this wor …
 
-4.  [**Liquid-like condensates that bind actin promote assembly and
-    bundling of actin
-    filaments.**](https://pubmed.ncbi.nlm.nih.gov/39914390/)
+3.  [**Agent-based modelling: A stochastic approach to assessing
+    personal exposure to environmental pollutants - Insights from the
+    URBANOME project.**](https://pubmed.ncbi.nlm.nih.gov/39952215/)
 
-    Walker C, Chandrasekaran A, Mansour D, Graham K, Torres A, Wang L,
-    Lafer EM, Rangamani P, Stachowiak JC.
+    Karakoltzidis A, Agalliadou A, Kermenidou M, Nikiforou F,
+    Chatzimpaloglou A, Feleki E, Karakitsios S, Gotti A, Sarigiannis DΑ.
 
-    Dev Cell. 2025 Feb 4:S1534-5807(25)00032-2. doi:
-    10.1016/j.devcel.2025.01.012. Online ahead of print.
+    Sci Total Environ. 2025 Feb 13;967:178804. doi:
+    10.1016/j.scitotenv.2025.178804. Online ahead of print.
 
-    > To probe the minimum requirements for condensate-mediated actin
-    > bundling, we developed an agent-based computational model. Guided
-    > by its predictions, we hypothesized that any condensate-forming
-    > protein that binds filamentous actin could bundle filaments throu
+    > By leveraging socioeconomic and socio-demographic statistical data
+    > for the residents of Thessaloniki, we developed an agent-based
+    > model to estimate exposure levels based on the movement patterns,
+    > locations, and data collected from the URBANOME campaign. …Th …
+
+4.  [**Impact of disease severity, age, sex, comorbidity, and
+    vaccination on secondary attack rates of SARS-CoV-2: a global
+    systematic review and
+    meta-analysis.**](https://pubmed.ncbi.nlm.nih.gov/39948450/)
+
+    Sumsuzzman DM, Ye Y, Wang Z, Pandey A, Langley JM, Galvani AP,
+    Moghadas SM.
+
+    BMC Infect Dis. 2025 Feb 13;25(1):215. doi:
+    10.1186/s12879-025-10610-5.
+
+    > We pooled SAR estimates using a random-effects model with the
+    > Freeman-Tukey double arcsine transformation and derived
+    > Clopper-Pearson 95% confidence intervals (CIs). …
+
+5.  [**Growth in a two-dimensional model of coarctation of the aorta: A
+    CFD-informed agent based
+    model.**](https://pubmed.ncbi.nlm.nih.gov/39946822/)
+
+    Hampwaye N, Wang J, Revell A, Manchester E, Aldersley T, Zuhlke L,
+    Keavney B, Ngoepe M.
+
+    J Biomech. 2025 Jan 4;182:112514. doi:
+    10.1016/j.jbiomech.2025.112514. Online ahead of print.
+
+    > This progression can be attributed to insufficient growth at the
+    > coarctation site relative to the overall growth of the child.
+    > Therefore, an agent-based model (ABM) to predict the aortic growth
+    > of a CoA patient is introduced. The multi-scale approach combines
     > …
 
-5.  [**Modeling the spatiotemporal transmission of COVID-19 epidemic by
-    coupling the heterogeneous impact of detection rates: A case study
-    in Hong Kong.**](https://pubmed.ncbi.nlm.nih.gov/39914091/)
+6.  [**Estimating nosocomial transmission of micro-organisms in hospital
+    settings using patient records and culture
+    data.**](https://pubmed.ncbi.nlm.nih.gov/39946776/)
 
-    He J, Liu X, Zhu X, Yuan HY, Chen W.
+    Cascante Vega J, Yaari R, Robin T, Wen L, Zucker J, Uhlemann AC, Pei
+    S, Shaman J.
 
-    Health Place. 2025 Feb 5;92:103422. doi:
-    10.1016/j.healthplace.2025.103422. Online ahead of print.
+    Epidemics. 2025 Jan 25;50:100817. doi: 10.1016/j.epidem.2025.100817.
+    Online ahead of print.
 
-    > Coupling the heterogeneous impact of detection rates to extend
-    > epidemic modeling is necessary for forecasting the health burden
-    > and mitigating the inequity of testing resources. In this study,
-    > we developed an agent-based model integrated with the Susce …
+    > Here we leverage electronic health records from a major New York
+    > City hospital system collected during 2020-2021 to support
+    > simulation inference of nosocomial transmission and pathogenic
+    > bacteria detection using an agent-based model (ABM). The ABM uses
+    > these …
 
-6.  [**Digital twin-based applications in crop
-    monitoring.**](https://pubmed.ncbi.nlm.nih.gov/39911426/)
+7.  [**Leveraging Large Language Models and Agent-Based Systems for
+    Scientific Data Analysis: Validation
+    Study.**](https://pubmed.ncbi.nlm.nih.gov/39946556/)
 
-    Melesse TY.
+    Peasley D, Kuplicki R, Sen S, Paulus M.
 
-    Heliyon. 2025 Jan 21;11(2):e42137. doi:
-    10.1016/j.heliyon.2025.e42137. eCollection 2025 Jan 30.
+    JMIR Ment Health. 2025 Feb 13;12:e68135. doi: 10.2196/68135.
 
-    > This article explores the use of digital twins in crop management,
-    > focusing on modeling methodologies, roles, implementation
-    > architecture, challenges, and prospects. The review identifies
-    > various modeling methods for digital twin development in crop
-    > monitoring, incl …
+    > The Laureate Institute for Brain Research-Tulsa University
+    > (LIBR-TU) Research Agent (LITURAt) leverages a sophisticated
+    > agent-based architecture to mitigate these limitations, using
+    > external data retrieval and analysis tools to ensure reliable,
+    > context-aware outputs …
 
-7.  [**Premises for digital twins reporting on Atlantic salmon
-    wellbeing.**](https://pubmed.ncbi.nlm.nih.gov/39909180/)
+8.  [**Hybrid metapopulation agent-based epidemiological models for
+    efficient insight on the individual scale: A contribution to green
+    computing.**](https://pubmed.ncbi.nlm.nih.gov/39944375/)
 
-    Giske J, Dumitru ML, Enberg K, Folkedal O, Handeland SO, Higginson
-    AD, Opdal AF, Rønnestad I, Salvanes AGV, Vollset KW, Zennaro FM,
-    Mangel M, Budaev S.
+    Bicker J, Schmieding R, Meyer-Hermann M, Kühn MJ.
 
-    Behav Processes. 2025 Feb 3:105163. doi:
-    10.1016/j.beproc.2025.105163. Online ahead of print.
+    Infect Dis Model. 2025 Jan 10;10(2):571-590. doi:
+    10.1016/j.idm.2024.12.015. eCollection 2025 Jun.
 
-    > We propose a new approach for monitoring and improving the welfare
-    > of salmon (or any other captive or wild vertebrate) based on
-    > modelling the salmon’s wellbeing system by digital twins, which
-    > are simulation models that implement major bodily mechanisms of
-    > the organi …
+    > Two popular modeling approaches for mitigating infectious disease
+    > dynamics are agent-based and population-based models. Agent-based
+    > models (ABMs) offer a microscopic view and are thus able to
+    > capture heterogeneous human contact beh …
 
-8.  [**Climate change rivals fertilizer use in driving soil nitrous
-    oxide emissions in the northern high latitudes: Insights from
-    terrestrial biosphere
-    models.**](https://pubmed.ncbi.nlm.nih.gov/39908694/)
+9.  [**Mitigating HIV risk associated with widow cleansing and wife
+    inheritance using combined biomedical and structural interventions
+    in western Kenya: a mathematical modeling
+    study.**](https://pubmed.ncbi.nlm.nih.gov/39940027/)
 
-    Pan N, Tian H, Shi H, Pan S, Canadell JG, Chang J, Ciais P, Davidson
-    EA, Hugelius G, Ito A, Jackson RB, Joos F, Lienert S, Millet DB,
-    Olin S, Patra PK, Thompson RL, Vuichard N, Wells KC, Wilson C, You
-    Y, Zaehle S.
+    Gathungu DK, Ojiambo VN, Kimathi ME, Kaftan D, Kim HY, Citron DT,
+    Platais I, Briedenbecker D, Kirkman C 4th, Mwalili SM, Bershteyn A.
 
-    Environ Int. 2025 Jan 21;196:109297. doi:
-    10.1016/j.envint.2025.109297. Online ahead of print.
+    BMC Med. 2025 Feb 12;23(1):88. doi: 10.1186/s12916-025-03906-5.
 
-    > Nitrous oxide (N(2)O) is the most important stratospheric
-    > ozone-depleting agent based on current emissions and the third
-    > largest contributor to increased net radiative forcing. …In this
-    > study, we used an ensemble of six process-based terrestrial
-    > biosphere model …
+    > This study explores how HIV biomedical and structural
+    > interventions could reduce HIV-related harms associated with these
+    > practices. METHODS: We adapted EMOD-HIV, an HIV agent-based
+    > network transmission model previously calibrated and validated for
+    > the Nyanza …
 
-9.  [**Cloud and IoT based smart agent-driven simulation of human gait
-    for detecting muscles
-    disorder.**](https://pubmed.ncbi.nlm.nih.gov/39906796/)
+10. [**Estimated contributions and future mitigation strategies for HIV
+    risk around funeral practices in western Kenya: a mathematical
+    modeling study.**](https://pubmed.ncbi.nlm.nih.gov/39939974/)
 
-    Saadati S, Sepahvand A, Razzazi M.
+    Mwalili SM, Gathungu DK, Chemutai J, Musyoka E, Bridenbecker D,
+    Kirkman C 4th, Kaftan D, Kim HY, Platais I, Bershteyn A.
 
-    Heliyon. 2025 Jan 20;11(2):e42119. doi:
-    10.1016/j.heliyon.2025.e42119. eCollection 2025 Jan 30.
+    BMC Med. 2025 Feb 12;23(1):85. doi: 10.1186/s12916-025-03907-4.
 
-    > The motion data is then simulated to analyze the
-    > neuromusculoskeletal system. An agent-driven modeling method
-    > ensures the naturalness, accuracy, and interpretability of the
-    > simulation, incorporating neuromuscular details such as Henneman’s
-    > size principle, action potentials …
-
-10. [**Identifying Research Hotspots and Trends in Psoriasis Literature:
-    Autotuned Topic Modeling with
-    Agent.**](https://pubmed.ncbi.nlm.nih.gov/39894203/)
-
-    Wu S, Wang D, Gu X, Xiao R, Gao H, Yang B, Kang Y.
-
-    J Invest Dermatol. 2025 Jan 31:S0022-202X(25)00086-7. doi:
-    10.1016/j.jid.2024.11.029. Online ahead of print.
-
-    > Further trend analysis using multiple modeling techniques,
-    > including an SVR-Linear model, revealed non-linear patterns in
-    > research growth across categories (R(2) values 0.75-0.97). …To our
-    > knowledge, this application of an agent-based interactive top …
+    > However, the contribution of disco matanga to HIV transmission is
+    > not well-understood. We used agent-based network modeling to
+    > estimate how disco matanga impacted HIV transmission, and to
+    > explore the impact of relevant biomedical, biobehavioral, and
+    > structura …
 
 ## Code of Conduct
 
