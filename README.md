@@ -9,20 +9,138 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-02-16 00:52:04.
+update was on 2025-02-23 00:52:08.
 
 <div class="cell">
 
 </div>
 
-1.  [**Increasing child vaccination coverage can reduce influenza cases
+1.  [**Wastewater-based epidemiology framework: Collaborative modeling
+    for sustainable disease
+    surveillance.**](https://pubmed.ncbi.nlm.nih.gov/39978063/)
+
+    DelaPaz-Ruíz N, Augustijn EW, Farnaghi M, Abdulkareem SA,
+    Zurita-Milla R.
+
+    Sci Total Environ. 2025 Feb 19;968:178889. doi:
+    10.1016/j.scitotenv.2025.178889. Online ahead of print.
+
+    > For outbreak modeling to be effective, researchers must coordinate
+    > with public health authorities and laboratory services, using
+    > frameworks to ensure that their modeling and output data are
+    > relevant for informed decision-making. However, theoretical and
+    > institutiona …
+
+2.  [**A compartmental model to describe acute medical in-patient flow
+    through a hospital.**](https://pubmed.ncbi.nlm.nih.gov/39975828/)
+
+    Al-Karkhi T, Byatt K.
+
+    Heliyon. 2025 Jan 24;11(3):e42260. doi:
+    10.1016/j.heliyon.2025.e42260. eCollection 2025 Feb 15.
+
+    > We do not need to, and indeed cannot, know all of these factors
+    > (as needed for discrete event simulation, or agent-based
+    > modelling), but will merely examine the net changes between
+    > compartments (i.e. a ‘system dynamics’ approach). …
+
+3.  [**Modeling of hepatitis B virus infection spread in primary human
+    hepatocytes.**](https://pubmed.ncbi.nlm.nih.gov/39975229/)
+
+    Shi Z, Tsuge M, Collier N, Takeuchi Y, Uchida T, Rutter C, Teraoka
+    Y, Uprichard SL, Ishida Y, Tateno C, Ozik J, Dahari H, Chayama K.
+
+    bioRxiv \[Preprint\]. 2025 Feb 7:2025.02.05.636596. doi:
+    10.1101/2025.02.05.636596.
+
+    > We characterized HBV DNA kinetics in primary human hepatocytes
+    > (PHH) over 32 days post-inoculation (pi) and used agent-based
+    > modeling (ABM) to gain insights into HBV lifecycle and spread.
+    > Parallel PHH cultures were mock-treated or HBV entry inhibitor
+    > Myr-preS …
+
+4.  [**Development of a surrogate model for predicting atherosclerotic
+    plaque progression based on agent based modeling
+    data.**](https://pubmed.ncbi.nlm.nih.gov/39973869/)
+
+    Spahić L, Filipović N.
+
+    Technol Health Care. 2025 Jan 10:9287329241309771. doi:
+    10.1177/09287329241309771. Online ahead of print.
+
+    > Coronary artery disease (CAD), more specifically coronary
+    > atherosclerosis (CATS), is one of the leading causes of death
+    > worldwide. Computational modeling frameworks have been used for
+    > simulation of atherosclerotic plaque progression and with the
+    > advancement of agent …
+
+5.  [**Modeling adhesion in stochastic and mean-field models of cell
+    migration.**](https://pubmed.ncbi.nlm.nih.gov/39972829/)
+
+    Noureen SR, Mort RL, Yates CA.
+
+    Phys Rev E. 2025 Jan;111(1-1):014419. doi:
+    10.1103/PhysRevE.111.014419.
+
+    > While these models can represent certain biological situations
+    > well, cellular Potts models can be computationally expensive, and
+    > continuum models capture only the macroscopic behavior of a
+    > population of cells, ignoring stochasticity and the discrete
+    > nature of …
+
+6.  [**Game susceptibility, correlation, and payoff capacity as a
+    measure of cooperative behavior in the thermodynamic limit of some
+    social dilemmas.**](https://pubmed.ncbi.nlm.nih.gov/39972771/)
+
+    Benjamin C, Tah R.
+
+    Phys Rev E. 2025 Jan;111(1-1):014307. doi:
+    10.1103/PhysRevE.111.014307.
+
+    > In this paper, we compare three analytical methods, i.e., Nash
+    > equilibrium mapping (NEM), Darwinian selection (DS), and aggregate
+    > selection (AS), with a numerical agent-based method (ABM) via the
+    > game susceptibility, correlation, and payoff capacity as
+    > indicators of …
+
+7.  [**A computational framework to study the etiology of grandiose
+    narcissism.**](https://pubmed.ncbi.nlm.nih.gov/39966564/)
+
+    Löschner DM, Schoemann M, Jauk E, Herchenhahn L, Schwöbel S, Kanske
+    P, Scherbaum S.
+
+    Sci Rep. 2025 Feb 18;15(1):5897. doi: 10.1038/s41598-025-90109-w.
+
+    > In the light of emotional and social problems associated with
+    > these self-esteem regulation patterns and the increasing
+    > prevalence of narcissistic tendencies, causal and formalized
+    > models for prevention and intervention are needed. Here, we
+    > present a computational model …
+
+8.  [**Estimates of SARS-CoV-2 Infections and Population Immunity After
+    the COVID-19 Pandemic in Austria: Analysis of National Wastewater
+    Data.**](https://pubmed.ncbi.nlm.nih.gov/39964838/)
+
+    Riedmann U, Chalupka A, Richter L, Sprenger M, Rauch W, Schenk H,
+    Krause R, Willeit P, Oberacher H, Høeg TB, Ioannidis JPA, Pilz S.
+
+    J Infect Dis. 2025 Feb 18:jiaf054. doi: 10.1093/infdis/jiaf054.
+    Online ahead of print.
+
+    > METHODS: We estimated the total SARS-CoV-2 infections in Austria
+    > after the end of the pandemic (5 May 2023, per World Health
+    > Organization) up to May 2024 from wastewater data using a
+    > previously published model. These estimates were used in an
+    > agent-based m …
+
+9.  [**Increasing child vaccination coverage can reduce influenza cases
     across age groups: An agent-based modeling
     study.**](https://pubmed.ncbi.nlm.nih.gov/39952478/)
 
     Williams KV, Krauland MG, Nowalk MP, Harrison LH, Williams JV,
     Roberts MS, Zimmerman RK.
 
-    J Infect. 2025 Feb 12:106443. doi: 10.1016/j.jinf.2025.106443.
+    J Infect. 2025 Feb 12;90(3):106443. doi: 10.1016/j.jinf.2025.106443.
     Online ahead of print.
 
     > Direct and indirect benefits (decreased influenza cases and
@@ -31,7 +149,7 @@ update was on 2025-02-16 00:52:04.
     > model to determine the extent to which increased vaccination of
     > childre …
 
-2.  [**Developing a Conceptual Model for Collective Patterns and
+10. [**Developing a Conceptual Model for Collective Patterns and
     Leisure-Time Physical Activity Inequalities Among
     Adults.**](https://pubmed.ncbi.nlm.nih.gov/39952255/)
 
@@ -45,127 +163,6 @@ update was on 2025-02-16 00:52:04.
     > by dynamic interrelated processes between individual’s economic,
     > psychosocial, and perceived physical environment factors. …Going
     > forward, this wor …
-
-3.  [**Agent-based modelling: A stochastic approach to assessing
-    personal exposure to environmental pollutants - Insights from the
-    URBANOME project.**](https://pubmed.ncbi.nlm.nih.gov/39952215/)
-
-    Karakoltzidis A, Agalliadou A, Kermenidou M, Nikiforou F,
-    Chatzimpaloglou A, Feleki E, Karakitsios S, Gotti A, Sarigiannis DΑ.
-
-    Sci Total Environ. 2025 Feb 13;967:178804. doi:
-    10.1016/j.scitotenv.2025.178804. Online ahead of print.
-
-    > By leveraging socioeconomic and socio-demographic statistical data
-    > for the residents of Thessaloniki, we developed an agent-based
-    > model to estimate exposure levels based on the movement patterns,
-    > locations, and data collected from the URBANOME campaign. …Th …
-
-4.  [**Impact of disease severity, age, sex, comorbidity, and
-    vaccination on secondary attack rates of SARS-CoV-2: a global
-    systematic review and
-    meta-analysis.**](https://pubmed.ncbi.nlm.nih.gov/39948450/)
-
-    Sumsuzzman DM, Ye Y, Wang Z, Pandey A, Langley JM, Galvani AP,
-    Moghadas SM.
-
-    BMC Infect Dis. 2025 Feb 13;25(1):215. doi:
-    10.1186/s12879-025-10610-5.
-
-    > We pooled SAR estimates using a random-effects model with the
-    > Freeman-Tukey double arcsine transformation and derived
-    > Clopper-Pearson 95% confidence intervals (CIs). …
-
-5.  [**Growth in a two-dimensional model of coarctation of the aorta: A
-    CFD-informed agent based
-    model.**](https://pubmed.ncbi.nlm.nih.gov/39946822/)
-
-    Hampwaye N, Wang J, Revell A, Manchester E, Aldersley T, Zuhlke L,
-    Keavney B, Ngoepe M.
-
-    J Biomech. 2025 Jan 4;182:112514. doi:
-    10.1016/j.jbiomech.2025.112514. Online ahead of print.
-
-    > This progression can be attributed to insufficient growth at the
-    > coarctation site relative to the overall growth of the child.
-    > Therefore, an agent-based model (ABM) to predict the aortic growth
-    > of a CoA patient is introduced. The multi-scale approach combines
-    > …
-
-6.  [**Estimating nosocomial transmission of micro-organisms in hospital
-    settings using patient records and culture
-    data.**](https://pubmed.ncbi.nlm.nih.gov/39946776/)
-
-    Cascante Vega J, Yaari R, Robin T, Wen L, Zucker J, Uhlemann AC, Pei
-    S, Shaman J.
-
-    Epidemics. 2025 Jan 25;50:100817. doi: 10.1016/j.epidem.2025.100817.
-    Online ahead of print.
-
-    > Here we leverage electronic health records from a major New York
-    > City hospital system collected during 2020-2021 to support
-    > simulation inference of nosocomial transmission and pathogenic
-    > bacteria detection using an agent-based model (ABM). The ABM uses
-    > these …
-
-7.  [**Leveraging Large Language Models and Agent-Based Systems for
-    Scientific Data Analysis: Validation
-    Study.**](https://pubmed.ncbi.nlm.nih.gov/39946556/)
-
-    Peasley D, Kuplicki R, Sen S, Paulus M.
-
-    JMIR Ment Health. 2025 Feb 13;12:e68135. doi: 10.2196/68135.
-
-    > The Laureate Institute for Brain Research-Tulsa University
-    > (LIBR-TU) Research Agent (LITURAt) leverages a sophisticated
-    > agent-based architecture to mitigate these limitations, using
-    > external data retrieval and analysis tools to ensure reliable,
-    > context-aware outputs …
-
-8.  [**Hybrid metapopulation agent-based epidemiological models for
-    efficient insight on the individual scale: A contribution to green
-    computing.**](https://pubmed.ncbi.nlm.nih.gov/39944375/)
-
-    Bicker J, Schmieding R, Meyer-Hermann M, Kühn MJ.
-
-    Infect Dis Model. 2025 Jan 10;10(2):571-590. doi:
-    10.1016/j.idm.2024.12.015. eCollection 2025 Jun.
-
-    > Two popular modeling approaches for mitigating infectious disease
-    > dynamics are agent-based and population-based models. Agent-based
-    > models (ABMs) offer a microscopic view and are thus able to
-    > capture heterogeneous human contact beh …
-
-9.  [**Mitigating HIV risk associated with widow cleansing and wife
-    inheritance using combined biomedical and structural interventions
-    in western Kenya: a mathematical modeling
-    study.**](https://pubmed.ncbi.nlm.nih.gov/39940027/)
-
-    Gathungu DK, Ojiambo VN, Kimathi ME, Kaftan D, Kim HY, Citron DT,
-    Platais I, Briedenbecker D, Kirkman C 4th, Mwalili SM, Bershteyn A.
-
-    BMC Med. 2025 Feb 12;23(1):88. doi: 10.1186/s12916-025-03906-5.
-
-    > This study explores how HIV biomedical and structural
-    > interventions could reduce HIV-related harms associated with these
-    > practices. METHODS: We adapted EMOD-HIV, an HIV agent-based
-    > network transmission model previously calibrated and validated for
-    > the Nyanza …
-
-10. [**Estimated contributions and future mitigation strategies for HIV
-    risk around funeral practices in western Kenya: a mathematical
-    modeling study.**](https://pubmed.ncbi.nlm.nih.gov/39939974/)
-
-    Mwalili SM, Gathungu DK, Chemutai J, Musyoka E, Bridenbecker D,
-    Kirkman C 4th, Kaftan D, Kim HY, Platais I, Bershteyn A.
-
-    BMC Med. 2025 Feb 12;23(1):85. doi: 10.1186/s12916-025-03907-4.
-
-    > However, the contribution of disco matanga to HIV transmission is
-    > not well-understood. We used agent-based network modeling to
-    > estimate how disco matanga impacted HIV transmission, and to
-    > explore the impact of relevant biomedical, biobehavioral, and
-    > structura …
 
 ## Code of Conduct
 
