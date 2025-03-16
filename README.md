@@ -9,155 +9,158 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-03-09 00:42:48.
+update was on 2025-03-16 00:54:19.
 
 <div class="cell">
 
 </div>
 
-1.  [**Harnessing LLMs and GABMs: New frontiers in epidemic modeling and
-    evolutionary games: Comment on “LLMs and generative agent-based
-    models for complex systems research” by Lu et
-    al.**](https://pubmed.ncbi.nlm.nih.gov/40049005/)
+1.  [**Advances in computational modeling of cytokine and growth factor
+    dynamics in bone healing: a scoping
+    review.**](https://pubmed.ncbi.nlm.nih.gov/40085288/)
 
-    Chen J, Wang J, Xia C.
+    Hedayatzadeh Razavi A, Nafisi N, Velasquez-Hammerle M, Shariyate MJ,
+    Khak M, Mirahmadi A, McNichol M, Rodrogiuez EK, Nazarian A.
 
-    Phys Life Rev. 2025 Feb 28;53:122-124. doi:
-    10.1016/j.plrev.2025.02.010. Online ahead of print.
+    Biomech Model Mechanobiol. 2025 Mar 14. doi:
+    10.1007/s10237-025-01938-7. Online ahead of print.
 
-2.  [**Assessing the impact of revising MenACWY vaccination schedule for
-    adolescents in the United States: a modelling
-    study.**](https://pubmed.ncbi.nlm.nih.gov/40046840/)
+    > Through a systematic analysis of 71 studies, this review
+    > identifies and categorizes the modeling methodologies used,
+    > including mathematical, finite element, agent-based,
+    > mechanobiological, pharmacobiological, and hybrid approaches. The
+    > findings highlight the …
 
-    Shoukat A, Wells CR, Shin T, Potter-Schwartz L, Galvani AP, Moghadas
-    SM.
+2.  [**Incorporating social determinants of health into agent-based
+    models of HIV transmission: methodological challenges and future
+    directions.**](https://pubmed.ncbi.nlm.nih.gov/40083834/)
 
-    Lancet Reg Health Am. 2025 Feb 19;44:101033. doi:
-    10.1016/j.lana.2025.101033. eCollection 2025 Apr.
+    Hotton AL, Nascimento de Lima P, Fadikar A, Collier NT, Khanna AS,
+    Motley DN, Tatara E, Rimer S, Almirol E, Pollack HA, Schneider JA,
+    Lempert RJ, Ozik J.
 
-    > METHODS: We developed an age-stratified, agent-based Monte-Carlo
-    > simulation model of meningococcal transmission dynamics,
-    > parameterised with US age demographics, to assess the impact of
-    > the proposed changes to the MenACWY vaccination schedules.
-    > Excluding sero …
+    Front Epidemiol. 2025 Feb 27;5:1533119. doi:
+    10.3389/fepid.2025.1533119. eCollection 2025.
 
-3.  [**A computational dynamic systems model for in silico prediction of
-    neural tube closure
-    defects.**](https://pubmed.ncbi.nlm.nih.gov/40034255/)
-
-    Berkhout JH, Glazier JA, Piersma AH, Belmonte JM, Legler J, Spencer
-    RM, Knudsen TB, Heusinkveld HJ.
-
-    Curr Res Toxicol. 2024 Dec 18;8:100210. doi:
-    10.1016/j.crtox.2024.100210. eCollection 2025.
-
-    > This complex process is susceptible to perturbation by genetic
-    > errors and chemical disruption, which can induce severe neural
-    > tube defects (NTDs) such as spina bifida. We built a computational
-    > agent-based model (ABM) of neural tube development based on the kn
+    > Because they allow for both detailed and large-scale simulations
+    > of counterfactual experiments, agent-based models (ABMs) can
+    > demonstrate the potential impact of combinations of interventions
+    > that may otherwise be infeasible to evaluate in empirical settings
     > …
 
-4.  [**Prompt-Agent-Driven Integration of Foundation Model Priors for
-    Low-Count PET
-    Reconstruction.**](https://pubmed.ncbi.nlm.nih.gov/40030949/)
+3.  [**Bayesian Calibration of Stochastic Agent Based Model via Random
+    Forest.**](https://pubmed.ncbi.nlm.nih.gov/40083065/)
 
-    Xie X, Zhao W, Nan M, Zhang Z, Wu Y, Zheng H, Liang D, Wang M, Hu Z.
+    Robertson C, Safta C, Collier N, Ozik J, Ray J.
 
-    IEEE Trans Med Imaging. 2025 Jan 8;PP. doi:
-    10.1109/TMI.2025.3527155. Online ahead of print.
+    Stat Med. 2025 Mar 15;44(6):e70029. doi: 10.1002/sim.70029.
 
-    > However, the use of foundation models’ segmentation masks as
-    > semantic guides has been observed to introduce erroneous
-    > structures in low-count PET reconstructions. To address this
-    > challenge, this work introduces an innovative prompting
-    > agent-based framework th …
+    > Agent-based models (ABM) provide an excellent framework for
+    > modeling outbreaks and interventions in epidemiology by explicitly
+    > accounting for diverse individual interactions and environments.
+    > However, these models are usually stochastic and high …
 
-5.  [**LightVA: Lightweight Visual Analytics with LLM Agent-Based Task
-    Planning and
-    Execution.**](https://pubmed.ncbi.nlm.nih.gov/40030374/)
+4.  [**Bacillus subtilisbiofilm expansion mediated by the interaction
+    between matrix-producing cells formed “Van Gogh bundles” and other
+    phenotypic cells.**](https://pubmed.ncbi.nlm.nih.gov/40081257/)
 
-    Zhao Y, Wang J, Xiang L, Zhang X, Guo Z, Turkay C, Zhang Y, Chen S.
+    Li J, Wang J, Wu J, Wang X.
 
-    IEEE Trans Vis Comput Graph. 2024 Nov 14;PP. doi:
-    10.1109/TVCG.2024.3496112. Online ahead of print.
+    Colloids Surf B Biointerfaces. 2025 Mar 11;251:114611. doi:
+    10.1016/j.colsurfb.2025.114611. Online ahead of print.
 
-    > We propose LightVA, a lightweight visual analytics framework that
-    > completes task proposal, data modeling and interactive visual
-    > exploration with human-agent collaboration. Our method is grounded
-    > on the relationships among the goal, task, data, visualization,
-    > and insight. S …
+    > This organized structure evolves from an initial single chain to
+    > bundles known as “Van Gogh bundles,” which guild the biofilm’
+    > expansion. In this paper, we present a model for biofilm growth
+    > based on cell interaction forces. In this model, cell interactions
+    > within V …
 
-6.  [**Agent-based modeling of cellular dynamics in adoptive cell
-    therapy.**](https://pubmed.ncbi.nlm.nih.gov/40027823/)
+5.  [**An epidemiological extension of the El Farol Bar
+    problem.**](https://pubmed.ncbi.nlm.nih.gov/40078336/)
 
-    Wang Y, Casarin S, Daher M, Mohanty V, Dede M, Shanley M, Başar R,
-    Rezvani K, Chen K.
+    Bertolotti F, Kadera N, Pasquino L, Mari L.
 
-    bioRxiv \[Preprint\]. 2025 Feb 21:2025.02.17.638701. doi:
-    10.1101/2025.02.17.638701.
+    Front Big Data. 2025 Feb 26;8:1519369. doi:
+    10.3389/fdata.2025.1519369. eCollection 2025.
 
-    > While in vitro and in vivo experiments are required in this
-    > endeavor, they are typically expensive, laborious, and limited to
-    > targeted investigations. Here, we present ABMACT (Agent-Based
-    > Model for Adoptive Cell Therapy), an in silico approach employing
-    > ag …
+    > This paper presents an epidemiological extension of the El Farol
+    > Bar problem, where both a social and an epidemiological dimension
+    > are present. In the model, individual agents making binary
+    > decisions-to visit a bar or stay home-amidst a non-fatal epidemic.
+    > The extension of …
 
-7.  [**Emergent Tissue Shapes from the Regulatory Feedback between
-    Morphogens and Cell
-    Growth.**](https://pubmed.ncbi.nlm.nih.gov/40027769/)
+6.  [**Social coordination perpetuates stereotypic expectations and
+    behaviors across generations in deep multiagent reinforcement
+    learning.**](https://pubmed.ncbi.nlm.nih.gov/40078166/)
 
-    Kaity B, Lobo D.
+    Gelpí RA, Tang Y, Jackson EC, Cunningham WA.
 
-    bioRxiv \[Preprint\]. 2025 Feb 20:2025.02.16.638504. doi:
-    10.1101/2025.02.16.638504.
+    PNAS Nexus. 2025 Mar 4;4(3):pgaf076. doi: 10.1093/pnasnexus/pgaf076.
+    eCollection 2025 Mar.
 
-    > However, the mechanisms underlying the pathways that coordinate
-    > and integrate these signals into emergent cellular behaviors and
-    > tissue shapes remain poorly understood. Here, we present a
-    > cell-centered agent-based mathematical approach to shed light on
-    > the feedback …
+    > We argue that one reason for this continued prevalence is that
+    > preexisting expectations about how others will behave, in the
+    > context of social coordination, can change the behaviors of one’s
+    > social partners, creating the very stereotype one expected to see,
+    > even in the absence of …
 
-8.  [**Towards the utilization of LLMs for misinformation modeling and
-    detection: Comment on “LLMs and generative agent-based models for
-    complex systems research” by Lu et
-    al.**](https://pubmed.ncbi.nlm.nih.gov/40020417/)
+7.  [**Control of medical digital twins with artificial neural
+    networks.**](https://pubmed.ncbi.nlm.nih.gov/40078154/)
 
-    Zhan XX, Liu C, Zhang J.
+    Böttcher L, Fonseca LL, Laubenbacher RC.
 
-    Phys Life Rev. 2025 Feb 26;53:22-23. doi:
-    10.1016/j.plrev.2025.02.003. Online ahead of print.
+    Philos Trans A Math Phys Eng Sci. 2025 Mar 13;383(2292):20240228.
+    doi: 10.1098/rsta.2024.0228. Epub 2025 Mar 13.
 
-9.  [**Impact of increased diagnosis of early HIV infection and
-    immediate antiretroviral treatment initiation on HIV transmission
-    among men who have sex with men in the
-    Netherlands.**](https://pubmed.ncbi.nlm.nih.gov/40014624/)
+    > A key technology for this purpose involves medical digital twins,
+    > computational models of human biology that can be personalized and
+    > dynamically updated to incorporate patient-specific data. …As a
+    > first use case, we focus on the control of agent-based mo …
 
-    Teslya A, Heijne JCM, van der Loeff MFS, van Sighem A, Roberts JA,
-    Dijkstra M, de Bree GJ, Schmidt AJ, Jonas KJ, Kretzschmar ME,
-    Rozhnova G.
+8.  [**Emulating computer models with high-dimensional count
+    output.**](https://pubmed.ncbi.nlm.nih.gov/40078142/)
 
-    PLoS Comput Biol. 2025 Feb 27;21(2):e1012055. doi:
-    10.1371/journal.pcbi.1012055. eCollection 2025 Feb.
+    Salter JM, McKinley TJ, Xiong X, Williamson DB.
 
-    > This study aims to assess the impact of increased diagnosis of
-    > early HIV infection combined with immediate antiretroviral
-    > treatment (ART) initiation on reducing HIV transmission among MSM.
-    > We developed an agent-based model calibrated to HIV surveillance
-    > and s …
+    Philos Trans A Math Phys Eng Sci. 2025 Mar 13;383(2292):20240216.
+    doi: 10.1098/rsta.2024.0216. Epub 2025 Mar 13.
 
-10. [**Perpetuation of Avian Influenza from Molt to Fall Migration in
-    Wild Swan Geese (Anser cygnoides): An Agent-Based Modeling
-    Approach.**](https://pubmed.ncbi.nlm.nih.gov/40006951/)
+    > In epidemiological applications, for example compartmental or
+    > agent-based models for modelling the spread of infectious
+    > diseases, the output is usually spatially and temporally indexed,
+    > stochastic and consists of counts rather than continuous variables
+    > …
 
-    Takekawa JY, Choi CY, Prosser DJ, Sullivan JD, Batbayar N, Xiao X.
+9.  [**Hepatitis C virus transmission among people who inject drugs in
+    rural United States: mathematical modeling study using stochastic
+    agent-based network simulation
+    (AJE-00824-2024).**](https://pubmed.ncbi.nlm.nih.gov/40069947/)
 
-    Viruses. 2025 Jan 30;17(2):196. doi: 10.3390/v17020196.
+    Zhu L, Havens JR, Rudolph AE, Young AM, Yazdi GE, Thompson WW, Hagan
+    LM, Randall LM, Wang J, Earnest R, Nolen S, Linas BP, Salomon JA.
 
-    > Our study incorporated empirical data from virological field
-    > samplings and markings of Swan Geese (Anser cygnoides) on their
-    > breeding grounds in Mongolia in an integrated agent-based model
-    > (ABM) that included susceptible-exposed-infectious-recovered
-    > (SEIR) st …
+    Am J Epidemiol. 2025 Mar 10:kwaf052. doi: 10.1093/aje/kwaf052.
+    Online ahead of print.
+
+    > Recognizing the emerging HCV epidemic in rural communities, we
+    > developed an agent-based network simulation model of HCV
+    > transmission via injection-equipment-sharing and used data on
+    > rural PWID networks to inform model parameterization and
+    > calibration. …
+
+10. [**Chemotaxis of Drosophila border cells is modulated by tissue
+    geometry through dispersion of
+    chemoattractants.**](https://pubmed.ncbi.nlm.nih.gov/40060906/)
+
+    George A, Akhavan N, Peercy BE, Starz-Gaiano M.
+
+    iScience. 2025 Feb 5;28(3):111959. doi: 10.1016/j.isci.2025.111959.
+    eCollection 2025 Mar 21.
+
+    > We then developed a reduced mathematical model to determine how
+    > chemoattractant distribution is affected by tissue architecture.
+    > Larger extracellular volumes locally dampened the chemoattractant
+    > gradient and, when coupled with an agent-based motion of the clu …
 
 ## Code of Conduct
 
