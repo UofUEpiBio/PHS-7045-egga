@@ -9,142 +9,157 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-03-30 00:55:49.
+update was on 2025-04-06 00:55:13.
 
 <div class="cell">
 
 </div>
 
-1.  [**Agent-based model of the human colon to investigate mechanisms of
-    pathogen colonization
-    resistance.**](https://pubmed.ncbi.nlm.nih.gov/40156186/)
+1.  [**Managing the risk of flood-induced release of antibacterial
+    pollution from livestock farms using agent-based modeling: insights
+    from the 2021 sumas prairie flood
+    event.**](https://pubmed.ncbi.nlm.nih.gov/40186809/)
 
-    Fletcher SJ, Ching C, Suprenant MP, Desai D, Zaman MH.
+    Nazari M, Asgary A, Kerachian R, Rezai P, Brar SK.
 
-    Biophys J. 2025 Mar 27:S0006-3495(25)00194-8. doi:
-    10.1016/j.bpj.2025.03.022. Online ahead of print.
+    Environ Sci Pollut Res Int. 2025 Apr 5. doi:
+    10.1007/s11356-025-36304-8. Online ahead of print.
 
-    > To address this gap, we have constructed an agent-based
-    > computational model of the colonic epithelium cross-section to
-    > investigate the colonic invasion of enteric pathogens. …Utilizing
-    > this model, we are able to describe the healthy microbiome cell-l
+    > This study employs the November 2021 Sumas Prairie Flooding as a
+    > case study and develops an agent-based modeling (ABM) tool for
+    > CECs release risk management using AnyLogic software. The model
+    > will aid in identifying mitigation, preparedness, response a …
+
+2.  [**Assessing the effects of minimum floor price laws on tobacco use
+    among youth in the state of Virginia, USA: an agent-based simulation
+    approach.**](https://pubmed.ncbi.nlm.nih.gov/40185631/)
+
+    Lin SY, Purohit H, Koch R, Barnes AJ, Hayes RB, Zhao X, Xue H.
+
+    Tob Control. 2025 Apr 4:tc-2024-058801. doi: 10.1136/tc-2024-058801.
+    Online ahead of print.
+
+    > We aim to examine the effects of minimum floor prices (MFPs) on
+    > tobacco use among youth in Virginia. METHODS: An agent-based
+    > modelling (ABM) was developed from bottom-up to evaluate the
+    > influence of increasing the cigarette MFPs on middle and high
+    > school stud …
+
+3.  [**MetaBiome: a multiscale model integrating agent-based and
+    metabolic networks to reveal spatial regulation in gut mucosal
+    microbial communities.**](https://pubmed.ncbi.nlm.nih.gov/40183581/)
+
+    Aminian-Dehkordi J, Dickson A, Valiei A, Mofrad MRK.
+
+    mSystems. 2025 Apr 4:e0165224. doi: 10.1128/msystems.01652-24.
+    Online ahead of print.
+
+    > In this work, we present MetaBiome, a multiscale model integrating
+    > agent-based modeling (ABM), finite volume methods, and
+    > constraint-based models to explore the metabolic interactions
+    > within these communities. …This work marks a significant ad …
+
+4.  [**Understanding Delayed Diabetes Diagnosis: An Agent-Based Model of
+    Health-Seeking
+    Behavior.**](https://pubmed.ncbi.nlm.nih.gov/40183324/)
+
+    Taghikhah FR, Jabbari A, Desouza KC, Malik A, Khorshidi HA.
+
+    Med Decis Making. 2025 Apr 4:272989X251326908. doi:
+    10.1177/0272989X251326908. Online ahead of print.
+
+    > BackgroundDiabetes is a rapidly growing global health issue, with
+    > the hidden burden of undiagnosed cases leading to severe
+    > complications and escalating health care costs.MethodsThis study
+    > investigated the potential of integrated behavioral frameworks to
+    > predict health-seeking beh …
+
+5.  [**Systems thinking and modelling to support transformative change:
+    key lessons from inter-disciplinary analysis of socio-ecological
+    systems in applied land systems
+    research.**](https://pubmed.ncbi.nlm.nih.gov/40182318/)
+
+    Glendell M, Hare M, Waylen KA, Adams K, Boucher JL, Gagkas Z, Gimona
+    A, Martino S, Matthews KB, Polhill JG.
+
+    Discov Sustain. 2025;6(1):231. doi: 10.1007/s43621-025-00987-3. Epub
+    2025 Apr 1.
+
+    > We then use these as a framework for comparing and evaluating
+    > seven different systems thinking approaches, selected on the basis
+    > of our experience in applying them in support of the management
+    > and governance of various types of land systems. The seven
+    > approaches are: agent …
+
+6.  [**The cultural evolution of distortion in music (and other norms of
+    mixed appeal).**](https://pubmed.ncbi.nlm.nih.gov/40176525/)
+
+    Bryant GA, Smaldino PE.
+
+    Philos Trans R Soc Lond B Biol Sci. 2025 Apr 3;380(1923):20240014.
+    doi: 10.1098/rstb.2024.0014. Epub 2025 Apr 3.
+
+    > We suggest that listeners’ sensitivity to NLP has facilitated
+    > technological developments for altering musical instruments and
+    > singing with distortion, which continues to evolve culturally via
+    > the need for groups to both coordinate internally and
+    > differentiate themselves from othe …
+
+7.  [**uHAF: a unified hierarchical annotation framework for cell type
+    standardization and
+    harmonization.**](https://pubmed.ncbi.nlm.nih.gov/40172934/)
+
+    Bian H, Chen Y, Wei L, Zhang X.
+
+    Bioinformatics. 2025 Apr 2:btaf149. doi:
+    10.1093/bioinformatics/btaf149. Online ahead of print.
+
+    > To address this challenge, we developed the unified Hierarchical
+    > Annotation Framework (uHAF), which includes organ-specific
+    > hierarchical cell type trees (uHAF-T) and a mapping tool
+    > (uHAF-Agent) based on large language models. uHAF-T provides
+    > standardized hier …
+
+8.  [**Cross-validation-based sequential design for stochastic
+    models.**](https://pubmed.ncbi.nlm.nih.gov/40172562/)
+
+    Kimpton LM, Dunne M, Salter JM, Challenor P.
+
+    Philos Trans A Math Phys Eng Sci. 2025 Apr 2;383(2293):20240217.
+    doi: 10.1098/rsta.2024.0217. Epub 2025 Apr 2.
+
+    > Complex numerical models are increasingly being used in healthcare
+    > and epidemiology. To represent the complex features, modellers
+    > often make the decision to include stochastic behaviour where
+    > repeated runs of the model with identical inputs produce different
     > …
 
-2.  [**Agent-based modeling for demand management of reservoirs
-    considering social and hydrological interactions under
-    uncertainty.**](https://pubmed.ncbi.nlm.nih.gov/40154251/)
+9.  [**An analysis of spatial and temporal uncertainty propagation in
+    agent-based models.**](https://pubmed.ncbi.nlm.nih.gov/40172560/)
 
-    Ehsanitabar A, Hassanzadeh Y, Aalami M, Sadeghfam S.
+    Gamal Y, Heppenstall A, Strachan W, Colasanti R, Zia K.
 
-    J Environ Manage. 2025 Mar 27;380:125089. doi:
-    10.1016/j.jenvman.2025.125089. Online ahead of print.
+    Philos Trans A Math Phys Eng Sci. 2025 Apr 2;383(2293):20240229.
+    doi: 10.1098/rsta.2024.0229. Epub 2025 Apr 2.
 
-    > Water demand management is a topical research activity; this study
-    > uses agent-based modeling to simulate the impact of water demand
-    > management on a reservoir, integrating social and hydrological
-    > environments. …
+    > Visualizing the temporal propagation of spatial uncertainties is
+    > crucial to communicate the reliability of such models. However,
+    > the current Uncertainty Analyses (UAs) either consider spatial
+    > uncertainty at the end of model runs, or consider non-spatial
+    > uncertaintie …
 
-3.  [**Biased Lévy Walk Enables Light Gradient Sensing in Euglena
-    gracilis.**](https://pubmed.ncbi.nlm.nih.gov/40153620/)
+10. [**Modularity of the segmentation clock and
+    morphogenesis.**](https://pubmed.ncbi.nlm.nih.gov/40168062/)
 
-    Li Y, Zhao Y, Yang S, Tang M, Zhang HP.
+    Hammond JE, Baker RE, Verd B.
 
-    Phys Rev Lett. 2025 Mar 14;134(10):108301. doi:
-    10.1103/PhysRevLett.134.108301.
+    Elife. 2025 Apr 1;14:RP106316. doi: 10.7554/eLife.106316.
 
-    > The experimental observations under varied lighting conditions are
-    > consistently replicated through an agent-based model….
-
-4.  [**An Elementary Microscopic Model of Sympatric
-    Speciation.**](https://pubmed.ncbi.nlm.nih.gov/40151863/)
-
-    Bagnoli F, Matteuzzi T.
-
-    Theor Biol Forum. 2024 Jul 1;117(1-2):85-110. doi:
-    10.19272/202411402006.
-
-    > Using as a narrative theme the example of Darwin’s finches, a
-    > microscopic agent-based model is introduces to study sympatric
-    > speciation as a result of competition for resources in the same
-    > ecological niche. Varying competition among individuals and
-    > resources …
-
-5.  [**The Impact of Social Norms on Diffusion Dynamics: A Simulation of
-    E-Cigarette Use
-    Behavior.**](https://pubmed.ncbi.nlm.nih.gov/40145592/)
-
-    Piombo SE, Vega Yon GG, Valente TW.
-
-    Health Educ Behav. 2025 Mar 27:10901981251327189. doi:
-    10.1177/10901981251327189. Online ahead of print.
-
-    > For each network, simulations were run using the netdiffuseR
-    > package in R and multivariate generalized linear models were
-    > estimated to examine changes in diffusion dynamics. Diffusion
-    > prevalence and rate were greater in denser networks and networks
-    > with more initial e-ciga …
-
-6.  [**Bridging hemodynamics, tissue mechanics, and pathophysiology in
-    coronary artery disease: A new agent-based model with tetrahedral
-    mesh integration.**](https://pubmed.ncbi.nlm.nih.gov/40132244/)
-
-    Warren J, Corti A, Meyer CA, Hayenga HN.
-
-    J Biomech. 2025 Mar 11;183:112631. doi:
-    10.1016/j.jbiomech.2025.112631. Online ahead of print.
-
-    > We introduce a new multi-physics, multi-scale modeling approach to
-    > understand plaque progression during coronary artery disease.
-    > Prior works have coupled agent-based models (ABMs) with finite
-    > element analysis (FEA) or computational fluid dynamics (CFD) …
-
-7.  [**The dynamics of prebiotic take-off: the transfer of functional
-    RNA communities from mineral surfaces to
-    vesicles.**](https://pubmed.ncbi.nlm.nih.gov/40122986/)
-
-    Vörös D, Czárán T, Szilágyi A, Könnyű B.
-
-    Commun Biol. 2025 Mar 23;8(1):484. doi: 10.1038/s42003-025-07841-2.
-
-    > The two agent-based models: the Metabolically Coupled Replicator
-    > System (MCRS) and the Stochastic Corrector Model (SCM), are built
-    > on principles of systems chemistry, molecular biology, ecology and
-    > evolutionary biology. …The switching between the two …
-
-8.  [**Simulating hierarchical data to assess the utility of ecological
-    versus multilevel analyses in obtaining individual-level causal
-    effects.**](https://pubmed.ncbi.nlm.nih.gov/40121398/)
-
-    Kakampakou L, Stokes J, Hoehn A, de Kamps M, Lawniczak W, Arnold KF,
-    Hensor EMA, Heppenstall AJ, Gilthorpe MS.
-
-    BMC Med Res Methodol. 2025 Mar 22;25(1):79. doi:
-    10.1186/s12874-025-02504-6.
-
-    > This study also illustrates the importance of causally structured
-    > synthetic data for use with other methods, such as Agent Based
-    > Modelling or Microsimulation Modelling. Many methodological
-    > challenges remain for robust causal evaluation of multilevel da …
-
-9.  [**An AI researchers’ perspective: At the crossroad of LLMs,
-    agent-based modeling, and complex systems: Comment on “LLMs and
-    generative agent-based models for complex systems research” by Y. Lu
-    et al.**](https://pubmed.ncbi.nlm.nih.gov/40120400/)
-
-    Ren S, Gan Z, Yin Z, Shao J, Hu S.
-
-    Phys Life Rev. 2025 Mar 20;53:215-217. doi:
-    10.1016/j.plrev.2025.03.015. Online ahead of print.
-
-10. [**LLMs provide a potential pathway for the research of complex
-    systems: Comment on “LLMs and generative agent-based models for
-    complex systems research” by Y. Lu et
-    al.**](https://pubmed.ncbi.nlm.nih.gov/40120397/)
-
-    Han J, Chen X.
-
-    Phys Life Rev. 2025 Mar 14;53:182-183. doi:
-    10.1016/j.plrev.2025.03.010. Online ahead of print.
+    > Here, we explore whether the clock and PSM morphogenesis exhibit
+    > developmental modularity, as independent evolution of these two
+    > processes may explain the high evolvability of segment number.
+    > Using a computational model of the clock and PSM parameterised for
+    > zebrafish, we …
 
 ## Code of Conduct
 
