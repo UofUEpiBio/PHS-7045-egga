@@ -9,13 +9,55 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-04-06 00:55:13.
+update was on 2025-04-13 02:22:05.
 
 <div class="cell">
 
 </div>
 
-1.  [**Managing the risk of flood-induced release of antibacterial
+1.  [**Power asymmetry destabilizes reciprocal cooperation in social
+    dilemmas.**](https://pubmed.ncbi.nlm.nih.gov/40199440/)
+
+    Colnaghi M, Santos FP, Van Lange PAM, Balliet D.
+
+    J Theor Biol. 2025 Apr 6:112106. doi: 10.1016/j.jtbi.2025.112106.
+    Online ahead of print.
+
+    > Verbal theories have either claimed that power differences enhance
+    > or destabilize cooperation, indicating the need for a
+    > comprehensive theoretical model of how power asymmetries affect
+    > direct reciprocity. Here, we investigate the relationship between
+    > power and cooperation …
+
+2.  [**How pollinator movement patterns emerge from the interaction
+    between cognition and the
+    environment.**](https://pubmed.ncbi.nlm.nih.gov/40199357/)
+
+    Mailly J, Riotte-Lambert L, Lihoreau M.
+
+    Proc Biol Sci. 2025 Apr;292(2044):20242271. doi:
+    10.1098/rspb.2024.2271. Epub 2025 Apr 9.
+
+    > Through a systematic literature review, we show that pollinators
+    > display varying degrees of movement repetitiveness. Then, using a
+    > cognitively realistic agent-based model that we parametrized with
+    > data from bee foraging studies, we demonstrate how the interpl …
+
+3.  [**Test allocation based on risk of infection from first and second
+    order contact tracing.**](https://pubmed.ncbi.nlm.nih.gov/40193399/)
+
+    Gabriela Bayolo S, Miraine Dávila F, Gayraud G.
+
+    PLoS One. 2025 Apr 7;20(4):e0320291. doi:
+    10.1371/journal.pone.0320291. eCollection 2025.
+
+    > We evaluate interventions based on our risk ranking through
+    > simulations using a fairly realistic agent-based model calibrated
+    > for COVID-19 epidemic outbreak. We consider different scenarios to
+    > study the role of key quantities such as the number of daily avail
+    > …
+
+4.  [**Managing the risk of flood-induced release of antibacterial
     pollution from livestock farms using agent-based modeling: insights
     from the 2021 sumas prairie flood
     event.**](https://pubmed.ncbi.nlm.nih.gov/40186809/)
@@ -30,7 +72,7 @@ update was on 2025-04-06 00:55:13.
     > CECs release risk management using AnyLogic software. The model
     > will aid in identifying mitigation, preparedness, response a …
 
-2.  [**Assessing the effects of minimum floor price laws on tobacco use
+5.  [**Assessing the effects of minimum floor price laws on tobacco use
     among youth in the state of Virginia, USA: an agent-based simulation
     approach.**](https://pubmed.ncbi.nlm.nih.gov/40185631/)
 
@@ -45,7 +87,7 @@ update was on 2025-04-06 00:55:13.
     > influence of increasing the cigarette MFPs on middle and high
     > school stud …
 
-3.  [**MetaBiome: a multiscale model integrating agent-based and
+6.  [**MetaBiome: a multiscale model integrating agent-based and
     metabolic networks to reveal spatial regulation in gut mucosal
     microbial communities.**](https://pubmed.ncbi.nlm.nih.gov/40183581/)
 
@@ -59,7 +101,7 @@ update was on 2025-04-06 00:55:13.
     > constraint-based models to explore the metabolic interactions
     > within these communities. …This work marks a significant ad …
 
-4.  [**Understanding Delayed Diabetes Diagnosis: An Agent-Based Model of
+7.  [**Understanding Delayed Diabetes Diagnosis: An Agent-Based Model of
     Health-Seeking
     Behavior.**](https://pubmed.ncbi.nlm.nih.gov/40183324/)
 
@@ -74,7 +116,7 @@ update was on 2025-04-06 00:55:13.
     > investigated the potential of integrated behavioral frameworks to
     > predict health-seeking beh …
 
-5.  [**Systems thinking and modelling to support transformative change:
+8.  [**Systems thinking and modelling to support transformative change:
     key lessons from inter-disciplinary analysis of socio-ecological
     systems in applied land systems
     research.**](https://pubmed.ncbi.nlm.nih.gov/40182318/)
@@ -91,7 +133,7 @@ update was on 2025-04-06 00:55:13.
     > and governance of various types of land systems. The seven
     > approaches are: agent …
 
-6.  [**The cultural evolution of distortion in music (and other norms of
+9.  [**The cultural evolution of distortion in music (and other norms of
     mixed appeal).**](https://pubmed.ncbi.nlm.nih.gov/40176525/)
 
     Bryant GA, Smaldino PE.
@@ -105,7 +147,7 @@ update was on 2025-04-06 00:55:13.
     > the need for groups to both coordinate internally and
     > differentiate themselves from othe …
 
-7.  [**uHAF: a unified hierarchical annotation framework for cell type
+10. [**uHAF: a unified hierarchical annotation framework for cell type
     standardization and
     harmonization.**](https://pubmed.ncbi.nlm.nih.gov/40172934/)
 
@@ -119,47 +161,6 @@ update was on 2025-04-06 00:55:13.
     > hierarchical cell type trees (uHAF-T) and a mapping tool
     > (uHAF-Agent) based on large language models. uHAF-T provides
     > standardized hier …
-
-8.  [**Cross-validation-based sequential design for stochastic
-    models.**](https://pubmed.ncbi.nlm.nih.gov/40172562/)
-
-    Kimpton LM, Dunne M, Salter JM, Challenor P.
-
-    Philos Trans A Math Phys Eng Sci. 2025 Apr 2;383(2293):20240217.
-    doi: 10.1098/rsta.2024.0217. Epub 2025 Apr 2.
-
-    > Complex numerical models are increasingly being used in healthcare
-    > and epidemiology. To represent the complex features, modellers
-    > often make the decision to include stochastic behaviour where
-    > repeated runs of the model with identical inputs produce different
-    > …
-
-9.  [**An analysis of spatial and temporal uncertainty propagation in
-    agent-based models.**](https://pubmed.ncbi.nlm.nih.gov/40172560/)
-
-    Gamal Y, Heppenstall A, Strachan W, Colasanti R, Zia K.
-
-    Philos Trans A Math Phys Eng Sci. 2025 Apr 2;383(2293):20240229.
-    doi: 10.1098/rsta.2024.0229. Epub 2025 Apr 2.
-
-    > Visualizing the temporal propagation of spatial uncertainties is
-    > crucial to communicate the reliability of such models. However,
-    > the current Uncertainty Analyses (UAs) either consider spatial
-    > uncertainty at the end of model runs, or consider non-spatial
-    > uncertaintie …
-
-10. [**Modularity of the segmentation clock and
-    morphogenesis.**](https://pubmed.ncbi.nlm.nih.gov/40168062/)
-
-    Hammond JE, Baker RE, Verd B.
-
-    Elife. 2025 Apr 1;14:RP106316. doi: 10.7554/eLife.106316.
-
-    > Here, we explore whether the clock and PSM morphogenesis exhibit
-    > developmental modularity, as independent evolution of these two
-    > processes may explain the high evolvability of segment number.
-    > Using a computational model of the clock and PSM parameterised for
-    > zebrafish, we …
 
 ## Code of Conduct
 
