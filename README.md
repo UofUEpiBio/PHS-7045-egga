@@ -9,157 +9,147 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-04-20 00:56:57.
+update was on 2025-04-27 00:56:57.
 
 <div class="cell">
 
 </div>
 
-1.  [**Income inequality in the uptake of environmentally friendly
-    products.**](https://pubmed.ncbi.nlm.nih.gov/40248117/)
+1.  [**Mathematical Contact Tracing Models for the COVID-19 Pandemic: A
+    Systematic Review of the
+    Literature.**](https://pubmed.ncbi.nlm.nih.gov/40281884/)
 
-    Maglicic M, Vasconcelos VV.
+    Ocagli H, Brigiari G, Marcolin E, Mongillo M, Tonon M, Da Re F,
+    Gentili D, Michieletto F, Russo F, Gregori D.
 
-    iScience. 2025 Mar 25;28(4):112277. doi: 10.1016/j.isci.2025.112277.
-    eCollection 2025 Apr 18.
+    Healthcare (Basel). 2025 Apr 18;13(8):935. doi:
+    10.3390/healthcare13080935.
 
-    > Worse, policies encouraging the adoption of environmentally
-    > friendly products have replicated or even exacerbated
-    > inequalities. We experiment with analytical and agent-based models
-    > to examine mechanisms driving this inequality trap and explore
-    > policy solution …
+    > Most studies used compartmental models to simulate COVID-19
+    > transmission (26, 49.1%), while others used agent-based (16, 34%),
+    > branching processes (5, 9.4%), or other mathematical models (6).
+    > …Conclusions: Despite the significant heterogeneity in the …
 
-2.  [**Towards safer steel operations with a multi model framework for
-    accident prediction and risk assessment
-    simulation.**](https://pubmed.ncbi.nlm.nih.gov/40246914/)
+2.  [**A NLP analysis of digital demand for healthcare jobs in
+    China.**](https://pubmed.ncbi.nlm.nih.gov/40281033/)
 
-    Pandey S, Singh AK, Parhi S, Jha SK.
+    Chen Y, Zhan X, Yang W, Yan X, Du Y, Zhao T.
 
-    Sci Rep. 2025 Apr 17;15(1):13293. doi: 10.1038/s41598-025-96028-0.
+    Sci Rep. 2025 Apr 25;15(1):14518. doi: 10.1038/s41598-025-98552-5.
 
-    > This research concentrates on an introduction of a multi-model
-    > approach integrating Bayesian Networks (BN), Machine Learning (ML)
-    > models, Natural Language Processing (NLP) with Sentiment Analysis,
-    > Agent-Based Modeling (ABM), and Survival Analysi …
+    > To extract relevant information from job descriptions, including
+    > required skills, qualifications, and roles, we employed an AI
+    > agent based on the latest ChatGPT model. The model was fine-tuned
+    > using advanced Prompt-Tuning techniques to adapt it to the …
 
-3.  [**Exploring the role of EMT in ovarian cancer progression using a
-    multiscale mathematical
-    model.**](https://pubmed.ncbi.nlm.nih.gov/40246908/)
+3.  [**Health in All Networks Simulator: mixed-methods protocol to test
+    social network interventions for resilience, health and well-being
+    of adults in
+    Amsterdam.**](https://pubmed.ncbi.nlm.nih.gov/40280613/)
 
-    Oliver S, Williams M, Jolly MK, Gonzalez D, Powathil G.
+    Kaan J, Ulug C, Thompson K, Khaluf Y, Wagemakers A, Moore S.
 
-    NPJ Syst Biol Appl. 2025 Apr 17;11(1):36. doi:
-    10.1038/s41540-025-00508-y.
+    BMJ Open. 2025 Apr 25;15(4):e100703. doi:
+    10.1136/bmjopen-2025-100703.
 
-    > EMT occurs when a cell undergoes phenotypical changes, resulting
-    > in enhanced drug resistance, higher cell plasticity, and increased
-    > metastatic abilities. Here, we employ a 3D agent-based multiscale
-    > modelling framework using PhysiCell to explore the role of EM …
+    > Taking a mixed-methods approach consisting of a combination of
+    > interviews, group model building workshops and agent-based
+    > modelling with members of two communities in Amsterdam and policy
+    > stakeholders, we will foster a shared learning process while ens …
 
-4.  [**Non-household environments make a major contribution to dengue
-    transmission: implications for vector
-    control.**](https://pubmed.ncbi.nlm.nih.gov/40242341/)
+4.  [**Leveraging large language models for complex systems analysis:
+    Opportunities, challenges, and future directions: Comment on “LLMs
+    and generative agent-based models for complex systems research”
+    by Y. Lu et al.**](https://pubmed.ncbi.nlm.nih.gov/40279801/)
 
-    Peña-García VH, LaBeaud AD, Ndenga BA, Mutuku FM, Bisanzio D,
-    Andrews JR, Mordecai EA.
+    Wang Y, Duan X, Pan X, Geng Y.
 
-    R Soc Open Sci. 2025 Apr 16;12(4):241919. doi: 10.1098/rsos.241919.
+    Phys Life Rev. 2025 Apr 21;53:294-296. doi:
+    10.1016/j.plrev.2025.04.003. Online ahead of print.
+
+5.  [**An agent-based model of COVID- 19 in the food industry for
+    assessing public health and economic impacts of infection control
+    strategies.**](https://pubmed.ncbi.nlm.nih.gov/40274946/)
+
+    Henry C, Bulut E, Murphy SI, Zoellner C, Adalja A, Wetherington D,
+    Wiedmann M, Alcaine S, Ivanek R.
+
+    Sci Rep. 2025 Apr 24;15(1):14153. doi: 10.1038/s41598-025-97076-2.
+
+    > To enhance decision-making during future outbreaks, we developed a
+    > customizable agent-based model (FInd CoV Control) that predicts
+    > and counterfactually compares COVID- 19 transmission in a food
+    > production operation under various interventions. The model …
+
+6.  [**Cost-effectiveness of wastewater-based environmental surveillance
+    for SARS-CoV-2 in Blantyre, Malawi and Kathmandu, Nepal: A
+    model-based study.**](https://pubmed.ncbi.nlm.nih.gov/40273116/)
+
+    Mvundura M, Ngwira LG, Shrestha KB, Tuladhar R, Gauld J, Kerr C,
+    Barnes K, Anscombe C, Sharma B, Feasey N.
+
+    PLOS Glob Public Health. 2025 Apr 24;5(4):e0004439. doi:
+    10.1371/journal.pgph.0004439. eCollection 2025.
+
+    > Our study evaluated the potential cost-effectiveness of ES for
+    > SARS-CoV-2 compared with clinical testing alone. We used the
+    > Covasim agent-based model of COVID-19 to simulate disease
+    > transmission for hypothetical populations in Blantyre, Malawi, and
+    > Kathmandu, …
+
+7.  [**A hybrid computational model of cancer spheroid growth with
+    ribose-induced collagen
+    stiffening.**](https://pubmed.ncbi.nlm.nih.gov/40271351/)
+
+    Botticelli M, Metzcar J, Phillips T, Cox S, Keshavanarayana P, Spill
+    F.
+
+    Front Bioeng Biotechnol. 2025 Apr 9;13:1515962. doi:
+    10.3389/fbioe.2025.1515962. eCollection 2025.
+
+    > The ECM’s biochemical composition and mechanical properties, such
+    > as stiffness, regulate cancer cell behaviour and migration
+    > dynamics. Mathematical modelling serves as a pivotal tool for
+    > studying and predicting these complex dynamics, with hybrid
+    > discrete-continuous mod …
+
+8.  [**Evaluating trade-offs between COVID-19 prevention and learning
+    loss: an agent-based simulation
+    analysis.**](https://pubmed.ncbi.nlm.nih.gov/40271137/)
+
+    Chen K, Enns EA.
+
+    R Soc Open Sci. 2025 Apr 23;12(4):231842. doi: 10.1098/rsos.231842.
     eCollection 2025 Apr.
 
-    > Using field data and human activity patterns, we developed an
-    > agent-based model simulating transmission across HH and five types
-    > of NH environments, which was then used to evaluate preventive
-    > (before an epidemic) and reactive (after an epidemic commences)
-    > vec …
+    > Schools implemented a variety of COVID-19 mitigation strategies,
+    > some of which were controversial due to potential disruptions to
+    > in-person learning. We developed an agent-based model of COVID-19
+    > in a US high school setting to evaluate potential trade-offs be …
 
-5.  [**An automated framework for assessing how well LLMs cite relevant
-    medical references.**](https://pubmed.ncbi.nlm.nih.gov/40240349/)
+9.  [**Climate Change, Vectors, and Public Health: Predicting Future
+    Disease Risks in the Federal State
+    Tyrol.**](https://pubmed.ncbi.nlm.nih.gov/40270414/)
 
-    Wu K, Wu E, Wei K, Zhang A, Casasola A, Nguyen T, Riantawan S, Shi
-    P, Ho D, Zou J.
+    Schwaiger A, Neururer S, Hackl WO, Taha H, Schweitzer M, Danler M,
+    Pfeifer B.
 
-    Nat Commun. 2025 Apr 16;16(1):3615. doi: 10.1038/s41467-025-58551-6.
+    Stud Health Technol Inform. 2025 Apr 24;324:213-214. doi:
+    10.3233/SHTI250190.
 
-    > As large language models (LLMs) are increasingly used to address
-    > health-related queries, it is crucial that they support their
-    > conclusions with credible references. While models can cite
-    > sources, the extent to which these support claims remains unclear.
-    > To address t …
+10. [**A new paradigm considering multicellular adhesion, repulsion and
+    attraction represent diverse cellular tile
+    patterns.**](https://pubmed.ncbi.nlm.nih.gov/40258228/)
 
-6.  [**Lung architecture amplifies tissue deposition in an agent-based
-    model of fibrotic
-    development.**](https://pubmed.ncbi.nlm.nih.gov/40236173/)
+    Carrillo JA, Murakawa H, Sato M, Wang M.
 
-    Casey DT, Sosa A, Mori V, Hall JK, Suki B, Smith BJ, Bates JHT.
+    PLoS Comput Biol. 2025 Apr 21;21(4):e1011909. doi:
+    10.1371/journal.pcbi.1011909. Online ahead of print.
 
-    bioRxiv \[Preprint\]. 2025 Apr 6:2025.04.01.646600. doi:
-    10.1101/2025.04.01.646600.
-
-    > We apply a computational methodology known as an agent-based model
-    > (ABM) to simulate cellular behavior as automata. Our ABM is a
-    > tissue maintenance model where agents modify tissue density to
-    > sustain a global mean and variance to represent the cyclic t …
-
-7.  [**Leveraging agent-based modeling and a randomized intervention to
-    advance childhood physical activity: A study
-    protocol.**](https://pubmed.ncbi.nlm.nih.gov/40233067/)
-
-    Kasman M, Sedlak AB, Reader L, Heerman WJ, Pate RR, Ramirez AG,
-    Sommer EC, Barkin SL, Hammond RA.
-
-    PLoS One. 2025 Apr 15;20(4):e0321301. doi:
-    10.1371/journal.pone.0321301. eCollection 2025.
-
-    > This study (1R01HD107002-01A1) protocol describes the planned
-    > creation and use of an agent-based model (ABM) of early childhood
-    > physical activity (PA). Successful early childhood PA
-    > interventions can potentially play an important role in both
-    > increasing overa …
-
-8.  [**Effectiveness of different border control strategies for reducing
-    mpox importation risk: a modelling
-    study.**](https://pubmed.ncbi.nlm.nih.gov/40225333/)
-
-    Jin S, Guan T, Endo A, Gan G, Janhavi A, Hu G, Ejima K, Lim JT,
-    Dickens BL.
-
-    Lancet Reg Health Southeast Asia. 2025 Mar 26;35:100565. doi:
-    10.1016/j.lansea.2025.100565. eCollection 2025 Apr.
-
-    > Border control measures, such as screening and quarantining of
-    > arriving travellers, may help mitigate this risk and prevent
-    > localised outbreaks in the event of global spread. METHODS: We
-    > developed an agent-based model to simulate individual disease
-    > progressio …
-
-9.  [**Fully coupled hybrid in-silico modeling of atherosclerosis: A
-    multi-scale framework integrating CFD, transport phenomena and
-    agent-based modeling.**](https://pubmed.ncbi.nlm.nih.gov/40225118/)
-
-    Caballero R, Martínez MÁ, Peña E.
-
-    Front Bioeng Biotechnol. 2025 Mar 28;13:1549104. doi:
-    10.3389/fbioe.2025.1549104. eCollection 2025.
-
-    > Methods: We developed a hybrid in-silico model integrating
-    > computational fluid dynamics (CFD), mass transport, and
-    > agent-based modeling to simulate plaque progression in coronary
-    > arteries. …Results: Our simulations demonstrate that the
-    > integration of …
-
-10. [**Power asymmetry destabilizes reciprocal cooperation in social
-    dilemmas.**](https://pubmed.ncbi.nlm.nih.gov/40199440/)
-
-    Colnaghi M, Santos FP, Van Lange PAM, Balliet D.
-
-    J Theor Biol. 2025 Apr 6;606:112106. doi:
-    10.1016/j.jtbi.2025.112106. Online ahead of print.
-
-    > Verbal theories have either claimed that power differences enhance
-    > or destabilize cooperation, indicating the need for a
-    > comprehensive theoretical model of how power asymmetries affect
-    > direct reciprocity. Here, we investigate the relationship between
-    > power and cooperation …
+    > We need a mathematical framework to study the mechanisms of such a
+    > transition between hexagonal and tetragonal arrangements. Here, we
+    > propose a new mathematical model based on macroscopic
+    > approximations of agent-based models that produces a similar beh …
 
 ## Code of Conduct
 
