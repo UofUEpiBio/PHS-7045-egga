@@ -9,147 +9,151 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-04-27 00:56:57.
+update was on 2025-05-04 00:59:22.
 
 <div class="cell">
 
 </div>
 
-1.  [**Mathematical Contact Tracing Models for the COVID-19 Pandemic: A
-    Systematic Review of the
-    Literature.**](https://pubmed.ncbi.nlm.nih.gov/40281884/)
+1.  [**Social opinions prediction utilizes fusing dynamics equation with
+    LLM-based agents.**](https://pubmed.ncbi.nlm.nih.gov/40316734/)
 
-    Ocagli H, Brigiari G, Marcolin E, Mongillo M, Tonon M, Da Re F,
-    Gentili D, Michieletto F, Russo F, Gregori D.
+    Yao J, Zhang H, Ou J, Zuo D, Yang Z, Dong Z.
 
-    Healthcare (Basel). 2025 Apr 18;13(8):935. doi:
-    10.3390/healthcare13080935.
+    Sci Rep. 2025 May 3;15(1):15472. doi: 10.1038/s41598-025-99704-3.
 
-    > Most studies used compartmental models to simulate COVID-19
-    > transmission (26, 49.1%), while others used agent-based (16, 34%),
-    > branching processes (5, 9.4%), or other mathematical models (6).
-    > …Conclusions: Despite the significant heterogeneity in the …
+    > This study proposes the Fusing Dynamics Equation-Large Language
+    > Model (FDE-LLM) algorithm. This innovative approach aligns the
+    > actions and evolution of opinions in Large Language Models (LLMs)
+    > with the real-world data on social networks. …The result
+    > demonstrates t …
 
-2.  [**A NLP analysis of digital demand for healthcare jobs in
-    China.**](https://pubmed.ncbi.nlm.nih.gov/40281033/)
+2.  [**Harnessing agent-based frameworks in CellAgentChat to unravel
+    cell-cell interactions from single-cell and spatial
+    transcriptomics.**](https://pubmed.ncbi.nlm.nih.gov/40316422/)
 
-    Chen Y, Zhan X, Yang W, Yan X, Du Y, Zhao T.
+    Raghavan V, Zheng Y, Li Y, Ding J.
 
-    Sci Rep. 2025 Apr 25;15(1):14518. doi: 10.1038/s41598-025-98552-5.
+    Genome Res. 2025 May 2:gr.279771.124. doi: 10.1101/gr.279771.124.
+    Online ahead of print.
 
-    > To extract relevant information from job descriptions, including
-    > required skills, qualifications, and roles, we employed an AI
-    > agent based on the latest ChatGPT model. The model was fine-tuned
-    > using advanced Prompt-Tuning techniques to adapt it to the …
+    > This makes them insensitive in complex environments where the
+    > detailed dynamics of cell interactions matter. We introduce
+    > CellAgentChat, an agent-based model (ABM) designed to decipher
+    > CCIs from single-cell RNA sequencing and spatial transcriptomics
+    > data. Thi …
 
-3.  [**Health in All Networks Simulator: mixed-methods protocol to test
-    social network interventions for resilience, health and well-being
-    of adults in
-    Amsterdam.**](https://pubmed.ncbi.nlm.nih.gov/40280613/)
+3.  [**The key role of cheaters in the persistence of
+    cooperation.**](https://pubmed.ncbi.nlm.nih.gov/40313753/)
 
-    Kaan J, Ulug C, Thompson K, Khaluf Y, Wagemakers A, Moore S.
+    Babajanyan S, Wolf Y, Koonin E, Rochman N.
 
-    BMJ Open. 2025 Apr 25;15(4):e100703. doi:
-    10.1136/bmjopen-2025-100703.
+    Res Sq \[Preprint\]. 2025 Apr 23:rs.3.rs-6280939. doi:
+    10.21203/rs.3.rs-6280939/v1.
 
-    > Taking a mixed-methods approach consisting of a combination of
-    > interviews, group model building workshops and agent-based
-    > modelling with members of two communities in Amsterdam and policy
-    > stakeholders, we will foster a shared learning process while ens …
+    > Here we focus on coevolution of cooperators and cheaters in a
+    > multi-level selection framework, by modeling competition among
+    > groups composed of cooperators and cheaters. Cheaters enjoy a
+    > reproductive advantage over cooperators at the individual level,
+    > independent of the pr …
 
-4.  [**Leveraging large language models for complex systems analysis:
-    Opportunities, challenges, and future directions: Comment on “LLMs
-    and generative agent-based models for complex systems research”
-    by Y. Lu et al.**](https://pubmed.ncbi.nlm.nih.gov/40279801/)
+4.  [**Opportunities and challenges of LLMs in urban science: Comment on
+    “LLMs and generative agent-based models for complex systems
+    research” by Yikang Lu et
+    al.**](https://pubmed.ncbi.nlm.nih.gov/40311458/)
 
-    Wang Y, Duan X, Pan X, Geng Y.
+    Reia SM, Pfoser D, F de Arruda H.
 
-    Phys Life Rev. 2025 Apr 21;53:294-296. doi:
-    10.1016/j.plrev.2025.04.003. Online ahead of print.
+    Phys Life Rev. 2025 Apr 24;53:305-306. doi:
+    10.1016/j.plrev.2025.04.004. Online ahead of print.
 
-5.  [**An agent-based model of COVID- 19 in the food industry for
-    assessing public health and economic impacts of infection control
-    strategies.**](https://pubmed.ncbi.nlm.nih.gov/40274946/)
+5.  [**Agent-based modeling for psychological research on social
+    phenomena.**](https://pubmed.ncbi.nlm.nih.gov/40310198/)
 
-    Henry C, Bulut E, Murphy SI, Zoellner C, Adalja A, Wetherington D,
-    Wiedmann M, Alcaine S, Ivanek R.
+    Jung J, Miller JH, Page SE.
 
-    Sci Rep. 2025 Apr 24;15(1):14153. doi: 10.1038/s41598-025-97076-2.
+    Am Psychol. 2025 Apr 28. doi: 10.1037/amp0001530. Online ahead of
+    print.
 
-    > To enhance decision-making during future outbreaks, we developed a
-    > customizable agent-based model (FInd CoV Control) that predicts
-    > and counterfactually compares COVID- 19 transmission in a food
-    > production operation under various interventions. The model …
+    > This article describes seven potential benefits of incorporating
+    > agent-based modeling (ABM) as a core research methodology for
+    > psychological research on social phenomena: building formal
+    > theories of complex social systems, validating multilevel
+    > causation, und …
 
-6.  [**Cost-effectiveness of wastewater-based environmental surveillance
-    for SARS-CoV-2 in Blantyre, Malawi and Kathmandu, Nepal: A
-    model-based study.**](https://pubmed.ncbi.nlm.nih.gov/40273116/)
+6.  [**Ant foraging: optimizing self-organization as a solution to a
+    traveling salesman
+    problem.**](https://pubmed.ncbi.nlm.nih.gov/40304800/)
 
-    Mvundura M, Ngwira LG, Shrestha KB, Tuladhar R, Gauld J, Kerr C,
-    Barnes K, Anscombe C, Sharma B, Feasey N.
+    Paago N, Zheng W, Nonacs P.
 
-    PLOS Glob Public Health. 2025 Apr 24;5(4):e0004439. doi:
-    10.1371/journal.pgph.0004439. eCollection 2025.
+    Oecologia. 2025 Apr 30;207(5):73. doi: 10.1007/s00442-025-05720-5.
 
-    > Our study evaluated the potential cost-effectiveness of ES for
-    > SARS-CoV-2 compared with clinical testing alone. We used the
-    > Covasim agent-based model of COVID-19 to simulate disease
-    > transmission for hypothetical populations in Blantyre, Malawi, and
-    > Kathmandu, …
+    > Overall, the results are encouraging that evolutionary
+    > optimization models incorporating relevant ant biology can
+    > successfully predict expression of complex group-level behavior….
 
-7.  [**A hybrid computational model of cancer spheroid growth with
-    ribose-induced collagen
-    stiffening.**](https://pubmed.ncbi.nlm.nih.gov/40271351/)
+7.  [**Modeling Singapore’s First African Swine Fever Outbreak in Wild
+    Boar Populations.**](https://pubmed.ncbi.nlm.nih.gov/40303117/)
 
-    Botticelli M, Metzcar J, Phillips T, Cox S, Keshavanarayana P, Spill
-    F.
+    Lim RBH, Heng ZP, Ho K, Koh K, Lim HP, Lim K, Sng W, Tan G, Teo E,
+    Chua TH.
 
-    Front Bioeng Biotechnol. 2025 Apr 9;13:1515962. doi:
-    10.3389/fbioe.2025.1515962. eCollection 2025.
+    Transbound Emerg Dis. 2024 Aug 26;2024:5546893. doi:
+    10.1155/2024/5546893. eCollection 2024.
 
-    > The ECM’s biochemical composition and mechanical properties, such
-    > as stiffness, regulate cancer cell behaviour and migration
-    > dynamics. Mathematical modelling serves as a pivotal tool for
-    > studying and predicting these complex dynamics, with hybrid
-    > discrete-continuous mod …
+    > To understand the transmission dynamics in Singapore’s urban
+    > landscape, an agent-based spatiotemporal model was designed to
+    > mechanistically model the wild boar dispersal and their
+    > interactions for ASF transmission. We investigated the impacts of
+    > wild b …
 
-8.  [**Evaluating trade-offs between COVID-19 prevention and learning
-    loss: an agent-based simulation
-    analysis.**](https://pubmed.ncbi.nlm.nih.gov/40271137/)
+8.  [**Comparative evaluation of methodologies for estimating the
+    effectiveness of non-pharmaceutical interventions in the context of
+    COVID-19: a simulation
+    study.**](https://pubmed.ncbi.nlm.nih.gov/40302107/)
 
-    Chen K, Enns EA.
+    Ganser I, Paireau J, Buckeridge DL, Cauchemez S, Thiébaut R, Prague
+    M.
 
-    R Soc Open Sci. 2025 Apr 23;12(4):231842. doi: 10.1098/rsos.231842.
-    eCollection 2025 Apr.
+    Am J Epidemiol. 2025 Apr 28:kwaf035. doi: 10.1093/aje/kwaf035.
+    Online ahead of print.
 
-    > Schools implemented a variety of COVID-19 mitigation strategies,
-    > some of which were controversial due to potential disruptions to
-    > in-person learning. We developed an agent-based model of COVID-19
-    > in a US high school setting to evaluate potential trade-offs be …
+    > We compared two-step approaches, where NPI effects are regressed
+    > on by-products of a first analysis, such as the effective
+    > reproduction number ℛ<sub>*t*</sub>, with more integrated models
+    > that jointly estimate NPI effects and transmission rates in a
+    > single-step approach. …
 
-9.  [**Climate Change, Vectors, and Public Health: Predicting Future
-    Disease Risks in the Federal State
-    Tyrol.**](https://pubmed.ncbi.nlm.nih.gov/40270414/)
+9.  [**An agent-based model to assess the impact of shared staff and
+    occupancy rate on infectious disease burden in nursing
+    homes.**](https://pubmed.ncbi.nlm.nih.gov/40301788/)
 
-    Schwaiger A, Neururer S, Hackl WO, Taha H, Schweitzer M, Danler M,
-    Pfeifer B.
+    Corkran K, Gómez-Vázquez JP, Arjmand A, Nuño M, Bani-Yaghoub M.
 
-    Stud Health Technol Inform. 2025 Apr 24;324:213-214. doi:
-    10.3233/SHTI250190.
+    BMC Infect Dis. 2025 Apr 30;25(1):635. doi:
+    10.1186/s12879-025-10786-w.
 
-10. [**A new paradigm considering multicellular adhesion, repulsion and
-    attraction represent diverse cellular tile
-    patterns.**](https://pubmed.ncbi.nlm.nih.gov/40258228/)
+    > However, the transmission dynamics of infections, both within
+    > individual nursing homes and across facilities, has been less
+    > investigated. To fill this gap, we developed an agent-based model
+    > of two nursing homes extendible to a network of n nursing homes
+    > conne …
 
-    Carrillo JA, Murakawa H, Sato M, Wang M.
+10. [**Ecology, Spatial Structure, and Selection Pressure Induce Strong
+    Signatures in Phylogenetic
+    Structure.**](https://pubmed.ncbi.nlm.nih.gov/40298478/)
 
-    PLoS Comput Biol. 2025 Apr 21;21(4):e1011909. doi:
-    10.1371/journal.pcbi.1011909. Online ahead of print.
+    Moreno MA, Rodriguez-Papa S, Dolson E.
 
-    > We need a mathematical framework to study the mechanisms of such a
-    > transition between hexagonal and tetragonal arrangements. Here, we
-    > propose a new mathematical model based on macroscopic
-    > approximations of agent-based models that produces a similar beh …
+    Artif Life. 2025 Apr 28:1-24. doi: 10.1162/artl_a\_00470. Online
+    ahead of print.
+
+    > To this end, we analyze phylogenies generated by manipulating
+    > spatial structure, ecology, and selection pressure within three
+    > computational models of varied scope and sophistication. We find
+    > that selection pressure, spatial structure, and ecology have
+    > characteristic effect …
 
 ## Code of Conduct
 
