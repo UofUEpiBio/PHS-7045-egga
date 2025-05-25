@@ -9,13 +9,93 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-05-18 00:59:04.
+update was on 2025-05-25 01:00:27.
 
 <div class="cell">
 
 </div>
 
-1.  [**Agent-Based Healthcare Chatbots for Regional System Services: A
+1.  [**An intelligent guided troubleshooting method for aircraft based
+    on HybirdRAG.**](https://pubmed.ncbi.nlm.nih.gov/40404823/)
+
+    Xie X, Tang X, Gu S, Cui L.
+
+    Sci Rep. 2025 May 22;15(1):17752. doi: 10.1038/s41598-025-02643-2.
+
+    > To enhance aircraft fault diagnosis efficiency, this paper
+    > proposes HybridRAG, an intelligent-guided troubleshooting
+    > framework that integrates knowledge graphs and large language
+    > models (LLMs). Unlike conventional retrieval-augmented generation
+    > (RAG) methods that rely on s …
+
+2.  [**Comparing 3 Evidence-Based Strategies to Reduce Cardiovascular
+    Disease Burden: An Individual-Based Cardiometabolic Policy
+    Simulation.**](https://pubmed.ncbi.nlm.nih.gov/40401607/)
+
+    Lutze S, Bachmeier S, Bowman A, DeCleene N, Jafari H, Kappel M,
+    Kinuthia C, Lindstedt P, Lindstrom M, Mudambi R, Razo C, Swedin K,
+    Flaxman A, Roth G.
+
+    J Am Heart Assoc. 2025 May 22:e039204. doi: 10.1161/JAHA.124.039204.
+    Online ahead of print.
+
+    > We developed a microsimulation that estimates the population-level
+    > benefits in each US state of cardiometabolic interventions.
+    > METHODS: We designed a state-specific agent-based simulation model
+    > with 51 million in silico individuals and estimated results for 2
+    > …
+
+3.  [**The influence of bee movements on patterns of pollen transfer
+    between plants: an exploratory
+    model.**](https://pubmed.ncbi.nlm.nih.gov/40397422/)
+
+    Mailly J, Besognet T, Lihoreau M, Riotte-Lambert L.
+
+    Integr Comp Biol. 2025 May 21:icaf051. doi: 10.1093/icb/icaf051.
+    Online ahead of print.
+
+    > In this exploratory study, we connect pollinator behaviour and
+    > plant reproduction by using an agent-based model of bee movements
+    > implementing reinforcement learning. Simulations of two bees
+    > foraging together in environments containing twenty flowers shows
+    > how …
+
+4.  [**Surrogate modeling of Cellular-Potts Agent-Based Models as a
+    segmentation task using the U-Net neural network
+    architecture.**](https://pubmed.ncbi.nlm.nih.gov/40386573/)
+
+    Comlekoglu T, Toledo-Marín JQ, Comlekoglu T, DeSimone DW, Peirce SM,
+    Fox G, Glazier JA.
+
+    ArXiv \[Preprint\]. 2025 May 5:arXiv:2505.00316v2.
+
+    > The Cellular-Potts model is a powerful and ubiquitous framework
+    > for developing computational models for simulating complex
+    > multicellular biological systems. Cellular-Potts models (CPMs) are
+    > often computationally expensive due to the explicit modeling o …
+
+5.  [**Modeling the 2022 Mpox Outbreak with a Mechanistic Network
+    Model.**](https://pubmed.ncbi.nlm.nih.gov/40386571/)
+
+    Crenshaw EG, Onnela JP.
+
+    ArXiv \[Preprint\]. 2025 May 8:arXiv:2505.05534v1.
+
+    > Given the unprecedented number of mpox infections and the new
+    > route of infection, there was substantial uncertainty about how
+    > best to manage the outbreak. METHODS: We implemented a dynamic
+    > agent-based network model to simulate the spread of mpox in a
+    > United S …
+
+6.  [**Critical intelligence: Computing defensive
+    behaviour.**](https://pubmed.ncbi.nlm.nih.gov/40381896/)
+
+    Brochard J, Dayan P, Bach DR.
+
+    Neurosci Biobehav Rev. 2025 May 15;174:106213. doi:
+    10.1016/j.neubiorev.2025.106213. Online ahead of print.
+
+7.  [**Agent-Based Healthcare Chatbots for Regional System Services: A
     Case Study in the Friuli-Venezia Giulia
     Region.**](https://pubmed.ncbi.nlm.nih.gov/40380543/)
 
@@ -29,7 +109,7 @@ update was on 2025-05-18 00:59:04.
     > (FVG) region. The model is designed to streamline and automate
     > tasks traditionally managed through human intervention. …
 
-2.  [**Gene expression and agent-based modeling improve precision
+8.  [**Gene expression and agent-based modeling improve precision
     prognosis in breast
     cancer.**](https://pubmed.ncbi.nlm.nih.gov/40379718/)
 
@@ -43,7 +123,7 @@ update was on 2025-05-18 00:59:04.
     > in breast cancer development. …The ABM allows us to virtually test
     > di …
 
-3.  [**Cell populations simulated in silico within SimulCell accurately
+9.  [**Cell populations simulated in silico within SimulCell accurately
     reproduce the behaviour of experimental cell
     cultures.**](https://pubmed.ncbi.nlm.nih.gov/40379622/)
 
@@ -58,7 +138,7 @@ update was on 2025-05-18 00:59:04.
     > models to, more recently, creating populations of individual cell
     > agents whose mass, vol …
 
-4.  [**LoxCode in vivo barcoding reveals epiblast clonal fate bias to
+10. [**LoxCode in vivo barcoding reveals epiblast clonal fate bias to
     fetal organs.**](https://pubmed.ncbi.nlm.nih.gov/40378848/)
 
     Weber TS, Biben C, Miles DC, Glaser SP, Tomei S, Lin CY, Kueh A, Pal
@@ -72,92 +152,6 @@ update was on 2025-05-18 00:59:04.
     > limbs, across tissue compartments and body axes. Using a
     > stochastic agent-based model of embryogenesis and LoxCode
     > barcoding, we …
-
-5.  [**Phenotype structuring in collective cell migration: a tutorial of
-    mathematical models and
-    methods.**](https://pubmed.ncbi.nlm.nih.gov/40377698/)
-
-    Lorenzi T, Painter KJ, Villa C.
-
-    J Math Biol. 2025 May 16;90(6):61. doi: 10.1007/s00285-025-02223-y.
-
-    > We set the scene through a brief history of structured population
-    > modelling, and then review the extension of several classic
-    > movement models - including the Fisher-KPP and Keller-Segel
-    > equations - into a PS-PDE form. …First, we show a method to
-    > formally derive th …
-
-6.  [**Coexistence of balance and hierarchies: An ego perspective to
-    explain empirical
-    networks.**](https://pubmed.ncbi.nlm.nih.gov/40375975/)
-
-    Górski PJ, Sulik A, Andres G, Vaccario G, Hołyst JA.
-
-    PNAS Nexus. 2025 Apr 29;4(5):pgaf130. doi:
-    10.1093/pnasnexus/pgaf130. eCollection 2025 May.
-
-    > We demonstrate that integrating the two mechanisms through the
-    > concept of ego dynamics is key to understanding observable
-    > patterns in many social groups. We propose an agent-based model
-    > where dynamical changes result from agents aiming to resolve
-    > inconsistenc …
-
-7.  [**Reducing HIV incidence in the southern US through routine opt-out
-    HIV screening.**](https://pubmed.ncbi.nlm.nih.gov/40372031/)
-
-    Hamilton DT, Hoover KW, Delaney KP.
-
-    AIDS. 2025 May 15. doi: 10.1097/QAD.0000000000004237. Online ahead
-    of print.
-
-    > (EHE) incidence reduction goals in the South. DESIGN: Simulation
-    > Study. METHODS: An agent-based epidemic projection model simulated
-    > adherence to the CDC’s ROOT guidelines. …Interventions included
-    > ROOT in Community Health Center (CHC) and Emergency Departmen …
-
-8.  [**Collective phases and long-term dynamics in a fish school model
-    with burst-and-coast
-    swimming.**](https://pubmed.ncbi.nlm.nih.gov/40357215/)
-
-    Wang W, Escobedo R, Sanchez S, Han Z, Sire C, Theraulaz G.
-
-    R Soc Open Sci. 2025 May 9;12(5):240885. doi: 10.1098/rsos.240885.
-    eCollection 2025 May.
-
-    > Here, we introduce a simplified fish school model in which
-    > individuals have an asynchronous burst-and-coast swimming mode and
-    > selectively interact only with one or two neighbours that exert
-    > the largest influence on their behaviour over a limited spatial
-    > range. …Moreover, …
-
-9.  [**An approach to sociotechnical transparency of social media
-    algorithms using agent-based
-    modelling.**](https://pubmed.ncbi.nlm.nih.gov/40352579/)
-
-    Gausen A, Guo C, Luk W.
-
-    AI Ethics. 2025;5(2):1827-1845. doi: 10.1007/s43681-024-00527-1.
-    Epub 2024 Jul 29.
-
-    > This is a novel application of agent-based modelling to provide
-    > transparency into how the recommendation algorithm prioritises
-    > different curation signals for a topic. (3) This agent-based model
-    > has a novel implementation of a multi-object …
-
-10. [**Quantification of Small-Scale Spatial Patterns in Alpine-Treeline
-    Ecotones.**](https://pubmed.ncbi.nlm.nih.gov/40342717/)
-
-    Flinspach L, Wiegand T, Camarero JJ, Batllori E, Gutiérrez E, Bader
-    MY.
-
-    Ecol Evol. 2025 May 7;15(5):e71186. doi: 10.1002/ece3.71186.
-    eCollection 2025 May.
-
-    > We developed these based on field data from the Spanish Pyrenees
-    > and an extensive dataset of treeline patterns created by the
-    > individual-based Spatial Treeline-Ecotone Model (STEM). We
-    > quantified the abruptness of a treeline by the largest change in
-    > canopy height, determin …
 
 ## Code of Conduct
 
