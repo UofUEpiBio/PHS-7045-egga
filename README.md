@@ -9,13 +9,135 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-05-25 01:00:27.
+update was on 2025-06-01 01:06:51.
 
 <div class="cell">
 
 </div>
 
-1.  [**An intelligent guided troubleshooting method for aircraft based
+1.  [**Agent-based modeling for realistic reproduction of human mobility
+    and contact behavior to evaluate test and isolation strategies in
+    epidemic infectious disease
+    spread.**](https://pubmed.ncbi.nlm.nih.gov/40446545/)
+
+    Kerkmann D, Korf S, Nguyen K, Abele D, Schengen A, Gerstein C,
+    Göbbert JH, Basermann A, Kühn MJ, Meyer-Hermann M.
+
+    Comput Biol Med. 2025 May 29;193:110269. doi:
+    10.1016/j.compbiomed.2025.110269. Online ahead of print.
+
+    > Agent-based models have proven to be useful tools in supporting
+    > decision-making processes in different application domains. …We
+    > present a sophisticated agent-based model to simulate the spread
+    > of respiratory diseases. The model i …
+
+2.  [**Constraining the population size estimates of the pre-Columbian
+    Casarabe Culture of Amazonian
+    Bolivia.**](https://pubmed.ncbi.nlm.nih.gov/40446060/)
+
+    Hirst J, Singarayer JS, Lombardo U, Mayle F.
+
+    PLoS One. 2025 May 30;20(5):e0325104. doi:
+    10.1371/journal.pone.0325104. eCollection 2025.
+
+    > To estimate the population size of this culture, we employed a
+    > multifaceted modelling approach - including architectural
+    > energetics, maximum carrying capacity, and agent-based modelling -
+    > which considers: (i) the number of people needed to build these …
+
+3.  [**Estimated health and economic effects associated with over- and
+    under-exposure to solar ultraviolet radiation in Australia and New
+    Zealand using the SUNEX simulation
+    model.**](https://pubmed.ncbi.nlm.nih.gov/40434562/)
+
+    Collins LG, Elliott TM, Webb A, Reid IR, Sinclair C, Comans T,
+    Karnon J, Foeglein A, van Gorp K, Fanning V, Neale RE.
+
+    Photochem Photobiol Sci. 2025 May 28. doi:
+    10.1007/s43630-025-00726-7. Online ahead of print.
+
+    > Multiple health problems are associated with either over- or
+    > under-exposure to ultraviolet (UV) radiation. Using an agent-based
+    > microsimulation model, we examined the joint health and economic
+    > effects of conditions arising from over-exposure to sunlight
+    > (i.e. …
+
+4.  [**Study on the impact of COVID-19 epidemic and agent disease risk
+    simulation model based on individual factors in Xi’an
+    City.**](https://pubmed.ncbi.nlm.nih.gov/40433669/)
+
+    Dong W, Yao H, Wang WN.
+
+    Front Cell Infect Microbiol. 2025 May 13;15:1547601. doi:
+    10.3389/fcimb.2025.1547601. eCollection 2025.
+
+    > METHODS: To thoroughly understand the epidemic’s outbreak and
+    > transmission traits and formulate timely prevention measures to
+    > fully safeguard human lives and property, this paper presents an
+    > agent - based model incorporating individual - level factors.
+    > RESULT …
+
+5.  [**Proactive Tethering to Prevent Guinea Worm Infections among Dogs
+    in Chad: An Analysis of the Impacts of Timing and Dog
+    Selection.**](https://pubmed.ncbi.nlm.nih.gov/40424994/)
+
+    Smalley H, Keskinocak P, Swann J, Delea MG, Eneanya OA, Weiss A.
+
+    Am J Trop Med Hyg. 2025 May 27:tpmd240673. doi:
+    10.4269/ajtmh.24-0673. Online ahead of print.
+
+    > However, tethering guidelines are not uniformly adhered to across
+    > communities. We adapted an agent-based simulation model to analyze
+    > various proactive tethering scenarios that consider dog selection
+    > methods, time of year, and time of day. …
+
+6.  [**Integrating Human Mobility Models with Epidemic Modeling: A
+    Framework for Generating Synthetic Temporal Contact
+    Networks.**](https://pubmed.ncbi.nlm.nih.gov/40422462/)
+
+    Diallo D, Schoenfeld J, Schmieding R, Korf S, Kühn MJ, Hecking T.
+
+    Entropy (Basel). 2025 May 8;27(5):507. doi: 10.3390/e27050507.
+
+    > Existing solutions typically rely either on empirical studies that
+    > capture fine-grained interactions via Bluetooth or wearable
+    > sensors in confined settings or on large-scale simulation
+    > frameworks that model entire populations using generalized
+    > assumptions. However, for mos …
+
+7.  [**Impact of unequal testing on vaccine effectiveness estimates
+    across two study designs: a simulation
+    study.**](https://pubmed.ncbi.nlm.nih.gov/40413178/)
+
+    Bodner K, Wang L, Kustra R, Kwong JC, Sander B, Sbihi H, Irvine MA,
+    Mishra S.
+
+    Nat Commun. 2025 May 24;16(1):4849. doi: 10.1038/s41467-025-59768-1.
+
+    > Recent research has raised concerns about how a relationship
+    > between testing and vaccination may affect estimates of vaccine
+    > effectiveness against symptomatic infection (symptomatic VE).
+    > Using an agent-based network model and SARS-CoV-2 as an example,
+    > we inve …
+
+8.  [**Investigating the impacts of alcohol outlet zoning policy on
+    alcohol consumption and access to non-alcoholic services: A spatial
+    agent-based
+    simulation.**](https://pubmed.ncbi.nlm.nih.gov/40411920/)
+
+    Ji T, Stankov I, Egan NS, Lich KH, Thornton RLJ, Wang Q, Igusa T,
+    Wei HH, Matson PA.
+
+    Health Place. 2025 May 23;94:103489. doi:
+    10.1016/j.healthplace.2025.103489. Online ahead of print.
+
+    > This study addresses this gap by investigating the impacts of
+    > alcohol outlet zoning policies on alcohol consumption and walkable
+    > access to non-alcoholic services in low-income urban communities
+    > with different baseline densities of liquor and grocery stores. We
+    > developed a spatial …
+
+9.  [**An intelligent guided troubleshooting method for aircraft based
     on HybirdRAG.**](https://pubmed.ncbi.nlm.nih.gov/40404823/)
 
     Xie X, Tang X, Gu S, Cui L.
@@ -28,7 +150,7 @@ update was on 2025-05-25 01:00:27.
     > models (LLMs). Unlike conventional retrieval-augmented generation
     > (RAG) methods that rely on s …
 
-2.  [**Comparing 3 Evidence-Based Strategies to Reduce Cardiovascular
+10. [**Comparing 3 Evidence-Based Strategies to Reduce Cardiovascular
     Disease Burden: An Individual-Based Cardiometabolic Policy
     Simulation.**](https://pubmed.ncbi.nlm.nih.gov/40401607/)
 
@@ -44,114 +166,6 @@ update was on 2025-05-25 01:00:27.
     > METHODS: We designed a state-specific agent-based simulation model
     > with 51 million in silico individuals and estimated results for 2
     > …
-
-3.  [**The influence of bee movements on patterns of pollen transfer
-    between plants: an exploratory
-    model.**](https://pubmed.ncbi.nlm.nih.gov/40397422/)
-
-    Mailly J, Besognet T, Lihoreau M, Riotte-Lambert L.
-
-    Integr Comp Biol. 2025 May 21:icaf051. doi: 10.1093/icb/icaf051.
-    Online ahead of print.
-
-    > In this exploratory study, we connect pollinator behaviour and
-    > plant reproduction by using an agent-based model of bee movements
-    > implementing reinforcement learning. Simulations of two bees
-    > foraging together in environments containing twenty flowers shows
-    > how …
-
-4.  [**Surrogate modeling of Cellular-Potts Agent-Based Models as a
-    segmentation task using the U-Net neural network
-    architecture.**](https://pubmed.ncbi.nlm.nih.gov/40386573/)
-
-    Comlekoglu T, Toledo-Marín JQ, Comlekoglu T, DeSimone DW, Peirce SM,
-    Fox G, Glazier JA.
-
-    ArXiv \[Preprint\]. 2025 May 5:arXiv:2505.00316v2.
-
-    > The Cellular-Potts model is a powerful and ubiquitous framework
-    > for developing computational models for simulating complex
-    > multicellular biological systems. Cellular-Potts models (CPMs) are
-    > often computationally expensive due to the explicit modeling o …
-
-5.  [**Modeling the 2022 Mpox Outbreak with a Mechanistic Network
-    Model.**](https://pubmed.ncbi.nlm.nih.gov/40386571/)
-
-    Crenshaw EG, Onnela JP.
-
-    ArXiv \[Preprint\]. 2025 May 8:arXiv:2505.05534v1.
-
-    > Given the unprecedented number of mpox infections and the new
-    > route of infection, there was substantial uncertainty about how
-    > best to manage the outbreak. METHODS: We implemented a dynamic
-    > agent-based network model to simulate the spread of mpox in a
-    > United S …
-
-6.  [**Critical intelligence: Computing defensive
-    behaviour.**](https://pubmed.ncbi.nlm.nih.gov/40381896/)
-
-    Brochard J, Dayan P, Bach DR.
-
-    Neurosci Biobehav Rev. 2025 May 15;174:106213. doi:
-    10.1016/j.neubiorev.2025.106213. Online ahead of print.
-
-7.  [**Agent-Based Healthcare Chatbots for Regional System Services: A
-    Case Study in the Friuli-Venezia Giulia
-    Region.**](https://pubmed.ncbi.nlm.nih.gov/40380543/)
-
-    Lunardi R, Roitero K, Soprano M, Coppola P, Della Mea V, Mizzaro S.
-
-    Stud Health Technol Inform. 2025 May 15;327:677-681. doi:
-    10.3233/SHTI250434.
-
-    > This paper presents an agent-based model for interacting with
-    > regional healthcare system services in the Friuli-Venezia Giulia
-    > (FVG) region. The model is designed to streamline and automate
-    > tasks traditionally managed through human intervention. …
-
-8.  [**Gene expression and agent-based modeling improve precision
-    prognosis in breast
-    cancer.**](https://pubmed.ncbi.nlm.nih.gov/40379718/)
-
-    Sridharan P, Ghosh M.
-
-    Sci Rep. 2025 May 16;15(1):17059. doi: 10.1038/s41598-025-01275-w.
-
-    > This study offers a new method to improve these predictions by
-    > combining gene expression profiling (GEP) with agent-based
-    > modeling (ABM). First, GEP will pinpoint genes that are important
-    > in breast cancer development. …The ABM allows us to virtually test
-    > di …
-
-9.  [**Cell populations simulated in silico within SimulCell accurately
-    reproduce the behaviour of experimental cell
-    cultures.**](https://pubmed.ncbi.nlm.nih.gov/40379622/)
-
-    Toscano E, Cimmino E, Boccia A, Sepe L, Paolella G.
-
-    NPJ Syst Biol Appl. 2025 May 17;11(1):48. doi:
-    10.1038/s41540-025-00518-w.
-
-    > In silico simulations are used to understand cell behaviour by
-    > means of different approaches and tools, which range from
-    > reproducing average population trends to building lattice-based
-    > models to, more recently, creating populations of individual cell
-    > agents whose mass, vol …
-
-10. [**LoxCode in vivo barcoding reveals epiblast clonal fate bias to
-    fetal organs.**](https://pubmed.ncbi.nlm.nih.gov/40378848/)
-
-    Weber TS, Biben C, Miles DC, Glaser SP, Tomei S, Lin CY, Kueh A, Pal
-    M, Zhang S, Tam PPL, Taoudi S, Naik SH.
-
-    Cell. 2025 May 14:S0092-8674(25)00461-1. doi:
-    10.1016/j.cell.2025.04.026. Online ahead of print.
-
-    > Some epiblast clones contributed broadly across germ layers, while
-    > many were biased toward either blood, ectoderm, mesenchyme, or
-    > limbs, across tissue compartments and body axes. Using a
-    > stochastic agent-based model of embryogenesis and LoxCode
-    > barcoding, we …
 
 ## Code of Conduct
 
