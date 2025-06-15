@@ -9,156 +9,158 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-06-08 01:01:36.
+update was on 2025-06-15 01:02:40.
 
 <div class="cell">
 
 </div>
 
-1.  [**Simulating social dynamics with artificial intelligence: Comment
-    on “LLMs and generative agent-based models for complex systems
-    research” by Yikang Lu et
-    al.**](https://pubmed.ncbi.nlm.nih.gov/40480184/)
+1.  [**ABCD: A Simulation Method for Accelerating Conversational Agents
+    With Applications in Aphasia
+    Therapy.**](https://pubmed.ncbi.nlm.nih.gov/40512969/)
 
-    Rodrigues FA, Rodrigues PG.
+    Imaezue GC, Marampelly H.
 
-    Phys Life Rev. 2025 Jun 2;54:78-79. doi:
-    10.1016/j.plrev.2025.05.011. Online ahead of print.
+    J Speech Lang Hear Res. 2025 Jun 13:1-15. doi:
+    10.1044/2025_JSLHR-25-00003. Online ahead of print.
 
-2.  [**Integrative modeling of the spread of serious infectious diseases
-    and corresponding wastewater
-    dynamics.**](https://pubmed.ncbi.nlm.nih.gov/40479902/)
+    > To address these barriers, we introduce Agent-Based Conversational
+    > Dialogue (ABCD), a novel method for simulating goal-driven natural
+    > spoken dialogues between two conversational artificial
+    > intelligence (AI) agents-AI clinician (Re-Agent) and AI patient
+    > (AI-Aphasic), …
 
-    Schmid N, Bicker J, Hofmann AF, Wallrafen-Sam K, Kerkmann D, Wieser
-    A, Kühn MJ, Hasenauer J.
+2.  [**Case Reports and Artificial Intelligence Challenges on Squamous
+    Cell Carcinoma Developed on Chronic
+    Radiodermitis.**](https://pubmed.ncbi.nlm.nih.gov/40507683/)
 
-    Epidemics. 2025 May 31;51:100836. doi: 10.1016/j.epidem.2025.100836.
-    Online ahead of print.
+    Fekete GL, Iantovics LB, Fekete JE, Fekete L.
 
-    > The COVID-19 pandemic has emphasized the critical need for
-    > accurate disease modeling to inform public health interventions.
-    > Traditional reliance on confirmed infection data is often hindered
-    > by reporting delays and under-reporting, while antigen or antibody
-    > testing of a fu …
+    J Clin Med. 2025 Jun 3;14(11):3921. doi: 10.3390/jcm14113921.
 
-3.  [**Reconstitution of actomyosin networks in cell-sized liposomes
-    reveals distinct mechanical roles of cytoskeletal organization in
-    membrane shape
-    remodeling.**](https://pubmed.ncbi.nlm.nih.gov/40475593/)
+    > There are presented artificial intelligence (AI) challenges
+    > regarding the application of advanced hybrid models in decision
+    > support for diagnosis of difficult radiodermitis cases, in that
+    > intelligent computing must be made in the context of very little
+    > available data, and …
 
-    Miyazaki M, Laboni FS, Kim T.
+3.  [**Institutional Platform for Secure Self-Service Large Language
+    Model Exploration.**](https://pubmed.ncbi.nlm.nih.gov/40502230/)
 
-    bioRxiv \[Preprint\]. 2025 May 22:2025.05.18.654456. doi:
-    10.1101/2025.05.18.654456.
+    Bumgardner VKC, Klusty MA, Logan WV, Armstrong SE, Leach CN, Hickey
+    C, Talbert J.
 
-    > Here, using a minimal reconstituted system with a combination of
-    > agent-based computational model, we show that while actin-membrane
-    > coupling strength determines the magnitude of membrane
-    > deformation, its balance with actin network connectivity governs
-    > the ble …
+    AMIA Jt Summits Transl Sci Proc. 2025 Jun 10;2025:105-114.
+    eCollection 2025.
 
-4.  [**Fine-Tuning of Material Properties by Catch
-    Bonds.**](https://pubmed.ncbi.nlm.nih.gov/40472916/)
+    > The paper outlines the system’s architecture and key features,
+    > encompassing dataset curation, model training, secure inference,
+    > and text-based feature extraction. We illustrate the establishment
+    > of a tenant-aware computational network using agent-based method …
 
-    Rabbi MF, Koenderink GH, Mulla Y, Kim T.
+4.  [**Study of combination CAR T-cell treatment for glioblastoma using
+    mathematical modeling.**](https://pubmed.ncbi.nlm.nih.gov/40502133/)
 
-    Acta Biomater. 2025 Jun 3:S1742-7061(25)00411-8. doi:
-    10.1016/j.actbio.2025.06.004. Online ahead of print.
+    Li R, Barish M, Gutova M, Brown CE, Rockne RC, Cho H.
 
-    > The mechanical and kinetic properties of the cross-linkers
-    > significantly affect the rheological properties of the actin
-    > cytoskeleton. Here, we employed an agent-based model to elucidate
-    > how the force-dependent behaviors of the cross-linkers determine
-    > the mate …
+    bioRxiv \[Preprint\]. 2025 Jun 8:2025.06.04.657886. doi:
+    10.1101/2025.06.04.657886.
 
-5.  [**Toxic behaviour facilitates echo chammber formation: An
-    agent-based modelling simulation of science attitudes based on
-    Spiral of Silence
-    Theory.**](https://pubmed.ncbi.nlm.nih.gov/40471997/)
+    > Our hybrid model, created using the multicellular modeling
+    > platform PhysiCell, couples partial differential equations that
+    > describe the tumor microenvironment with agent-based models for
+    > glioblastoma and CAR T-cells. The model captures ce …
 
-    Bainbridge TF, Ryan M, Golley S, Kakoschke N, Brindal E.
+5.  [**Astrocyte reprogramming drives tumor progression and chemotherapy
+    resistance in agent-based models of breast cancer brain
+    metastases.**](https://pubmed.ncbi.nlm.nih.gov/40501625/)
 
-    PLoS One. 2025 Jun 5;20(6):e0323849. doi:
-    10.1371/journal.pone.0323849. eCollection 2025.
+    Kaur R, Barker-Clarke R, Dhawan A.
 
-    > In the current paper, we introduce the Pro- and Anti-Science
-    > Opinions Model (PASOM)-an agent-based model where agents decide
-    > between a pro- or anti-science view on a single science-based
-    > topic. …Initial simulations showed that toxic behaviour in the …
+    bioRxiv \[Preprint\]. 2025 Jun 6:2025.06.05.654750. doi:
+    10.1101/2025.06.05.654750.
 
-6.  [**Multi-agent systems powered by large language models:
-    applications in swarm
-    intelligence.**](https://pubmed.ncbi.nlm.nih.gov/40469074/)
+    > Among resident brain cells, astrocytes are both the most common,
+    > and are increasingly recognized as key regulators of this process,
+    > yet their precise role remains poorly defined. Here, we present a
+    > hybrid agent-based model (ABM) to simulate tumor-astrocyte in …
 
-    Jimenez-Romero C, Yegenoglu A, Blum C.
+6.  [**Single-cell imaging reveals spontaneous phenotypic sorting and
+    bet-hedging in developing
+    biofilms.**](https://pubmed.ncbi.nlm.nih.gov/40501608/)
 
-    Front Artif Intell. 2025 May 21;8:1593017. doi:
-    10.3389/frai.2025.1593017. eCollection 2025.
+    Tai JB, Nam KM, Li C, Nijjer J, Zhang S, Waters CM, Yan J.
 
-    > This work examines the integration of large language models (LLMs)
-    > into multi-agent simulations by replacing the hard-coded programs
-    > of agents with LLM-driven prompts. …Our work demonstrates how this
-    > toolchain enables LLMs to study self-organizing processes and
-    > induce em …
+    bioRxiv \[Preprint\]. 2025 Jun 7:2025.06.03.657734. doi:
+    10.1101/2025.06.03.657734.
 
-7.  [**Will electric vehicle battery reconditioning succeed? - A
-    flexible simulation approach considering stakeholders’
-    interests.**](https://pubmed.ncbi.nlm.nih.gov/40466308/)
+    > Combining single-lineage tracing, mutant analysis, and agent-based
+    > modeling, we reveal that this pattern arises from differential
+    > viscosity and surface friction mediated by matrix-dependent
+    > interactions between cells and their microenvironments. …
 
-    Huster S, Heck R, Rudi A, Rosenberg S, Schultmann F.
+7.  [**Predicting potential recovery of the endangered bromeliad
+    Tillandsia utriculata: An agent-based modeling
+    approach.**](https://pubmed.ncbi.nlm.nih.gov/40493719/)
 
-    J Environ Manage. 2025 Jun 3;389:125783. doi:
-    10.1016/j.jenvman.2025.125783. Online ahead of print.
+    Campbell AM, Kula AC, Jabaily RS, Oberle B, Sidoti B, Capaldi A,
+    Bodine EN.
 
-    > This study introduces a flexible simulation model combining
-    > discrete event and agent-based elements to estimate the long-term
-    > demand and supply of reconditioned electric vehicle batteries up
-    > to 2050. The model considers economic and regulatory factors, …
+    PLoS Comput Biol. 2025 Jun 10;21(6):e1013157. doi:
+    10.1371/journal.pcbi.1013157. Online ahead of print.
 
-8.  [**Analyzing the parallelization and structural impact of machine
-    learning algorithms in social networks: a simulation-based
-    approach.**](https://pubmed.ncbi.nlm.nih.gov/40458739/)
+    > Importantly, the rosette size at induction is correlated with the
+    > number of seeds produced. We have constructed an agent-based model
+    > to simulate the dynamics of a Florida T. utriculata population
+    > over many generations where the minimum rosettes size required …
 
-    Banihashemi S, Veksler K, Abhari A.
+8.  [**Quantitative multi-pathway assessment of exposure to Escherichia
+    coli for infants in Rural
+    Ethiopia.**](https://pubmed.ncbi.nlm.nih.gov/40489547/)
 
-    Simulation. 2025 Jun;101(6):681-701. doi: 10.1177/00375497241298962.
-    Epub 2024 Dec 6.
+    Wang Y, Yang Y, Slanzi CM, Li X, Ojeda A, Paro F, Deblais L, Yakubu
+    H, Hassen BM, Game H, Roba KT, Schieber E, Ibrahim AM, Wolyie J,
+    Hassen JY, Rajashekara G, McKune SL, Havelaar AH, Moe CL, Liang S.
 
-    > We then investigated the effects of various machine learning (ML)
-    > algorithms employed in the applications to be used as
-    > recommendations to decision-making users. A novel agent-based
-    > social network simulator called distributed system and multinode
-    > processing is devel …
+    PLoS Negl Trop Dis. 2025 Jun 9;19(6):e0013154. doi:
+    10.1371/journal.pntd.0013154. Online ahead of print.
 
-9.  [**Environmental strategies increase the resilience of extensive
-    livestock systems to adverse climate
-    conditions.**](https://pubmed.ncbi.nlm.nih.gov/40450947/)
+    > Concurrently, we collected 1338 environmental samples from key
+    > contact interfaces between infants, other people, and the
+    > environment to test for E. coli. We used a competing hazard model
+    > for duration-based behaviors, an inhomogeneous Poisson point
+    > process model for …
 
-    Soler-Navarro DJ, Tenza-Peral A, Janssen MA, Giménez A, Pérez-Ibarra
-    I.
+9.  [**Agent-based modeling for personalized prediction of an
+    experimental immune response to immunotherapeutic
+    antibodies.**](https://pubmed.ncbi.nlm.nih.gov/40489506/)
 
-    J Environ Manage. 2025 May 31;388:126004. doi:
-    10.1016/j.jenvman.2025.126004. Online ahead of print.
+    Matalon O, Perissinotto A, Baruch K, Braiman S, Geiger Maor A, Yoles
+    E, Wilczynski E, Nevo U, Priel A.
 
-    > This study presents an agent-based model to assess the resilience
-    > and ecological, economic, and social sustainability of three
-    > extensive livestock system archetypes: subsistence, commercial,
-    > and environmental. Subsistence focuses on traditional practices,
-    > com …
+    PLoS One. 2025 Jun 9;20(6):e0324618. doi:
+    10.1371/journal.pone.0324618. eCollection 2025.
 
-10. [**Simulating social network-based interventions for adolescent
-    cigarette smoking.**](https://pubmed.ncbi.nlm.nih.gov/40449410/)
+    > In this work we developed and tested the ability of an Agent-Based
+    > Model (ABM) to predict the ex vivo immune response of memory T
+    > cells to anti-PD-L1 blocking antibody, based on personalized
+    > immune-phenotypes. We performed mixed lymphocyte reaction (MLR)
+    > expe …
 
-    Lakon CM, Wang C, Hipp JR, Butts CT.
+10. [**Agent-based simulations reveal the possibility of multiple rapid
+    northern routes for the second Neanderthal dispersal from Western to
+    Eastern Eurasia.**](https://pubmed.ncbi.nlm.nih.gov/40489482/)
 
-    Soc Sci Med. 2025 May 15;380:118196. doi:
-    10.1016/j.socscimed.2025.118196. Online ahead of print.
+    Coco E, Iovita R.
 
-    > We utilize a simulation approach that first estimates Stochastic
-    > Actor-Oriented models (SAOM) of adolescent smoking using data from
-    > two of the largest schools from the longitudinal saturation sample
-    > of the National Study of Adolescent to Adult Health (Add Health)
-    > (n = 3,15 …
+    PLoS One. 2025 Jun 9;20(6):e0325693. doi:
+    10.1371/journal.pone.0325693. eCollection 2025.
+
+    > In particular, climate change in this period modified landscapes
+    > considerably, changing the cost of moving in different directions.
+    > Here, we apply agent-based least-cost path simulations for the
+    > first time to Neanderthals, showing that they most likely took a
+    > northe …
 
 ## Code of Conduct
 
