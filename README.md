@@ -9,154 +9,156 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-06-22 01:02:13.
+update was on 2025-06-29 01:03:34.
 
 <div class="cell">
 
 </div>
 
-1.  [**Proliferation and regeneration of the healthy human urothelium: A
-    multi-scale simulation approach with 16 hypotheses of cell
-    differentiation.**](https://pubmed.ncbi.nlm.nih.gov/40540513/)
+1.  [**Evolutionary unpredictability in cancer model
+    systems.**](https://pubmed.ncbi.nlm.nih.gov/40579452/)
 
-    Siegel F, Torelli A, Mattis M, Debatin J, Erben P, Gumbel M.
+    Chattopadhyay S, Karlsson J, Ferro M, Mañas A, Kanzaki R, Fredlund
+    E, Murphy AJ, Morton CL, Andersson N, Woolard MA, Hansson K, Radke
+    K, Davidhoff AM, Mohlin S, Pietras K, Bexell D, Gisselsson D.
 
-    PLoS One. 2025 Jun 20;20(6):e0325132. doi:
-    10.1371/journal.pone.0325132. eCollection 2025.
+    Sci Rep. 2025 Jun 27;15(1):20334. doi: 10.1038/s41598-025-07407-6.
 
-    > Here an agent-based computer simulation based on the
-    > Glazier-Graner-Hogeweg (GGH) approach were developed and tested on
-    > 16 hypotheses of proliferation and differentiation mechanisms of
-    > the healthy urothelial tissue in steady state and tissue
-    > regeneration. A fitness- …
+    > This lack of predictability is also reflected in many experimental
+    > cancer model systems, begging the question of whether certain
+    > biological aspects of cancer (eg. growth, evolution etc.) can ever
+    > be anticipated or if there remains an inherent unpredictability to
+    > cancer, si …
 
-2.  [**Dissecting the physics of bacterial biofilms with agent-based
-    simulations.**](https://pubmed.ncbi.nlm.nih.gov/40538632/)
+2.  [**Mimicking cancer therapy in an agent-based model: The case of
+    hepatoblastoma.**](https://pubmed.ncbi.nlm.nih.gov/40578125/)
 
-    Nam KM, Li C, Cockx BJR, Nguyen DT, Li Y, Kreft JU, Yan J.
+    Ravoni A, Mastrostefano E, Kappler R, Armengol C, Castiglione F,
+    Nardini C.
 
-    Curr Opin Solid State Mater Sci. 2025 Jul;37:101228. doi:
-    10.1016/j.cossms.2025.101228. Epub 2025 May 31.
+    Comput Methods Programs Biomed. 2025 Jun 25;269:108917. doi:
+    10.1016/j.cmpb.2025.108917. Online ahead of print.
 
-    > This has, in turn, necessitated the development of modeling
-    > approaches that can pinpoint the mechanistic origins of this
-    > organization. In this review, we discuss the use of agent-based
-    > models (ABMs) as a general framework for simulating the
-    > development …
+    > METHODS: In this work, we use a well-established agent-based model
+    > of the immune response now equipped with anti-cancer therapy
+    > response to study the evolution of the disease and the role of the
+    > immune system in its containment. …CONCLUSIONS: The capacity o …
 
-3.  [**Analyzing diffusion-limited processes in a cylinder using
-    pair-correlation
-    functions.**](https://pubmed.ncbi.nlm.nih.gov/40534005/)
+3.  [**Value-Based Pricing of Resmetirom for Metabolic
+    Dysfunction-Associated Steatotic Liver
+    Disease.**](https://pubmed.ncbi.nlm.nih.gov/40577015/)
 
-    Binder BJ.
+    Le P, Dasarathy S, Herman WH, Adekunle OA, Tran HT, Criswell V, Ye
+    W, Welch N, Yue Y, Rothberg MB.
 
-    Phys Rev E. 2025 May;111(5-1):054106. doi:
-    10.1103/PhysRevE.111.054106.
+    JAMA Netw Open. 2025 Jun 2;8(6):e2517122. doi:
+    10.1001/jamanetworkopen.2025.17122.
 
-    > Our analysis provides a comprehensive examination of PCF
-    > variability, distinguishing between global deviations from
-    > complete spatial randomness state and sampling-induced variation.
-    > An off-lattice agent-based model is implemented, successfully
-    > reproducing sel …
-
-4.  [**Agent-based modeling of complex molecular
-    mechanisms.**](https://pubmed.ncbi.nlm.nih.gov/40532479/)
-
-    Riggi M, Iwasa JH.
-
-    Semin Cell Dev Biol. 2025 Jun 17;172:103626. doi:
-    10.1016/j.semcdb.2025.103626. Online ahead of print.
-
-    > While several multiscale methods are increasingly capable of
-    > connecting across scales, bridging molecular and cellular levels
-    > remains a challenge. Agent-based modeling (ABM) is a computational
-    > paradigm that models a complex system and its emergent prop …
-
-5.  [**Covid-19 in hospitals: Studying influencing factors through
-    agent-based modelling.**](https://pubmed.ncbi.nlm.nih.gov/40531947/)
-
-    Michaelides P, Sarkadi Ş.
-
-    PLoS One. 2025 Jun 18;20(6):e0326350. doi:
-    10.1371/journal.pone.0326350. eCollection 2025.
-
-    > General preventive policies are not necessarily effective;
-    > however, agent-based modelling can offer a way to tailor policies
-    > in such specific settings. In this paper, we develop an
-    > agent-based model to simulate a hospital as a multi-agent …
-
-6.  [**Assessing the efficiency of the bovine brucellosis
-    surveillance-control system in a disease-free context through
-    agent-based modelling.**](https://pubmed.ncbi.nlm.nih.gov/40528235/)
-
-    Mlala S, Picault S, Sala C, Villard P, Vinard JL, Hénaux V.
-
-    Vet Res. 2025 Jun 17;56(1):120. doi: 10.1186/s13567-025-01549-1.
-
-    > This study aimed to: (1) evaluate the detection delay of bovine
-    > brucellosis for current and alternative surveillance systems
-    > following its reintroduction; and (2) estimate the associated
-    > surveillance and control costs. A mechanistic, stochastic,
-    > agent-based simulati …
-
-7.  [**Uncovering the impact of randomness in HIV hotspot formation: A
-    mathematical modeling
-    study.**](https://pubmed.ncbi.nlm.nih.gov/40523005/)
-
-    Yamamoto N, Citron DT, Mwalili SM, Gathungu DK, Cuadros DF,
-    Bershteyn A.
-
-    PLoS Comput Biol. 2025 Jun 16;21(6):e1013178. doi:
-    10.1371/journal.pcbi.1013178. Online ahead of print.
-
-    > To explore this, we applied a network-based HIV transmission
-    > model, focusing on randomness in the spatial structure of the
-    > epidemic. METHODS: We adapted a previously validated agent-based
-    > network HIV transmission model, EMOD-HIV, to simulate HIV spread …
-
-8.  [**Stage specific immune responses to schistosomes may explain
-    conflicting results in malaria-schistosome coinfection
-    studies.**](https://pubmed.ncbi.nlm.nih.gov/40520249/)
-
-    Rollason S, Riley E, Lello J.
-
-    Infect Dis Model. 2025 May 20;10(4):1003-1018. doi:
-    10.1016/j.idm.2025.05.008. eCollection 2025 Dec.
-
-    > Schistosomes stimulate different immune components in early versus
-    > late infection. Using agent-based modelling we explore whether
-    > stage of infection could be a factor explaining the conflicting
-    > coinfection outcomes. Effects of schistosomes on blood stage mala
+    > DESIGN, SETTING, AND PARTICIPANTS: This economic evaluation used
+    > an agent-based state-transition microsimulation model with a
+    > yearly cycle and 14 distinct histologically defined health states:
+    > metabolic dysfunction-associated steatotic liver disease (MALSD) o
     > …
 
-9.  [**ABCD: A Simulation Method for Accelerating Conversational Agents
-    With Applications in Aphasia
-    Therapy.**](https://pubmed.ncbi.nlm.nih.gov/40512969/)
+4.  [**Modeling the impact of health care worker masking to reduce
+    nosocomial SARS-CoV-2 transmission under varying adherence,
+    prevalence, and transmission
+    settings.**](https://pubmed.ncbi.nlm.nih.gov/40576073/)
 
-    Imaezue GC, Marampelly H.
+    Whiteley TD, Stimson J, Brown CS, Robotham JV, Evans S.
 
-    J Speech Lang Hear Res. 2025 Jun 13:1-15. doi:
-    10.1044/2025_JSLHR-25-00003. Online ahead of print.
+    Infect Control Hosp Epidemiol. 2025 Jun 27:1-7. doi:
+    10.1017/ice.2025.78. Online ahead of print.
 
-    > To address these barriers, we introduce Agent-Based Conversational
-    > Dialogue (ABCD), a novel method for simulating goal-driven natural
-    > spoken dialogues between two conversational artificial
-    > intelligence (AI) agents-AI clinician (Re-Agent) and AI patient
-    > (AI-Aphasic), …
+    > OBJECTIVES: To understand the scenarios where health care worker
+    > (HCW) masking is most impactful for preventing nosocomial
+    > transmission. METHODS: A mathematical agent-based model of
+    > nosocomial spread with masking interventions. Masking adherence,
+    > community pr …
 
-10. [**Case Reports and Artificial Intelligence Challenges on Squamous
-    Cell Carcinoma Developed on Chronic
-    Radiodermitis.**](https://pubmed.ncbi.nlm.nih.gov/40507683/)
+5.  [**Web Application for Simulation of an Agent-Based Model in
+    NetLogo3D.**](https://pubmed.ncbi.nlm.nih.gov/40575249/)
 
-    Fekete GL, Iantovics LB, Fekete JE, Fekete L.
+    Perumal CD, Nofal A, Kolber BJ, Miller Neilan R.
 
-    J Clin Med. 2025 Jun 3;14(11):3921. doi: 10.3390/jcm14113921.
+    Spora. 2025;11(1):64-75. doi: 10.61403/2473-5493.1107. Epub 2025 Mar
+    27.
 
-    > There are presented artificial intelligence (AI) challenges
-    > regarding the application of advanced hybrid models in decision
-    > support for diagnosis of difficult radiodermitis cases, in that
-    > intelligent computing must be made in the context of very little
-    > available data, and …
+    > Agent-based models (ABMs) are computer simulation models for
+    > studying systems of autonomous agents. …The web application
+    > enables users to modify parameters, run simulations, visualize
+    > output, and export data without interacting with the model’ …
+
+6.  [**The adaptive state determines the impact of mutations on evolving
+    populations.**](https://pubmed.ncbi.nlm.nih.gov/40569384/)
+
+    Tyczynska Weh M, Kumar P, Marusyk V, Marusyk A, Basanta D.
+
+    Proc Natl Acad Sci U S A. 2025 Jul;122(26):e2427070122. doi:
+    10.1073/pnas.2427070122. Epub 2025 Jun 26.
+
+    > To systematically study the impact of the interplay between the
+    > adaptive state of a population on the ability of asexual
+    > populations to adapt, we used a spatial agent-based model of a
+    > neoplastic population adapting to a selection pressure of
+    > continuous exposu …
+
+7.  [**Neurocognitive Outcomes After Extracranial Surgery and General
+    Anesthesia in Patients with a History of Mild-to-Moderate Traumatic
+    Brain Injury: Systemic Review and
+    Meta-Analysis.**](https://pubmed.ncbi.nlm.nih.gov/40563891/)
+
+    Khan ZA, Duran TA, Sumsuzzman DM, Ju LS, Seubert CN, Martynyuk AE.
+
+    Biology (Basel). 2025 May 31;14(6):640. doi:
+    10.3390/biology14060640.
+
+    > We systematically searched five databases for studies examining
+    > cognitive function in patients with mild-to-moderate TBI with
+    > (participant) or without (control) subsequent extracranial
+    > surgeries/GA. A random effects model was applied to calculate mean
+    > differences (MDs) and …
+
+8.  [**Simulation and prediction of rural population changes using
+    agent-based modeling.**](https://pubmed.ncbi.nlm.nih.gov/40549741/)
+
+    Huang S, Huang Y, Bao S, Wang J, Chen S.
+
+    PLoS One. 2025 Jun 23;20(6):e0324563. doi:
+    10.1371/journal.pone.0324563. eCollection 2025.
+
+    > Many studies emphasize large-scale macro-population trends, but a
+    > noticeable gap exists in micro-level simulations and predictions
+    > regarding rural population size and structure. This study employs
+    > an agent-based model(ABM), defining a population agent and its …
+
+9.  [**General collections demography model with multiple
+    risks.**](https://pubmed.ncbi.nlm.nih.gov/40546973/)
+
+    Grau-Bové J, Andrews M.
+
+    Humanit Soc Sci Commun. 2025;12(1):889. doi:
+    10.1057/s41599-025-05325-6. Epub 2025 Jun 21.
+
+    > This paper presents an Agent-Based Model (ABM) with Monte Carlo
+    > sampling, designed to simulate the deterioration processes within
+    > a population of objects over time. The model incorporates damage
+    > functions with the risk parameters of the ABC framework t …
+
+10. [**Dual-layer coordination framework for urban mining: Integration
+    of social network analysis and multi-agent
+    systems.**](https://pubmed.ncbi.nlm.nih.gov/40544817/)
+
+    Chen L, Gao M, Liang K, Appolloni A.
+
+    J Environ Manage. 2025 Jun 21;390:126211. doi:
+    10.1016/j.jenvman.2025.126211. Online ahead of print.
+
+    > This study examines the dual-layer coordination among four key
+    > agents-supplying, recycling and sorting, reuse, and
+    > regulatory-using multi-period game theory and a heterogeneous
+    > social network model. By integrating these models with a
+    > multi-agent based …
 
 ## Code of Conduct
 
