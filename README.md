@@ -9,156 +9,156 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-06-29 01:03:34.
+update was on 2025-07-06 01:02:37.
 
 <div class="cell">
 
 </div>
 
-1.  [**Evolutionary unpredictability in cancer model
-    systems.**](https://pubmed.ncbi.nlm.nih.gov/40579452/)
+1.  [**Prediction of metastatic potential of heterogeneous pancreatic
+    ductal adenocarcinoma through gradient-based
+    algorithms.**](https://pubmed.ncbi.nlm.nih.gov/40610282/)
 
-    Chattopadhyay S, Karlsson J, Ferro M, Mañas A, Kanzaki R, Fredlund
-    E, Murphy AJ, Morton CL, Andersson N, Woolard MA, Hansson K, Radke
-    K, Davidhoff AM, Mohlin S, Pietras K, Bexell D, Gisselsson D.
+    Rema P, Ramesh A, Appukuttan M, Manju BR.
 
-    Sci Rep. 2025 Jun 27;15(1):20334. doi: 10.1038/s41598-025-07407-6.
+    Pancreatology. 2025 Jun 28:S1424-3903(25)00143-7. doi:
+    10.1016/j.pan.2025.06.017. Online ahead of print.
 
-    > This lack of predictability is also reflected in many experimental
-    > cancer model systems, begging the question of whether certain
-    > biological aspects of cancer (eg. growth, evolution etc.) can ever
-    > be anticipated or if there remains an inherent unpredictability to
-    > cancer, si …
+    > METHODS: An in silico, multiscale framework was developed,
+    > combining an agent-based model of subclone proliferation,
+    > migration, quiescence, and apoptosis with continuum
+    > reaction-diffusion equations for oxygen, nutrients, extracellular
+    > matrix, and chemoattract …
 
-2.  [**Mimicking cancer therapy in an agent-based model: The case of
-    hepatoblastoma.**](https://pubmed.ncbi.nlm.nih.gov/40578125/)
+2.  [**A case study of agent-based modeling of cytoskeletal
+    processes.**](https://pubmed.ncbi.nlm.nih.gov/40609194/)
 
-    Ravoni A, Mastrostefano E, Kappler R, Armengol C, Castiglione F,
-    Nardini C.
+    Cortes DB.
 
-    Comput Methods Programs Biomed. 2025 Jun 25;269:108917. doi:
-    10.1016/j.cmpb.2025.108917. Online ahead of print.
+    Semin Cell Dev Biol. 2025 Jul 2;172:103625. doi:
+    10.1016/j.semcdb.2025.103625. Online ahead of print.
 
-    > METHODS: In this work, we use a well-established agent-based model
-    > of the immune response now equipped with anti-cancer therapy
-    > response to study the evolution of the disease and the role of the
-    > immune system in its containment. …CONCLUSIONS: The capacity o …
+    > Still, even with the most recent advancements in technique and
+    > technology, some hypotheses remain just out of reach by in vivo
+    > and in vitro experimentation alone. Mathematical modeling is a
+    > long-standing method for the exploration of the physical sciences,
+    > chemistry and ph …
 
-3.  [**Value-Based Pricing of Resmetirom for Metabolic
-    Dysfunction-Associated Steatotic Liver
-    Disease.**](https://pubmed.ncbi.nlm.nih.gov/40577015/)
+3.  [**Health and Economic Impact of Periodic Hepatitis C Virus Testing
+    Among People Who Inject
+    Drugs.**](https://pubmed.ncbi.nlm.nih.gov/40608305/)
 
-    Le P, Dasarathy S, Herman WH, Adekunle OA, Tran HT, Criswell V, Ye
-    W, Welch N, Yue Y, Rothberg MB.
+    Zhu L, Furukawa NW, Thompson WW, Reitsma MB, Randall LM, Van Handel
+    M, Asher AK, Valverde E, Linas BP, Salomon JA.
 
-    JAMA Netw Open. 2025 Jun 2;8(6):e2517122. doi:
-    10.1001/jamanetworkopen.2025.17122.
+    JAMA Health Forum. 2025 Jul 3;6(7):e251870. doi:
+    10.1001/jamahealthforum.2025.1870.
 
-    > DESIGN, SETTING, AND PARTICIPANTS: This economic evaluation used
-    > an agent-based state-transition microsimulation model with a
-    > yearly cycle and 14 distinct histologically defined health states:
-    > metabolic dysfunction-associated steatotic liver disease (MALSD) o
-    > …
+    > DESIGN, SETTING, AND PARTICIPANTS: This cost-effectiveness
+    > analysis extended a previously published agent-based network
+    > simulation model of HCV transmission through the sharing of
+    > injection equipment among PWID. …
 
-4.  [**Modeling the impact of health care worker masking to reduce
-    nosocomial SARS-CoV-2 transmission under varying adherence,
-    prevalence, and transmission
-    settings.**](https://pubmed.ncbi.nlm.nih.gov/40576073/)
+4.  [**On the construction of artificial general intelligence based on
+    the correspondence between goals and
+    means.**](https://pubmed.ncbi.nlm.nih.gov/40607451/)
 
-    Whiteley TD, Stimson J, Brown CS, Robotham JV, Evans S.
+    Prudkov P.
 
-    Infect Control Hosp Epidemiol. 2025 Jun 27:1-7. doi:
-    10.1017/ice.2025.78. Online ahead of print.
+    Front Artif Intell. 2025 Jun 18;8:1588726. doi:
+    10.3389/frai.2025.1588726. eCollection 2025.
 
-    > OBJECTIVES: To understand the scenarios where health care worker
-    > (HCW) masking is most impactful for preventing nosocomial
-    > transmission. METHODS: A mathematical agent-based model of
-    > nosocomial spread with masking interventions. Masking adherence,
-    > community pr …
+    > The development of an AGI agent may be similar to human growth
+    > from an infant to an adult. A model including a simple agent based
+    > on the new architecture, is considered. In the model the agent
+    > wanders in a quadrangular field filled with various objects …
 
-5.  [**Web Application for Simulation of an Agent-Based Model in
-    NetLogo3D.**](https://pubmed.ncbi.nlm.nih.gov/40575249/)
+5.  [**Evolution of temperature preference behaviour among Drosophila
+    larvae.**](https://pubmed.ncbi.nlm.nih.gov/40606755/)
 
-    Perumal CD, Nofal A, Kolber BJ, Miller Neilan R.
+    Kafle T, Grub M, Sakagiannis P, Nawrot MP, Arguello JR.
 
-    Spora. 2025;11(1):64-75. doi: 10.61403/2473-5493.1107. Epub 2025 Mar
-    27.
+    iScience. 2025 May 31;28(7):112809. doi: 10.1016/j.isci.2025.112809.
+    eCollection 2025 Jul 18.
 
-    > Agent-based models (ABMs) are computer simulation models for
-    > studying systems of autonomous agents. …The web application
-    > enables users to modify parameters, run simulations, visualize
-    > output, and export data without interacting with the model’ …
+    > Among insects, Drosophila melanogaster is a preeminent ectothermic
+    > model for temperature sensing and thermotaxis. However, little is
+    > known about how its temperature-related behaviors have evolved in
+    > comparison to its closely related species. …Consistent with local
+    > adapta …
 
-6.  [**The adaptive state determines the impact of mutations on evolving
-    populations.**](https://pubmed.ncbi.nlm.nih.gov/40569384/)
+6.  [**The impact of sample retention and further analysis on doping
+    behavior and detection: evidence from agent-based
+    simulations.**](https://pubmed.ncbi.nlm.nih.gov/40606274/)
 
-    Tyczynska Weh M, Kumar P, Marusyk V, Marusyk A, Basanta D.
+    Westmattelmann D, Sprenger M, Lanfer J, Stoffers B, Petróczi A.
 
-    Proc Natl Acad Sci U S A. 2025 Jul;122(26):e2427070122. doi:
-    10.1073/pnas.2427070122. Epub 2025 Jun 26.
+    Front Sports Act Living. 2025 Jun 18;7:1578929. doi:
+    10.3389/fspor.2025.1578929. eCollection 2025.
 
-    > To systematically study the impact of the interplay between the
-    > adaptive state of a population on the ability of asexual
-    > populations to adapt, we used a spatial agent-based model of a
-    > neoplastic population adapting to a selection pressure of
-    > continuous exposu …
+    > Sample Retention and Further Analysis (SFA), which allows samples
+    > to be stored for up to ten years for future testing, offers a
+    > potential strategy to close this gap by increasing both detection
+    > and deterrence of doping. METHODS: This study employs an
+    > agent-based …
 
-7.  [**Neurocognitive Outcomes After Extracranial Surgery and General
-    Anesthesia in Patients with a History of Mild-to-Moderate Traumatic
-    Brain Injury: Systemic Review and
-    Meta-Analysis.**](https://pubmed.ncbi.nlm.nih.gov/40563891/)
+7.  [**Modelling the joint effects of single occupancy and N95
+    respirators on COVID-19 outbreaks in hospital
+    wards.**](https://pubmed.ncbi.nlm.nih.gov/40602726/)
 
-    Khan ZA, Duran TA, Sumsuzzman DM, Ju LS, Seubert CN, Martynyuk AE.
+    Zachreson C, Schofield R, Marshall C, Kainer M, Buising K, Monty J,
+    Sullivan S, Subbarao K, Geard N.
 
-    Biology (Basel). 2025 May 31;14(6):640. doi:
-    10.3390/biology14060640.
+    J Hosp Infect. 2025 Jun 30:S0195-6701(25)00198-7. doi:
+    10.1016/j.jhin.2025.06.014. Online ahead of print.
 
-    > We systematically searched five databases for studies examining
-    > cognitive function in patients with mild-to-moderate TBI with
-    > (participant) or without (control) subsequent extracranial
-    > surgeries/GA. A random effects model was applied to calculate mean
-    > differences (MDs) and …
+    > Structural controls such as single-occupancy patient rooms, or
+    > routine precautions such as the use of N95 respirators by
+    > healthcare staff can play an important role in preventing and
+    > mitigating outbreaks. METHODS: This study applies an agent-based
+    > extension of the W …
 
-8.  [**Simulation and prediction of rural population changes using
-    agent-based modeling.**](https://pubmed.ncbi.nlm.nih.gov/40549741/)
+8.  [**Impact of kindergarten structures on the dynamics of hand, foot,
+    and mouth disease and the effects of intervention strategies: an
+    agent-based modeling
+    study.**](https://pubmed.ncbi.nlm.nih.gov/40598409/)
 
-    Huang S, Huang Y, Bao S, Wang J, Chen S.
+    Zou Q, Shi XF, Liang CW, Ma MM, Li JH, Gu J, Lai YS.
 
-    PLoS One. 2025 Jun 23;20(6):e0324563. doi:
-    10.1371/journal.pone.0324563. eCollection 2025.
+    BMC Med. 2025 Jul 1;23(1):357. doi: 10.1186/s12916-025-04207-7.
 
-    > Many studies emphasize large-scale macro-population trends, but a
-    > noticeable gap exists in micro-level simulations and predictions
-    > regarding rural population size and structure. This study employs
-    > an agent-based model(ABM), defining a population agent and its …
+    > Kindergarten structures (i.e., class size and kindergarten size)
+    > may influence the transmission dynamics and the effectiveness of
+    > non-pharmaceutical interventions (NPIs), but few studies have
+    > explored these effects. METHODS: We developed an agent-based
+    > network mo …
 
-9.  [**General collections demography model with multiple
-    risks.**](https://pubmed.ncbi.nlm.nih.gov/40546973/)
+9.  [**Over- and under-estimation of vaccine
+    effectiveness.**](https://pubmed.ncbi.nlm.nih.gov/40597698/)
 
-    Grau-Bové J, Andrews M.
+    De-Leon H, Aran D.
 
-    Humanit Soc Sci Commun. 2025;12(1):889. doi:
-    10.1057/s41599-025-05325-6. Epub 2025 Jun 21.
+    BMC Med Res Methodol. 2025 Jul 1;25(1):163. doi:
+    10.1186/s12874-025-02611-4.
 
-    > This paper presents an Agent-Based Model (ABM) with Monte Carlo
-    > sampling, designed to simulate the deterioration processes within
-    > a population of objects over time. The model incorporates damage
-    > functions with the risk parameters of the ABC framework t …
+    > MATERIALS AND METHODS: We developed a novel analytic heterogenous
+    > infection model and extended our agent-based model of disease
+    > spread to allow for heterogenous interactions between vaccinated
+    > and unvaccinated across close-contacts and regions. We appl …
 
-10. [**Dual-layer coordination framework for urban mining: Integration
-    of social network analysis and multi-agent
-    systems.**](https://pubmed.ncbi.nlm.nih.gov/40544817/)
+10. [**Behavioural response of prey to repeated attacks by
+    non-coordinating
+    predators.**](https://pubmed.ncbi.nlm.nih.gov/40594241/)
 
-    Chen L, Gao M, Liang K, Appolloni A.
+    Mohapatra S, Sinha Mahapatra P.
 
-    J Environ Manage. 2025 Jun 21;390:126211. doi:
-    10.1016/j.jenvman.2025.126211. Online ahead of print.
+    Sci Rep. 2025 Jul 2;15(1):22977. doi: 10.1038/s41598-025-05946-6.
 
-    > This study examines the dual-layer coordination among four key
-    > agents-supplying, recycling and sorting, reuse, and
-    > regulatory-using multi-period game theory and a heterogeneous
-    > social network model. By integrating these models with a
-    > multi-agent based …
+    > The current work aims to address this issue using an agent-based
+    > approach employing an underdamped Langevin model. A continuous
+    > transition in prey response from a cohesive escape to
+    > split-and-escape is discussed with respect to the angular
+    > configuration of th …
 
 ## Code of Conduct
 
