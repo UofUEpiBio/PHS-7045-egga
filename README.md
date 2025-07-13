@@ -9,156 +9,157 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-07-06 01:02:37.
+update was on 2025-07-13 01:04:39.
 
 <div class="cell">
 
 </div>
 
-1.  [**Prediction of metastatic potential of heterogeneous pancreatic
-    ductal adenocarcinoma through gradient-based
-    algorithms.**](https://pubmed.ncbi.nlm.nih.gov/40610282/)
+1.  [**Diffusion of tracer particles in early growing biofilms a
+    computer simulation
+    study.**](https://pubmed.ncbi.nlm.nih.gov/40644794/)
 
-    Rema P, Ramesh A, Appukuttan M, Manju BR.
+    Daza FAG, Rodríguez-Rivas Á, Govantes F, Cuetos A.
 
-    Pancreatology. 2025 Jun 28:S1424-3903(25)00143-7. doi:
-    10.1016/j.pan.2025.06.017. Online ahead of print.
+    Colloids Surf B Biointerfaces. 2025 Jul 7;255:114903. doi:
+    10.1016/j.colsurfb.2025.114903. Online ahead of print.
 
-    > METHODS: An in silico, multiscale framework was developed,
-    > combining an agent-based model of subclone proliferation,
-    > migration, quiescence, and apoptosis with continuum
-    > reaction-diffusion equations for oxygen, nutrients, extracellular
-    > matrix, and chemoattract …
+    > At these initial stages, bacterial colonies form two-dimensional
+    > structures that expand through cell growth and division. Employing
+    > an agent-based computational model (IbM), we analyze the passive
+    > diffusion of a spherical tracer within colonies of varying com …
 
-2.  [**A case study of agent-based modeling of cytoskeletal
-    processes.**](https://pubmed.ncbi.nlm.nih.gov/40609194/)
+2.  [**Commitment & cooperation in social dilemmas with diverse
+    individual preferences: An agent-based modeling
+    approach.**](https://pubmed.ncbi.nlm.nih.gov/40644487/)
 
-    Cortes DB.
+    Jiang Z, Yuan L, Wang W, Zhang G, Wang Y.
 
-    Semin Cell Dev Biol. 2025 Jul 2;172:103625. doi:
-    10.1016/j.semcdb.2025.103625. Online ahead of print.
+    PLoS One. 2025 Jul 11;20(7):e0327131. doi:
+    10.1371/journal.pone.0327131. eCollection 2025.
 
-    > Still, even with the most recent advancements in technique and
-    > technology, some hypotheses remain just out of reach by in vivo
-    > and in vitro experimentation alone. Mathematical modeling is a
-    > long-standing method for the exploration of the physical sciences,
-    > chemistry and ph …
+    > Thus, we bring individual differences in their propensities to
+    > cooperate into the reasoning of long-term social dynamics of
+    > cooperation through an agent-based modeling (ABM) approach. Our
+    > results suggest that commitment may still guarantee cooperation
+    > when in …
 
-3.  [**Health and Economic Impact of Periodic Hepatitis C Virus Testing
-    Among People Who Inject
-    Drugs.**](https://pubmed.ncbi.nlm.nih.gov/40608305/)
+3.  [**Modeling the initial impact and predicted future benefits of TCV
+    from two Pakistani
+    provinces.**](https://pubmed.ncbi.nlm.nih.gov/40642389/)
 
-    Zhu L, Furukawa NW, Thompson WW, Reitsma MB, Randall LM, Van Handel
-    M, Asher AK, Valverde E, Linas BP, Salomon JA.
+    Kraay ANM, Yousafzai MT, Qureshi S, Gauld J, Qamar FN.
 
-    JAMA Health Forum. 2025 Jul 3;6(7):e251870. doi:
-    10.1001/jamahealthforum.2025.1870.
+    Lancet Reg Health Southeast Asia. 2025 Apr 28;36:100581. doi:
+    10.1016/j.lansea.2025.100581. eCollection 2025 May.
 
-    > DESIGN, SETTING, AND PARTICIPANTS: This cost-effectiveness
-    > analysis extended a previously published agent-based network
-    > simulation model of HCV transmission through the sharing of
-    > injection equipment among PWID. …
+    > METHODS: We used blood culture-confirmed typhoid cases from the
+    > Surveillance for Enteric Fever in Asia Project (SEAP) and Impact
+    > assessment of Typhoid conjugate vaccine following a catch-up
+    > campaign and introduction in Routine Immunization Program of
+    > Pakistan (ITRIPP) to estimate …
 
-4.  [**On the construction of artificial general intelligence based on
-    the correspondence between goals and
-    means.**](https://pubmed.ncbi.nlm.nih.gov/40607451/)
+4.  [**Wine economy in Byzantine Shivta (Negev, Israel): Exploring the
+    role of runoff agriculture and droughts through Agent-Based
+    Modeling.**](https://pubmed.ncbi.nlm.nih.gov/40638692/)
 
-    Prudkov P.
+    Garty B, Gambash G, Levy ST, Bar-Oz G.
 
-    Front Artif Intell. 2025 Jun 18;8:1588726. doi:
-    10.3389/frai.2025.1588726. eCollection 2025.
+    PLoS One. 2025 Jul 10;20(7):e0325204. doi:
+    10.1371/journal.pone.0325204. eCollection 2025.
 
-    > The development of an AGI agent may be similar to human growth
-    > from an infant to an adult. A model including a simple agent based
-    > on the new architecture, is considered. In the model the agent
-    > wanders in a quadrangular field filled with various objects …
+    > This study focuses on the resilience and adaptability of
+    > viticulture in the hinterland of Shivta, analyzing how climatic
+    > challenges like aridification and drought tested Byzantine water
+    > management strategies. The AGENTS model, developed in NetLogo,
+    > integrates various compo …
 
-5.  [**Evolution of temperature preference behaviour among Drosophila
-    larvae.**](https://pubmed.ncbi.nlm.nih.gov/40606755/)
+5.  [**Diffusion of complex contagions is shaped by a trade-off between
+    reach and
+    reinforcement.**](https://pubmed.ncbi.nlm.nih.gov/40638089/)
 
-    Kafle T, Grub M, Sakagiannis P, Nawrot MP, Arguello JR.
+    Wan A, Riedl C, Lazer D.
 
-    iScience. 2025 May 31;28(7):112809. doi: 10.1016/j.isci.2025.112809.
-    eCollection 2025 Jul 18.
+    Proc Natl Acad Sci U S A. 2025 Jul 15;122(28):e2422892122. doi:
+    10.1073/pnas.2422892122. Epub 2025 Jul 10.
 
-    > Among insects, Drosophila melanogaster is a preeminent ectothermic
-    > model for temperature sensing and thermotaxis. However, little is
-    > known about how its temperature-related behaviors have evolved in
-    > comparison to its closely related species. …Consistent with local
-    > adapta …
+    > Conversely, if adoption does not benefit from social
+    > reinforcement, it should spread more on random networks which
+    > avoid such redundancies. We develop a model of behavior diffusion
+    > with tunable probabilistic adoption and social reinforcement
+    > parameters to systematically ev …
 
-6.  [**The impact of sample retention and further analysis on doping
-    behavior and detection: evidence from agent-based
-    simulations.**](https://pubmed.ncbi.nlm.nih.gov/40606274/)
+6.  [**Exploring the factors underlying adaptive social plasticity in
+    foragers using an agent-based
+    model.**](https://pubmed.ncbi.nlm.nih.gov/40637753/)
 
-    Westmattelmann D, Sprenger M, Lanfer J, Stoffers B, Petróczi A.
+    Prasher S, Hobson EA.
 
-    Front Sports Act Living. 2025 Jun 18;7:1578929. doi:
-    10.3389/fspor.2025.1578929. eCollection 2025.
+    Integr Comp Biol. 2025 Jul 10:icaf126. doi: 10.1093/icb/icaf126.
+    Online ahead of print.
 
-    > Sample Retention and Further Analysis (SFA), which allows samples
-    > to be stored for up to ten years for future testing, offers a
-    > potential strategy to close this gap by increasing both detection
-    > and deterrence of doping. METHODS: This study employs an
-    > agent-based …
+    > We varied the cognitive skills of individuals in an agent-based
+    > model and evaluated changes in how access to a food resource
+    > impacts an informed agent’s social connectedness. We modeled a
+    > social foraging scenario in an arena with one food patch, which …
 
-7.  [**Modelling the joint effects of single occupancy and N95
-    respirators on COVID-19 outbreaks in hospital
-    wards.**](https://pubmed.ncbi.nlm.nih.gov/40602726/)
+7.  [**Agent based modeling of energy consuming rights trading for low
+    carbon transformation in
+    China.**](https://pubmed.ncbi.nlm.nih.gov/40634556/)
 
-    Zachreson C, Schofield R, Marshall C, Kainer M, Buising K, Monty J,
-    Sullivan S, Subbarao K, Geard N.
+    Han F, Li X, Bi X, Gao J, Cao Z, Yang D, Shi F, Jia Y.
 
-    J Hosp Infect. 2025 Jun 30:S0195-6701(25)00198-7. doi:
-    10.1016/j.jhin.2025.06.014. Online ahead of print.
+    Sci Rep. 2025 Jul 9;15(1):24754. doi: 10.1038/s41598-025-10838-w.
 
-    > Structural controls such as single-occupancy patient rooms, or
-    > routine precautions such as the use of N95 respirators by
-    > healthcare staff can play an important role in preventing and
-    > mitigating outbreaks. METHODS: This study applies an agent-based
-    > extension of the W …
+    > As an institutional innovation, Energy-consuming rights trading
+    > (ECRT) addresses China’s energy and environmental challenges while
+    > fostering green transformation. This study employs agent-based
+    > modeling to simulate the dynamic interactions among enterprises, …
 
-8.  [**Impact of kindergarten structures on the dynamics of hand, foot,
-    and mouth disease and the effects of intervention strategies: an
-    agent-based modeling
-    study.**](https://pubmed.ncbi.nlm.nih.gov/40598409/)
+8.  [**Estimating the historical impact of outbreak response
+    immunisation programmes across 210 outbreaks in low and
+    middle-income
+    countries.**](https://pubmed.ncbi.nlm.nih.gov/40633967/)
 
-    Zou Q, Shi XF, Liang CW, Ma MM, Li JH, Gu J, Lai YS.
+    Delport D, Muellenmeister AM, MacKechnie G, Vaccher S, Mengistu T,
+    Hogan D, Abeysuriya RG, Scott N.
 
-    BMC Med. 2025 Jul 1;23(1):357. doi: 10.1186/s12916-025-04207-7.
+    BMJ Glob Health. 2025 Jul 9;10(7):e016887. doi:
+    10.1136/bmjgh-2024-016887.
 
-    > Kindergarten structures (i.e., class size and kindergarten size)
-    > may influence the transmission dynamics and the effectiveness of
-    > non-pharmaceutical interventions (NPIs), but few studies have
-    > explored these effects. METHODS: We developed an agent-based
-    > network mo …
+    > Data were sourced from publicly available outbreak reports and
+    > literature. Agent-based models were calibrated for each disease
+    > such that after controlling for baseline vaccine coverage,
+    > response time, vaccination rate, environmental variables or
+    > endemic preva …
 
-9.  [**Over- and under-estimation of vaccine
-    effectiveness.**](https://pubmed.ncbi.nlm.nih.gov/40597698/)
+9.  [**Distinct evolutionary patterns of tumour-immune escape and
+    elimination determined by extracellular matrix
+    architectures.**](https://pubmed.ncbi.nlm.nih.gov/40631902/)
 
-    De-Leon H, Aran D.
+    Fan Y, George JT.
 
-    BMC Med Res Methodol. 2025 Jul 1;25(1):163. doi:
-    10.1186/s12874-025-02611-4.
+    J R Soc Interface. 2025 Jul;22(228):20250116. doi:
+    10.1098/rsif.2025.0116. Epub 2025 Jul 9.
 
-    > MATERIALS AND METHODS: We developed a novel analytic heterogenous
-    > infection model and extended our agent-based model of disease
-    > spread to allow for heterogenous interactions between vaccinated
-    > and unvaccinated across close-contacts and regions. We appl …
+    > Here, we developed EVO-ACT (EVOlutionary agent-based cancer T-cell
+    > interaction), a two-dimensional agent-based modelling framework
+    > designed to investigate how different TACS architectures impact
+    > tumour evolution and dynamic interactions with CD8 …
 
-10. [**Behavioural response of prey to repeated attacks by
-    non-coordinating
-    predators.**](https://pubmed.ncbi.nlm.nih.gov/40594241/)
+10. [**Random walk based snapshot clustering for detecting community
+    dynamics in temporal
+    networks.**](https://pubmed.ncbi.nlm.nih.gov/40628831/)
 
-    Mohapatra S, Sinha Mahapatra P.
+    Blašković F, Conrad TOF, Klus S, Djurdjevac Conrad N.
 
-    Sci Rep. 2025 Jul 2;15(1):22977. doi: 10.1038/s41598-025-05946-6.
+    Sci Rep. 2025 Jul 8;15(1):24414. doi: 10.1038/s41598-025-09340-0.
 
-    > The current work aims to address this issue using an agent-based
-    > approach employing an underdamped Langevin model. A continuous
-    > transition in prey response from a cohesive escape to
-    > split-and-escape is discussed with respect to the angular
-    > configuration of th …
+    > The evolution of many dynamical systems that describe
+    > relationships or interactions between objects can be effectively
+    > modeled by temporal networks, which are typically represented as a
+    > sequence of static network snapshots. …To validate our approach,
+    > we develop an age …
 
 ## Code of Conduct
 
