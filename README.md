@@ -9,158 +9,160 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-07-27 01:06:09.
+update was on 2025-08-03 01:07:14.
 
 <div class="cell">
 
 </div>
 
-1.  [**Computational and Imaging Approaches for Precision
-    Characterization of Bone, Cartilage, and Synovial
-    Biomolecules.**](https://pubmed.ncbi.nlm.nih.gov/40710415/)
+1.  [**A computational framework for agent-based assessment of multiple
+    environmental
+    exposures.**](https://pubmed.ncbi.nlm.nih.gov/40751024/)
 
-    Kumar R, Sporn K, Prabhakar V, Alnemri A, Khanna A, Paladugu P,
-    Gowda C, Clarkson L, Zaman N, Tavakkoli A.
+    Schmitz O, de Hoogh K, Probst-Hensch N, Jeong A, Flückiger B, Lu M,
+    Ndiaye A, Vienneau D, Hoek G, Kyriakou K, Vermeulen RCH, Karssenberg
+    D.
 
-    J Pers Med. 2025 Jul 9;15(7):298. doi: 10.3390/jpm15070298.
+    J Expo Sci Environ Epidemiol. 2025 Aug 2. doi:
+    10.1038/s41370-025-00799-7. Online ahead of print.
 
-    > This review aims to synthesize recent advances in imaging,
-    > computational modeling, and sequencing technologies that enable
-    > high-resolution, non-invasive characterization of joint tissue
-    > health. …Computational frameworks ranging from convolutional
-    > neural networks to finit …
+    > BACKGROUND: Agent-based assessment of long-term personal exposure
+    > to environmental factors accounts for spatio-temporal variation in
+    > exposures along daily activity tracks of individuals. …METHODS: We
+    > design an agent-based methodology that addresses t …
 
-2.  [**Bridging behavioral theory and household energy decisions:
-    enhancing agent-based models with behavioral
-    analysis.**](https://pubmed.ncbi.nlm.nih.gov/40703743/)
+2.  [**Using machine learning to forecast conflict events for use in
+    forced migration
+    models.**](https://pubmed.ncbi.nlm.nih.gov/40750624/)
 
-    Rietkerk-van der Wijngaart M, de Jager L, Scholz G, Chappin E, de
-    Vries G.
+    Xue Y, Schincariol T, Chadefaux T, Groen D.
 
-    Front Psychol. 2025 Jul 9;16:1568730. doi:
-    10.3389/fpsyg.2025.1568730. eCollection 2025.
+    Sci Rep. 2025 Aug 2;15(1):28202. doi: 10.1038/s41598-025-11812-2.
 
-    > To design effective policy measures that motivate households to
-    > change their behavior in favor of the energy transition,
-    > agent-based models (ABMs) are vital. For ABMs to reach their full
-    > potential in policy design, they must appropriately represent
-    > behavioral …
+    > However, deriving precise conflict forecasts remains difficult, as
+    > many existing methods for conflict prediction are overly coarse in
+    > their spatial and temporal resolution, rendering them inadequate
+    > for integration with displacement models. In this paper, we
+    > propose a hybr …
 
-3.  [**Simulation approach for common female cancers: a brief
-    review.**](https://pubmed.ncbi.nlm.nih.gov/40703544/)
+3.  [**Agent-Based Computational Modeling of the Stochastic Dynamic
+    Behavior of Actin Filaments Recapitulates the Homeostatic Cortical
+    Array in Plant Epidermal
+    Cells.**](https://pubmed.ncbi.nlm.nih.gov/40747835/)
 
-    Shen Y, Li C, Tang MY, Huang ZY.
+    Kim JH, Zhang W, Iyer-Pascuzzi A, Staiger CJ, Kim T.
 
-    Front Oncol. 2025 Jul 9;15:1479225. doi: 10.3389/fonc.2025.1479225.
-    eCollection 2025.
+    Cytoskeleton (Hoboken). 2025 Aug 1. doi: 10.1002/cm.70014. Online
+    ahead of print.
 
-    > Simulation approach involves the use of computers and mathematical
-    > models to simulate real systems for experimentation or tests that
-    > evaluate the behavior and performance of a system or predict the
-    > results of various hypothetical scenarios. …
+    > Here, we used an agent-based computational model to reproduce the
+    > stochastic dynamic behavior of individual actin filaments in
+    > epidermal cells with consideration of key governing factors,
+    > including the nucleation, polymerization, depolymerization,
+    > severing, c …
 
-4.  [**Should public health policy exempt cases with low viral load from
-    isolation during an epidemic?: a modelling
-    study.**](https://pubmed.ncbi.nlm.nih.gov/40703197/)
+4.  [**Thermodynamically consistent, reduced models of gene regulatory
+    networks.**](https://pubmed.ncbi.nlm.nih.gov/40746961/)
 
-    Diao J, Chisholm RH, Geard N, McCaw JM.
+    Pan M, Gawthrop PJ, Faria M, Johnston ST.
 
-    Infect Dis Model. 2025 Jul 9;10(4):1307-1321. doi:
-    10.1016/j.idm.2025.07.003. eCollection 2025 Dec.
+    R Soc Open Sci. 2025 Jul 9;12(7):241725. doi: 10.1098/rsos.241725.
+    eCollection 2025 Jul.
 
-    > In principle, this may allow for more targeted and efficient
-    > isolation strategies to be implemented. Here, we describe a
-    > multi-scale agent-based model developed to investigate how
-    > isolation strategies that account for cases viral loads could be
-    > incorporated i …
+    > To rationally design cell populations, we require mathematical
+    > models that link between intracellular biochemistry and
+    > intercellular interactions. In this study, we develop a kinetic
+    > model of gene expression that is suitable for incorporation into
+    > agent-ba …
 
-5.  [**Effects of mechanical stimuli on bone cells for regenerative
-    medicine: A review of recent experimental and computational
-    methods.**](https://pubmed.ncbi.nlm.nih.gov/40701753/)
+5.  [**Using a large language model (ChatGPT) to assess risk of bias in
+    randomized controlled trials of medical interventions: protocol for
+    a pilot study of interrater agreement with human
+    reviewers.**](https://pubmed.ncbi.nlm.nih.gov/40745627/)
 
-    Wiedemann-Fodé E, Schiavi-Tritz J, Kerdjoudj H, Laurent C.
+    Rose CJ, Bidonde J, Ringsten M, Glanville J, Berg RC, Cooper C,
+    Muller AE, Bergsund HB, Meneses-Echavez JF, Potrebny T.
 
-    Med Eng Phys. 2025 Aug;142:104369. doi:
-    10.1016/j.medengphy.2025.104369. Epub 2025 May 22.
+    BMC Med Res Methodol. 2025 Jul 31;25(1):182. doi:
+    10.1186/s12874-025-02631-0.
 
-    > Lastly, the review offers a detailed analysis of multi-scale and
-    > multi-physics in silico approaches that may contribute to
-    > interpret the obtained experimental results. Agent-based models
-    > capture the discrete behaviour of individual cells, while
-    > continuum m …
+    > Machine learning-based tools have been developed to automate RoB
+    > assessment using simple models trained on limited corpuses.
+    > ChatGPT is a conversational agent based on a large language model
+    > (LLM) that was trained on an internet-scale corpus and has de …
 
-6.  [**EpiGeoPop: a tool for developing spatially accurate country-level
-    epidemiological
-    models.**](https://pubmed.ncbi.nlm.nih.gov/40696036/)
+6.  [**HPV DNA screening and vaccination strategies in
+    Tunisia.**](https://pubmed.ncbi.nlm.nih.gov/40745454/)
 
-    Herriott L, Capel HL, Ellmen I, Schofield N, Zhu J, Lambert B,
-    Gavaghan D, Bouros I, Creswell R, Gallagher K.
+    Lahdhiri A, Benzina B, Ennaifer E, Tounsi H, Gzara A, Rammeh-Rommani
+    S, Laraj O, Arfaoui H, Stuart R, Kebir A, BenMiled S.
 
-    Sci Rep. 2025 Jul 22;15(1):26663. doi: 10.1038/s41598-025-11999-4.
+    Sci Rep. 2025 Jul 31;15(1):27916. doi: 10.1038/s41598-025-13423-3.
 
-    > Mathematical models play a crucial role in understanding the
-    > spread of infectious disease outbreaks and influencing policy
-    > decisions. …Agent-based models (ABMs) have emerged as a valuable
-    > tool, capturing population heterogeneity and spatial effects, …
+    > A cost-effectiveness analysis was conducted from the perspective
+    > of the Tunisian healthcare system using the HPVsim model, a
+    > multi-agent-based simulation tool that captures HPV transmission
+    > dynamics and cervical cancer progression. …Academic literature and
+    > …
 
-7.  [**Improving policy-oriented agent-based modeling with history
-    matching: A case
-    study.**](https://pubmed.ncbi.nlm.nih.gov/40695109/)
+7.  [**Comparison of HIV self-test distribution modalities to reduce HIV
+    transmission and burden in western Kenya: a mathematical modelling
+    study.**](https://pubmed.ncbi.nlm.nih.gov/40744510/)
 
-    O’Gara D, Kerr CC, Klein DJ, Binois M, Garnett R, Hammond RA.
+    Kim HY, Eshun-Wilson I, Bridenbecker D, Johnson C, Kisia C, Magare
+    JO, Geng EH, Bershteyn A.
 
-    Epidemics. 2025 Jul 16;52:100845. doi: 10.1016/j.epidem.2025.100845.
-    Online ahead of print.
+    BMJ Open. 2025 Jul 30;15(7):e102999. doi:
+    10.1136/bmjopen-2025-102999.
 
-    > One recent example is the COVID-19 pandemic, where epidemiological
-    > agent-based models informed policy and response planning
-    > worldwide. Throughout, modeling teams often had to spend valuable
-    > time and effort aligning their models to data, also kno …
+    > OBJECTIVES: To compare the impact of different HIV self-testing
+    > (HIVST) distribution modalities on population-level HIV outcomes.
+    > DESIGN: Mathematical modelling study. SETTING: Six counties in
+    > western Kenya. METHODS: We projected population-level HIV outcomes
+    > among individ …
 
-8.  [**Lightweight Network Enhancing High-Resolution Feature
-    Representation for Efficient Low Dose CT
-    Denoising.**](https://pubmed.ncbi.nlm.nih.gov/40690345/)
+8.  [**Multitask deep learning for the emulation and calibration of an
+    agent-based malaria transmission
+    model.**](https://pubmed.ncbi.nlm.nih.gov/40743314/)
 
-    Li J, Li Y, Qi F, Wang S, Zhang Z, Huang Z, Yu Z.
+    Mondal A, Anirudh R, Selvaraj P.
 
-    IEEE J Biomed Health Inform. 2025 Jul 21;PP. doi:
-    10.1109/JBHI.2025.3591427. Online ahead of print.
+    PLoS Comput Biol. 2025 Jul 31;21(7):e1013330. doi:
+    10.1371/journal.pcbi.1013330. Online ahead of print.
 
-    > Low-dose computed tomography plays a crucial role in reducing
-    > radiation exposure in clinical imaging, however, the resultant
-    > noise significantly impacts image quality and diagnostic
-    > precision. Recent transformer-based models have demonstrated
-    > strong denoising capabilities …
+    > Agent-based models of malaria transmission are useful tools for
+    > understanding disease dynamics and planning interventions, but
+    > they can be computationally intensive to calibrate. We present a
+    > multitask deep learning approach for emulating and calibrating a
+    > co …
 
-9.  [**Spatio-Temporal SIR Model of Pandemic Spread During Warfare with
-    Optimal Dual-use Health Care System Administration using Deep
-    Reinforcement
-    Learning.**](https://pubmed.ncbi.nlm.nih.gov/40686043/)
+9.  [**Kinetic Theory of Decentralized Learning for Smart Active
+    Matter.**](https://pubmed.ncbi.nlm.nih.gov/40742966/)
 
-    Shuchami A, Lazebnik T.
+    Jung G, Ozawa M, Bertin E.
 
-    Disaster Med Public Health Prep. 2025 Jul 21;19:e197. doi:
-    10.1017/dmp.2025.10062.
+    Phys Rev Lett. 2025 Jun 20;134(24):248302. doi: 10.1103/5m44-kwhv.
 
-    > METHODS: We proposed a novel mathematical model that integrates
-    > the epidemiological SIR (susceptible-infected-recovered) model
-    > with the war dynamics Lanchester model to explore the dual
-    > influence of war and pandemic on a population’s mortality.
-    > Moreover, we c …
+    > We apply the theory to two different microscopic models where
+    > policies correspond either to fixed parameters similar to
+    > evolutionary dynamics or to state-dependent controllers known from
+    > the field of robotics. We find good agreement between theoretical
+    > predictions and a …
 
-10. [**\[Progress in application of compartment model-related combined
-    models in infectious disease
-    prediction\].**](https://pubmed.ncbi.nlm.nih.gov/40677197/)
+10. [**Leveraging MDS2 and SBOM data for LLM-assisted vulnerability
+    analysis of medical
+    devices.**](https://pubmed.ncbi.nlm.nih.gov/40741342/)
 
-    Hu WH, Sun HM, Chang YK, Chen JW, Du ZC, Wei YY, Hao YT.
+    Stein S, Pilgermann M, Weber S, Sedlmayr M.
 
-    Zhonghua Liu Xing Bing Xue Za Zhi. 2025 Jul 10;46(7):1289-1296. doi:
-    10.3760/cma.j.cn112338-20241128-00756.
+    Comput Struct Biotechnol J. 2025 Jul 17;28:267-280. doi:
+    10.1016/j.csbj.2025.07.012. eCollection 2025.
 
-    > Methods such as compartmental models, agent-based models, time
-    > series models, and machine learning can be used for the prediction
-    > of infectious disease incidence. …Current research related to
-    > combined models mainly focus on machine lear …
+    > The objective was to assess whether a modular, Large Language
+    > Model (LLM)-driven agent system could autonomously correlate
+    > device metadata with known vulnerabilities and existing exploit
+    > information to support structured threat modeling. …This study
+    > further discus …
 
 ## Code of Conduct
 
