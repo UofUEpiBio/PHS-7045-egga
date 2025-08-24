@@ -9,152 +9,157 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-08-17 01:01:51.
+update was on 2025-08-24 00:59:47.
 
 <div class="cell">
 
 </div>
 
-1.  [**Learned Insignificance of Credibility
-    Signs.**](https://pubmed.ncbi.nlm.nih.gov/40810257/)
+1.  [**A Spatially Dynamic Agent-Based Model for Assessing The Effect of
+    Gentrification-Induced Migration and HIV Transmission among
+    Heterosexual African American/Black
+    Women.**](https://pubmed.ncbi.nlm.nih.gov/40840569/)
 
-    Kainz V, Sulik J, Utz S, Enßlin T.
+    Nolen S, Bessey SE, Howe CJ, Rice BM, Biello KB, Marshall BDL.
 
-    Cogn Sci. 2025 Aug;49(8):e70102. doi: 10.1111/cogs.70102.
+    Ann Epidemiol. 2025 Aug 19:S1047-2797(25)00221-2. doi:
+    10.1016/j.annepidem.2025.08.007. Online ahead of print.
 
-    > Crucially, we show how this happens even when individuals engage
-    > in rational belief updating and have access to objective cues of
-    > deception. Using an agent-based model, the Reputation Game
-    > Simulation, we show that mere misinformation is not the problem:
-    > The d …
+    > PURPOSE: Develop a spatially dynamic agent-based model to assess
+    > the impact of gentrification-induced migration on HIV transmission
+    > among heterosexual African American/Black women. METHODS: We
+    > simulated a population of heterosexual African American/Black adul
+    > …
 
-2.  [**Cognitively-plausible reinforcement learning in epidemiological
-    agent-based
-    simulations.**](https://pubmed.ncbi.nlm.nih.gov/40791982/)
+2.  [**Migrating mesoderm cells self-organize into a dynamic meshwork
+    structure during chick
+    gastrulation.**](https://pubmed.ncbi.nlm.nih.gov/40839526/)
 
-    Mitsopoulos K, Baker L, Lebiere C, Pirolli P, Orr M, Vardavas R.
+    Nakaya Y, Tarama M, Tasaki S, Isomura-Matoba A, Shibata T.
 
-    Front Epidemiol. 2025 Jul 28;5:1563731. doi:
-    10.3389/fepid.2025.1563731. eCollection 2025.
+    Elife. 2025 Aug 21;14:e84749. doi: 10.7554/eLife.84749. Online ahead
+    of print.
 
-    > To accurately reflect these dynamics, epidemiological simulation
-    > models should endogenously account for both disease transmission
-    > and behavioral dynamics. Traditional agent-based models (ABMs)
-    > often rely on simplified rules to represent behavior, limit …
+    > To investigate how this meshwork arises, we utilized an
+    > agent-based theoretical model, which suggests that cell
+    > elongation, cell-cell adhesion, and cell density are the key
+    > parameters for the meshwork formation. …
 
-3.  [**Bifurcation in the healing or fibrotic response in a network
-    model of fibrosis: role of the initial injury
-    structure.**](https://pubmed.ncbi.nlm.nih.gov/40786135/)
+3.  [**V-Cornea: A computational model of corneal epithelium
+    homeostasis, injury, and
+    recovery.**](https://pubmed.ncbi.nlm.nih.gov/40832335/)
 
-    Israel E, Hall JK, Deng Y, Bates JHT, Suki B.
+    Vanin J, Getz M, Mahony C, Knudsen TB, Glazier JA.
 
-    Front Netw Physiol. 2025 Jul 25;5:1589216. doi:
-    10.3389/fnetp.2025.1589216. eCollection 2025.
+    bioRxiv \[Preprint\]. 2025 Aug 14:2025.08.11.669602. doi:
+    10.1101/2025.08.11.669602.
 
-    > METHODS: In this study, we investigated a previously published
-    > agent-based spring network model of PF that exhibited bifurcation
-    > behavior between healing and fully developed fibrosis as network
-    > members were gradually stiffened. …
+    > METHODS: V-Cornea is an agent-based computer simulation
+    > implemented in CompuCell3D that models corneal epithelial
+    > homeostasis and injury response. …Following simulated trauma or
+    > toxicant exposure, the model accurately predicts healing
+    > timeframes of 3 …
 
-4.  [**Tolerant integrated reciprocity sustains cooperation in a noisy
-    environment.**](https://pubmed.ncbi.nlm.nih.gov/40775540/)
+4.  [**Capturing Argument in Agent-Based
+    Models.**](https://pubmed.ncbi.nlm.nih.gov/40831775/)
 
-    Yamamoto H, Okada I, Suzuki T.
+    Assaad L, Fuchs R, Phillips K, Schöppl K, Hahn U.
 
-    Sci Rep. 2025 Aug 7;15(1):28912. doi: 10.1038/s41598-025-14538-3.
+    Topoi (Dordr). 2025;44(3):675-693. doi: 10.1007/s11245-025-10215-2.
+    Epub 2025 Jun 6.
 
-    > However, the existing literature has paid limited attention to the
-    > contextual factors and mechanisms supporting the coexistence of
-    > direct and indirect reciprocity. This study proposes and analyses
-    > a model of integrated reciprocity that combines personal
-    > experiences with re …
+    > Agent-based models (ABMs) are widely used to study the complex
+    > dynamics and emergent properties of systems with many interacting
+    > agents. …This paper argues that such ABMs can capture rich
+    > argumentation scenarios in ways that have not been covered in
+    > researc …
 
-5.  [**Agent-based modelling of the early stages of actin polymerisation
-    required to drive endocytosis in Saccharomyces
-    cerevisiae.**](https://pubmed.ncbi.nlm.nih.gov/40775504/)
+5.  [**Digital twins as self-models for intelligent
+    structures.**](https://pubmed.ncbi.nlm.nih.gov/40830380/)
 
-    Hancock LP, Allwood EG, Palmer JS, Ayscough KR, Williamson MP.
+    Shen X, Wagg DJ, Tipuric M, Bonney MS.
 
-    Sci Rep. 2025 Aug 7;15(1):28951. doi: 10.1038/s41598-025-14248-w.
+    Sci Rep. 2025 Aug 19;15(1):30327. doi: 10.1038/s41598-025-14347-8.
 
-    > Its complexity means that many aspects remain poorly understood.
-    > We have developed an agent-based model covering key components of
-    > actin filament generation in endocytosis in Saccharomyces
-    > cerevisiae. …The model yields relative rates and affinities f …
+    > A self-model is an artificial intelligence that is able to create
+    > a continuously updated internal representation of itself. In this
+    > paper we use an agent-based architecture to create a ‘digital twin
+    > self-model’, using the example of a small-scale three …
 
-6.  [**Topological classification of tumour-immune interactions and
-    dynamics.**](https://pubmed.ncbi.nlm.nih.gov/40762719/)
+6.  [**Agent-based modeling of macrophage-fibroblast interactions in the
+    immune response to
+    biomaterials.**](https://pubmed.ncbi.nlm.nih.gov/40828805/)
 
-    Yang J, Fang H, Dhesi J, Yoon IHR, Bull JA, Byrne HM, Harrington HA,
-    Grindstaff G.
+    Riccio J, Presotto L, Bahiri S, Doniza L, Inverso D, Sironi L, Nevo
+    U, Chirico G.
 
-    J Math Biol. 2025 Aug 5;91(3):25. doi: 10.1007/s00285-025-02253-6.
+    PLoS One. 2025 Aug 19;20(8):e0329186. doi:
+    10.1371/journal.pone.0329186. eCollection 2025.
 
-    > To demonstrate the approach, synthetic data are generated from an
-    > agent-based model with varying parameters. We compare the
-    > performance of topological summaries in predicting-with logistic
-    > regression at various time steps-whether tumour niches surrounding
-    > blo …
+    > In the past, simulation works have focused only on the description
+    > of the phenotype transition from M1 to M2 for macrophages,
+    > possibly connected to physiological and pathological conditions
+    > (e.g. hypoxia), but neglecting the relevant macrophage/fibroblast
+    > interaction. Our long te …
 
-7.  [**Modelling Mobility of Hunter-Gatherer Populations: A Dynamic
-    Simulation Approach Based on Cellular
-    Automata.**](https://pubmed.ncbi.nlm.nih.gov/40761390/)
+7.  [**Biswas-Chatterjee-Sen kinetic exchange opinion model for two
+    connected groups.**](https://pubmed.ncbi.nlm.nih.gov/40826619/)
 
-    Hewitt RJ, Alcaraz-Castaño M, Hernandez VC, Morley MW.
+    Suchecki K, Biswas K, Hołyst JA, Sen P.
 
-    J Archaeol Method Theory. 2025;32(4):57. doi:
-    10.1007/s10816-025-09726-4. Epub 2025 Aug 2.
+    Phys Rev E. 2025 Jul;112(1-1):014304. doi: 10.1103/l8z9-f4p9.
 
-    > Most least cost models also assume that origin points, destination
-    > points, or both, are known in advance, limiting their utility for
-    > exploring movement potential in landscapes where evidence for
-    > occupation is scarce. This research addresses these limitations
-    > through an …
+    > We consider a kinetic model of opinion dynamics known as the
+    > Biswas-Chatterjee-Sen model with a modular interaction structure.
+    > …The limits of system interaction strength and noise for the
+    > stability of such a state are determined, with a discontinuous
+    > transition fr …
 
-8.  [**Modeling of hepatitis B virus infection spread in primary human
-    hepatocytes.**](https://pubmed.ncbi.nlm.nih.gov/40757857/)
+8.  [**Critical habitat size of organisms diffusing with stochastic
+    resetting.**](https://pubmed.ncbi.nlm.nih.gov/40826608/)
 
-    Shi Z, Tsuge M, Collier N, Takeuchi Y, Uchida T, Rutter CM, Teraoka
-    Y, Uprichard SL, Ishida Y, Tateno C, Ozik J, Dahari H, Chayama K.
+    Menon L, de Castro P, Anteneodo C.
 
-    J Virol. 2025 Aug 4:e0092725. doi: 10.1128/jvi.00927-25. Online
-    ahead of print.
+    Phys Rev E. 2025 Jul;112(1-1):014111. doi: 10.1103/z7pp-ms1w.
 
-    > We characterized HBV DNA kinetics in primary human hepatocytes
-    > (PHHs) over 32 days post-inoculation (p.i.) and modified our
-    > in-vivo agent-based modeling (ABM) to gain insights into the HBV
-    > lifecycle and spread in vitro. …In this study, we characterize HBV
-    > v …
+    > We analytically derive the total population growth over time and
+    > the critical patch size. Our results are validated by agent-based
+    > simulations, showing excellent agreement. Our findings demonstrate
+    > that stochastic resetting can either increase or decrease the
+    > critic …
 
-9.  [**Assessing carbon-neutral supercapacitors in renewable energy
-    systems with self-improving agent-based molecular fuzzy intelligent
-    algorithms.**](https://pubmed.ncbi.nlm.nih.gov/40753348/)
+9.  [**Landscape changes elevate the risk of avian influenza virus
+    diversification and emergence in the East Asian-Australasian
+    Flyway.**](https://pubmed.ncbi.nlm.nih.gov/40825116/)
 
-    Castillo O, Dinçer H, Yüksel S, Eti S.
+    Yin S, Zhang C, Teitelbaum CS, Si Y, Zhang G, Wang X, Mao D, Huang
+    ZYX, Frederik de Boer W, Takekawa J, Prosser DJ, Xiao X.
 
-    Sci Rep. 2025 Aug 2;15(1):28234. doi: 10.1038/s41598-025-12924-5.
+    Proc Natl Acad Sci U S A. 2025 Aug 26;122(34):e2503427122. doi:
+    10.1073/pnas.2503427122. Epub 2025 Aug 18.
 
-    > To fill this gap, this study proposes an original decision-making
-    > model to determine the importance levels of variables affecting
-    > the performance of these devices and to present appropriate
-    > investment strategies. The proposed model includes the integrated
-    > use of Ent …
+    > Here, we integrated empirical data and an individual-based model
+    > to simulate AIV transmission in migratory waterfowl and domestic
+    > poultry, including wild-to-poultry spillover and reassortment
+    > dynamics in poultry, across landscapes representing the years 2000
+    > and 2015. …O …
 
-10. [**A computational framework for agent-based assessment of multiple
-    environmental
-    exposures.**](https://pubmed.ncbi.nlm.nih.gov/40751024/)
+10. [**Improving health and housing outcomes through a simulation and
+    economic model: an evidence-based protocol of a group model building
+    approach to develop an agent-based
+    model.**](https://pubmed.ncbi.nlm.nih.gov/40823214/)
 
-    Schmitz O, de Hoogh K, Probst-Hensch N, Jeong A, Flückiger B, Lu M,
-    Ndiaye A, Vienneau D, Hoek G, Kyriakou K, Vermeulen RCH, Karssenberg
-    D.
+    Kline DM, Padmanabhan P, Brewer SE, Cerdá M, Versen E, Keyes KM,
+    Kushel M, Wilson EC, Wesson P, Hyder A, Boyer A, Al-Tayyib A,
+    Barocas JA.
 
-    J Expo Sci Environ Epidemiol. 2025 Aug 2. doi:
-    10.1038/s41370-025-00799-7. Online ahead of print.
+    Front Public Health. 2025 Aug 1;13:1623385. doi:
+    10.3389/fpubh.2025.1623385. eCollection 2025.
 
-    > BACKGROUND: Agent-based assessment of long-term personal exposure
-    > to environmental factors accounts for spatio-temporal variation in
-    > exposures along daily activity tracks of individuals. …METHODS: We
-    > design an agent-based methodology that addresses t …
+    > METHODS AND ANALYSIS: The study will employ Group Model Building
+    > methods and use insights from that process to develop an
+    > agent-based model simulating the dynamic processes contributing to
+    > HIV incidence and treatment, overdose, and life expectancy amon …
 
 ## Code of Conduct
 
