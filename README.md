@@ -9,13 +9,115 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-08-31 00:56:13.
+update was on 2025-09-07 00:55:36.
 
 <div class="cell">
 
 </div>
 
-1.  [**Capillary interactions drive the self-organization of bacterial
+1.  [**Assessment for seawall modifications to mitigate land crabs
+    roadkills from field experiments and agent-based
+    modeling.**](https://pubmed.ncbi.nlm.nih.gov/40907228/)
+
+    Tseng KY, Hsieh YT, Chen YW, Liang TY, Lin HC.
+
+    J Environ Manage. 2025 Sep 3;393:127162. doi:
+    10.1016/j.jenvman.2025.127162. Online ahead of print.
+
+    > The effectiveness of the seawall modification needs to be further
+    > assessed. Agent-base modeling (ABM) can be used to estimate the
+    > behavioral patterns of organisms under various roadkill mitigation
+    > scenarios. …
+
+2.  [**Assortative Mating Is a Natural Consequence of Heritable
+    Variation in Preferences and Preferred
+    Traits.**](https://pubmed.ncbi.nlm.nih.gov/40906709/)
+
+    Harper KT, Zietsch BP.
+
+    Psychol Sci. 2025 Sep 4:9567976251365900. doi:
+    10.1177/09567976251365900. Online ahead of print.
+
+    > Despite numerous proposed explanations, a parsimonious mechanism
+    > has been overlooked: When individuals choose mates on the basis of
+    > heritable traits and preferences, offspring inherit a trait and
+    > the corresponding preference from each parent, creating genetic
+    > correlations that li …
+
+3.  [**The impact of investing in private clinics and pharmacies on
+    modern contraceptive uptake: an agent-based model of a segmented
+    market.**](https://pubmed.ncbi.nlm.nih.gov/40898184/)
+
+    Chen M, Pan Z, Alfonso YN, Bell SO, Bishai D.
+
+    BMC Health Serv Res. 2025 Sep 2;25(1):1177. doi:
+    10.1186/s12913-025-13334-z.
+
+    > Our study quantifies how the balance of relative advantages and
+    > disadvantages might alter levels of contraceptive uptake in
+    > simulated urban and rural markets that present characteristics of
+    > markets throughout many low- and middle-income countries. METHODS:
+    > We used agent- …
+
+4.  [**Towards inclusive risk-informed infrastructure development in
+    expanding cities.**](https://pubmed.ncbi.nlm.nih.gov/40897840/)
+
+    Nocera F, Gamal Y, Wang C, Cremen G.
+
+    Commun Eng. 2025 Sep 2;4(1):161. doi: 10.1038/s44172-025-00494-3.
+
+    > Here, we propose a people-centered decision-making framework for
+    > urban infrastructure development that addresses this issue. The
+    > framework integrates a bespoke agent-based model that accounts for
+    > implications of variations in infrastructure expansion on dynam …
+
+5.  [**Integration of empirical network data and agent-based modelling
+    to examine the risk of equine influenza infection in equine athletes
+    in Ontario, Canada.**](https://pubmed.ncbi.nlm.nih.gov/40897123/)
+
+    Turcotte G, O’Sullivan TL, Rossi TM, Spence KL, Winder CB, Greer AL.
+
+    Prev Vet Med. 2025 Aug 26;245:106665. doi:
+    10.1016/j.prevetmed.2025.106665. Online ahead of print.
+
+    > This study aimed to combine a stochastic, agent-based, SEIR model
+    > for equine influenza disease dynamics with an observed Ontario,
+    > Canada equine contact network structure to quantify the potential
+    > magnitude of equine influenza outbreaks in Ontario competition …
+
+6.  [**Integrating HIV prevention services into care settings for people
+    with opioid use disorder (OUD): a study protocol for implementation
+    strategy development and
+    modeling.**](https://pubmed.ncbi.nlm.nih.gov/40887661/)
+
+    Gu M, Martinez RG, Parent H, Marshall BDL, Berk J, Elwy AR, Chan PA,
+    Tao J.
+
+    Implement Sci Commun. 2025 Sep 1;6(1):93. doi:
+    10.1186/s43058-025-00782-1.
+
+    > In Aim 2, we will convene a series of five stakeholder-engaged
+    > evidence-based quality improvement panels-including with
+    > providers, policymakers, and people with lived experience-to
+    > co-develop implementation strategies tailored to each care setting
+    > (i.e., primary care, mental heal …
+
+7.  [**Modeling inflammation in allergic asthma: Exploring the role of
+    mesenchymal stem cells in therapeutic
+    strategies.**](https://pubmed.ncbi.nlm.nih.gov/40886639/)
+
+    Tabrizi SN, Arabameri A, Klidbary SH.
+
+    Comput Biol Med. 2025 Aug 30;197(Pt A):111015. doi:
+    10.1016/j.compbiomed.2025.111015. Online ahead of print.
+
+    > Current treatments, such as corticosteroids and bronchodilators,
+    > primarily relieve symptoms but fail to resolve underlying
+    > inflammation, prompting research into alternative therapies like
+    > mesenchymal stem cells (MSCs), which modulate immune responses and
+    > promote tissue repair. Th …
+
+8.  [**Capillary interactions drive the self-organization of bacterial
     colonies.**](https://pubmed.ncbi.nlm.nih.gov/40881805/)
 
     Black ME, Fei C, Alert R, Wingreen NS, Shaevitz JW.
@@ -28,7 +130,7 @@ update was on 2025-08-31 00:56:13.
     > organizes rod-shaped bacteria into densely packed, nematic groups,
     > and influences their collective dynamics and morphologies. …
 
-2.  [**Fluid-derived lattices for unbiased modeling of bacterial colony
+9.  [**Fluid-derived lattices for unbiased modeling of bacterial colony
     growth.**](https://pubmed.ncbi.nlm.nih.gov/40875776/)
 
     Verhoef B, Hermsen R, de Graaf J.
@@ -41,7 +143,7 @@ update was on 2025-08-31 00:56:13.
     > modeling techniques have been applied. The most commonly used ones
     > are continuum models, agent-based models, and lattice …
 
-3.  [**A Novel Glycosylated Ferulic Acid Conjugate: Synthesis,
+10. [**A Novel Glycosylated Ferulic Acid Conjugate: Synthesis,
     Antioxidative Neuroprotection Activities In Vitro, and Alleviation
     of Cerebral Ischemia-Reperfusion Injury (CIRI) In
     Vivo.**](https://pubmed.ncbi.nlm.nih.gov/40867849/)
@@ -57,110 +159,6 @@ update was on 2025-08-31 00:56:13.
     > occlusion (MCAO) model. The results indicated that FA-Glu was
     > water-soluble (LogP -1.16 0.01) and chemically stable. FA-Glu
     > prevented pBR322 …
-
-4.  [**Harnessing multi-output machine learning approach and dynamical
-    observables from network structure to optimize COVID-19 intervention
-    strategies.**](https://pubmed.ncbi.nlm.nih.gov/40860595/)
-
-    Alves CL, Kuhnert K, Rodrigues FA, Moeckel M.
-
-    Biol Methods Protoc. 2025 Jun 5;10(1):bpaf039. doi:
-    10.1093/biomethods/bpaf039. eCollection 2025.
-
-    > The coronavirus disease 2019 (COVID-19) pandemic has necessitated
-    > the development of accurate models to predict disease dynamics and
-    > guide public health interventions. This study leverages the
-    > COVASIM agent-based model to simulate 1331 scenarios of COV …
-
-5.  [**Modeling the European Neolithic expansion suggests predominant
-    within-group mating and limited cultural
-    transmission.**](https://pubmed.ncbi.nlm.nih.gov/40855051/)
-
-    LaPolice TM, Williams MP, Huber CD.
-
-    Nat Commun. 2025 Aug 25;16(1):7905. doi: 10.1038/s41467-025-63172-0.
-
-    > Nonetheless, the presence of 10-15% hunter-gatherer ancestry in
-    > modern Europeans indicates cultural transmission and between-group
-    > mating were additional contributing factors. Here, we integrate
-    > mathematical models, agent-based simulations, and ancient DNA an …
-
-6.  [**Leveraging agent-based models and deep reinforcement learning to
-    predict taxis in cell
-    migration.**](https://pubmed.ncbi.nlm.nih.gov/40854896/)
-
-    Camacho-Gomez D, Sentiero R, Ventre M, Garcia-Aznar JM.
-
-    NPJ Syst Biol Appl. 2025 Aug 26;11(1):99. doi:
-    10.1038/s41540-025-00576-0.
-
-    > We present a novel computational framework that combines
-    > Agent-Based Modeling (ABM) with Reinforcement Learning (RL) using
-    > the Double Deep Q-Network (DDQN) algorithm to determine cellular
-    > behavior in response to environmental signals. …To illustrate its
-    > pot …
-
-7.  [**In silico multiscale computational modelling of botulinum toxin a
-    diffusion for glabellar wrinkle treatment: Optimizing injection
-    volumes across
-    formulations.**](https://pubmed.ncbi.nlm.nih.gov/40854395/)
-
-    Rahman E, Carruthers JDA, Rao P, Ahmed M, Goodman GJ, Webb WR.
-
-    Toxicon. 2025 Aug 23;266:108548. doi: 10.1016/j.toxicon.2025.108548.
-    Online ahead of print.
-
-    > A high-fidelity, multiscale in silico platform was developed,
-    > integrating quantum mechanical (TD-DFT) modelling of SV2-binding
-    > (deltaG_bind range: -9.2 to -11.7 kcal/mol), molecular
-    > dynamics-derived hydrodynamic radius (R_H: 9.4-11.2 nm),
-    > anisotropic finite element mode …
-
-8.  [**A hybrid simulation model of HIV program interventions: from
-    transmission behavior to macroeconomic
-    impacts.**](https://pubmed.ncbi.nlm.nih.gov/40851631/)
-
-    Crown W, Britton E, Razavi M, Luan Y, Veerunaidu S, Kates J, Gaumer
-    G, Jordan M, Hurley CL, Nandakumar AK.
-
-    Ther Adv Drug Saf. 2025 Aug 20;16:20420986251367510. doi:
-    10.1177/20420986251367510. eCollection 2025.
-
-    > Typically, however, such studies focus on treated patients and do
-    > not address the behavioral aspects of how patients decide upon
-    > treatment in the first place. We use an agent-based simulation
-    > model to estimate the impact of a peer navigation program in
-    > Tanzan …
-
-9.  [**A spatially dynamic agent-based model for assessing the effect of
-    gentrification-induced migration and HIV transmission among
-    heterosexual African American/Black
-    women.**](https://pubmed.ncbi.nlm.nih.gov/40840569/)
-
-    Nolen S, Bessey SE, Howe CJ, Rice BM, Biello KB, Marshall BDL.
-
-    Ann Epidemiol. 2025 Aug 19;110:122-129. doi:
-    10.1016/j.annepidem.2025.08.007. Online ahead of print.
-
-    > PURPOSE: Develop a spatially dynamic agent-based model to assess
-    > the impact of gentrification-induced migration on HIV transmission
-    > among heterosexual African American/Black women. METHODS: We
-    > simulated a population of heterosexual African American/Black adul
-    > …
-
-10. [**Migrating mesoderm cells self-organize into a dynamic meshwork
-    structure during chick
-    gastrulation.**](https://pubmed.ncbi.nlm.nih.gov/40839526/)
-
-    Nakaya Y, Tarama M, Tasaki S, Isomura-Matoba A, Shibata T.
-
-    Elife. 2025 Aug 21;14:e84749. doi: 10.7554/eLife.84749. Online ahead
-    of print.
-
-    > To investigate how this meshwork arises, we utilized an
-    > agent-based theoretical model, which suggests that cell
-    > elongation, cell-cell adhesion, and cell density are the key
-    > parameters for the meshwork formation. …
 
 ## Code of Conduct
 
