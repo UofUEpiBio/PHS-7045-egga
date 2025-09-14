@@ -9,156 +9,155 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-09-07 00:55:36.
+update was on 2025-09-14 00:54:55.
 
 <div class="cell">
 
 </div>
 
-1.  [**Assessment for seawall modifications to mitigate land crabs
-    roadkills from field experiments and agent-based
-    modeling.**](https://pubmed.ncbi.nlm.nih.gov/40907228/)
+1.  [**Numerical Modelling of Keratinocyte Behaviour: A Comprehensive
+    Review of Biochemical and Mechanical
+    Frameworks.**](https://pubmed.ncbi.nlm.nih.gov/40940792/)
 
-    Tseng KY, Hsieh YT, Chen YW, Liang TY, Lin HC.
+    Rashid S, Maiti R, Roy A.
 
-    J Environ Manage. 2025 Sep 3;393:127162. doi:
-    10.1016/j.jenvman.2025.127162. Online ahead of print.
+    Cells. 2025 Sep 4;14(17):1382. doi: 10.3390/cells14171382.
 
-    > The effectiveness of the seawall modification needs to be further
-    > assessed. Agent-base modeling (ABM) can be used to estimate the
-    > behavioral patterns of organisms under various roadkill mitigation
-    > scenarios. …
+    > This review summarises the main mathematical and biomechanical
+    > modelling techniques (with particular focus on the literature
+    > published since 2010). It includes reaction-diffusion frameworks,
+    > finite element analysis, viscoelastic models, stochastic
+    > simulations, and …
 
-2.  [**Assortative Mating Is a Natural Consequence of Heritable
-    Variation in Preferences and Preferred
-    Traits.**](https://pubmed.ncbi.nlm.nih.gov/40906709/)
+2.  [**Simulating HIV transmission dynamics: An agent-based approach
+    using NetLogo.**](https://pubmed.ncbi.nlm.nih.gov/40934282/)
 
-    Harper KT, Zietsch BP.
+    Amasa SNC, Beleta TMP, Montilla SL, Llantos OE.
 
-    Psychol Sci. 2025 Sep 4:9567976251365900. doi:
-    10.1177/09567976251365900. Online ahead of print.
+    PLoS One. 2025 Sep 11;20(9):e0330456. doi:
+    10.1371/journal.pone.0330456. eCollection 2025.
 
-    > Despite numerous proposed explanations, a parsimonious mechanism
-    > has been overlooked: When individuals choose mates on the basis of
-    > heritable traits and preferences, offspring inherit a trait and
-    > the corresponding preference from each parent, creating genetic
-    > correlations that li …
+    > Many studies have employed Agent-Based Modeling (ABM) to study the
+    > complex dynamics of HIV transmission. However, these studies often
+    > focus narrowly on specific subpopulations and limited parameters,
+    > restricting the potential of ABM to capture the intricate i …
 
-3.  [**The impact of investing in private clinics and pharmacies on
-    modern contraceptive uptake: an agent-based model of a segmented
-    market.**](https://pubmed.ncbi.nlm.nih.gov/40898184/)
+3.  [**Epithelial competition determines gene therapy potential to
+    suppress Fanconi Anemia oral cancer
+    risk.**](https://pubmed.ncbi.nlm.nih.gov/40929164/)
 
-    Chen M, Pan Z, Alfonso YN, Bell SO, Bishai D.
+    Colegrove HL, Monnat RJ, Feder AF.
 
-    BMC Health Serv Res. 2025 Sep 2;25(1):1177. doi:
-    10.1186/s12913-025-13334-z.
+    PLoS Comput Biol. 2025 Sep 10;21(9):e1012915. doi:
+    10.1371/journal.pcbi.1012915. Online ahead of print.
 
-    > Our study quantifies how the balance of relative advantages and
-    > disadvantages might alter levels of contraceptive uptake in
-    > simulated urban and rural markets that present characteristics of
-    > markets throughout many low- and middle-income countries. METHODS:
-    > We used agent- …
+    > To answer these questions, we extended an agent-based model of the
+    > oral epithelium to include the delivery of gene correction in situ
+    > to FA cells and the competitive dynamics between cellular lineages
+    > with and without gene correction. …We found that when FA …
 
-4.  [**Towards inclusive risk-informed infrastructure development in
-    expanding cities.**](https://pubmed.ncbi.nlm.nih.gov/40897840/)
+4.  [**Relationship dynamics and behavioral adaptations in the control
+    of the 2022 mpox
+    epidemic.**](https://pubmed.ncbi.nlm.nih.gov/40928872/)
 
-    Nocera F, Gamal Y, Wang C, Cremen G.
+    Hvid U, Simonsen L, Frisch M, Sneppen K.
 
-    Commun Eng. 2025 Sep 2;4(1):161. doi: 10.1038/s44172-025-00494-3.
+    Proc Natl Acad Sci U S A. 2025 Sep 16;122(37):e2502861122. doi:
+    10.1073/pnas.2502861122. Epub 2025 Sep 10.
 
-    > Here, we propose a people-centered decision-making framework for
-    > urban infrastructure development that addresses this issue. The
-    > framework integrates a bespoke agent-based model that accounts for
-    > implications of variations in infrastructure expansion on dynam …
+    > We analyzed the patterns of transmission in the 2022 clade IIb
+    > mpox epidemic as it unfolded in the European population of men who
+    > have sex with men (MSM). We developed an agent-based model that
+    > simulates sexual pair formation, incorporating both brief and lon
+    > …
 
-5.  [**Integration of empirical network data and agent-based modelling
-    to examine the risk of equine influenza infection in equine athletes
-    in Ontario, Canada.**](https://pubmed.ncbi.nlm.nih.gov/40897123/)
+5.  [**European Myeloma Network Consensus Statement on Functional
+    High-Risk Multiple
+    Myeloma.**](https://pubmed.ncbi.nlm.nih.gov/40926508/)
 
-    Turcotte G, O’Sullivan TL, Rossi TM, Spence KL, Winder CB, Greer AL.
+    Lim SL, Engelhardt M, Terpos E, Gay F, Van de Donk NWCJ, Einsele H,
+    Sonneveld P, Kaiser M, Boccadoro M, Spencer A.
 
-    Prev Vet Med. 2025 Aug 26;245:106665. doi:
-    10.1016/j.prevetmed.2025.106665. Online ahead of print.
+    Am J Hematol. 2025 Sep 9. doi: 10.1002/ajh.70070. Online ahead of
+    print.
 
-    > This study aimed to combine a stochastic, agent-based, SEIR model
-    > for equine influenza disease dynamics with an observed Ontario,
-    > Canada equine contact network structure to quantify the potential
-    > magnitude of equine influenza outbreaks in Ontario competition …
+    > Approximately 20% of NDMM patients, not predicted to have
+    > high-risk disease at diagnosis, progress early, despite optimal
+    > induction +/- ASCT and lenalidomide maintenance, and are
+    > subsequently categorized as functional high-risk (FHR) disease.
+    > Standardized risk-stratification m …
 
-6.  [**Integrating HIV prevention services into care settings for people
-    with opioid use disorder (OUD): a study protocol for implementation
-    strategy development and
-    modeling.**](https://pubmed.ncbi.nlm.nih.gov/40887661/)
+6.  [**An agent-based model to advance the science of collaborative
+    learning health
+    systems.**](https://pubmed.ncbi.nlm.nih.gov/40924737/)
 
-    Gu M, Martinez RG, Parent H, Marshall BDL, Berk J, Elwy AR, Chan PA,
-    Tao J.
+    Seid M, Bridgeland D, Schuler CL, Hartley DM.
 
-    Implement Sci Commun. 2025 Sep 1;6(1):93. doi:
-    10.1186/s43058-025-00782-1.
+    PLoS One. 2025 Sep 9;20(9):e0332054. doi:
+    10.1371/journal.pone.0332054. eCollection 2025.
 
-    > In Aim 2, we will convene a series of five stakeholder-engaged
-    > evidence-based quality improvement panels-including with
-    > providers, policymakers, and people with lived experience-to
-    > co-develop implementation strategies tailored to each care setting
-    > (i.e., primary care, mental heal …
+    > We translated social and organizational theories of collaboration
+    > to a computational (agent-based) model to develop a computer
+    > simulation of an LHN and demonstrate the potential of this new
+    > tool for advancing the science of LHNs. Model sensitivity anal …
 
-7.  [**Modeling inflammation in allergic asthma: Exploring the role of
-    mesenchymal stem cells in therapeutic
-    strategies.**](https://pubmed.ncbi.nlm.nih.gov/40886639/)
+7.  [**Agentic Visualization: Extracting Agent-based Design Patterns
+    from Visualization
+    Systems.**](https://pubmed.ncbi.nlm.nih.gov/40924522/)
 
-    Tabrizi SN, Arabameri A, Klidbary SH.
+    Dhanoa V, Wolter A, Leon GM, Schulz HJ, Elmqvist N.
 
-    Comput Biol Med. 2025 Aug 30;197(Pt A):111015. doi:
-    10.1016/j.compbiomed.2025.111015. Online ahead of print.
+    IEEE Comput Graph Appl. 2025 Sep 9;PP. doi:
+    10.1109/MCG.2025.3607741. Online ahead of print.
 
-    > Current treatments, such as corticosteroids and bronchodilators,
-    > primarily relieve symptoms but fail to resolve underlying
-    > inflammation, prompting research into alternative therapies like
-    > mesenchymal stem cells (MSCs), which modulate immune responses and
-    > promote tissue repair. Th …
+    > Autonomous agents powered by Large Language Models are
+    > transforming AI, creating an imperative for the visualization
+    > area. However, our field’s focus on a human in the sensemaking
+    > loop raises critical questions about autonomy, delegation, and
+    > coordination for such agentic …
 
-8.  [**Capillary interactions drive the self-organization of bacterial
-    colonies.**](https://pubmed.ncbi.nlm.nih.gov/40881805/)
+8.  [**An efficient and flexible framework for inferring global
+    sensitivity of agent-based model
+    parameters.**](https://pubmed.ncbi.nlm.nih.gov/40920814/)
 
-    Black ME, Fei C, Alert R, Wingreen NS, Shaevitz JW.
+    Bergman DR, Jackson T, Jain HV, Norton KA.
 
-    Nat Phys. 2025 Jul 28:10.1038/s41567-025-02965-y. doi:
-    10.1038/s41567-025-02965-y. Online ahead of print.
+    PLoS Comput Biol. 2025 Sep 8;21(9):e1013427. doi:
+    10.1371/journal.pcbi.1013427. Online ahead of print.
 
-    > Combining three-dimensional imaging and cell tracking with
-    > agent-based modelling, we demonstrate that capillary attraction
-    > organizes rod-shaped bacteria into densely packed, nematic groups,
-    > and influences their collective dynamics and morphologies. …
+    > Agent-based models (ABMs) have become essential tools for
+    > simulating complex biological, ecological, and social systems
+    > where emergent behaviors arise from the interactions among
+    > individual agents. …Remarkably, our method also estimates
+    > sensitivities for AB …
 
-9.  [**Fluid-derived lattices for unbiased modeling of bacterial colony
-    growth.**](https://pubmed.ncbi.nlm.nih.gov/40875776/)
+9.  [**Within-host microbial selection and multiple microbial
+    generations buffer the loss of host fitness under environmental
+    change.**](https://pubmed.ncbi.nlm.nih.gov/40920451/)
 
-    Verhoef B, Hermsen R, de Graaf J.
+    Pearman WS, Rodrigo AG, Santure AW.
 
-    PLoS One. 2025 Aug 28;20(8):e0330491. doi:
-    10.1371/journal.pone.0330491. eCollection 2025.
+    FEMS Microbiol Ecol. 2025 Sep 8:fiaf089. doi:
+    10.1093/femsec/fiaf089. Online ahead of print.
 
-    > To help understand the mechanisms that determine the structure of
-    > and the diversity within these colonies, various numerical
-    > modeling techniques have been applied. The most commonly used ones
-    > are continuum models, agent-based models, and lattice …
+    > The relationship between, and joint selection on, a host and its
+    > microbes-the holobiont-can impact evolutionary and ecological
+    > outcomes of the host and its microbial community. We develop an
+    > agent-based modelling framework for understanding the ecological
+    > dyn …
 
-10. [**A Novel Glycosylated Ferulic Acid Conjugate: Synthesis,
-    Antioxidative Neuroprotection Activities In Vitro, and Alleviation
-    of Cerebral Ischemia-Reperfusion Injury (CIRI) In
-    Vivo.**](https://pubmed.ncbi.nlm.nih.gov/40867849/)
+10. [**An integrated pedo-climatic dataset at the agricultural parcel
+    level.**](https://pubmed.ncbi.nlm.nih.gov/40918058/)
 
-    Chen J, Yuan Y, Tong L, Yu M, Zhu Y, Liu Q, Deng J, Wang F, Xiang Z,
-    Xia C.
+    Lardot B, Cantelaube P, Dedieu MS.
 
-    Antioxidants (Basel). 2025 Aug 3;14(8):953. doi:
-    10.3390/antiox14080953.
+    Data Brief. 2025 Aug 19;62:111989. doi: 10.1016/j.dib.2025.111989.
+    eCollection 2025 Oct.
 
-    > Antioxidative alleviation of cerebral ischemia-reperfusion injury
-    > (CIRI), in vivo, was evaluated using a rat middle cerebral artery
-    > occlusion (MCAO) model. The results indicated that FA-Glu was
-    > water-soluble (LogP -1.16 0.01) and chemically stable. FA-Glu
-    > prevented pBR322 …
+    > This is the case for example for different kinds of models, as
+    > crop models which have been used widely in France to assess
+    > ecosystemic services or carbon storage, agent-based models for
+    > watershed analyses or for models assessing erosion r …
 
 ## Code of Conduct
 
