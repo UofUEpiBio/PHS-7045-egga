@@ -9,162 +9,164 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-09-28 00:57:04.
+update was on 2025-10-05 00:07:22.
 
 <div class="cell">
 
 </div>
 
-1.  [**Cognitive Agents in Urban Mobility: Integrating LLM Reasoning
-    into Multi-Agent
-    Simulations.**](https://pubmed.ncbi.nlm.nih.gov/41012927/)
+1.  [**Diffusion and discrete temporal models of the population growth
+    of domestic cats in urban
+    areas.**](https://pubmed.ncbi.nlm.nih.gov/41044107/)
 
-    Calderón C, Martí P, Jordán J, Palanca J, Julian V.
+    Perusquía-Cortés R, Padilla P.
 
-    Sensors (Basel). 2025 Sep 12;25(18):5688. doi: 10.3390/s25185688.
+    Sci Rep. 2025 Oct 3;15(1):34550. doi: 10.1038/s41598-025-17892-4.
 
-    > Urban mobility systems face escalating challenges associated with
-    > sustainability, equity, and resilience, further compounded by
-    > environmental pressures. Traditional agent-based models (ABMs)
-    > often fail to capture cognitively rich, adaptive behaviors,
-    > limiting …
+    > The model includes both fixed parameters, i.e. determined by the
+    > demographic data available, and stochastic parameters, that are
+    > adjusted according to some random distribution, to enhance the
+    > realism of the simulations. Our results indicate that the
+    > population reaches a no …
 
-2.  [**An Extended Epistemic Framework Beyond Probability for Quantum
-    Information Processing with Applications in Security, Artificial
-    Intelligence, and Financial
-    Computing.**](https://pubmed.ncbi.nlm.nih.gov/41008103/)
+2.  [**A Systematic Review of Spatial Epidemiological Modeling
+    Approaches Applied During the COVID-19
+    Pandemic.**](https://pubmed.ncbi.nlm.nih.gov/41040689/)
 
-    Iovane G.
+    Oshinubi K, Chen Y, Doerry E, Gel ES, Hepp C, Lant T, Mehrotra S,
+    Sabo S, Mihaljevic J.
 
-    Entropy (Basel). 2025 Sep 18;27(9):977. doi: 10.3390/e27090977.
+    medRxiv \[Preprint\]. 2025 Sep 25:2025.09.24.25336493. doi:
+    10.1101/2025.09.24.25336493.
 
-    > Our formalism generalizes the Born rule within a multi-valued
-    > logic structure, linking Positive Operator-Valued Measures (POVMs)
-    > with data-driven plausibility estimators, agent-based credibility
-    > priors, and fuzzy-theoretic possibility functions. We develop a
-    > hybrid …
+    > RESULTS: The search identified a total of 193 articles, of which
+    > 109 were included in our review. The most abundant
+    > intra-population modeling methods were agent-based (47.7%) and
+    > compartmental modeling (29.4%) approaches. …We also described
+    > eight spe …
 
-3.  [**Simulating Public Opinion: Comparing Distributional and
-    Individual-Level Predictions from LLMs and Random
-    Forests.**](https://pubmed.ncbi.nlm.nih.gov/41008049/)
+3.  [**Modeling tumor transport and growth with poroelastic biopolymer
+    networks.**](https://pubmed.ncbi.nlm.nih.gov/41040344/)
 
-    Miranda F, Balbi PP.
+    Li Z, Ren Y, Kemkar S, Mollenkopf P, Kochanowski J, Janmey PA,
+    Purohit PK, Radhakrishnan R, Vining KH.
 
-    Entropy (Basel). 2025 Sep 2;27(9):923. doi: 10.3390/e27090923.
+    bioRxiv \[Preprint\]. 2025 Sep 25:2025.09.23.678021. doi:
+    10.1101/2025.09.23.678021.
 
-    > Understanding and modeling the flow of information in human
-    > societies is essential for capturing phenomena such as
-    > polarization, opinion formation, and misinformation diffusion.
-    > Traditional agent-based models often rely on simplified behavioral
-    > rules t …
+    > The mechanical properties of the extracellular matrix (ECM)
+    > regulate tumor growth and invasion in the tumor microenvironment.
+    > Models of biopolymer networks have been used to investigate the
+    > impact of elasticity and viscoelasticity of ECM on tumor behavior.
+    > …This framewor …
 
-4.  [**Partially-functional exhausted CD8+ T cells can contribute to
-    short-term viral suppression: a computational prediction for
-    children with perinatal
-    HIV.**](https://pubmed.ncbi.nlm.nih.gov/41000984/)
+4.  [**Beyond Chatbots: Moving Toward Multistep Modular AI Agents in
+    Medical Education.**](https://pubmed.ncbi.nlm.nih.gov/41037756/)
 
-    Hoerter A, Petrucciani A, Marshed F, Mwamzuka M, Ahmed A, Khaitan A,
-    Pienaar E.
+    Chow M, Ng O.
 
-    bioRxiv \[Preprint\]. 2025 Sep 20:2025.09.18.677001. doi:
-    10.1101/2025.09.18.677001.
+    JMIR Med Educ. 2025 Oct 2;11:e76661. doi: 10.2196/76661.
 
-    > We computationally integrate T cell profiles of differentiation,
-    > activation and exhaustion in an agent-based model (ABM) to predict
-    > how T cell exhaustion impacts viral control following HIV exposure
-    > in vitro. Our ABM includes macrophages, CD4 and CD8 T cells, …
+    > Specialized agents enhance accuracy by using models optimally
+    > tailored to specific cognitive tasks, increasing the quality of
+    > outputs compared to single-model workflows. Using a clinical
+    > scenario design as an illustrative example, we demonstrate how
+    > task specializat …
 
-5.  [**Agent-based persuasion model with concessions dependent on
-    emotion and time
-    beliefs.**](https://pubmed.ncbi.nlm.nih.gov/40997049/)
+5.  [**Privacy-, linguistic-, and information-preserving synthesis of
+    clinical documentation through generative
+    agents.**](https://pubmed.ncbi.nlm.nih.gov/41036253/)
 
-    Wu J, Cao R, Zhang Y, Li Y.
+    van Velzen M, van der Willigen RF, de Beer VJ, de Graaf-Waar HI,
+    Janssen ERC, van Leeuwen S, van der Willigen MF, van der Willigen
+    MJ, Renardus G, El Maaroufi R, Satimin SJ, Hartog LM, Hulsen T, van
+    Meeteren NLU, Scheper MC.
 
-    PLoS One. 2025 Sep 25;20(9):e0333078. doi:
-    10.1371/journal.pone.0333078. eCollection 2025.
+    Front Artif Intell. 2025 Sep 16;8:1644084. doi:
+    10.3389/frai.2025.1644084. eCollection 2025.
 
-    > This study introduces an Emotion-Time Dual-Process Framework that
-    > integrates the Appraisal Tendency Framework with dynamic temporal
-    > modeling. Emotions are decomposed into pleasantness and certainty
-    > dimensions and mapped to six emotional persuasion strategies.
-    > …Emotion an …
+    > Synthetic health data generation (SHDG), leveraging pre-trained
+    > large language models (LLMs) instantiated as GAs, could offer a
+    > practical solution by creating synthetic patient information that
+    > mimics genuine EHRs. …The source code, synthetic datasets,
+    > toolchains and pro …
 
-6.  [**Reducing Substance Use-Related Harms: A Simulation-Optimization
-    Framework for the Design and Evaluation of Harm Reduction Vending
-    Machines.**](https://pubmed.ncbi.nlm.nih.gov/40990576/)
+6.  [**Hotspot model shows how location-based superspreading accelerates
+    and reshapes
+    epidemics.**](https://pubmed.ncbi.nlm.nih.gov/41036248/)
 
-    Zafarnejad R, Griffin PM, Zgierska AE, Zhang A.
+    Wallace B, Dimitrov D, Hébert-Dufresne L, Berdahl AM.
 
-    Med Decis Making. 2025 Sep 24:272989X251367719. doi:
-    10.1177/0272989X251367719. Online ahead of print.
+    PNAS Nexus. 2025 Sep 22;4(9):pgaf299. doi:
+    10.1093/pnasnexus/pgaf299. eCollection 2025 Sep.
 
-    > Given the rising rates of overdose deaths and increased potential
-    > for infectious diseases among persons who inject drugs (PWID),
-    > HRVMs can become an important harm reduction (HR) strategy by
-    > providing essential supplies that mitigate health risks.MethodsWe
-    > developed and validated …
+    > Here, we introduce a simple agent-based model which captures the
+    > essential features of disease spreading more readily at high-risk
+    > locations or gatherings, which we call “hotspots.” In our model,
+    > disease spreads and people recover as in a standard Susc …
 
-7.  [**The Impact of Cooperation Under Climate Constraints: An
-    Agent-Based Model for Exploring Paleolithic Behavioral Adaptations
-    in the Inner Asian Mountain
-    Corridor.**](https://pubmed.ncbi.nlm.nih.gov/40985014/)
+7.  [**Nanostructured Material Design via a Retrieval-Augmented
+    Generation (RAG) Approach: Bridging Laboratory Practice and
+    Scientific Literature.**](https://pubmed.ncbi.nlm.nih.gov/41025152/)
 
-    Coto-Sarmiento M, Namen A, Varis A, Iovita R.
+    Krotkov NA, Sbytov DA, Chakhoyan AA, Kornienko PI, Starikova AA,
+    Stepanov MG, Piven AO, Aliev TA, Orlova T, Rafayelyan MS, Skorb EV.
 
-    J Archaeol Method Theory. 2026;33(1):8. doi:
-    10.1007/s10816-025-09739-z. Epub 2025 Sep 20.
-
-    > Here, we introduce an evolutionary theoretical agent-based model
-    > exploring the effects of cooperation on dispersal under different
-    > climate constraints in two study sub-regions, the Altai and Tian
-    > Shan Mountains. The model uses an evolutionary framework …
-
-8.  [**Over the Edge of Chaos? Excess Complexity as a Roadblock to
-    Artificial General
-    Intelligence.**](https://pubmed.ncbi.nlm.nih.gov/40982508/)
-
-    Susnjak T, McIntosh TR, Barczak ALC, Reyes NH, Liu T, Watters P,
-    Halgamuge MN.
-
-    IEEE Trans Cybern. 2025 Sep 22;PP. doi: 10.1109/TCYB.2025.3609349.
-    Online ahead of print.
-
-    > To investigate this hypothesis, we used agent-based modelling
-    > (ABM) to simulate the evolution of AI systems, using evaluation
-    > benchmark performances as a proxy for complexity. Our simulations
-    > modeled the possible characteristics that systems could exhi …
-
-9.  [**Drug-loaded nanoparticles for cancer therapy: A high-throughput
-    multicellular agent-based modeling
-    study.**](https://pubmed.ncbi.nlm.nih.gov/40975428/)
-
-    Wang Y, Metzcar J, Bucher E, Rocha HL, Jadhao V, Heiland R, Frieboes
-    HB, Macklin P.
-
-    J Theor Biol. 2025 Sep 18;616:112266. doi:
-    10.1016/j.jtbi.2025.112266. Online ahead of print.
-
-    > Although a number of models have explored these interactions in
-    > the past, few have focused on simulating individual cell-NP
-    > interactions. This study develops a multicellular agent-based
-    > model of cancer nanotherapy that simulates NP internalization, dru
-    > …
-
-10. [**In silico Digital Twins of Bone Metastasis Enable Investigation
-    of Tumor Progression and Therapy
-    Response.**](https://pubmed.ncbi.nlm.nih.gov/40965325/)
-
-    Marsilio L, Barrios S, Maksimovic S, Maccarini A, Serafini E,
-    Grimaldi M, Heyman TJ, Cerveri P, Casarin S, Dondossola E.
-
-    Cancer Res. 2025 Sep 18. doi: 10.1158/0008-5472.CAN-25-0088. Online
+    J Chem Inf Model. 2025 Sep 30. doi: 10.1021/acs.jcim.5c01897. Online
     ahead of print.
 
-    > Accordingly, we developed a series of in vivo-inspired, spatially
-    > explicit, multicellular agent-based models of bone metastasis
-    > (A(BM)2) that effectively recapitulate key aspects of tumor
-    > progression, including angiogenesis and bone resorption. The
-    > digital tw …
+    > The increasing complexity in designing nanostructured materials
+    > for electronics, biomedicine, and energy applications requires
+    > advanced computational methods to enhance research efficiency and
+    > minimize experimental costs. This study proposes an innovative
+    > agent-based …
+
+8.  [**The determinants of evidence use by Australian clinical networks
+    as agents and stewards of safety and quality: a conceptual
+    framework.**](https://pubmed.ncbi.nlm.nih.gov/41024193/)
+
+    Hart J, Naccarella L, Dickinson H.
+
+    Health Res Policy Syst. 2025 Sep 29;23(1):119. doi:
+    10.1186/s12961-025-01364-2.
+
+    > Goals pertaining to the safety and quality of clinical care are
+    > advanced by governments using stewardship and agent-based
+    > strategies that increasingly place reliance on being evidence
+    > based. In Australia, clinical networks are a safety and quality
+    > stewardship mod …
+
+9.  [**Modelling Follicular Growth During Ovarian Stimulation Using
+    Agent-based Artificial
+    Intelligence.**](https://pubmed.ncbi.nlm.nih.gov/41022662/)
+
+    Hramyka A, Kelsey TW, Hanassab S, Nelson SM, Yeung AC, Saravelos S,
+    Salim R, Comninos AN, Tsaneva-Atanasova K, Voliotis M, Trew GH,
+    Heinis T, Dhillo WS, Abbara A.
+
+    J Clin Endocrinol Metab. 2025 Sep 30:dgaf539. doi:
+    10.1210/clinem/dgaf539. Online ahead of print.
+
+    > However, only limited data exist examining individual follicular
+    > growth rates during fertility treatment. OBJECTIVE: To model
+    > growth rates of individual ovarian follicles during ovarian
+    > stimulation in MAR cycles using an agent-based artificial
+    > intelligence (A …
+
+10. [**Hemostatic and adhesion prevention performance of an
+    extracellular matrix based novel agent in a mouse liver laceration
+    model.**](https://pubmed.ncbi.nlm.nih.gov/41022101/)
+
+    Kim SJ, Kang IH, Ahn HJ, Cho WJ, Kim HJ, Shin J, Sung MK, Lee JH,
+    Jun E.
+
+    Biomed Mater. 2025 Sep 29. doi: 10.1088/1748-605X/ae0d21. Online
+    ahead of print.
+
+    > This study developed a composite regenerative hemostatic agent
+    > based on a porcine decellularized extracellular matrix (ECM) to
+    > address these limitations. …Its functionality was evaluated using
+    > a mouse liver laceration model to explore its clinical applicabi …
 
 ## Code of Conduct
 
