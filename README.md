@@ -9,13 +9,135 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-10-05 00:07:22.
+update was on 2025-10-12 00:07:00.
 
 <div class="cell">
 
 </div>
 
-1.  [**Diffusion and discrete temporal models of the population growth
+1.  [**A spatial numerical model for seagrass-herbivore interactions and
+    the formation of reef
+    halos.**](https://pubmed.ncbi.nlm.nih.gov/41064479/)
+
+    Llabrés E, Innes-Gold AA, DiFiore B, Sintes T, Madin E.
+
+    Coral Reefs. 2025;44(5):1587-1599. doi: 10.1007/s00338-025-02729-3.
+    Epub 2025 Aug 20.
+
+    > In this study, we present the first spatially explicit agent-based
+    > model to explore reef halo formation. By integrating seagrass
+    > growth models with herbivorous fish behavior, we capture the
+    > spatial complexity of halo dynamics. Our model reproduc …
+
+2.  [**Quantum-inspired modeling of social impact in complex networks
+    with artificial intelligent
+    agents.**](https://pubmed.ncbi.nlm.nih.gov/41062792/)
+
+    Alodjants AP, Tsarev DV, Zakharenko PV, Khrennikov AY, Boukhanovsky
+    AV.
+
+    Sci Rep. 2025 Oct 8;15(1):35052. doi: 10.1038/s41598-025-22508-y.
+
+    > Each NIA - AIA pair represents a user and their digital
+    > assistant - an avatar implemented as an agent based on a large
+    > language model (LLM). The AIAs are interconnected through a
+    > complex, scale-free network and communicate with users and one
+    > another in real t …
+
+3.  [**Exploring team dynamics and performance in extended space
+    missions using agent-based
+    modeling.**](https://pubmed.ncbi.nlm.nih.gov/41060933/)
+
+    Pena I, Chen H.
+
+    PLoS One. 2025 Oct 8;20(10):e0332496. doi:
+    10.1371/journal.pone.0332496. eCollection 2025.
+
+    > This study addresses this need by integrating psychological
+    > theories with agent-based modeling (ABM) to simulate the impact of
+    > team composition over a 500-day Mars mission. Utilizing the
+    > Five-Factor Model (FFM) of personality traits, agents varying in …
+
+4.  [**A disaggregated system dynamics and agent-based modeling of the
+    water-energy-food nexus for optimizing water
+    allocation.**](https://pubmed.ncbi.nlm.nih.gov/41057456/)
+
+    Zarei S, Bozorg-Haddad O, Nikoo MR, Loáiciga HA.
+
+    Sci Rep. 2025 Oct 7;15(1):34973. doi: 10.1038/s41598-025-18838-6.
+
+    > Asymmetric water distribution in agriculture is a significant
+    > threat to water, energy, and food security in water-limited areas.
+    > This work presents an integrated model framework based on System
+    > Dynamics and Agent-Based (SD-AB) modeling applying multi-o …
+
+5.  [**The mechanism of dynamic steady states in
+    lamellipodia.**](https://pubmed.ncbi.nlm.nih.gov/41056351/)
+
+    Kim JH, Kim T.
+
+    PLoS Comput Biol. 2025 Oct 7;21(10):e1013572. doi:
+    10.1371/journal.pcbi.1013572. Online ahead of print.
+
+    > Although the molecular players and architecture of the
+    > lamellipodia have been investigated extensively during recent
+    > decades, it still remains elusive how the dynamic steady state
+    > with continuous retrograde flow is achieved and robustly
+    > maintained. Using an agent-based …
+
+6.  [**Regulatory Adoption of AI, ML, Computational Modeling &
+    Simulation in In-Silico Clinical Trials for Medical Devices: A
+    Systematic Review.**](https://pubmed.ncbi.nlm.nih.gov/41055689/)
+
+    De A, Lohani A.
+
+    Ther Innov Regul Sci. 2025 Oct 7. doi: 10.1007/s43441-025-00871-2.
+    Online ahead of print.
+
+    > RESULT: ISCTs employ CM&S techniques, including finite element
+    > analysis, computational fluid dynamics, and agent-based modeling,
+    > to simulate medical device performance and generate synthetic
+    > patient cohorts, thereby reducing costs and addressing ethical c …
+
+7.  [**Beyond the genome: A multi-scale, agent-based taxonomy of
+    biological codes and energetic
+    constraints.**](https://pubmed.ncbi.nlm.nih.gov/41052618/)
+
+    Micheli C, Prinz R, Gentili PL.
+
+    Biosystems. 2025 Oct 4;257:105604. doi:
+    10.1016/j.biosystems.2025.105604. Online ahead of print.
+
+    > This interpretation integrates speculative ideas from concepts
+    > like constraint closure and agent-based modeling, framing the
+    > hierarchy of life as governed by a dynamic tension between
+    > stability and exploration. …
+
+8.  [**School-Level Gaps in MMR Coverage as the Fuel for Measles
+    Outbreaks.**](https://pubmed.ncbi.nlm.nih.gov/41052443/)
+
+    Fitzpatrick MC, Wells CR, Pandey A, Ayaz L, Hotez PJ, Moghadas SM,
+    Galvani AP.
+
+    Ann Intern Med. 2025 Oct 7. doi: 10.7326/ANNALS-25-01611. Online
+    ahead of print.
+
+9.  [**Multispecies sensory networks and social foraging strategies:
+    Implications for population decline in procellariiform
+    seabirds.**](https://pubmed.ncbi.nlm.nih.gov/41052328/)
+
+    Granger J, Nevitt G, Johnsen S.
+
+    Proc Natl Acad Sci U S A. 2025 Oct 14;122(41):e2509317122. doi:
+    10.1073/pnas.2509317122. Epub 2025 Oct 6.
+
+    > We test this hypothesis in procellariiform seabirds that forage in
+    > mixed flocks, where both prey odors and visual cues provided by
+    > other foraging hetero- and conspecifics might improve success
+    > rates. Using agent-based models, we explored the impact of social
+    > …
+
+10. [**Diffusion and discrete temporal models of the population growth
     of domestic cats in urban
     areas.**](https://pubmed.ncbi.nlm.nih.gov/41044107/)
 
@@ -28,145 +150,6 @@ update was on 2025-10-05 00:07:22.
     > adjusted according to some random distribution, to enhance the
     > realism of the simulations. Our results indicate that the
     > population reaches a no …
-
-2.  [**A Systematic Review of Spatial Epidemiological Modeling
-    Approaches Applied During the COVID-19
-    Pandemic.**](https://pubmed.ncbi.nlm.nih.gov/41040689/)
-
-    Oshinubi K, Chen Y, Doerry E, Gel ES, Hepp C, Lant T, Mehrotra S,
-    Sabo S, Mihaljevic J.
-
-    medRxiv \[Preprint\]. 2025 Sep 25:2025.09.24.25336493. doi:
-    10.1101/2025.09.24.25336493.
-
-    > RESULTS: The search identified a total of 193 articles, of which
-    > 109 were included in our review. The most abundant
-    > intra-population modeling methods were agent-based (47.7%) and
-    > compartmental modeling (29.4%) approaches. …We also described
-    > eight spe …
-
-3.  [**Modeling tumor transport and growth with poroelastic biopolymer
-    networks.**](https://pubmed.ncbi.nlm.nih.gov/41040344/)
-
-    Li Z, Ren Y, Kemkar S, Mollenkopf P, Kochanowski J, Janmey PA,
-    Purohit PK, Radhakrishnan R, Vining KH.
-
-    bioRxiv \[Preprint\]. 2025 Sep 25:2025.09.23.678021. doi:
-    10.1101/2025.09.23.678021.
-
-    > The mechanical properties of the extracellular matrix (ECM)
-    > regulate tumor growth and invasion in the tumor microenvironment.
-    > Models of biopolymer networks have been used to investigate the
-    > impact of elasticity and viscoelasticity of ECM on tumor behavior.
-    > …This framewor …
-
-4.  [**Beyond Chatbots: Moving Toward Multistep Modular AI Agents in
-    Medical Education.**](https://pubmed.ncbi.nlm.nih.gov/41037756/)
-
-    Chow M, Ng O.
-
-    JMIR Med Educ. 2025 Oct 2;11:e76661. doi: 10.2196/76661.
-
-    > Specialized agents enhance accuracy by using models optimally
-    > tailored to specific cognitive tasks, increasing the quality of
-    > outputs compared to single-model workflows. Using a clinical
-    > scenario design as an illustrative example, we demonstrate how
-    > task specializat …
-
-5.  [**Privacy-, linguistic-, and information-preserving synthesis of
-    clinical documentation through generative
-    agents.**](https://pubmed.ncbi.nlm.nih.gov/41036253/)
-
-    van Velzen M, van der Willigen RF, de Beer VJ, de Graaf-Waar HI,
-    Janssen ERC, van Leeuwen S, van der Willigen MF, van der Willigen
-    MJ, Renardus G, El Maaroufi R, Satimin SJ, Hartog LM, Hulsen T, van
-    Meeteren NLU, Scheper MC.
-
-    Front Artif Intell. 2025 Sep 16;8:1644084. doi:
-    10.3389/frai.2025.1644084. eCollection 2025.
-
-    > Synthetic health data generation (SHDG), leveraging pre-trained
-    > large language models (LLMs) instantiated as GAs, could offer a
-    > practical solution by creating synthetic patient information that
-    > mimics genuine EHRs. …The source code, synthetic datasets,
-    > toolchains and pro …
-
-6.  [**Hotspot model shows how location-based superspreading accelerates
-    and reshapes
-    epidemics.**](https://pubmed.ncbi.nlm.nih.gov/41036248/)
-
-    Wallace B, Dimitrov D, Hébert-Dufresne L, Berdahl AM.
-
-    PNAS Nexus. 2025 Sep 22;4(9):pgaf299. doi:
-    10.1093/pnasnexus/pgaf299. eCollection 2025 Sep.
-
-    > Here, we introduce a simple agent-based model which captures the
-    > essential features of disease spreading more readily at high-risk
-    > locations or gatherings, which we call “hotspots.” In our model,
-    > disease spreads and people recover as in a standard Susc …
-
-7.  [**Nanostructured Material Design via a Retrieval-Augmented
-    Generation (RAG) Approach: Bridging Laboratory Practice and
-    Scientific Literature.**](https://pubmed.ncbi.nlm.nih.gov/41025152/)
-
-    Krotkov NA, Sbytov DA, Chakhoyan AA, Kornienko PI, Starikova AA,
-    Stepanov MG, Piven AO, Aliev TA, Orlova T, Rafayelyan MS, Skorb EV.
-
-    J Chem Inf Model. 2025 Sep 30. doi: 10.1021/acs.jcim.5c01897. Online
-    ahead of print.
-
-    > The increasing complexity in designing nanostructured materials
-    > for electronics, biomedicine, and energy applications requires
-    > advanced computational methods to enhance research efficiency and
-    > minimize experimental costs. This study proposes an innovative
-    > agent-based …
-
-8.  [**The determinants of evidence use by Australian clinical networks
-    as agents and stewards of safety and quality: a conceptual
-    framework.**](https://pubmed.ncbi.nlm.nih.gov/41024193/)
-
-    Hart J, Naccarella L, Dickinson H.
-
-    Health Res Policy Syst. 2025 Sep 29;23(1):119. doi:
-    10.1186/s12961-025-01364-2.
-
-    > Goals pertaining to the safety and quality of clinical care are
-    > advanced by governments using stewardship and agent-based
-    > strategies that increasingly place reliance on being evidence
-    > based. In Australia, clinical networks are a safety and quality
-    > stewardship mod …
-
-9.  [**Modelling Follicular Growth During Ovarian Stimulation Using
-    Agent-based Artificial
-    Intelligence.**](https://pubmed.ncbi.nlm.nih.gov/41022662/)
-
-    Hramyka A, Kelsey TW, Hanassab S, Nelson SM, Yeung AC, Saravelos S,
-    Salim R, Comninos AN, Tsaneva-Atanasova K, Voliotis M, Trew GH,
-    Heinis T, Dhillo WS, Abbara A.
-
-    J Clin Endocrinol Metab. 2025 Sep 30:dgaf539. doi:
-    10.1210/clinem/dgaf539. Online ahead of print.
-
-    > However, only limited data exist examining individual follicular
-    > growth rates during fertility treatment. OBJECTIVE: To model
-    > growth rates of individual ovarian follicles during ovarian
-    > stimulation in MAR cycles using an agent-based artificial
-    > intelligence (A …
-
-10. [**Hemostatic and adhesion prevention performance of an
-    extracellular matrix based novel agent in a mouse liver laceration
-    model.**](https://pubmed.ncbi.nlm.nih.gov/41022101/)
-
-    Kim SJ, Kang IH, Ahn HJ, Cho WJ, Kim HJ, Shin J, Sung MK, Lee JH,
-    Jun E.
-
-    Biomed Mater. 2025 Sep 29. doi: 10.1088/1748-605X/ae0d21. Online
-    ahead of print.
-
-    > This study developed a composite regenerative hemostatic agent
-    > based on a porcine decellularized extracellular matrix (ECM) to
-    > address these limitations. …Its functionality was evaluated using
-    > a mouse liver laceration model to explore its clinical applicabi …
 
 ## Code of Conduct
 
