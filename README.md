@@ -9,13 +9,129 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-10-12 00:07:00.
+update was on 2025-10-19 00:07:28.
 
 <div class="cell">
 
 </div>
 
-1.  [**A spatial numerical model for seagrass-herbivore interactions and
+1.  [**BIWT: a bioinformatics walkthrough for embedding spatial
+    multiomics in agent-based models for virtual
+    cells.**](https://pubmed.ncbi.nlm.nih.gov/41093751/)
+
+    Bergman DR, Johnson J, Naji M, Booth M, Lima da Rocha H, Deshpande
+    A, Sidiropoulos DN, Lopez-Vidal T, Heiland R, Kagohara LT, Anders
+    RA, Zheng L, Jaffee EM, Stein-O’Brien G, Macklin P, Fertig EJ.
+
+    Bioinformatics. 2025 Oct 16:btaf571. doi:
+    10.1093/bioinformatics/btaf571. Online ahead of print.
+
+    > SUMMARY: Whereas transcriptomic and spatial profiling offer static
+    > snapshots of tissue structure, mechanistic models use biological
+    > rules to predict how tissues evolve. We present the BioInformatics
+    > WalkThrough (BIWT) software to directly initialize spatial agent-
+    > …
+
+2.  [**Longevity in plants impacts phylogenetic and population
+    dynamics.**](https://pubmed.ncbi.nlm.nih.gov/41090471/)
+
+    Smith SA, Pease JB, Carruthers T, Bradburd GS, Huegele IB, Stull GW,
+    Weaver WN, Yang Y, Yi TS, Beaulieu JM.
+
+    New Phytol. 2025 Oct 15. doi: 10.1111/nph.70654. Online ahead of
+    print.
+
+    > We examine this with simulations and through empirical examination
+    > of several large seed plant clades. We used an agent-based
+    > simulation model varying lifespan, degree of overlapping
+    > generations, and somatic mutation. …
+
+3.  [**Quantitative summarization of high-touch surfaces and
+    epidemiological parameters of Clostridioides difficile acquisition
+    and transmission for mathematical modeling: a systematic
+    review.**](https://pubmed.ncbi.nlm.nih.gov/41088731/)
+
+    Olufadewa I, Latimer H, West-Page HN, Chen S.
+
+    Infect Control Hosp Epidemiol. 2025 Oct 15:1-9. doi:
+    10.1017/ice.2025.10302. Online ahead of print.
+
+    > RESULTS: Among the 21 C. difficile infection modeling studies,
+    > 76.2% used compartmental model approaches that group patients into
+    > infection disease categories such as susceptible, infected, or
+    > recovered, while 23.8% applied agent-based model app …
+
+4.  [**A health and economic evaluation of the spatial spillover effect
+    from measles
+    resurgence.**](https://pubmed.ncbi.nlm.nih.gov/41087576/)
+
+    Xie K, Marathe A, Thakur M, Chen J, Deng X, Vullikanti A.
+
+    Sci Rep. 2025 Oct 14;15(1):35862. doi: 10.1038/s41598-025-21097-0.
+
+    > Expanding on previous research that simulated measles outbreaks
+    > using a detailed agent-based model, this study integrates
+    > epidemiological forecasts with spatial econometrics analysis. …A
+    > network-based SEIR (susceptible-exposed-infected-recovered) model
+    > …
+
+5.  [**Predicting livestock intake energy at different grazing
+    strategies using agent-based modelling of
+    livestock.**](https://pubmed.ncbi.nlm.nih.gov/41087482/)
+
+    Yoshihara Y, Horie R, Miyasaka T, Kono A, Shinoda M.
+
+    Sci Rep. 2025 Oct 14;15(1):35906. doi: 10.1038/s41598-025-19816-8.
+
+    > Developing an optimal grazing strategy for livestock in spatially
+    > heterogeneous vegetation is essential for the animal production.
+    > An agent-based model (ABM) is a spatial explicit simulation
+    > modelling that predicts the internal state of livestock (e.g. …
+
+6.  [**Coupling satellite imagery and numerical models to advance
+    understanding and modelling of diel cyanobacterial blooms in shallow
+    eutrophic lakes.**](https://pubmed.ncbi.nlm.nih.gov/41086467/)
+
+    Li J, Li Y, Li J, Wang G, Lyu H, Zhu Y, Dong X.
+
+    Water Res. 2025 Oct 9;288(Pt B):124744. doi:
+    10.1016/j.watres.2025.124744. Online ahead of print.
+
+    > Based on the insights inferred from satellite observations and in
+    > situ measurements, buoyancy regulation models for Microcystis
+    > colonies were refined to incorporate the physiological process of
+    > oxygen bubble dynamics within colony mucilage. Simulation analysis
+    > of the diel …
+
+7.  [**Social Interactions for Sustainable Food Choices: Meeting the
+    Target for Meat Intake in the United
+    Kingdom.**](https://pubmed.ncbi.nlm.nih.gov/41080465/)
+
+    Fontan A, Green R, Johansson KH, Eustachio Colombo P.
+
+    Curr Dev Nutr. 2025 Jul 30;9(9):107509. doi:
+    10.1016/j.cdnut.2025.107509. eCollection 2025 Sep.
+
+    > OBJECTIVES: This project applied innovative models to predict the
+    > dietary and environmental effects of broad-scale strategies
+    > designed to transform dietary behaviors among consumers. Scenarios
+    > were numerically simulated using agent-based opinion-dynamics m …
+
+8.  [**Tradition meets modernity: understanding consumer psychology for
+    TCM functional foods in Northern China using integrated structural
+    equation and agent-based
+    modeling.**](https://pubmed.ncbi.nlm.nih.gov/41079848/)
+
+    Zhao Z, Chen L.
+
+    Front Psychol. 2025 Sep 26;16:1653984. doi:
+    10.3389/fpsyg.2025.1653984. eCollection 2025.
+
+    > By translating psychological insights into agent-based modeling,
+    > the study explores potential market-level consequences of
+    > individual-level factors. …
+
+9.  [**A spatial numerical model for seagrass-herbivore interactions and
     the formation of reef
     halos.**](https://pubmed.ncbi.nlm.nih.gov/41064479/)
 
@@ -29,7 +145,7 @@ update was on 2025-10-12 00:07:00.
     > growth models with herbivorous fish behavior, we capture the
     > spatial complexity of halo dynamics. Our model reproduc …
 
-2.  [**Quantum-inspired modeling of social impact in complex networks
+10. [**Quantum-inspired modeling of social impact in complex networks
     with artificial intelligent
     agents.**](https://pubmed.ncbi.nlm.nih.gov/41062792/)
 
@@ -43,113 +159,6 @@ update was on 2025-10-12 00:07:00.
     > language model (LLM). The AIAs are interconnected through a
     > complex, scale-free network and communicate with users and one
     > another in real t …
-
-3.  [**Exploring team dynamics and performance in extended space
-    missions using agent-based
-    modeling.**](https://pubmed.ncbi.nlm.nih.gov/41060933/)
-
-    Pena I, Chen H.
-
-    PLoS One. 2025 Oct 8;20(10):e0332496. doi:
-    10.1371/journal.pone.0332496. eCollection 2025.
-
-    > This study addresses this need by integrating psychological
-    > theories with agent-based modeling (ABM) to simulate the impact of
-    > team composition over a 500-day Mars mission. Utilizing the
-    > Five-Factor Model (FFM) of personality traits, agents varying in …
-
-4.  [**A disaggregated system dynamics and agent-based modeling of the
-    water-energy-food nexus for optimizing water
-    allocation.**](https://pubmed.ncbi.nlm.nih.gov/41057456/)
-
-    Zarei S, Bozorg-Haddad O, Nikoo MR, Loáiciga HA.
-
-    Sci Rep. 2025 Oct 7;15(1):34973. doi: 10.1038/s41598-025-18838-6.
-
-    > Asymmetric water distribution in agriculture is a significant
-    > threat to water, energy, and food security in water-limited areas.
-    > This work presents an integrated model framework based on System
-    > Dynamics and Agent-Based (SD-AB) modeling applying multi-o …
-
-5.  [**The mechanism of dynamic steady states in
-    lamellipodia.**](https://pubmed.ncbi.nlm.nih.gov/41056351/)
-
-    Kim JH, Kim T.
-
-    PLoS Comput Biol. 2025 Oct 7;21(10):e1013572. doi:
-    10.1371/journal.pcbi.1013572. Online ahead of print.
-
-    > Although the molecular players and architecture of the
-    > lamellipodia have been investigated extensively during recent
-    > decades, it still remains elusive how the dynamic steady state
-    > with continuous retrograde flow is achieved and robustly
-    > maintained. Using an agent-based …
-
-6.  [**Regulatory Adoption of AI, ML, Computational Modeling &
-    Simulation in In-Silico Clinical Trials for Medical Devices: A
-    Systematic Review.**](https://pubmed.ncbi.nlm.nih.gov/41055689/)
-
-    De A, Lohani A.
-
-    Ther Innov Regul Sci. 2025 Oct 7. doi: 10.1007/s43441-025-00871-2.
-    Online ahead of print.
-
-    > RESULT: ISCTs employ CM&S techniques, including finite element
-    > analysis, computational fluid dynamics, and agent-based modeling,
-    > to simulate medical device performance and generate synthetic
-    > patient cohorts, thereby reducing costs and addressing ethical c …
-
-7.  [**Beyond the genome: A multi-scale, agent-based taxonomy of
-    biological codes and energetic
-    constraints.**](https://pubmed.ncbi.nlm.nih.gov/41052618/)
-
-    Micheli C, Prinz R, Gentili PL.
-
-    Biosystems. 2025 Oct 4;257:105604. doi:
-    10.1016/j.biosystems.2025.105604. Online ahead of print.
-
-    > This interpretation integrates speculative ideas from concepts
-    > like constraint closure and agent-based modeling, framing the
-    > hierarchy of life as governed by a dynamic tension between
-    > stability and exploration. …
-
-8.  [**School-Level Gaps in MMR Coverage as the Fuel for Measles
-    Outbreaks.**](https://pubmed.ncbi.nlm.nih.gov/41052443/)
-
-    Fitzpatrick MC, Wells CR, Pandey A, Ayaz L, Hotez PJ, Moghadas SM,
-    Galvani AP.
-
-    Ann Intern Med. 2025 Oct 7. doi: 10.7326/ANNALS-25-01611. Online
-    ahead of print.
-
-9.  [**Multispecies sensory networks and social foraging strategies:
-    Implications for population decline in procellariiform
-    seabirds.**](https://pubmed.ncbi.nlm.nih.gov/41052328/)
-
-    Granger J, Nevitt G, Johnsen S.
-
-    Proc Natl Acad Sci U S A. 2025 Oct 14;122(41):e2509317122. doi:
-    10.1073/pnas.2509317122. Epub 2025 Oct 6.
-
-    > We test this hypothesis in procellariiform seabirds that forage in
-    > mixed flocks, where both prey odors and visual cues provided by
-    > other foraging hetero- and conspecifics might improve success
-    > rates. Using agent-based models, we explored the impact of social
-    > …
-
-10. [**Diffusion and discrete temporal models of the population growth
-    of domestic cats in urban
-    areas.**](https://pubmed.ncbi.nlm.nih.gov/41044107/)
-
-    Perusquía-Cortés R, Padilla P.
-
-    Sci Rep. 2025 Oct 3;15(1):34550. doi: 10.1038/s41598-025-17892-4.
-
-    > The model includes both fixed parameters, i.e. determined by the
-    > demographic data available, and stochastic parameters, that are
-    > adjusted according to some random distribution, to enhance the
-    > realism of the simulations. Our results indicate that the
-    > population reaches a no …
 
 ## Code of Conduct
 
