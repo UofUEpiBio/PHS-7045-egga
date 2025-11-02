@@ -9,165 +9,150 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-10-26 00:07:21.
+update was on 2025-11-02 00:07:23.
 
 <div class="cell">
 
 </div>
 
-1.  [**Cooperation in structured populations via coupled reputation and
-    learning: A spatial evolutionary game
-    approach.**](https://pubmed.ncbi.nlm.nih.gov/41135606/)
+1.  [**Why more social interactions lead to more polarization in
+    societies.**](https://pubmed.ncbi.nlm.nih.gov/41171853/)
 
-    Li S, Peng B, Li B, Shi Y.
+    Thurner S, Hofer M, Korbel J.
 
-    Biosystems. 2025 Oct 22:105630. doi:
-    10.1016/j.biosystems.2025.105630. Online ahead of print.
+    Proc Natl Acad Sci U S A. 2025 Nov 4;122(44):e2517530122. doi:
+    10.1073/pnas.2517530122. Epub 2025 Oct 31.
 
-    > This study presents an agent-based model to investigate
-    > cooperation dynamics in spatial evolutionary games by integrating
-    > memory-based reputation tracking with heterogeneous adaptive
-    > learning. …Simulation results demonstrate that this dual-layered
-    > mechanism …
+    > To explore whether these trends could be connected, we employ a
+    > simple computational model of society, where people-within their
+    > social networks-continuously compare and update their opinions.
+    > …The model allows us to understand the empirical inflation of
+    > polarizat …
 
-2.  [**Attention on social media depends more on how you express
-    yourself than on who you
-    are.**](https://pubmed.ncbi.nlm.nih.gov/41131398/)
+2.  [**Generative diffusion model surrogates for mechanistic agent-based
+    biological models.**](https://pubmed.ncbi.nlm.nih.gov/41170496/)
 
-    Zhao Y, Qiao T, Chen Y, Kuang M, Bai W, Yi Y, Huang X, Li W, Wang W.
+    Comlekoglu T, Quetzalcoatl Toledo-Marín J, DeSimone DW, Peirce SM,
+    Fox G, Glazier JA.
 
-    Nat Hum Behav. 2025 Oct 23. doi: 10.1038/s41562-025-02323-1. Online
+    Mach Learn Sci Technol. 2025 Dec 30;6(4):045024. doi:
+    10.1088/2632-2153/ae11f8. Epub 2025 Oct 28.
+
+    > Mechanistic, multicellular, agent-based models are commonly used
+    > to investigate tissue, organ, and organism-scale biology at
+    > single-cell resolution. …However, the stochastic nature of these
+    > models means each set of parameters may give rise to differe …
+
+3.  [**A multi-label visualisation approach for malware behaviour
+    analysis.**](https://pubmed.ncbi.nlm.nih.gov/41168210/)
+
+    Uysal DT, Yoo PD, Taha K, Yeun CY, Damiani E.
+
+    Sci Rep. 2025 Oct 30;15(1):37979. doi: 10.1038/s41598-025-21848-z.
+
+    > Here we present DECODE (DEep Classification Of Dynamic Exploits),
+    > a proportional multi-label, context-aware framework that combines
+    > object detection, explainable artificial intelligence (XAI), and
+    > agent-based large language models (LLMs) to deliver interpreta …
+
+4.  [**Speaking mathematical models into
+    existence.**](https://pubmed.ncbi.nlm.nih.gov/41166701/)
+
+    Lima EABF, Hormuth DA, Yankeelov TE.
+
+    Cancer Res. 2025 Oct 30. doi: 10.1158/0008-5472.CAN-25-4862. Online
     ahead of print.
 
-    > Further analysis confirms a causal effect of the variety of emojis
-    > and types of emotions on attracted attention, while simulation
-    > processes using agent-based models suggest that empathy evocation
-    > is the primary underlying mechanism. …
+    > This framework allows investigators to speak mathematical models
+    > into existence by composing biological hypotheses in plain-text
+    > sentences that are then translated into executable agent-based
+    > models. …This democratization could accelerate discovery, …
 
-3.  [**A review of bone fracture healing modelling: from
-    mechanobiological theory to personalized rehabilitation
-    protocols.**](https://pubmed.ncbi.nlm.nih.gov/41130554/)
+5.  [**Long-acting injectable PrEP can substantially reduce HIV
+    incidence in Los Angeles County: A simulation
+    study.**](https://pubmed.ncbi.nlm.nih.gov/41166700/)
 
-    Li L, Patel M, Zhang L.
+    Khanna A, Lee F, Schrode K, Sheeler D, Hotton A, Schneider J,
+    Fujimoto K, Chirumamilla S, Sey EK, Harawa NT.
 
-    Bone. 2025 Oct 21:117688. doi: 10.1016/j.bone.2025.117688. Online
-    ahead of print.
+    J Acquir Immune Defic Syndr. 2025 Oct 30. doi:
+    10.1097/QAI.0000000000003790. Online ahead of print.
 
-    > It also discusses different simulation models, including the
-    > finite element method (FEM), agent-based models (ABM),
-    > reaction-diffusion models (RDM), and machine learning (ML), and
-    > evaluates their respective strengths. Recent advances in patient-
-    > …
+    > BACKGROUND: Although oral pre-exposure prophylaxis (PrEP) has been
+    > instrumental in decreasing HIV incidence, its daily dosing regimen
+    > poses adherence challenges. Using an agent-based network model
+    > informed by empirical data, we simulate the impact of introduc …
 
-4.  [**Effect of visual range on producer responses: Insights from
-    humans (Homo sapiens) and an agent-based
-    model.**](https://pubmed.ncbi.nlm.nih.gov/41129353/)
+6.  [**The directionality of collective cell delamination is governed by
+    tissue architecture and cell adhesion in a Drosophila carcinoma
+    model.**](https://pubmed.ncbi.nlm.nih.gov/41158866/)
 
-    Avila-Chauvet L, Cruz DM, Hernández LA, González FC.
+    Mira-Osuna M, Plunder S, Theveneau E, Le Borgne R.
 
-    J Comp Psychol. 2025 Oct 23. doi: 10.1037/com0000432. Online ahead
-    of print.
+    iScience. 2025 Sep 30;28(11):113663. doi:
+    10.1016/j.isci.2025.113663. eCollection 2025 Nov 21.
 
-    > Similarly, agent-based models assume scroungers have a
-    > comprehensive view of the habitat, enabling them to detect all
-    > opportunities to exploit resources, while producers move randomly.
-    > …Results showed that the producer index was higher when the
-    > probability …
+    > We used the Drosophila Ras (V12) carcinoma model and found that
+    > the loss of septate junctions in epithelial cells triggers
+    > apoptosis, whereas in Ras (V12) -cells promotes collective
+    > delamination. …We performed mathematical simulations using a 2D
+    > agent-based …
 
-5.  [**Simulating the impact of methadone prescribing and pharmacy
-    dispensing on opioid treatment and overdose in New York State: A
-    study protocol for an agent-based modeling
-    study.**](https://pubmed.ncbi.nlm.nih.gov/41124187/)
+7.  [**Bidirectional Endothelial Feedback Drives Turing-Vascular
+    Patterning and Drug-Resistance Niches: A Hybrid PDE-Agent-Based
+    Study.**](https://pubmed.ncbi.nlm.nih.gov/41155096/)
 
-    Krawczyk N, Miller M, Bórquez I, Rutherford C, Bobashev G, Mund P,
-    Keyes K, Cerdá M, Jordan AE.
+    Liu Z, Wang LS, Yu J, Zhang J, Martel E, Li S.
 
-    PLoS One. 2025 Oct 22;20(10):e0335123. doi:
-    10.1371/journal.pone.0335123. eCollection 2025.
+    Bioengineering (Basel). 2025 Oct 12;12(10):1097. doi:
+    10.3390/bioengineering12101097.
 
-    > In this protocol, we describe a planned NIH-funded study
-    > (R21DA061660) to simulate alternative MT delivery scenarios
-    > currently being considered in U.S. policy discussions, and
-    > estimate their impact on population-level rates of treatment
-    > initiation and retention and opioid overdos …
+    > We present a hybrid partial differential equation-agent-based
+    > model (PDE-ABM). In our framework, tumor cells secrete tumor
+    > angiogenic factor (TAF), while endothelial cells chemotactically
+    > migrate and branch in response. …Our results identify TAF
+    > clearance, …
 
-6.  [**On the ecological impact of prehistoric hunter-gatherers in
-    Europe: Early Holocene (Mesolithic) and Last Interglacial
-    (Neanderthal) foragers
-    compared.**](https://pubmed.ncbi.nlm.nih.gov/41124134/)
+8.  [**Inference and prediction for stochastic models of biological
+    populations undergoing migration and
+    proliferation.**](https://pubmed.ncbi.nlm.nih.gov/41151767/)
 
-    Nikulina A, Zapolska A, Serge MA, Roche DM, Mazier F, Davoli M,
-    Pearce EA, Svenning JC, van Wees D, Fyfe R, MacDonald K, Roebroeks
-    W, Scherjon F.
+    Simpson MJ, Plank MJ.
 
-    PLoS One. 2025 Oct 22;20(10):e0328218. doi:
-    10.1371/journal.pone.0328218. eCollection 2025.
+    J R Soc Interface. 2025 Oct;22(231):20250536. doi:
+    10.1098/rsif.2025.0536. Epub 2025 Oct 29.
 
-    > To explore this issue, we used an upgraded version of the HUMan
-    > impact on LANDscapes (HUMLAND) agent-based model (ABM), combined
-    > with a genetic algorithm, to generate vegetation change scenarios.
-    > …Instead, anthropogenic burning played a key role, with mo …
+    > While methods for parameter inference, parameter identifiability
+    > and model prediction are well developed for deterministic
+    > continuum models, working with biological applications often
+    > requires stochastic modelling approaches to capture inherent
+    > variability an …
 
-7.  [**Pan-cancer convergence of tumour-immune microenvironment motifs
-    revealed by CyTOF and imaging mass
-    cytometry.**](https://pubmed.ncbi.nlm.nih.gov/41122166/)
+9.  [**The Potential for Sample Testing at the Pen Level to Inform
+    Prudent Antimicrobial Selection for Bovine Respiratory Disease
+    Treatment: Investigations Using a Feedlot Simulation
+    Tool.**](https://pubmed.ncbi.nlm.nih.gov/41148701/)
 
-    Vallée A, Drezet A, Arutkin M.
+    Ramsay DE, McDonald W, Gow SP, McLeod L, Otto SJG, Osgood ND,
+    Waldner CL.
 
-    Front Immunol. 2025 Oct 6;16:1672312. doi:
-    10.3389/fimmu.2025.1672312. eCollection 2025.
+    Antibiotics (Basel). 2025 Oct 11;14(10):1009. doi:
+    10.3390/antibiotics14101009.
 
-    > Bioinformatic pipelines converged around FlowSOM or PhenoGraph
-    > clustering, CITRUS or elastic-net feature selection, and
-    > increasingly, machine learning and agent-based spatial modelling.
-    > Collectively, CyTOF and IMC are redefining biomarker discovery,
-    > therapeut …
+    > Recent evidence demonstrates preliminary support for the pen as a
+    > prospective target for AMR testing-based interventions in
+    > higher-risk cattle. Methods: A previously reported agent-based
+    > model (ABM) was modified and then used in this study to
+    > investigate the …
 
-8.  [**Local mechanical stresses can explain the mechanoregulation of
-    bone healing after mandibular reconstruction: an in silico
-    study.**](https://pubmed.ncbi.nlm.nih.gov/41114876/)
+10. [**Correction: An efficient and flexible framework for inferring
+    global sensitivity of agent-based model
+    parameters.**](https://pubmed.ncbi.nlm.nih.gov/41144345/)
 
-    Orassi V, Ruf P, Steffen C, Duda GN, Heiland M, Rendenbach C, Checa
-    S.
+    Bergman DR, Jackson T, Jain HV, Norton KA.
 
-    Clin Oral Investig. 2025 Oct 20;29(11):518. doi:
-    10.1007/s00784-025-06586-w.
-
-    > MATERIALS AND METHODS: A coupled finite-element and agent-based
-    > mechanobiological model for mandibular bone healing was developed
-    > to predict bone formation after mandibular reconstruction. A
-    > finite element model (FEM) of a monosegmental mandibular reco …
-
-9.  [**Development and validation of an agent-based cost-effectiveness
-    model of varicella vaccination strategies in
-    Australia.**](https://pubmed.ncbi.nlm.nih.gov/41111311/)
-
-    Hodgkinson B, Scuffham P.
-
-    J Med Econ. 2025 Dec;28(1):1840-1856. doi:
-    10.1080/13696998.2025.2577513. Epub 2025 Oct 24.
-
-    > The aim of this paper was to describe the development and
-    > validation of an agent-based model designed to evaluate the
-    > cost-effectiveness of various varicella vaccination strategies in
-    > Australia. …CONCLUSIONS: This agent-based model can …
-
-10. [**pH-sensitive methionine-decorated magnetite for targeted
-    MRI/SPECT cancer
-    imaging.**](https://pubmed.ncbi.nlm.nih.gov/41109153/)
-
-    Oveisi M, Ebrahimi F, Bitarafan-Rajabi A, Dastgir M, Shayan RG,
-    Akbari T, Ardestani MS, Darbandi-Azar A, Abaei S, Foroumadi A,
-    Ramazani A, Mortezazadeh T, Khoobi M.
-
-    Biomater Adv. 2025 Oct 14;180:214554. doi:
-    10.1016/j.bioadv.2025.214554. Online ahead of print.
-
-    > Herein, we present a new dual-modality contrast agent based on the
-    > efficient radiolabeling of Fe(3)O(4) magnetic nanoparticles (MNPs)
-    > with (99m)Tc for targeted MRI-SPECT cancer imaging.
-    > …Fe(3)O(4)@PMAO-Met MNPs was also evaluated in vivo in mice
-    > models, exh …
+    PLoS Comput Biol. 2025 Oct 27;21(10):e1013613. doi:
+    10.1371/journal.pcbi.1013613. eCollection 2025 Oct.
 
 ## Code of Conduct
 
