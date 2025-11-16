@@ -9,13 +9,127 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-11-09 00:07:45.
+update was on 2025-11-16 00:07:19.
 
 <div class="cell">
 
 </div>
 
-1.  [**Flocking Phase Separation in Inertial Active
+1.  [**Discovering environmental health effects of transport scenarios
+    through agent-based
+    simulations.**](https://pubmed.ncbi.nlm.nih.gov/41240421/)
+
+    Sonnenschein TS, Scheider S, de Wit GA, Woodcock J, Vermeulen RCH.
+
+    Environ Int. 2025 Nov 11;206:109866. doi:
+    10.1016/j.envint.2025.109866. Online ahead of print.
+
+    > Urban planning can help tackle environmental health issues. We
+    > demonstrate that agent-based simulation can discover unintended as
+    > well as intended environmental health effects and social
+    > inequalities of intervention scenarios. We developed, calibrated
+    > and validated …
+
+2.  [**Predictive maintenance optimization for industrial equipment via
+    reliable prognosis and risk-aware reinforcement
+    learning.**](https://pubmed.ncbi.nlm.nih.gov/41235170/)
+
+    Xu Z, Zhang Q.
+
+    Complex Intell Systems. 2026;12(1):11. doi:
+    10.1007/s40747-025-02127-w. Epub 2025 Nov 11.
+
+    > This study proposes an intelligent PdM framework that integrates a
+    > RUL prediction model based on probabilistic neural network with a
+    > distributional reinforcement learning agent based on QR-DQN. In
+    > the first stage, the RUL prediction model is developed …
+
+3.  [**Beyond the Warburg Effect: Modeling the Dynamic and
+    Context-Dependent Nature of Tumor
+    Metabolism.**](https://pubmed.ncbi.nlm.nih.gov/41228355/)
+
+    Jacquet P, Stéphanou A.
+
+    Cancers (Basel). 2025 Nov 3;17(21):3563. doi:
+    10.3390/cancers17213563.
+
+    > Our model combines a reduced yet mechanistically informed
+    > description of intracellular metabolism with an agent-based
+    > framework that captures spatial and temporal heterogeneity across
+    > tumor tissue. …Building on our previous work, we extend existing
+    > metaboli …
+
+4.  [**Moral Stereotyping: A Surface-Based Cue Promotes the Use of
+    Generalized Morality at an Early Stage of Human
+    Interactions.**](https://pubmed.ncbi.nlm.nih.gov/41225783/)
+
+    Matsuo A, Ueno T.
+
+    Pers Soc Psychol Bull. 2025 Nov 12:1461672251384355. doi:
+    10.1177/01461672251384355. Online ahead of print.
+
+    > Following Jackson et al., the current research employed an
+    > agent-based modeling (Study 1) and human study (Study 2). Study 1
+    > found that participants used moral stereotyping first in their
+    > interactions when the visual cue-morality association was salient.
+    > …
+
+5.  [**Racial and Ethnic Disparities in Meningococcal Vaccination
+    Coverage and Disease Burden Among U.S.
+    Adolescents.**](https://pubmed.ncbi.nlm.nih.gov/41222522/)
+
+    Wells CR, Shoukat A, Shin T, Galvani AP, Moghadas SM.
+
+    J Adolesc Health. 2025 Nov 12:S1054-139X(25)00459-8. doi:
+    10.1016/j.jadohealth.2025.09.030. Online ahead of print.
+
+    > Segmented logistic regression analyzed MenACWY uptake and drop-out
+    > trends. Multivariable models assessed associations with
+    > poverty-income ratio, maternal education, and access barriers. …
+
+6.  [**There is a power law of joint communicative effort and it
+    reflects communicative
+    work.**](https://pubmed.ncbi.nlm.nih.gov/41218453/)
+
+    Bögels S, Li T, Rasenberg M, Eijk L, Toni I, Pouw W.
+
+    Cognition. 2025 Nov 10;268:106370. doi:
+    10.1016/j.cognition.2025.106370. Online ahead of print.
+
+    > The current report proposes a novel ‘power law of joint
+    > communicative work’ that is relevant for linguistic theory,
+    > agent-based modeling, and experimental psychology….
+
+7.  [**A multi-method study evaluating the inference of compartmental
+    model parameters from a generative agent-based
+    model.**](https://pubmed.ncbi.nlm.nih.gov/41210184/)
+
+    Hunter E, Duggan J.
+
+    Infect Dis Model. 2025 Oct 16;11(1):218-240. doi:
+    10.1016/j.idm.2025.10.002. eCollection 2026 Mar.
+
+    > Calibrating process models such as compartmental SIR Models to
+    > real data can be performed using either optimization or Bayesian
+    > techniques. …All information about the data generative process is
+    > known for synthetic data, while when using real data there are
+    > many un …
+
+8.  [**Evaluating the impact of NPC1 single nucleotide polymorphisms on
+    entry efficiency of filoviruses in vitro: Agent-based model
+    approach.**](https://pubmed.ncbi.nlm.nih.gov/41207529/)
+
+    Kim JS, Kim KS, Takada A, Asai Y, Iwami S, Son SW, Lee MJ.
+
+    J Theor Biol. 2025 Nov 7:112315. doi: 10.1016/j.jtbi.2025.112315.
+    Online ahead of print.
+
+    > To better understand this process, we developed an agent-based
+    > model (ABM) to simulate viral plaque growth with spatial
+    > resolution beyond traditional models. By applying this model, we
+    > quantified how naturally occurring SNPs at GP-binding interf …
+
+9.  [**Flocking Phase Separation in Inertial Active
     Matter.**](https://pubmed.ncbi.nlm.nih.gov/41202247/)
 
     Luo N, Li L, Yang M, Peng Y.
@@ -28,7 +142,7 @@ update was on 2025-11-09 00:07:45.
     > first-order flocking phase separation, where a uniform flock
     > propagates through an i …
 
-2.  [**A Novel Agent-Based Approach for Dynamic Emotion Modeling in
+10. [**A Novel Agent-Based Approach for Dynamic Emotion Modeling in
     Social Networks.**](https://pubmed.ncbi.nlm.nih.gov/41201928/)
 
     Wu X, Lu L, Dotoli M, Fortino G, Chen M.
@@ -41,119 +155,6 @@ update was on 2025-11-09 00:07:45.
     > reconstructing emotion contagion at an individual level. This
     > model enhances traditional nodes with multihop agents driven by
     > text emotion anal …
-
-3.  [**Mathematical modeling predicts novel mechanisms of stream
-    confinement from Trail/Colec12/Dan in the collective migration of
-    cranial neural crest
-    cells.**](https://pubmed.ncbi.nlm.nih.gov/41201178/)
-
-    Johnson SWS, Kulesa PM, Baker RE, Maini PK.
-
-    Dev Dyn. 2025 Nov 7. doi: 10.1002/dvdy.70072. Online ahead of print.
-
-    > Here, we propose and test several hypothetical mechanisms by which
-    > these factors confine cell streams and maintain coherent
-    > migration, simulating an expanded agent-based model for collective
-    > CNCC migration. RESULTS: Model simulations suggest that Trail …
-
-4.  [**Interaction-aware agent-based simulation of customer trajectories
-    in retail stores with transformer
-    architectures.**](https://pubmed.ncbi.nlm.nih.gov/41198825/)
-
-    Horikomi T, Mizuno T.
-
-    Sci Rep. 2025 Nov 6;15(1):38972. doi: 10.1038/s41598-025-22885-4.
-
-    > To ensure that only the focal customer’s behavior is learned while
-    > using neighbors as context, we introduce an asymmetric loss
-    > masking scheme that excludes non-focal tokens from prediction
-    > targets. The model is trained from scratch using high-resolution
-    > indoor positioning …
-
-5.  [**A perspective on friction interventions to curb the spread of
-    misinformation.**](https://pubmed.ncbi.nlm.nih.gov/41194944/)
-
-    Jahn L, Rendsvig RK, Flammini A, Menczer F, Hendricks VF.
-
-    Npj Complex. 2025;2(1):31. doi: 10.1038/s44260-025-00051-1. Epub
-    2025 Nov 3.
-
-    > In this perspective, we propose a scalable field experiment to
-    > study the effects of friction with a learning component to educate
-    > users on the platform’s community standards. Preliminary
-    > simulations from an agent-based model suggest that while friction
-    > alone …
-
-6.  [**Modeling the 2022 mpox outbreak with a mechanistic network
-    model.**](https://pubmed.ncbi.nlm.nih.gov/41194012/)
-
-    Crenshaw EG, Onnela JP.
-
-    BMC Infect Dis. 2025 Nov 5;25(1):1507. doi:
-    10.1186/s12879-025-11731-7.
-
-    > Given the unprecedented number of mpox infections and the new
-    > route of infection, there was substantial uncertainty about how
-    > best to manage the outbreak. METHODS: We implemented a dynamic
-    > agent-based network model to simulate the spread of mpox in a
-    > United S …
-
-7.  [**Hybrid modelling using simulation and machine learning in
-    healthcare.**](https://pubmed.ncbi.nlm.nih.gov/41190319/)
-
-    Ahmadi A, Fakhimi M, Magnusson C.
-
-    Comput Oper Res. 2026 Jan;185:None. doi: 10.1016/j.cor.2025.107278.
-
-    > Modelling & Simulation (M&S) and Machine Learning (ML)
-    > methodologies have undergone significant advancements, enabling
-    > transformative applications across various industries. The
-    > integration of M&S and ML into a Hybrid M&S-ML approach leverages
-    > the unique st …
-
-8.  [**Turbulence drives arteriovenous remodeling: an experimentally
-    validated multi-scale model of neointimal
-    hyperplasia.**](https://pubmed.ncbi.nlm.nih.gov/41183446/)
-
-    Varsanik MA, Thaxton C, Nguyen DM, Pugar JA, Dhara SS, Li W, Nguyen
-    N, Dardik A, Pocivavsek L.
-
-    Phys Med Biol. 2025 Nov 3. doi: 10.1088/1361-6560/ae1ac8. Online
-    ahead of print.
-
-    > In this work, we developed a novel computational fluid dynamics
-    > (CFD) model of an AVF using a pre-established aortocaval mouse
-    > model and integrated it with agent-based modeling for NH.
-    > …Turbulence intensity served as an input parameter for a s …
-
-9.  [**Surrogate modeling of Cellular-Potts agent-based models as a
-    segmentation task using the U-Net neural network
-    architecture.**](https://pubmed.ncbi.nlm.nih.gov/41183124/)
-
-    Comlekoglu T, Quetzalcóatl Toledo-Marín J, Comlekoglu T, DeSimone
-    DW, Peirce SM, Fox G, Glazier JA.
-
-    PLoS Comput Biol. 2025 Nov 3;21(11):e1013626. doi:
-    10.1371/journal.pcbi.1013626. Online ahead of print.
-
-    > The Cellular-Potts model is a powerful and ubiquitous framework
-    > for developing computational models for simulating complex
-    > multicellular biological systems. Cellular-Potts models (CPMs) are
-    > often computationally expensive due to the explicit modeling o …
-
-10. [**Why more social interactions lead to more polarization in
-    societies.**](https://pubmed.ncbi.nlm.nih.gov/41171853/)
-
-    Thurner S, Hofer M, Korbel J.
-
-    Proc Natl Acad Sci U S A. 2025 Nov 4;122(44):e2517530122. doi:
-    10.1073/pnas.2517530122. Epub 2025 Oct 31.
-
-    > To explore whether these trends could be connected, we employ a
-    > simple computational model of society, where people-within their
-    > social networks-continuously compare and update their opinions.
-    > …The model allows us to understand the empirical inflation of
-    > polarizat …
 
 ## Code of Conduct
 
