@@ -9,152 +9,155 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-11-16 00:07:19.
+update was on 2025-11-23 00:07:51.
 
 <div class="cell">
 
 </div>
 
-1.  [**Discovering environmental health effects of transport scenarios
-    through agent-based
-    simulations.**](https://pubmed.ncbi.nlm.nih.gov/41240421/)
+1.  [**Validation is the central challenge for generative social
+    simulation: a critical review of LLMs in agent-based
+    modeling.**](https://pubmed.ncbi.nlm.nih.gov/41268053/)
 
-    Sonnenschein TS, Scheider S, de Wit GA, Woodcock J, Vermeulen RCH.
+    Larooij M, Törnberg P.
 
-    Environ Int. 2025 Nov 11;206:109866. doi:
-    10.1016/j.envint.2025.109866. Online ahead of print.
+    Artif Intell Rev. 2026;59(1):15. doi: 10.1007/s10462-025-11412-6.
+    Epub 2025 Nov 18.
 
-    > Urban planning can help tackle environmental health issues. We
-    > demonstrate that agent-based simulation can discover unintended as
-    > well as intended environmental health effects and social
-    > inequalities of intervention scenarios. We developed, calibrated
-    > and validated …
+    > Recent advances in Large Language Models (LLMs) have revitalized
+    > interest in Agent-Based Models (ABMs) by enabling “generative”
+    > simulations, with agents that can plan, reason, and interact
+    > through natural language. …Generative ABMs thus occupy an amb …
 
-2.  [**Predictive maintenance optimization for industrial equipment via
-    reliable prognosis and risk-aware reinforcement
-    learning.**](https://pubmed.ncbi.nlm.nih.gov/41235170/)
+2.  [**The rise and fall of religion: An agent-based model of
+    secularisation, security and
+    prosociality.**](https://pubmed.ncbi.nlm.nih.gov/41264655/)
 
-    Xu Z, Zhang Q.
+    Puga-Gonzalez I, Shults FL, Gore R, Talmont-Kaminski K.
 
-    Complex Intell Systems. 2026;12(1):11. doi:
-    10.1007/s40747-025-02127-w. Epub 2025 Nov 11.
+    PLoS One. 2025 Nov 20;20(11):e0327674. doi:
+    10.1371/journal.pone.0327674. eCollection 2025.
 
-    > This study proposes an intelligent PdM framework that integrates a
-    > RUL prediction model based on probabilistic neural network with a
-    > distributional reinforcement learning agent based on QR-DQN. In
-    > the first stage, the RUL prediction model is developed …
+    > This study embarks on a theoretical exploration of these
+    > approaches, connecting them through an agent-based computer
+    > simulation. By linking together some of the intricate mechanisms
+    > that underlie the dynamics of religion, prosociality, and anxiety,
+    > we aim to shed li …
 
-3.  [**Beyond the Warburg Effect: Modeling the Dynamic and
-    Context-Dependent Nature of Tumor
-    Metabolism.**](https://pubmed.ncbi.nlm.nih.gov/41228355/)
+3.  [**Optimizing Emergency Response by Digital Spontaneous Volunteers:
+    Insight From Agent-Based Modeling
+    Analysis.**](https://pubmed.ncbi.nlm.nih.gov/41261781/)
 
-    Jacquet P, Stéphanou A.
+    Gao S, Zhu B, Zhang X.
 
-    Cancers (Basel). 2025 Nov 3;17(21):3563. doi:
-    10.3390/cancers17213563.
+    Risk Anal. 2025 Nov 19. doi: 10.1111/risa.70158. Online ahead of
+    print.
 
-    > Our model combines a reduced yet mechanistically informed
-    > description of intracellular metabolism with an agent-based
-    > framework that captures spatial and temporal heterogeneity across
-    > tumor tissue. …Building on our previous work, we extend existing
-    > metaboli …
+    > This study explores how to optimize DSV crowdsourcing by
+    > investigating the role of sustained trust from formal
+    > organizations and the logic of adaptive crowdsourcing based on
+    > complex adaptive systems theory. Using an agent-based model
+    > calibrated with data from …
 
-4.  [**Moral Stereotyping: A Surface-Based Cue Promotes the Use of
-    Generalized Morality at an Early Stage of Human
-    Interactions.**](https://pubmed.ncbi.nlm.nih.gov/41225783/)
+4.  [**Flood impact on urban transport networks considering the flooding
+    propagation.**](https://pubmed.ncbi.nlm.nih.gov/41259972/)
 
-    Matsuo A, Ueno T.
+    Liu Y, Ford A, Dawson R, Pyatkova K, Tang J, Wan Y, Yang S.
 
-    Pers Soc Psychol Bull. 2025 Nov 12:1461672251384355. doi:
-    10.1177/01461672251384355. Online ahead of print.
+    J Environ Manage. 2025 Nov 18;395:127972. doi:
+    10.1016/j.jenvman.2025.127972. Online ahead of print.
 
-    > Following Jackson et al., the current research employed an
-    > agent-based modeling (Study 1) and human study (Study 2). Study 1
-    > found that participants used moral stereotyping first in their
-    > interactions when the visual cue-morality association was salient.
+    > This was implemented by dynamic coupling of flood propagation from
+    > a hydrodynamic model (CADDIES-2D) with traffic simulations from an
+    > agent-based transport model (SUMO). …
+
+5.  [**Cooperative short- and long-range interactions enable robust
+    symmetry breaking and axis
+    formation.**](https://pubmed.ncbi.nlm.nih.gov/41256695/)
+
+    Guan G, Wang S, Shields TG, Pahng SH, Shao CX, Ye J, Budjan C,
+    Hormoz S.
+
+    bioRxiv \[Preprint\]. 2025 Sep 29:2025.09.27.678924. doi:
+    10.1101/2025.09.27.678924.
+
+    > To investigate the underlying physical principles, we constructed
+    > a coarse-grained agent-based model representing two radially
+    > differentiated cell populations - outer/peripheral and
+    > inner/core - interacting via short-range adhesion/surface tension
+    > and optiona …
+
+6.  [**Regulatory network and spatial modeling reveal cooperative
+    mechanisms of resistance and immune escape in ER (+) breast
+    cancer.**](https://pubmed.ncbi.nlm.nih.gov/41256596/)
+
+    Fan Y, Sahoo S, Jolly MK, George JT.
+
+    bioRxiv \[Preprint\]. 2025 Oct 2:2025.09.30.679692. doi:
+    10.1101/2025.09.30.679692.
+
+    > Extending on these network-level insights, we further used a
+    > spatially explicit agent-based model seeded with GRN-derived
+    > phenotypes to probe tumor behavior under therapeutic pressure.
+    > …Lastly, we identified combination therapies predicted to
+    > constrain mali …
+
+7.  [**A scoping review of mathematical modeling techniques for gingival
+    keratinization: A framework for periodontal
+    research.**](https://pubmed.ncbi.nlm.nih.gov/41255395/)
+
+    Yadalam PK, Anegundi RV, Ardila CM.
+
+    J Clin Exp Dent. 2025 Oct 1;17(10):e1267-e1274. doi:
+    10.4317/jced.62834. eCollection 2025 Oct.
+
+    > This scoping review evaluates three predominant mathematical
+    > modeling paradigms-Gene Regulatory Networks (GRNs0, Ordinary
+    > Differential Equations (ODEs), and Agent-Based Models (ABMs)-to
+    > establish a framework for periodontal research. …Quantitative sc …
+
+8.  [**Talk2Biomodels: AI agent-based open-source LLM initiative for
+    kinetic biological
+    models.**](https://pubmed.ncbi.nlm.nih.gov/41254502/)
+
+    Wehling L, Singh G, Mulyadi AW, Sreenath RH, Hermjakob H, Nguyen
+    TVN, Rückle T, Mosa MH, Cordes H, Andreani T, Klabunde T, Malik
+    Sheriff RS, McCloskey D.
+
+    BMC Bioinformatics. 2025 Nov 18;26(1):276. doi:
+    10.1186/s12859-025-06310-1.
+
+    > T2B allows users to interact with and analyse mathematical models
+    > of biological systems through conversations in natural language,
+    > thereby lowering the barrier to entry for model interpretation and
+    > hypothesis-driven exploration. …CONCLUSIONS: In summary, T2B lower
     > …
 
-5.  [**Racial and Ethnic Disparities in Meningococcal Vaccination
-    Coverage and Disease Burden Among U.S.
-    Adolescents.**](https://pubmed.ncbi.nlm.nih.gov/41222522/)
+9.  [**Role of zealots in the spread of linguistic
+    traits.**](https://pubmed.ncbi.nlm.nih.gov/41250481/)
 
-    Wells CR, Shoukat A, Shin T, Galvani AP, Moghadas SM.
+    Dornelas V, Anteneodo C, Nunes R, Heinsalu E, Patriarca M.
 
-    J Adolesc Health. 2025 Nov 12:S1054-139X(25)00459-8. doi:
-    10.1016/j.jadohealth.2025.09.030. Online ahead of print.
+    Phys Rev E. 2025 Oct;112(4-1):044303. doi: 10.1103/t4pt-zdc3.
 
-    > Segmented logistic regression analyzed MenACWY uptake and drop-out
-    > trends. Multivariable models assessed associations with
-    > poverty-income ratio, maternal education, and access barriers. …
+    > We investigate the diffusion of linguistic innovations on a fully
+    > connected network to understand the emergence of linguistic
+    > diversity. We employ an agent-based dynamics based on the Axelrod
+    > model, where interactions between agents are driven by homophily
+    > an …
 
-6.  [**There is a power law of joint communicative effort and it
-    reflects communicative
-    work.**](https://pubmed.ncbi.nlm.nih.gov/41218453/)
+10. [**Model of talkers and listeners in social
+    networks.**](https://pubmed.ncbi.nlm.nih.gov/41250327/)
 
-    Bögels S, Li T, Rasenberg M, Eijk L, Toni I, Pouw W.
+    Krebs JM, Sneppen K.
 
-    Cognition. 2025 Nov 10;268:106370. doi:
-    10.1016/j.cognition.2025.106370. Online ahead of print.
+    Phys Rev E. 2025 Oct;112(4-1):044312. doi: 10.1103/dvmm-9ssz.
 
-    > The current report proposes a novel ‘power law of joint
-    > communicative work’ that is relevant for linguistic theory,
-    > agent-based modeling, and experimental psychology….
-
-7.  [**A multi-method study evaluating the inference of compartmental
-    model parameters from a generative agent-based
-    model.**](https://pubmed.ncbi.nlm.nih.gov/41210184/)
-
-    Hunter E, Duggan J.
-
-    Infect Dis Model. 2025 Oct 16;11(1):218-240. doi:
-    10.1016/j.idm.2025.10.002. eCollection 2026 Mar.
-
-    > Calibrating process models such as compartmental SIR Models to
-    > real data can be performed using either optimization or Bayesian
-    > techniques. …All information about the data generative process is
-    > known for synthetic data, while when using real data there are
-    > many un …
-
-8.  [**Evaluating the impact of NPC1 single nucleotide polymorphisms on
-    entry efficiency of filoviruses in vitro: Agent-based model
-    approach.**](https://pubmed.ncbi.nlm.nih.gov/41207529/)
-
-    Kim JS, Kim KS, Takada A, Asai Y, Iwami S, Son SW, Lee MJ.
-
-    J Theor Biol. 2025 Nov 7:112315. doi: 10.1016/j.jtbi.2025.112315.
-    Online ahead of print.
-
-    > To better understand this process, we developed an agent-based
-    > model (ABM) to simulate viral plaque growth with spatial
-    > resolution beyond traditional models. By applying this model, we
-    > quantified how naturally occurring SNPs at GP-binding interf …
-
-9.  [**Flocking Phase Separation in Inertial Active
-    Matter.**](https://pubmed.ncbi.nlm.nih.gov/41202247/)
-
-    Luo N, Li L, Yang M, Peng Y.
-
-    Phys Rev Lett. 2025 Oct 24;135(17):178301. doi: 10.1103/hb7b-wp95.
-
-    > Here, we study collective motion of inertia-dominated macroscopic
-    > agents using a model system of millimeter-sized magnetic rollers
-    > with tunable motile behaviors. In this system, we observe
-    > first-order flocking phase separation, where a uniform flock
-    > propagates through an i …
-
-10. [**A Novel Agent-Based Approach for Dynamic Emotion Modeling in
-    Social Networks.**](https://pubmed.ncbi.nlm.nih.gov/41201928/)
-
-    Wu X, Lu L, Dotoli M, Fortino G, Chen M.
-
-    IEEE Trans Cybern. 2025 Nov 7;PP. doi: 10.1109/TCYB.2025.3625166.
-    Online ahead of print.
-
-    > To address this, our study introduces a novel approach integrating
-    > text-based emotion recognition with propagation models,
-    > reconstructing emotion contagion at an individual level. This
-    > model enhances traditional nodes with multihop agents driven by
-    > text emotion anal …
+    > Yet, the mechanisms governing the emergence and stability of such
+    > roles remain poorly understood. Here, we introduce a minimal
+    > agent-based model in which disparities in expression and attention
+    > give rise to emergent social structure. Persistent self-referenti
+    > …
 
 ## Code of Conduct
 
