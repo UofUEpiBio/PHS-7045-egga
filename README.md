@@ -9,158 +9,148 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-11-30 00:07:54.
+update was on 2025-12-07 00:08:10.
 
 <div class="cell">
 
 </div>
 
-1.  [**Cooperation versus social
-    welfare.**](https://pubmed.ncbi.nlm.nih.gov/41313836/)
+1.  [**Beyond algorithms: How agent-based artificial intelligence is
+    changing the future of
+    radiology.**](https://pubmed.ncbi.nlm.nih.gov/41350184/)
 
-    Han TA, Song Z, Cimpeanu T, Duong MH, Krellner M, Capraro V, Perc M.
+    Grégory J, Fournier L, Gong B, Lecler A.
 
-    Phys Life Rev. 2025 Nov 22;56:33-60. doi:
-    10.1016/j.plrev.2025.11.006. Online ahead of print.
+    Diagn Interv Imaging. 2025 Dec 5:S2211-5684(25)00214-1. doi:
+    10.1016/j.diii.2025.11.009. Online ahead of print.
 
-    > By explicitly incorporating these hidden factors into the models,
-    > we analyse the conditions under which they reduce social welfare,
-    > across a broad range of social dilemma games and evolutionary
-    > forces. Additionally, we review experimental studies that support
-    > and inform ma …
+2.  [**Memory, innovation and vertical
+    learning.**](https://pubmed.ncbi.nlm.nih.gov/41348921/)
 
-2.  [**Accounting for Mobility in Air Pollution Exposure Estimates in
-    Studies on Long-Term Health
-    Effects.**](https://pubmed.ncbi.nlm.nih.gov/41311350/)
+    Ammar M, Fogarty L, Kandler A.
 
-    de Hoogh K, Flückiger B, Probst-Hensch N, Vienneau D, Jeong A,
-    Imboden M, Karsies A, Baruth S, de Ferrars D, Schmitz O, Lu M,
-    Vermeulen R, Kyriakou K, Ndiaye A, Shen Y, Karssenberg D, Hoek G.
+    PLoS Comput Biol. 2025 Dec 5;21(12):e1013785. doi:
+    10.1371/journal.pcbi.1013785. Online ahead of print.
 
-    Res Rep Health Eff Inst. 2025 Oct;(229):1-60.
+    > Based on extensive ethnographic research, vertical learning-social
+    > learning from parent to offspring-appears to be an extremely
+    > salient and important type of social learning. Here we develop
+    > large-scale agent-based simulation models to investigate the
+    > evoluti …
 
-    > In this study, we investigated whether a more sophisticated
-    > mobility-enhanced exposure assessment would lead to different
-    > exposure predictions and health effect estimates compared with
-    > using a residential-based exposure. METHODS: Agent-based modeling
-    > (ABM(3)) …
+3.  [**An agent-based model of metabolic signaling oscillations in
+    Bacillus subtilis
+    biofilms.**](https://pubmed.ncbi.nlm.nih.gov/41343600/)
 
-3.  [**Simulating nationwide coupled disease and fear spread in an
-    agent-based model.**](https://pubmed.ncbi.nlm.nih.gov/41298781/)
+    Mulder OJ, Peters Kostman M, Almodaimegh A, Edge MD, Larkin JW.
 
-    Kitson J, Alexander PC, Tuccillo J, Butts DJ, Brelsford C, Bhatele
-    A, Del Valle SY, Germann TC.
+    PLoS Comput Biol. 2025 Dec 4;21(12):e1013746. doi:
+    10.1371/journal.pcbi.1013746. Online ahead of print.
 
-    Sci Rep. 2025 Nov 26;15(1):42235. doi: 10.1038/s41598-025-26425-y.
+    > Here we investigate this problem with an agent-based computational
+    > model of metabolically driven electrochemical signaling in
+    > Bacillus subtilis biofilms. …By tracking cellular glutamate
+    > concentrations, we find that oscillations evenly distribute
+    > nutrients i …
 
-    > Human cognitive responses, behavioral responses, and disease
-    > dynamics co-evolve over the course of any disease outbreak, and
-    > can result in complex feedbacks. We present a dynamic agent-based
-    > model that explicitly couples the spread of disease with the
-    > spread …
+4.  [**Network formation and dynamics among
+    multi-LLMs.**](https://pubmed.ncbi.nlm.nih.gov/41341624/)
 
-4.  [**Multiscale modelling shows how cell-ECM interactions impact ECM
-    fibre alignment and cell
-    detachment.**](https://pubmed.ncbi.nlm.nih.gov/41296811/)
+    Papachristou M, Yuan Y.
 
-    Arellano-Tintó J, Stepanova D, Byrne HM, Maini PK, Alarcón T.
+    PNAS Nexus. 2025 Dec 2;4(12):pgaf317. doi:
+    10.1093/pnasnexus/pgaf317. eCollection 2025 Dec.
 
-    PLoS Comput Biol. 2025 Nov 26;21(11):e1012698. doi:
-    10.1371/journal.pcbi.1012698. Online ahead of print.
+    > Social networks shape how humans form opinions, exchange
+    > information, and organize collectively. As large language models
+    > (LLMs) become embedded in social and professional environments, it
+    > is critical to understand whether their interactions resemble
+    > human network dynamics …
 
-    > To gain a better understanding of these mechanical interactions,
-    > we have developed a multiscale agent-based model based on a
-    > mechanical description of forces that simultaneously integrates
-    > the mechanosensitive regulation of focal adhesions, cytoskeleton
-    > dynam …
+5.  [**Immune response precision customized to tumor adaptive
+    kinetics.**](https://pubmed.ncbi.nlm.nih.gov/41338323/)
 
-5.  [**Benefit-cost analysis of raccoon rabies control in Ontario,
-    Canada.**](https://pubmed.ncbi.nlm.nih.gov/41296778/)
+    Li Y, Vlasceanu D, Kim R.
 
-    Shwiff SA, Acheson ES, Altringer L, Leighton PA, Nituch L, Sykora S,
-    Viard F, Buchanan T.
+    Biosystems. 2025 Dec 1;259:105665. doi:
+    10.1016/j.biosystems.2025.105665. Online ahead of print.
 
-    PLoS Negl Trop Dis. 2025 Nov 26;19(11):e0013696. doi:
-    10.1371/journal.pntd.0013696. Online ahead of print.
+    > To investigate the conditions under which tumor heterogeneity is
+    > sufficient for immune evasion, we developed an agent-based model
+    > at the level of individual cells. In this model, cancer phenotypes
+    > are represented as vectors, with mutation as a random w …
 
-    > This study assesses the economic efficiency of Ontario, Canada’s
-    > raccoon rabies control program, which combines oral rabies
-    > vaccination (ORV), trap-vaccinate-release (TVR), and surveillance
-    > strategies. Using a spatial agent-based epidemiological model, the
-    > st …
+6.  [**Advances in surrogate modeling for biological agent-based
+    simulations: trends, challenges, and future
+    prospects.**](https://pubmed.ncbi.nlm.nih.gov/41335239/)
 
-6.  [**The synergy of therapeutic vaccination and timely diagnosis for
-    TB control in high-burden settings: Nunavut as a case
-    study.**](https://pubmed.ncbi.nlm.nih.gov/41293750/)
+    Norton KA, Bergman D, Jain HV, Jackson T.
 
-    Abdollahi E, Moghadas SM, Galvani AP.
+    J Math Biol. 2025 Dec 3;92(1):6. doi: 10.1007/s00285-025-02318-6.
 
-    J Clin Tuberc Other Mycobact Dis. 2025 Oct 17;41:100569. doi:
-    10.1016/j.jctube.2025.100569. eCollection 2025 Dec.
+    > Agent-based modeling (ABM) is a powerful computational approach
+    > for studying complex biological and biomedical systems, yet its
+    > widespread use remains limited by significant computational
+    > demands. …A growing body of work points to surrogate modeling …
 
-    > We evaluated strategies underpinning this initiative, including
-    > the potential use of therapeutic TB vaccines that are currently
-    > undergoing clinical trials. METHODS: We developed an agent-based
-    > model of TB transmission dynamics that includes the demographic di
-    > …
+7.  [**Rethinking the seven-day treatment-free interval in T-cell
+    engager therapy using agent-based
+    modeling.**](https://pubmed.ncbi.nlm.nih.gov/41332775/)
 
-7.  [**From reductionism to realism: holistic mathematical modelling for
-    complex biological
-    systems.**](https://pubmed.ncbi.nlm.nih.gov/41292313/)
+    Obertopp N, Froid M, Pilon-Thomas S, Basanta D.
 
-    Nartallo-Kaluarachchi R, Lambiotte R, Goriely A.
+    bioRxiv \[Preprint\]. 2025 Nov 17:2025.11.17.688873. doi:
+    10.1101/2025.11.17.688873.
 
-    J R Soc Interface. 2025 Nov;22(232):20250468. doi:
-    10.1098/rsif.2025.0468. Epub 2025 Nov 26.
+    > METHODS: To systematically evaluate alternative TFI strategies, we
+    > developed an agent-based model (ABM) of tumor-T cell interactions
+    > under various blinatumomab dosing regimens. …This work
+    > demonstrates the value of ABM in preclinical immunotherapy design
+    > and …
 
-    > Nevertheless, the traditional framework of complex systems
-    > modelling falls short, as its emphasis on broad theoretical
-    > principles has often failed to produce predictive, empirically
-    > grounded insights. …We advocate for a holistic mathematical
-    > modelling paradigm tha …
+8.  [**Social, mobility and contact networks in shaping health
+    behaviours and infectious disease dynamics: a scoping
+    review.**](https://pubmed.ncbi.nlm.nih.gov/41331691/)
 
-8.  [**Timing of mortality during development alters the evolution of
-    aging.**](https://pubmed.ncbi.nlm.nih.gov/41287051/)
+    Cheng Z, Ruktanonchai NW, Wesolowski A, Pei S, Wang J, Cockings S,
+    Tatem AJ, Lai S.
 
-    Lenart P, Psalmon S, Towbin BD.
+    Infect Dis Poverty. 2025 Dec 3;14(1):123. doi:
+    10.1186/s40249-025-01378-6.
 
-    BMC Ecol Evol. 2025 Nov 24;25(1):127. doi:
-    10.1186/s12862-025-02464-x.
+    > With emerging new data sources and advanced computational
+    > techniques, two promising approaches-multiplex network analysis
+    > and generative agent-based modelling-offer frameworks for
+    > integrating the complex interdependencies among social, mobility
+    > and contact ne …
 
-    > RESULTS: To address this, we developed two complementary
-    > mathematical models that integrate survival benefits arising
-    > during development with the progressive increase in mortality
-    > associated with senescence. Agent-based simulations and
-    > deterministic analyses …
+9.  [**Astrocyte Reprogramming Drives Tumor Progression and Chemotherapy
+    Resistance in Agent-Based Models of Breast Cancer Brain
+    Metastases.**](https://pubmed.ncbi.nlm.nih.gov/41331608/)
 
-9.  [**Culture is critical in driving orangutan diet development past
-    individual potentials.**](https://pubmed.ncbi.nlm.nih.gov/41286012/)
+    Kaur R, Barker-Clarke R, Dhawan A.
 
-    Howard-Spink E, Tennie C, Mitra Setia T, Perawati D, van Schaik C,
-    Barrett B, Whiten A, Schuppli C.
+    Bull Math Biol. 2025 Dec 2;87(12):180. doi:
+    10.1007/s11538-025-01557-4.
 
-    Nat Hum Behav. 2025 Nov 24. doi: 10.1038/s41562-025-02350-y. Online
-    ahead of print.
+    > Among resident brain cells, astrocytes are both the most common,
+    > and are increasingly recognized as key regulators of this process,
+    > yet their precise role remains poorly defined. Here, we present a
+    > hybrid agent-based model (ABM) to simulate tumor-astrocyte in …
 
-    > We investigated whether social learning mediates orangutans’
-    > diet-repertoire development, by translating an extensive dataset
-    > describing wild orangutans’ behaviour into an empirically
-    > validated agent-based model. In this model, diets reliably
-    > developed …
+10. [**Modeling COVID-19 response in Cuba: a hybrid approach combining
+    agent-based modeling and time series
+    analysis.**](https://pubmed.ncbi.nlm.nih.gov/41331436/)
 
-10. [**Modeling feasible locomotion of nanobots for cancer detection and
-    treatment.**](https://pubmed.ncbi.nlm.nih.gov/41284869/)
+    Orlando G, Bufalo M, Nazarova V.
 
-    Harasha N, Gava C, Lynch N, Contini C, Mallmann-Trenn F.
+    Popul Health Metr. 2025 Dec 3;23(1):71. doi:
+    10.1186/s12963-025-00433-6.
 
-    Proc Natl Acad Sci U S A. 2025 Dec 2;122(48):e2510036122. doi:
-    10.1073/pnas.2510036122. Epub 2025 Nov 24.
-
-    > This includes a feasible and precise model of agent locomotion,
-    > inspired by actual nanoparticles that, in the presence of an
-    > external chemical gradient, move toward areas of higher
-    > concentration by means of self-propulsion. We present two variants
-    > of our model: the …
+    > It proposes a hybrid, efficient, and parsimonious model combining
+    > ABM (Agent-Based Modeling) and ARIMAX (AutoRegressive Integrated
+    > Moving Average with eXogenous variables) time series analysis to
+    > forecast COVID-19 cases, offering valuable insights for …
 
 ## Code of Conduct
 
