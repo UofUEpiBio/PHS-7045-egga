@@ -9,148 +9,154 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-12-07 00:08:10.
+update was on 2025-12-14 00:08:17.
 
 <div class="cell">
 
 </div>
 
-1.  [**Beyond algorithms: How agent-based artificial intelligence is
-    changing the future of
-    radiology.**](https://pubmed.ncbi.nlm.nih.gov/41350184/)
+1.  [**Studying COVID-19 transmission in US state prisons using an
+    agent-based modelling approach: a simulation
+    study.**](https://pubmed.ncbi.nlm.nih.gov/41387000/)
 
-    Grégory J, Fournier L, Gong B, Lecler A.
+    Owens AL, Fliss M, Brinkley-Rubinstein L.
 
-    Diagn Interv Imaging. 2025 Dec 5:S2211-5684(25)00214-1. doi:
-    10.1016/j.diii.2025.11.009. Online ahead of print.
+    BMJ Open. 2025 Dec 12;15(12):e104621. doi:
+    10.1136/bmjopen-2025-104621.
 
-2.  [**Memory, innovation and vertical
-    learning.**](https://pubmed.ncbi.nlm.nih.gov/41348921/)
+    > OBJECTIVES: We aim to use an agent-based model to accurately
+    > predict the spread of COVID-19 within multiple US state prisons.
+    > …METHODS: An agent-based model that used geospatial contact
+    > networks and compartmental transmission dynamics w …
 
-    Ammar M, Fogarty L, Kandler A.
+2.  [**Co-evolution of groups and opinions in an agent-based
+    model.**](https://pubmed.ncbi.nlm.nih.gov/41385572/)
 
-    PLoS Comput Biol. 2025 Dec 5;21(12):e1013785. doi:
-    10.1371/journal.pcbi.1013785. Online ahead of print.
+    Cassells D, Vendeville A, Tabourier L, Ramaciotti P.
 
-    > Based on extensive ethnographic research, vertical learning-social
-    > learning from parent to offspring-appears to be an extremely
-    > salient and important type of social learning. Here we develop
-    > large-scale agent-based simulation models to investigate the
-    > evoluti …
+    PLoS One. 2025 Dec 12;20(12):e0338486. doi:
+    10.1371/journal.pone.0338486. eCollection 2025.
 
-3.  [**An agent-based model of metabolic signaling oscillations in
-    Bacillus subtilis
-    biofilms.**](https://pubmed.ncbi.nlm.nih.gov/41343600/)
+    > This study explores a model for the co-evolution of opinions and
+    > groups, related to opinion polarization and group identity in
+    > opinion dynamics. While traditional models focus on pairwise
+    > interactions, we incorporate the notion of groups thereby allowing
+    > agents to i …
 
-    Mulder OJ, Peters Kostman M, Almodaimegh A, Edge MD, Larkin JW.
+3.  [**Extending Schelling’s segregation model from self orientation to
+    social orientation.**](https://pubmed.ncbi.nlm.nih.gov/41381799/)
 
-    PLoS Comput Biol. 2025 Dec 4;21(12):e1013746. doi:
-    10.1371/journal.pcbi.1013746. Online ahead of print.
+    Yu U, Jin K.
 
-    > Here we investigate this problem with an agent-based computational
-    > model of metabolically driven electrochemical signaling in
-    > Bacillus subtilis biofilms. …By tracking cellular glutamate
-    > concentrations, we find that oscillations evenly distribute
-    > nutrients i …
+    Sci Rep. 2025 Dec 11. doi: 10.1038/s41598-025-32159-8. Online ahead
+    of print.
 
-4.  [**Network formation and dynamics among
-    multi-LLMs.**](https://pubmed.ncbi.nlm.nih.gov/41341624/)
+    > Schelling’s segregation model demonstrates how simple local rules
+    > can generate large-scale social patterns, yet it assumes agents
+    > act myopically and ignore the broader consequences of their moves.
+    > …We formalize this through three relocation rules-negative
+    > externality avo …
 
-    Papachristou M, Yuan Y.
+4.  [**The equity implications of pecuniary externalities on an electric
+    grid.**](https://pubmed.ncbi.nlm.nih.gov/41376710/)
 
-    PNAS Nexus. 2025 Dec 2;4(12):pgaf317. doi:
-    10.1093/pnasnexus/pgaf317. eCollection 2025 Dec.
+    Sims C, Ali GG, Holladay JS, Roberson T, Chen CF, El-Adaway IH.
 
-    > Social networks shape how humans form opinions, exchange
-    > information, and organize collectively. As large language models
-    > (LLMs) become embedded in social and professional environments, it
-    > is critical to understand whether their interactions resemble
-    > human network dynamics …
+    PNAS Nexus. 2025 Dec 9;4(12):pgaf356. doi:
+    10.1093/pnasnexus/pgaf356. eCollection 2025 Dec.
 
-5.  [**Immune response precision customized to tumor adaptive
-    kinetics.**](https://pubmed.ncbi.nlm.nih.gov/41338323/)
+    > Since high-income households are more likely to purchase PV
+    > systems, low-income households may be disproportionately impacted
+    > by these rate increases. Using a novel combination of agent-based
+    > computational economic modeling and a choice experiment of rooftop
+    > …
 
-    Li Y, Vlasceanu D, Kim R.
+5.  [**A socio-technical agent-based simulation model for predicting
+    smart agriculture adoption
+    dynamics.**](https://pubmed.ncbi.nlm.nih.gov/41372278/)
 
-    Biosystems. 2025 Dec 1;259:105665. doi:
-    10.1016/j.biosystems.2025.105665. Online ahead of print.
+    Alotibi YS.
 
-    > To investigate the conditions under which tumor heterogeneity is
-    > sufficient for immune evasion, we developed an agent-based model
-    > at the level of individual cells. In this model, cancer phenotypes
-    > are represented as vectors, with mutation as a random w …
+    Sci Rep. 2025 Dec 10;15(1):43536. doi: 10.1038/s41598-025-27523-7.
 
-6.  [**Advances in surrogate modeling for biological agent-based
-    simulations: trends, challenges, and future
-    prospects.**](https://pubmed.ncbi.nlm.nih.gov/41335239/)
+    > To address these limitations, this paper presents AdoptAgriSim, a
+    > Socio-Technical Agent-Based Simulation Model for Predicting Smart
+    > Agriculture Adoption Dynamics, which integrates economic, social,
+    > and technological dimensions into a unified framework. The …
 
-    Norton KA, Bergman D, Jain HV, Jackson T.
+6.  [**Dynamic reward-augmented ensemble learning for EEG signal
+    classification in major depressive
+    disorder.**](https://pubmed.ncbi.nlm.nih.gov/41369644/)
 
-    J Math Biol. 2025 Dec 3;92(1):6. doi: 10.1007/s00285-025-02318-6.
+    Xu J, Ziwei Y, Zhaojun X.
 
-    > Agent-based modeling (ABM) is a powerful computational approach
-    > for studying complex biological and biomedical systems, yet its
-    > widespread use remains limited by significant computational
-    > demands. …A growing body of work points to surrogate modeling …
+    Biomed Phys Eng Express. 2025 Dec 10;12(1). doi:
+    10.1088/2057-1976/ae2333.
 
-7.  [**Rethinking the seven-day treatment-free interval in T-cell
-    engager therapy using agent-based
-    modeling.**](https://pubmed.ncbi.nlm.nih.gov/41332775/)
+    > To overcome these limitations, we present an Adaptive Agent-Based
+    > Ensemble Learning (AABEL) framework that integrates reinforcement
+    > learning (RL) with neurocomputational principles. AABEL pioneers
+    > three methodological advancements: (1) RL-Driven Adaptive
+    > Weighting: …
 
-    Obertopp N, Froid M, Pilon-Thomas S, Basanta D.
+7.  [**Agent-based modeling of health resources for older adults:
+    accessibility, equity, and last-mile solutions in Fuzhou,
+    China.**](https://pubmed.ncbi.nlm.nih.gov/41368671/)
 
-    bioRxiv \[Preprint\]. 2025 Nov 17:2025.11.17.688873. doi:
-    10.1101/2025.11.17.688873.
+    Zhang Q, Wu X, Wu S, Huang L, Peng C.
 
-    > METHODS: To systematically evaluate alternative TFI strategies, we
-    > developed an agent-based model (ABM) of tumor-T cell interactions
-    > under various blinatumomab dosing regimens. …This work
-    > demonstrates the value of ABM in preclinical immunotherapy design
-    > and …
+    Front Public Health. 2025 Nov 24;13:1698911. doi:
+    10.3389/fpubh.2025.1698911. eCollection 2025.
 
-8.  [**Social, mobility and contact networks in shaping health
-    behaviours and infectious disease dynamics: a scoping
-    review.**](https://pubmed.ncbi.nlm.nih.gov/41331691/)
+    > This study addresses the structural mismatch between the spatial
+    > distribution of older adults and health resources in Fuzhou,
+    > China, by developing an Agent-Based Model (ABM) to simulate the
+    > utilization of prevention, treatment, and long-term care
+    > facilities a …
 
-    Cheng Z, Ruktanonchai NW, Wesolowski A, Pei S, Wang J, Cockings S,
-    Tatem AJ, Lai S.
+8.  [**Generalized Stable Population and Agent-Based Models of
+    phenotypic transmission in human populations, with an application to
+    body size.**](https://pubmed.ncbi.nlm.nih.gov/41363689/)
 
-    Infect Dis Poverty. 2025 Dec 3;14(1):123. doi:
-    10.1186/s40249-025-01378-6.
+    Aldea N, García-Aguirre A, Beltrán-Sánchez H, Daza S, Palloni A.
 
-    > With emerging new data sources and advanced computational
-    > techniques, two promising approaches-multiplex network analysis
-    > and generative agent-based modelling-offer frameworks for
-    > integrating the complex interdependencies among social, mobility
-    > and contact ne …
+    Hum Hered. 2025 Nov 28:1-26. doi: 10.1159/000549053. Online ahead of
+    print.
 
-9.  [**Astrocyte Reprogramming Drives Tumor Progression and Chemotherapy
-    Resistance in Agent-Based Models of Breast Cancer Brain
-    Metastases.**](https://pubmed.ncbi.nlm.nih.gov/41331608/)
+    > We show that generalizations of stable population (GSPM) and agent
+    > based models (ABM) are useful tools to simulate the trajectory of
+    > a human phenotype. …If properly anchored on robust empirical
+    > estimates of model inputs, the models’ results re …
 
-    Kaur R, Barker-Clarke R, Dhawan A.
+9.  [**Beauty isn’t everything: An agent-based model of imperfect food
+    acceptance and market utility
+    balance.**](https://pubmed.ncbi.nlm.nih.gov/41359671/)
 
-    Bull Math Biol. 2025 Dec 2;87(12):180. doi:
-    10.1007/s11538-025-01557-4.
+    Khaluf Y, de Hooge IE.
 
-    > Among resident brain cells, astrocytes are both the most common,
-    > and are increasingly recognized as key regulators of this process,
-    > yet their precise role remains poorly defined. Here, we present a
-    > hybrid agent-based model (ABM) to simulate tumor-astrocyte in …
+    PLoS One. 2025 Dec 8;20(12):e0334504. doi:
+    10.1371/journal.pone.0334504. eCollection 2025.
 
-10. [**Modeling COVID-19 response in Cuba: a hybrid approach combining
-    agent-based modeling and time series
-    analysis.**](https://pubmed.ncbi.nlm.nih.gov/41331436/)
+    > Although farmers, retailers, and consumers all influence this
+    > waste dynamic, existing research often treats their behaviors in
+    > isolation and fails to capture the evolving, systemic interplay
+    > among them. This study presents a novel agent-based model
+    > simulating …
 
-    Orlando G, Bufalo M, Nazarova V.
+10. [**Benign mosaic chromosomal structural variants across generations:
+    evidence for a developmental correction mechanism from clinical and
+    computational models.**](https://pubmed.ncbi.nlm.nih.gov/41356218/)
 
-    Popul Health Metr. 2025 Dec 3;23(1):71. doi:
-    10.1186/s12963-025-00433-6.
+    Ruan J, Song Q, Hu Y, Liu X, Li S, Zhu J, Yang L.
 
-    > It proposes a hybrid, efficient, and parsimonious model combining
-    > ABM (Agent-Based Modeling) and ARIMAX (AutoRegressive Integrated
-    > Moving Average with eXogenous variables) time series analysis to
-    > forecast COVID-19 cases, offering valuable insights for …
+    Front Genet. 2025 Nov 20;16:1710280. doi:
+    10.3389/fgene.2025.1710280. eCollection 2025.
+
+    > Here, we highlight an underexplored phenomenon of non-pathogenic
+    > SMCs/SVs mosaicism and propose a developmental selection model
+    > that may explain its stable inheritance. METHODS: We describe a
+    > rare father-offspring pair carrying a mosaic SV at chromosome
+    > 11p11, both phenoty …
 
 ## Code of Conduct
 
