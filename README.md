@@ -9,154 +9,161 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-12-14 00:08:17.
+update was on 2025-12-21 00:08:23.
 
 <div class="cell">
 
 </div>
 
-1.  [**Studying COVID-19 transmission in US state prisons using an
-    agent-based modelling approach: a simulation
-    study.**](https://pubmed.ncbi.nlm.nih.gov/41387000/)
+1.  [**Emergent collective alignment gives competitive advantage to
+    longer cells during range
+    expansion.**](https://pubmed.ncbi.nlm.nih.gov/41419731/)
 
-    Owens AL, Fliss M, Brinkley-Rubinstein L.
+    van den Berg N, Thijssen K, Nguyen TT, Cordero M, García Vázquez A,
+    Mitarai N, Doostmohammadi A, Jauffred L.
 
-    BMJ Open. 2025 Dec 12;15(12):e104621. doi:
-    10.1136/bmjopen-2025-104621.
+    Nat Commun. 2025 Dec 19. doi: 10.1038/s41467-025-67791-5. Online
+    ahead of print.
 
-    > OBJECTIVES: We aim to use an agent-based model to accurately
-    > predict the spread of COVID-19 within multiple US state prisons.
-    > …METHODS: An agent-based model that used geospatial contact
-    > networks and compartmental transmission dynamics w …
+    > Using growth-based range expansion experiments, we show that
+    > longer bacteria conquer the expanding front, even when initially
+    > in minority. Using an agent-based model of dividing bacteria, to
+    > isolate the effect of aspect ratio, we reveal that the takeover
+    > mech …
 
-2.  [**Co-evolution of groups and opinions in an agent-based
-    model.**](https://pubmed.ncbi.nlm.nih.gov/41385572/)
+2.  [**Emergent stable tissue shapes from the regulatory feedback
+    between morphogens and cell
+    growth.**](https://pubmed.ncbi.nlm.nih.gov/41418876/)
 
-    Cassells D, Vendeville A, Tabourier L, Ramaciotti P.
+    Kaity B, Lobo D.
 
-    PLoS One. 2025 Dec 12;20(12):e0338486. doi:
-    10.1371/journal.pone.0338486. eCollection 2025.
+    J Theor Biol. 2025 Dec 17:112354. doi: 10.1016/j.jtbi.2025.112354.
+    Online ahead of print.
 
-    > This study explores a model for the co-evolution of opinions and
-    > groups, related to opinion polarization and group identity in
-    > opinion dynamics. While traditional models focus on pairwise
-    > interactions, we incorporate the notion of groups thereby allowing
-    > agents to i …
+    > Moreover, this work establishes a framework for further
+    > experiments to understand the regulatory dynamics of whole-body
+    > development and regeneration using models with high spatiotemporal
+    > resolution. SIGNIFICANCE: Tight coordination and interpretation of
+    > the multitude of si …
 
-3.  [**Extending Schelling’s segregation model from self orientation to
-    social orientation.**](https://pubmed.ncbi.nlm.nih.gov/41381799/)
+3.  [**Multicellular force coordination constructs microchannel networks
+    for barrier-free metastasis across extracellular
+    matrix.**](https://pubmed.ncbi.nlm.nih.gov/41417886/)
 
-    Yu U, Jin K.
+    Gao H, Cheng B, Jin G, Han Y, Tian Q, Zhou Y, Zhao X, Liu Y, Cao C,
+    Zhu L, Zhang J, Wang L, Xu B, Guo H, Lin M, Yang J, Xu F.
 
-    Sci Rep. 2025 Dec 11. doi: 10.1038/s41598-025-32159-8. Online ahead
-    of print.
+    Sci Adv. 2025 Dec 19;11(51):eadz4291. doi: 10.1126/sciadv.adz4291.
+    Epub 2025 Dec 19.
 
-    > Schelling’s segregation model demonstrates how simple local rules
-    > can generate large-scale social patterns, yet it assumes agents
-    > act myopically and ignore the broader consequences of their moves.
-    > …We formalize this through three relocation rules-negative
-    > externality avo …
+    > Integrating single-cell sequencing and off-lattice agent-based
+    > model, we identify mechanically responsive leader cells enriched
+    > for integrin-RhoA/YAP signaling and matrix metalloproteinase 14,
+    > which sense bridge cues and initiate cross-convergence. …
 
-4.  [**The equity implications of pecuniary externalities on an electric
-    grid.**](https://pubmed.ncbi.nlm.nih.gov/41376710/)
+4.  [**Impact of adherence and stringency on the effectiveness of
+    lockdown measures: A modelling
+    study.**](https://pubmed.ncbi.nlm.nih.gov/41417828/)
 
-    Sims C, Ali GG, Holladay JS, Roberson T, Chen CF, El-Adaway IH.
+    Brunekreef J, Teslya A, Buskens V, Nunner H, Kretzschmar M.
 
-    PNAS Nexus. 2025 Dec 9;4(12):pgaf356. doi:
-    10.1093/pnasnexus/pgaf356. eCollection 2025 Dec.
+    PLoS One. 2025 Dec 19;20(12):e0338818. doi:
+    10.1371/journal.pone.0338818. eCollection 2025.
 
-    > Since high-income households are more likely to purchase PV
-    > systems, low-income households may be disproportionately impacted
-    > by these rate increases. Using a novel combination of agent-based
-    > computational economic modeling and a choice experiment of rooftop
-    > …
+    > This study considers how lockdowns impact public health opinions,
+    > which in turn influence adherence to and effectiveness of these
+    > measures. We developed an agent-based simulation model to
+    > theoretically explore the impact of health-related opinions on the
+    > effe …
 
-5.  [**A socio-technical agent-based simulation model for predicting
-    smart agriculture adoption
-    dynamics.**](https://pubmed.ncbi.nlm.nih.gov/41372278/)
+5.  [**Agent-based modelling reveals feedback loops and non-linearity
+    between mating system evolution and disease
+    dynamics.**](https://pubmed.ncbi.nlm.nih.gov/41411343/)
 
-    Alotibi YS.
+    Tarantino R, Garcia-Gonzalez F.
 
-    Sci Rep. 2025 Dec 10;15(1):43536. doi: 10.1038/s41598-025-27523-7.
+    PLoS One. 2025 Dec 18;20(12):e0336020. doi:
+    10.1371/journal.pone.0336020. eCollection 2025.
 
-    > To address these limitations, this paper presents AdoptAgriSim, a
-    > Socio-Technical Agent-Based Simulation Model for Predicting Smart
-    > Agriculture Adoption Dynamics, which integrates economic, social,
-    > and technological dimensions into a unified framework. The …
+    > Despite its potential for providing a deeper understanding of both
+    > evolutionary processes and epidemic dynamics, the reciprocal
+    > interrelationship between mating system evolution and sexually
+    > transmitted diseases remains largely unexplored. Here we developed
+    > an agent-bas …
 
-6.  [**Dynamic reward-augmented ensemble learning for EEG signal
-    classification in major depressive
-    disorder.**](https://pubmed.ncbi.nlm.nih.gov/41369644/)
+6.  [**Evaluation of economic strengthening in South Africa and its
+    impact on HIV, sexually transmitted infections, and teenage births:
+    A modelling study.**](https://pubmed.ncbi.nlm.nih.gov/41411229/)
 
-    Xu J, Ziwei Y, Zhaojun X.
+    Johnson LF, Jamieson L, Kubjane M, Meyer-Rath G.
 
-    Biomed Phys Eng Express. 2025 Dec 10;12(1). doi:
-    10.1088/2057-1976/ae2333.
+    PLoS Med. 2025 Dec 18;22(12):e1004826. doi:
+    10.1371/journal.pmed.1004826. eCollection 2025 Dec.
 
-    > To overcome these limitations, we present an Adaptive Agent-Based
-    > Ensemble Learning (AABEL) framework that integrates reinforcement
-    > learning (RL) with neurocomputational principles. AABEL pioneers
-    > three methodological advancements: (1) RL-Driven Adaptive
-    > Weighting: …
+    > METHODS AND FINDINGS: We extended a previously-developed
+    > agent-based model of HIV, STIs, and fertility in South Africa to
+    > assess effects of education, employment, and per capita household
+    > income on sexual behaviours. We estimated these effects from
+    > literature …
 
-7.  [**Agent-based modeling of health resources for older adults:
-    accessibility, equity, and last-mile solutions in Fuzhou,
-    China.**](https://pubmed.ncbi.nlm.nih.gov/41368671/)
+7.  [**ASAS-NANP SYMPOSIUM: MATHEMATICAL MODELING IN ANIMAL NUTRITION:
+    Developing an agent-based model to calculate growth performance and
+    predict nutrient requirements of growing-finishing pigs toward
+    sustainability.**](https://pubmed.ncbi.nlm.nih.gov/41410523/)
 
-    Zhang Q, Wu X, Wu S, Huang L, Peng C.
+    Rahimifar A, Kaniyamattam K, Wiegert JG, Tedeschi LO.
 
-    Front Public Health. 2025 Nov 24;13:1698911. doi:
-    10.3389/fpubh.2025.1698911. eCollection 2025.
+    J Anim Sci. 2025 Dec 18:skaf443. doi: 10.1093/jas/skaf443. Online
+    ahead of print.
 
-    > This study addresses the structural mismatch between the spatial
-    > distribution of older adults and health resources in Fuzhou,
-    > China, by developing an Agent-Based Model (ABM) to simulate the
-    > utilization of prevention, treatment, and long-term care
-    > facilities a …
+    > The proposed swine nutrition system (SNS), used an agent-based
+    > model (ABM) framework, and was developed using NetLogo to simulate
+    > the dynamics of pig nutrition systems. …This study employed
+    > agent-based modeling to account for the indivi …
 
-8.  [**Generalized Stable Population and Agent-Based Models of
-    phenotypic transmission in human populations, with an application to
-    body size.**](https://pubmed.ncbi.nlm.nih.gov/41363689/)
+8.  [**An intuitionistic fuzzy automated negotiation model for
+    personalized and efficient shared
+    decision-making.**](https://pubmed.ncbi.nlm.nih.gov/41408119/)
 
-    Aldea N, García-Aguirre A, Beltrán-Sánchez H, Daza S, Palloni A.
+    Lu P, Lu H, Wei Y, Dai B, Lin K, Wen S.
 
-    Hum Hered. 2025 Nov 28:1-26. doi: 10.1159/000549053. Online ahead of
-    print.
+    Sci Rep. 2025 Dec 17;15(1):44000. doi: 10.1038/s41598-025-27633-2.
 
-    > We show that generalizations of stable population (GSPM) and agent
-    > based models (ABM) are useful tools to simulate the trajectory of
-    > a human phenotype. …If properly anchored on robust empirical
-    > estimates of model inputs, the models’ results re …
+    > In response to these challenges, this paper introduces an
+    > Agent-based Auto-negotiation Model based on Intuitionistic Fuzzy
+    > Sets (AN-IFF). Specifically, AN-IFF tackles the uncertainties
+    > inherent in preference assessment and negotiation decision-making
+    > using in …
 
-9.  [**Beauty isn’t everything: An agent-based model of imperfect food
-    acceptance and market utility
-    balance.**](https://pubmed.ncbi.nlm.nih.gov/41359671/)
+9.  [**The role of farm size in public goods provision: An agent-based
+    model of habitat conservation in agricultural
+    landscapes.**](https://pubmed.ncbi.nlm.nih.gov/41406875/)
 
-    Khaluf Y, de Hooge IE.
+    Cong RG, Cui JR.
 
-    PLoS One. 2025 Dec 8;20(12):e0334504. doi:
-    10.1371/journal.pone.0334504. eCollection 2025.
+    J Environ Manage. 2025 Dec 16;397:128329. doi:
+    10.1016/j.jenvman.2025.128329. Online ahead of print.
 
-    > Although farmers, retailers, and consumers all influence this
-    > waste dynamic, existing research often treats their behaviors in
-    > isolation and fails to capture the evolving, systemic interplay
-    > among them. This study presents a novel agent-based model
-    > simulating …
+    > Agriculture’s reliance on ecosystem services underscores the
+    > intrinsic link between crop production and habitat conservation.
+    > This study employs an agent-based model to explore how farm size
+    > influences the provision of public goods-specifically habitat
+    > conser …
 
-10. [**Benign mosaic chromosomal structural variants across generations:
-    evidence for a developmental correction mechanism from clinical and
-    computational models.**](https://pubmed.ncbi.nlm.nih.gov/41356218/)
+10. [**Understanding the mechanisms of infodemics: Equation-based
+    vs. agent-based
+    models.**](https://pubmed.ncbi.nlm.nih.gov/41406181/)
 
-    Ruan J, Song Q, Hu Y, Liu X, Li S, Zhu J, Yang L.
+    Berceanu C, Bertolotti F, Arshad N, Patrascu M.
 
-    Front Genet. 2025 Nov 20;16:1710280. doi:
-    10.3389/fgene.2025.1710280. eCollection 2025.
+    PLoS One. 2025 Dec 17;20(12):e0338614. doi:
+    10.1371/journal.pone.0338614. eCollection 2025.
 
-    > Here, we highlight an underexplored phenomenon of non-pathogenic
-    > SMCs/SVs mosaicism and propose a developmental selection model
-    > that may explain its stable inheritance. METHODS: We describe a
-    > rare father-offspring pair carrying a mosaic SV at chromosome
-    > 11p11, both phenoty …
+    > To delve into the diffusion mechanisms of misinformation
+    > (unintentionally false information) and disinformation
+    > (intentionally false information), we introduce a novel enhanced
+    > agent-based model (ABM) that integrates psycho-social factors and
+    > communication ne …
 
 ## Code of Conduct
 
