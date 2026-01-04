@@ -9,159 +9,152 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2025-12-28 00:08:51.
+update was on 2026-01-04 00:08:46.
 
 <div class="cell">
 
 </div>
 
-1.  [**HIV case management using agent-based modeling approach subject
-    to antiretroviral therapy and lifestyle treatment
-    plan.**](https://pubmed.ncbi.nlm.nih.gov/41454170/)
+1.  [**Exploring Chronic Rejection in Organ Transplantation Through
+    Computational
+    Modeling.**](https://pubmed.ncbi.nlm.nih.gov/41479021/)
 
-    Akinsunmade AE, Azagbaekwue A, Emunefe FG, Onuoha OB, Raso M.
+    Casarin S, Serafini E.
 
-    Sci Rep. 2025 Dec 26. doi: 10.1038/s41598-025-33537-y. Online ahead
-    of print.
+    Results Probl Cell Differ. 2026;77:71-91. doi:
+    10.1007/978-3-032-07686-1_3.
 
-    > This study presents a spatially explicit stochastic agent-based
-    > model (ABM) to simulate the complex non-linear interactions
-    > between T-cells, HIV virions, and therapeutic agents. The model
-    > framework operates on a two-dimensional grid, explicitly mode …
+    > This chapter explores various computational approaches, including
+    > artificial intelligence, machine learning, ordinary differential
+    > equations, partial differential equations, agent-based models, and
+    > gene network analysis applied to solid organ transplantation: …
 
-2.  [**Detection and diagnosis of diabetic retinopathy in retinal fundus
-    images using agentic AI
-    approaches.**](https://pubmed.ncbi.nlm.nih.gov/41454113/)
+2.  [**Dynamics of Q-Learning in Networked Stochastic
+    Games.**](https://pubmed.ncbi.nlm.nih.gov/41477799/)
 
-    Sathya R, Valaramathi A.
+    Yuan Z, Jiang G, Hu S, Perc M, Chu C, Liu J.
 
-    Sci Rep. 2025 Dec 26. doi: 10.1038/s41598-025-34016-0. Online ahead
-    of print.
+    IEEE Trans Neural Netw Learn Syst. 2026 Jan 1;PP. doi:
+    10.1109/TNNLS.2025.3641365. Online ahead of print.
 
-    > This research introduces an Agentic-AI Driven Framework for
-    > Diabetic Retinopathy Analysis (AADR-AI), which leverages
-    > intelligent agent-based learning mechanisms to enhance
-    > decision-making autonomy, dynamic adaptability, and contextual
-    > understanding of retinal fundus …
+    > By using the pair-approximation method, we develop a new dynamical
+    > model to describe the *Q* -learning dynamics in stochastic games
+    > on regular graphs. Through comparisons with agent-based simulation
+    > results, we validate the accuracy of our dynamical model …
 
-3.  [**Comparison of residential and mobility-integrated air pollution
-    exposures from tracking campaigns and agent-based modelling in
-    Switzerland and the
-    Netherlands.**](https://pubmed.ncbi.nlm.nih.gov/41454027/)
+3.  [**Enhancing EFL vocabulary and psychological well-being in Chinese
+    undergraduates through adaptive digital games with mind mapping and
+    Runge-Kutta modeling.**](https://pubmed.ncbi.nlm.nih.gov/41477596/)
 
-    de Hoogh K, Flückiger B, Probst-Hensch N, Jeong A, Imboden M,
-    Karsies A, Schmitz O, Vermeulen R, Kyriakou K, Ndiaye A, Shen Y,
-    Karssenberg D, Vienneau D, Hoek G.
+    Cai Z.
 
-    J Expo Sci Environ Epidemiol. 2025 Dec 26. doi:
-    10.1038/s41370-025-00836-5. Online ahead of print.
+    Front Psychol. 2025 Dec 16;16:1644162. doi:
+    10.3389/fpsyg.2025.1644162. eCollection 2025.
 
-    > In addition, we simulated mobility and commuting tracks for the
-    > same subjects using agent-based modeling (ABM) with information
-    > from census and travel survey data to estimate mobility-integrated
-    > air pollution exposures. …IMPACT STATEMENT: Our research suppo …
+    > This study presents a groundbreaking approach to improving English
+    > as a Foreign Language (EFL) vocabulary mastery and psychological
+    > well-being among Chinese undergraduate students by combining an
+    > adaptive computer agent-based digital game (ACA-DG) with mind
+    > mapping …
 
-4.  [**V-Cornea: A computational model of corneal epithelium
-    homeostasis, injury, and
-    recovery.**](https://pubmed.ncbi.nlm.nih.gov/41452902/)
+4.  [**Attitude Formation Based on Political Views: An Expectancy-Value
+    Model of Interpersonal Likability in
+    Politics.**](https://pubmed.ncbi.nlm.nih.gov/41474546/)
 
-    Vanin J, Getz M, Mahony C, Knudsen TB, Glazier JA.
+    Lange J, Koch A, Knöchelmann L, Alves H.
 
-    PLoS Comput Biol. 2025 Dec 26;21(12):e1013410. doi:
-    10.1371/journal.pcbi.1013410. Online ahead of print.
+    Pers Soc Psychol Bull. 2025 Dec 31:1461672251406455. doi:
+    10.1177/01461672251406455. Online ahead of print.
 
-    > METHODS: V-Cornea is an agent-based computer simulation
-    > implemented in CompuCell3D that models corneal epithelial
-    > homeostasis and injury response. …Following simulated trauma or
-    > toxicant exposure, the model accurately predicts healing
-    > timeframes of 3 …
+    > To better understand these processes and address the call for
+    > falsifiable theories, we propose a formalized Expectancy-Value
+    > Model of Interpersonal Likability in Politics (EVIL-P). It argues
+    > that people (dis)like targets with (dis)similar political views
+    > (i.e., value), esp …
 
-5.  [**DiffeoMorph: Learning to Morph 3D Shapes Using Differentiable
-    Agent-Based
-    Simulations.**](https://pubmed.ncbi.nlm.nih.gov/41445808/)
+5.  [**Johne’s Disease Control in Beef Cattle: Balancing Test-and-Cull
+    Strategies with Economic and Epidemiological
+    Trade-Offs.**](https://pubmed.ncbi.nlm.nih.gov/41472190/)
 
-    Pahng SH, Guan G, Fefferman B, Hormoz S.
+    Rosengren L, Roche SM, Larson K, Waldner CL.
 
-    ArXiv \[Preprint\]. 2025 Dec 18:arXiv:2512.17129v1.
+    Vet Sci. 2025 Dec 17;12(12):1210. doi: 10.3390/vetsci12121210.
 
-    > This results in a bilevel problem, with the inner loop optimizing
-    > a unit quaternion for the best alignment and the outer loop
-    > updating the agent model. We compute gradients through the
-    > alignment step using implicit differentiation. …
-
-6.  [**A medically grounded LLM agent-based tool to detect patient
-    safety events in medical
-    records.**](https://pubmed.ncbi.nlm.nih.gov/41445638/)
-
-    Trujillo D, Wang D, Bahr N, Yi-Jin Hsieh T, Cho B, Meckler G, Hansen
-    M, Eriksson C, Kim KS, Bedrick S, Jiang X, Guise JM.
-
-    medRxiv \[Preprint\]. 2025 Dec 18:2025.12.16.25342438. doi:
-    10.64898/2025.12.16.25342438.
-
-    > Large language models (LLMs) have shown incredible promise in
-    > medicine. While LLMs may be particularly useful in areas requiring
-    > extensive review of clinical records, their use remains limited
-    > due to their tendency to hallucinate and fabricate information.
-    > …We tested SAF …
-
-7.  [**AI agent-based discovery of D-enantiomeric antimicrobial peptides
-    against multidrug-resistant bacterial
-    infection.**](https://pubmed.ncbi.nlm.nih.gov/41443039/)
-
-    Kong Q, Zhao Y, Gong H, Kang L, Fu J, Li L, Wan B, Wang P, Li X,
-    Wang Y, Zhang J, Yu Y, Yang X, Zuo X, Wang H, Li Y.
-
-    Biomaterials. 2025 Dec 22;329:123927. doi:
-    10.1016/j.biomaterials.2025.123927. Online ahead of print.
-
-    > Here, we present PeptiD-Agent, a purely agent based framework that
-    > predicts D-peptide antimicrobial activity with extremely limited
-    > data, enabling rapid discovery of potent candidates. …Mechanistic
-    > studies indicate that DA2 exerts bactericidal effects by disruptin
+    > While test-and-cull programs are commonly proposed for control,
+    > their effectiveness and economic feasibility remain uncertain in
+    > beef production systems. This study used an updated agent-based
+    > model (ABM) to simulate JD transmission in a representative 300-co
     > …
 
-8.  [**An Agent-Based Model of Semantic Memory Search: Disentangling
-    Cognitive Control and Semantic Space
-    Organization.**](https://pubmed.ncbi.nlm.nih.gov/41442599/)
+6.  [**A Novel Method of Path Planning for an Intelligent Agent Based on
+    an Improved RRT\* Called
+    KDB-RRT.**](https://pubmed.ncbi.nlm.nih.gov/41471540/)
 
-    Morales D, Chaigneau SE, Canessa E.
+    Wei W, Wei K, Zhang J.
 
-    Cogn Sci. 2025 Dec;49(12):e70155. doi: 10.1111/cogs.70155.
+    Sensors (Basel). 2025 Dec 12;25(24):7545. doi: 10.3390/s25247545.
 
-    > This study developed and validated a novel Area Restricted Search
-    > (ARS) agent-based model of semantic memory retrieval, then
-    > systematically compared it against Levy Walk (LW) and Random Walk
-    > (RW) models to investigate when different search mechanisms s …
+    > .\* This method integrates a bidirectional search strategy with a
+    > three-layer optimization framework: 1 accelerated node retrieval
+    > via KD-tree indexing to reduce computational complexity; 2
+    > enhanced exploration efficiency through goal-biased dynamic circle
+    > sampling and a bidirecti …
 
-9.  [**Optimal Immunization Strategy for Protection of Children \< 1
-    Year Against Respiratory Syncytial Virus Infection and
-    Hospitalization.**](https://pubmed.ncbi.nlm.nih.gov/41441932/)
+7.  [**The role of signal in saltatory pursuit of cryptic stationary
+    targets.**](https://pubmed.ncbi.nlm.nih.gov/41466337/)
 
-    Cortés JC, López-Lacort M, Mira-Iglesias A, Pérez CL, Villanueva RJ,
-    Villanueva-Oller J.
+    Forbes EJ, Todd PM, Beer RD.
 
-    Bull Math Biol. 2025 Dec 24;88(1):9. doi:
-    10.1007/s11538-025-01575-2.
+    Mov Ecol. 2025 Dec 29;13(1):89. doi: 10.1186/s40462-025-00611-z.
 
-    > We developed an agent-based model representing the population of
-    > the Valencian Community (CVA), Spain, to simulate RSV transmission
-    > and assess various immunization strategies. This model integrates
-    > demographic factors and incorporates random transition …
+    > Here, we explore how the reliability of the target’s signal and
+    > the dependence of the forager’s perception of that signal on the
+    > forager’s own motion can generate a variety of different
+    > continuous and saltatory pursuit patterns in evolved model
+    > foragers with stationary tar …
 
-10. [**Nonreciprocal antialigning active mixtures: Deriving the exact
-    Boltzmann collision
-    operator.**](https://pubmed.ncbi.nlm.nih.gov/41430936/)
+8.  [**When noise mitigates bias in human-algorithm decision-making: An
+    agent-based model.**](https://pubmed.ncbi.nlm.nih.gov/41460829/)
 
-    Mihatsch J, Ihle T.
+    Poodiack Parsons S, Torenvlied R.
 
-    Phys Rev E. 2025 Nov;112(5-1):054110. doi: 10.1103/qm7d-p815.
+    PLoS One. 2025 Dec 29;20(12):e0339273. doi:
+    10.1371/journal.pone.0339273. eCollection 2025.
 
-    > Starting from a well-known microscopic Langevin model for the
-    > particles, setting up the corresponding exact N-particle
-    > Fokker-Planck equation, and making Boltzmann’s assumptions of low
-    > density and one-sided molecular chaos, the nonlinear active
-    > Boltzmann equation with the …
+    > Is bias in human judgment exacerbated or mitigated by noise in
+    > advice? To answer these questions, we built an agent-based model
+    > that simulates the judgment of decision-makers receiving guidance
+    > from a (more or less) biased algorithm or a (more or less) biased
+    > …
+
+9.  [**How do Empirical Metacommunity Ecologists (not) Define Local
+    Communities and How Could These be Better
+    Defined?**](https://pubmed.ncbi.nlm.nih.gov/41457492/)
+
+    Serra-Domínguez L, Ovaskainen O, Abrego N.
+
+    Ecol Lett. 2025 Dec;28(12):e70298. doi: 10.1111/ele.70298.
+
+    > These are based on whether conspecific and heterospecific
+    > individuals overlap in their space-use, interact with each other
+    > or have reciprocal fitness effects. Using agent-based simulations,
+    > we show how these three definitions may result in different
+    > delineations of …
+
+10. [**Understanding multi-level policy implementation in the national
+    school lunch and breakfast programs: a mixed-methods and agent-based
+    modeling protocol.**](https://pubmed.ncbi.nlm.nih.gov/41456079/)
+
+    Moreland-Russell S, Jabbari J, Allen P, Combs T, Ferris D, Gannon J,
+    Kasman M, McLoughlin GM, Hammond RA.
+
+    Implement Sci Commun. 2025 Dec 28. doi: 10.1186/s43058-025-00843-5.
+    Online ahead of print.
+
+    > In phase 3, we leverage insights from the actors surveyed and
+    > interviewed in phases 1 and 2 to develop an agent-based model. We
+    > will use this model to analyze potential effects of different
+    > policy changes on child health, examination of ways to improve …
 
 ## Code of Conduct
 
