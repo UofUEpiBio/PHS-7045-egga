@@ -9,152 +9,154 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-01-04 00:08:46.
+update was on 2026-01-11 00:08:40.
 
 <div class="cell">
 
 </div>
 
-1.  [**Exploring Chronic Rejection in Organ Transplantation Through
-    Computational
-    Modeling.**](https://pubmed.ncbi.nlm.nih.gov/41479021/)
+1.  [**Adaptive Non-Singular Fast Terminal Sliding Mode Trajectory
+    Tracking Control for Robotic Manipulator with Novel Configuration
+    Based on TD3 Deep Reinforcement Learning and Nonlinear Disturbance
+    Observer.**](https://pubmed.ncbi.nlm.nih.gov/41516729/)
 
-    Casarin S, Serafini E.
+    You H, Liu Y, Shi Z, Wang Z, Wang L, Xue G.
 
-    Results Probl Cell Differ. 2026;77:71-91. doi:
-    10.1007/978-3-032-07686-1_3.
+    Sensors (Basel). 2026 Jan 2;26(1):297. doi: 10.3390/s26010297.
 
-    > This chapter explores various computational approaches, including
-    > artificial intelligence, machine learning, ordinary differential
-    > equations, partial differential equations, agent-based models, and
-    > gene network analysis applied to solid organ transplantation: …
+    > Firstly, a novel modular serial 5-DOF robotic manipulator
+    > configuration is designed, and its kinematic and dynamic models
+    > are established. Secondly, a nonlinear disturbance observer is
+    > employed to estimate the total disturbance of the system and apply
+    > feedforward compensat …
 
-2.  [**Dynamics of Q-Learning in Networked Stochastic
-    Games.**](https://pubmed.ncbi.nlm.nih.gov/41477799/)
+2.  [**AI-Guided Inference of Morphodynamic Attractor-like States in
+    Glioblastoma.**](https://pubmed.ncbi.nlm.nih.gov/41515632/)
 
-    Yuan Z, Jiang G, Hu S, Perc M, Chu C, Liu J.
+    Volovăț SR, Panaite DI, Ostafe MR, Buzea CG, Iancu DT, Agop M,
+    Ochiuz L, Rusu DI, Volovăț CC.
 
-    IEEE Trans Neural Netw Learn Syst. 2026 Jan 1;PP. doi:
-    10.1109/TNNLS.2025.3641365. Online ahead of print.
+    Diagnostics (Basel). 2026 Jan 1;16(1):139. doi:
+    10.3390/diagnostics16010139.
 
-    > By using the pair-approximation method, we develop a new dynamical
-    > model to describe the *Q* -learning dynamics in stochastic games
-    > on regular graphs. Through comparisons with agent-based simulation
-    > results, we validate the accuracy of our dynamical model …
+    > Background/Objectives: Glioblastoma (GBM) exhibits heterogeneous,
+    > nonlinear invasion patterns that challenge conventional modeling
+    > and radiomic prediction. Most deep learning approaches describe
+    > the morphology but rarely capture the dynamical stability of tumor
+    > evolution. …
 
-3.  [**Enhancing EFL vocabulary and psychological well-being in Chinese
-    undergraduates through adaptive digital games with mind mapping and
-    Runge-Kutta modeling.**](https://pubmed.ncbi.nlm.nih.gov/41477596/)
+3.  [**SIMPLICITY is an agent-based, multi-scale mathematical model to
+    study SARS-CoV-2 intra- and between-host
+    evolution.**](https://pubmed.ncbi.nlm.nih.gov/41513947/)
 
-    Cai Z.
+    Gerletti P, Gubela N, Escudié JB, Kühnert D, Von Kleist M.
 
-    Front Psychol. 2025 Dec 16;16:1644162. doi:
-    10.3389/fpsyg.2025.1644162. eCollection 2025.
+    Commun Biol. 2026 Jan 9. doi: 10.1038/s42003-025-09403-y. Online
+    ahead of print.
 
-    > This study presents a groundbreaking approach to improving English
-    > as a Foreign Language (EFL) vocabulary mastery and psychological
-    > well-being among Chinese undergraduate students by combining an
-    > adaptive computer agent-based digital game (ACA-DG) with mind
-    > mapping …
+    > We present SIMPLICITY, a multi-scale mathematical model that
+    > combines within-host disease progression and viral evolution with
+    > a population-level model of virus transmission and immune evasion.
+    > …We then apply it to study the dynamics and mechanisms driving
+    > SARS-Co …
 
-4.  [**Attitude Formation Based on Political Views: An Expectancy-Value
-    Model of Interpersonal Likability in
-    Politics.**](https://pubmed.ncbi.nlm.nih.gov/41474546/)
+4.  [**Analyzing audience mental health through the communication and
+    structure of complex networked online music
+    culture.**](https://pubmed.ncbi.nlm.nih.gov/41507234/)
 
-    Lange J, Koch A, Knöchelmann L, Alves H.
+    Li E, Liang X, Wang Z, Liu J.
 
-    Pers Soc Psychol Bull. 2025 Dec 31:1461672251406455. doi:
-    10.1177/01461672251406455. Online ahead of print.
+    Sci Rep. 2026 Jan 8;16(1):1284. doi: 10.1038/s41598-025-23585-9.
 
-    > To better understand these processes and address the call for
-    > falsifiable theories, we propose a formalized Expectancy-Value
-    > Model of Interpersonal Likability in Politics (EVIL-P). It argues
-    > that people (dis)like targets with (dis)similar political views
-    > (i.e., value), esp …
+    > This study explores the complexities of online music cultural
+    > communication by incorporating the structure of complex networks,
+    > aiming to offer more personalized experiences for music creators,
+    > platforms, and users engaged in dissemination activities. A novel
+    > ABM-NE model …
 
-5.  [**Johne’s Disease Control in Beef Cattle: Balancing Test-and-Cull
-    Strategies with Economic and Epidemiological
-    Trade-Offs.**](https://pubmed.ncbi.nlm.nih.gov/41472190/)
+5.  [**Emergency preparedness planning for active shooter situations
+    through higher-fidelity agent-based active shooter simulations:
+    Framework for computational modeling of injury and blood
+    loss.**](https://pubmed.ncbi.nlm.nih.gov/41506708/)
 
-    Rosengren L, Roche SM, Larson K, Waldner CL.
+    Tzvetanov KT, Kaufmann M, Yazel E, Dietz JE.
 
-    Vet Sci. 2025 Dec 17;12(12):1210. doi: 10.3390/vetsci12121210.
+    J Emerg Manag. 2025 Nov-Dec;23(6):753-764. doi: 10.5055/jem.0929.
 
-    > While test-and-cull programs are commonly proposed for control,
-    > their effectiveness and economic feasibility remain uncertain in
-    > beef production systems. This study used an updated agent-based
-    > model (ABM) to simulate JD transmission in a representative 300-co
-    > …
+    > Ultimately, this work presents a quantitative model of blood loss
+    > as a function of time, injury placement, and individual victim
+    > variability such as age, weight, and gender, which are suitable
+    > for computer simulation. Data were validated using empirical
+    > datasets. While no …
 
-6.  [**A Novel Method of Path Planning for an Intelligent Agent Based on
-    an Improved RRT\* Called
-    KDB-RRT.**](https://pubmed.ncbi.nlm.nih.gov/41471540/)
+6.  [**Modeling hemorrhage control in the context of agent-based active
+    shooter simulations.**](https://pubmed.ncbi.nlm.nih.gov/41506673/)
 
-    Wei W, Wei K, Zhang J.
+    Tzvetanov KT, Yazel E, Kaufmann M, Dietz JE.
 
-    Sensors (Basel). 2025 Dec 12;25(24):7545. doi: 10.3390/s25247545.
+    J Emerg Manag. 2026 Jan-Feb;24(1):83-100. doi: 10.5055/jem.0886.
 
-    > .\* This method integrates a bidirectional search strategy with a
-    > three-layer optimization framework: 1 accelerated node retrieval
-    > via KD-tree indexing to reduce computational complexity; 2
-    > enhanced exploration efficiency through goal-biased dynamic circle
-    > sampling and a bidirecti …
+    > Computer simulation modeling provides significant value in
+    > enhancing emergency preparedness policies for schools, businesses,
+    > and outdoor events. …In a previous work, the authors demonstrated
+    > how simulating physiological decline can be quantified, improve
+    > realism, and le …
 
-7.  [**The role of signal in saltatory pursuit of cryptic stationary
-    targets.**](https://pubmed.ncbi.nlm.nih.gov/41466337/)
+7.  [**Leveraging generative AI to enhance Synthea model
+    development.**](https://pubmed.ncbi.nlm.nih.gov/41502536/)
 
-    Forbes EJ, Todd PM, Beer RD.
+    Kramer MA, Mathur A, Adams CE, Walonoski JA.
 
-    Mov Ecol. 2025 Dec 29;13(1):89. doi: 10.1186/s40462-025-00611-z.
+    JAMIA Open. 2026 Jan 6;9(1):ooaf123. doi: 10.1093/jamiaopen/ooaf123.
+    eCollection 2026 Feb.
 
-    > Here, we explore how the reliability of the target’s signal and
-    > the dependence of the forager’s perception of that signal on the
-    > forager’s own motion can generate a variety of different
-    > continuous and saltatory pursuit patterns in evolved model
-    > foragers with stationary tar …
+    > OBJECTIVE: To explore the use of large language models (LLMs) to
+    > assist in developing new agent-based disease-specific patient
+    > journey models. MATERIALS AND METHODS: We focus on Synthea, an
+    > open-source synthetic health data generator, with the goal of …
 
-8.  [**When noise mitigates bias in human-algorithm decision-making: An
-    agent-based model.**](https://pubmed.ncbi.nlm.nih.gov/41460829/)
+8.  [**Incubation phase transmission of foot-and-mouth disease virus in
+    cattle: experimental evidence and simulated
+    impacts.**](https://pubmed.ncbi.nlm.nih.gov/41501323/)
 
-    Poodiack Parsons S, Torenvlied R.
+    Stenfeldt C, Humphreys JM, Arzt J.
 
-    PLoS One. 2025 Dec 29;20(12):e0339273. doi:
-    10.1371/journal.pone.0339273. eCollection 2025.
+    Sci Rep. 2026 Jan 7. doi: 10.1038/s41598-025-34132-x. Online ahead
+    of print.
 
-    > Is bias in human judgment exacerbated or mitigated by noise in
-    > advice? To answer these questions, we built an agent-based model
-    > that simulates the judgment of decision-makers receiving guidance
-    > from a (more or less) biased algorithm or a (more or less) biased
-    > …
+    > To quantify the impact, outcomes from the transmission experiment
+    > were used to parameterize agent-based simulations at three
+    > biological levels, within-host, within-herd, and between-farm.
+    > Simulations revealed that outbreaks spread more rapidly and infect
+    > more cattle …
 
-9.  [**How do Empirical Metacommunity Ecologists (not) Define Local
-    Communities and How Could These be Better
-    Defined?**](https://pubmed.ncbi.nlm.nih.gov/41457492/)
+9.  [**Mathematical modeling of combinatorial antigen targeting with
+    multiple CAR T-cell products for glioblastoma
+    treatment.**](https://pubmed.ncbi.nlm.nih.gov/41501087/)
 
-    Serra-Domínguez L, Ovaskainen O, Abrego N.
+    Li R, Barish M, Gutova M, Feldman LA, Brown CE, Rockne RC, Cho H.
 
-    Ecol Lett. 2025 Dec;28(12):e70298. doi: 10.1111/ele.70298.
-
-    > These are based on whether conspecific and heterospecific
-    > individuals overlap in their space-use, interact with each other
-    > or have reciprocal fitness effects. Using agent-based simulations,
-    > we show how these three definitions may result in different
-    > delineations of …
-
-10. [**Understanding multi-level policy implementation in the national
-    school lunch and breakfast programs: a mixed-methods and agent-based
-    modeling protocol.**](https://pubmed.ncbi.nlm.nih.gov/41456079/)
-
-    Moreland-Russell S, Jabbari J, Allen P, Combs T, Ferris D, Gannon J,
-    Kasman M, McLoughlin GM, Hammond RA.
-
-    Implement Sci Commun. 2025 Dec 28. doi: 10.1186/s43058-025-00843-5.
+    NPJ Syst Biol Appl. 2026 Jan 7. doi: 10.1038/s41540-025-00642-7.
     Online ahead of print.
 
-    > In phase 3, we leverage insights from the actors surveyed and
-    > interviewed in phases 1 and 2 to develop an agent-based model. We
-    > will use this model to analyze potential effects of different
-    > policy changes on child health, examination of ways to improve …
+    > Our hybrid model, created using the multicellular modeling
+    > platform PhysiCell, couples partial differential equations that
+    > describe the tumor microenvironment with agent-based models for
+    > glioblastoma and CAR T-cells. The model captures ce …
+
+10. [**Network structure shapes consensus dynamics through individual
+    decisions.**](https://pubmed.ncbi.nlm.nih.gov/41499391/)
+
+    Priniski JH, Linford B, Hirschmann A, Venumuddala SK, Morstatter F,
+    Rodriguez N, Brantingham PJ, Lu H.
+
+    Proc Natl Acad Sci U S A. 2026 Jan 13;123(2):e2520483123. doi:
+    10.1073/pnas.2520483123. Epub 2026 Jan 7.
+
+    > Here, we examine how network structure influences the emergence
+    > and semantic content of shared narrative beliefs in experimental
+    > online social networks, using natural language processing measures
+    > and agent-based modeling. Media content with complex causal str …
 
 ## Code of Conduct
 
