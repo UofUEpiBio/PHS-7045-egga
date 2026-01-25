@@ -9,157 +9,155 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-01-18 00:08:44.
+update was on 2026-01-25 00:08:49.
 
 <div class="cell">
 
 </div>
 
-1.  [**Simulation-based inference with deep learning suggests speed
-    climbers combine innovation and copying to improve
-    performance.**](https://pubmed.ncbi.nlm.nih.gov/41537974/)
+1.  [**From the origin of life to a biosphere: Formation of artificial
+    ecosystems where species shape and are shaped by each
+    other.**](https://pubmed.ncbi.nlm.nih.gov/41570973/)
 
-    Youngblood M, Passmore S.
+    Ivanko E, Belousov A.
 
-    Proc Biol Sci. 2026 Jan 7;293(2062):20251433. doi:
-    10.1098/rspb.2025.1433.
+    Biosystems. 2026 Jan 20:105711. doi:
+    10.1016/j.biosystems.2026.105711. Online ahead of print.
 
-    > In this study, we use simulation-based inference to fit an
-    > agent-based model of speed climbing to 12 years of competition
-    > times (2007-2019). In the fitted model, innovation and copying are
-    > used roughly equally by climbers, with copying having only a sl …
+    > We study the development of model biotic communities in which
+    > species play the role of environment for each other. …
 
-2.  [**Host heterogeneity and unpredictability in parasite
-    outbreaks.**](https://pubmed.ncbi.nlm.nih.gov/41538245/)
+2.  [**Simple cellular Potts model of scratch assays on healthy and
+    keloid fibroblasts driven by contact inhibition of
+    locomotion.**](https://pubmed.ncbi.nlm.nih.gov/41565154/)
 
-    Cohen JA, Viney M, Fenton A.
+    Urcun S, El Mahi Y, Eftimie R, Dirand Z, Rolin G, Bordas SPA.
 
-    Proc Natl Acad Sci U S A. 2026 Jan 20;123(3):e2522557123. doi:
-    10.1073/pnas.2522557123. Epub 2026 Jan 15.
-
-    > Finally, to test the effects of heterogeneity on equilibrium
-    > parasite transmission we developed an agent-based model (ABM) for
-    > our host-parasite system. Results from our model showed that
-    > populations with the highest level of heterogeneity had the high …
-
-3.  [**Temporal dynamics and policy implications in an innovation arms
-    race.**](https://pubmed.ncbi.nlm.nih.gov/41537888/)
-
-    Chimento M, Dalmaijer ES, Klump BC, Aplin LM.
-
-    Philos Trans R Soc Lond B Biol Sci. 2025 Dec 4;380(1940):20240265.
-    doi: 10.1098/rstb.2024.0265.
-
-    > Here, we investigate this arms race by combining field
-    > observations with agent-based modelling. We systematically
-    > document protections in a suburban locality over 2 years,
-    > revealing spatial clustering of protections indicative of social
-    > learning among residen …
-
-4.  [**From information free-riding to information sharing: how have
-    humans solved the cooperative dilemma at the heart of cumulative
-    cultural evolution?**](https://pubmed.ncbi.nlm.nih.gov/41537886/)
-
-    Mesoudi A, Jiménez Á, Jensen K, Chang L.
-
-    Philos Trans R Soc Lond B Biol Sci. 2025 Dec 4;380(1940):20240258.
-    doi: 10.1098/rstb.2024.0258.
-
-    > Innovators might respond by protecting their knowledge and keeping
-    > the benefits to themselves-‘information hoarding’-but then others
-    > cannot build on their discoveries and again cumulative culture is
-    > inhibited. Here we formally model information free-riding and
-    > information …
-
-5.  [**Artificial Intelligence Virtual Organoids
-    (AIVOs).**](https://pubmed.ncbi.nlm.nih.gov/41536916/)
-
-    Bai L, Su J.
-
-    Bioact Mater. 2025 Dec 22;59:45-68. doi:
-    10.1016/j.bioactmat.2025.12.030. eCollection 2026 May.
-
-    > AIVOs fuse multimodal and longitudinal measurements into universal
-    > state representations and use virtual instruments constrained by
-    > biophysical priors to emulate assays and perturbations, while
-    > hybrid mechanistic modules (agent-based, continuum,
-    > finite-element) capt …
-
-6.  [**Navigating unsafe behavioral decision-making in workplaces: An
-    agent-based simulation for intervention and
-    management.**](https://pubmed.ncbi.nlm.nih.gov/41529079/)
-
-    Meng Q, Zhao J, Li Z, Chong HY.
-
-    Work. 2026 Jan 13:10519815251409139. doi: 10.1177/10519815251409139.
+    J Theor Biol. 2026 Jan 19:112365. doi: 10.1016/j.jtbi.2025.112365.
     Online ahead of print.
 
-    > Despite extensive research on the antecedents of unsafe behaviors,
-    > understanding workers’ dynamic decision-making under the influence
-    > of safety cognition, group interactions, management, site
-    > conditions, and behavioral outcomes as a holistic system remains
-    > limited.ObjectiveThis s …
+    > In this study, we propose and validate a simple agent-based model
+    > to study cell-cell interactions and cell migration during in vitro
+    > scratch assays in the context of cutaneous fibrosis (keloid).
+    > …With the help of this model, we test whether the hypot …
 
-7.  [**Active Knowledge Retrieval to Reduce Hallucinations and Enhance
-    Factual Accuracy in Large Medical Reasoning
-    Models.**](https://pubmed.ncbi.nlm.nih.gov/41528309/)
+3.  [**High-resolution datasets of synthetic human contact network in 13
+    countries for infectious disease
+    transmission.**](https://pubmed.ncbi.nlm.nih.gov/41561903/)
 
-    Lian H, Wu J, Wang Z, Chen L, Ji L, Ren L.
+    Yuan Z, Luo Z, Lin S, Ma Y, Chen Y, Xu M, Du Z, Bai Y.
 
-    J Craniofac Surg. 2026 Jan 13. doi: 10.1097/SCS.0000000000012355.
+    Data Brief. 2025 Dec 9;64:112373. doi: 10.1016/j.dib.2025.112373.
+    eCollection 2026 Feb.
+
+    > The persistent escalation of global infectious disease threats,
+    > exemplified by COVID-19, has resulted in over 30 million deaths
+    > worldwide in the past five years. Agent-based models (ABMs) have
+    > emerged as powerful tools for simulating disease transmission and
+    > …
+
+4.  [**Mechanistic interplay between information spreading and opinion
+    polarization.**](https://pubmed.ncbi.nlm.nih.gov/41561165/)
+
+    Oliveira KA, Ferraz de Arruda H, Moreno Y.
+
+    PNAS Nexus. 2025 Dec 30;5(1):pgaf402. doi:
+    10.1093/pnasnexus/pgaf402. eCollection 2026 Jan.
+
+    > We investigate how information-spreading mechanisms affect opinion
+    > dynamics and vice versa via an agent-based simulation on adaptive
+    > social networks. First, we characterize the impact of reposting on
+    > user behavior with limited memory, a feature that introduces novel
+    > …
+
+5.  [**Computational model of fractal interface formation in bacterial
+    biofilms.**](https://pubmed.ncbi.nlm.nih.gov/41560255/)
+
+    Brooks C, Yao M, McCool JT, Gillman A, Süel GM, Mugler A, Larkin JW.
+
+    Phys Rev E. 2025 Dec;112(6-1):064408. doi: 10.1103/2zm9-r3qs.
+
+    > To uncover the functional role of these emergent patterns, we must
+    > understand how they arise from cellular growth and mechanical
+    > interactions. Here we present a simple, agent-based model to
+    > predict patterns of motile and extracellular matrix-producing
+    > cells i …
+
+6.  [**Estimating the impact of decreasing vaccination response times
+    for outbreaks of vaccine-preventable diseases in low- and
+    middle-income
+    countries.**](https://pubmed.ncbi.nlm.nih.gov/41559840/)
+
+    Delport D, Muellenmeister AM, Greig J, Abeysuriya RG, Scott N.
+
+    BMC Glob Public Health. 2026 Jan 21;4(1):9. doi:
+    10.1186/s44263-025-00239-6.
+
+    > Initiating ORI within 15 days of outbreak emergence aligns with
+    > the 7-1-7 targets and supports outbreak containment. METHODS:
+    > Using agent-based models for four diseases, a status quo and
+    > series of ‘Faster response’ scenarios were compared for simulated
+    > outbre …
+
+7.  [**Optimizing Control Strategies for the Cotton Whitefly Bemisia
+    tabaci: Insights from Individual-Based
+    Modeling.**](https://pubmed.ncbi.nlm.nih.gov/41558997/)
+
+    Gergs A, Weinhold A, Hettmann E, Durigan M, Kadu L, Kratchmer J,
+    Marienhagen C.
+
+    Environ Sci Technol. 2026 Jan 20. doi: 10.1021/acs.est.5c13117.
     Online ahead of print.
 
-    > OBJECTIVE: Large reasoning models (LRMs) have demonstrated robust
-    > performance in closed-domain tasks; however, their limitations
-    > persist in medical applications that require high factual
-    > precision and a strong reliance on dynamic, domain-specific
-    > knowledge. …The proposed …
+    > The TKTD model was integrated into an individual-based model (IBM)
+    > to predict population dynamics and efficacy under field
+    > conditions, validated with field trial data from different
+    > locations in India, Pakistan, and Brazil. The integrated model
+    > identified opt …
 
-8.  [**Integrative spatial omics and artificial intelligence:
-    transforming cancer research with omics data and
-    AI.**](https://pubmed.ncbi.nlm.nih.gov/41520911/)
+8.  [**The relationship between childhood exploration and
+    population-level innovation in cultural
+    evolution.**](https://pubmed.ncbi.nlm.nih.gov/41558787/)
 
-    McKenzie M, Irac SE, Chen Z, Moradi A, Jenner A, Nguyen Q, Rashidieh
-    B.
+    Miu E, Andersen MM, Lew-Levy S, Riede F.
 
-    Semin Cancer Biol. 2026 Jan 9;119:65-82. doi:
-    10.1016/j.semcancer.2026.01.002. Online ahead of print.
+    Proc Biol Sci. 2026 Jan 21;293(2063):20252122. doi:
+    10.1098/rspb.2025.2122.
 
-    > AI-powered tools, including deep learning models and spatial
-    > graph-based analyses, enhance data interpretation, allowing for
-    > robust predictive modeling, biomarker discovery, and personalized
-    > therapeutic strategies. …Addressing these challenges requires
-    > advanced ma …
+    > The societal effects of children’s learning in cultural evolution
+    > have been underexplored. Here, we investigate using agent-based
+    > models how a propensity for early exploration in childhood
+    > contributes to cultural adaptation and the evolution of long human
+    > chi …
 
-9.  [**Adaptive Non-Singular Fast Terminal Sliding Mode Trajectory
-    Tracking Control for Robotic Manipulator with Novel Configuration
-    Based on TD3 Deep Reinforcement Learning and Nonlinear Disturbance
-    Observer.**](https://pubmed.ncbi.nlm.nih.gov/41516729/)
+9.  [**Alerting and orienting attention in anti-predator vigilance:
+    neurocognitive modelling and behavioural
+    evidence.**](https://pubmed.ncbi.nlm.nih.gov/41558766/)
 
-    You H, Liu Y, Shi Z, Wang Z, Wang L, Xue G.
+    Linson A, Beauchamp G, Barve S.
 
-    Sensors (Basel). 2026 Jan 2;26(1):297. doi: 10.3390/s26010297.
+    J R Soc Interface. 2026 Jan 21;23(234):20250687. doi:
+    10.1098/rsif.2025.0687.
 
-    > Firstly, a novel modular serial 5-DOF robotic manipulator
-    > configuration is designed, and its kinematic and dynamic models
-    > are established. Secondly, a nonlinear disturbance observer is
-    > employed to estimate the total disturbance of the system and apply
-    > feedforward compensat …
+    > Sentinel bouts exclude foraging, providing a simplified focus for
+    > studying attention in the wild. We first defined a neurocognitive
+    > agent-based model. For initial model validation, we manipulated
+    > background predation risk in simulations, which produced …
 
-10. [**AI-Guided Inference of Morphodynamic Attractor-like States in
-    Glioblastoma.**](https://pubmed.ncbi.nlm.nih.gov/41515632/)
+10. [**Household recycling behavior and community-based waste
+    management: An agent-based modeling of socioeconomic heterogeneity
+    in urban Indonesia.**](https://pubmed.ncbi.nlm.nih.gov/41558438/)
 
-    Volovăț SR, Panaite DI, Ostafe MR, Buzea CG, Iancu DT, Agop M,
-    Ochiuz L, Rusu DI, Volovăț CC.
+    Asih AMS, Prasetyo DH, Sopha BM.
 
-    Diagnostics (Basel). 2026 Jan 1;16(1):139. doi:
-    10.3390/diagnostics16010139.
+    J Environ Manage. 2026 Jan 19;399:128658. doi:
+    10.1016/j.jenvman.2026.128658. Online ahead of print.
 
-    > Background/Objectives: Glioblastoma (GBM) exhibits heterogeneous,
-    > nonlinear invasion patterns that challenge conventional modeling
-    > and radiomic prediction. Most deep learning approaches describe
-    > the morphology but rarely capture the dynamical stability of tumor
-    > evolution. …
+    > Community-Based Waste Management has been promoted as a
+    > complementary strategy, yet its effectiveness is strongly shaped
+    > by socioeconomic heterogeneity. This study applies an agent-based
+    > model involving households, waste banks, and black soldier fly
+    > breeders …
 
 ## Code of Conduct
 
