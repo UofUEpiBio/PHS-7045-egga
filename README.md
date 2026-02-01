@@ -9,25 +9,137 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-01-25 00:08:49.
+update was on 2026-02-01 00:10:28.
 
 <div class="cell">
 
 </div>
 
-1.  [**From the origin of life to a biosphere: Formation of artificial
+1.  [**Learning continuum-level closures for control of interacting
+    active particles.**](https://pubmed.ncbi.nlm.nih.gov/41614966/)
+
+    Quah T, Takatori SC, Rawlings JB.
+
+    J Chem Phys. 2026 Jan 28;164(4):044126. doi: 10.1063/5.0300697.
+
+    > Yet predicting how density evolves is difficult because of
+    > inter-agent interactions. For model-based feedback control
+    > methods-such as Model Predictive Control (MPC)-fast, accurate, and
+    > differentiable models are crucial. Detailed agent-based simu …
+
+2.  [**Modeling How Hunting Strategies and Pack Size Shape Each
+    Other.**](https://pubmed.ncbi.nlm.nih.gov/41610980/)
+
+    Dutykh D, Escobedo R, Spector L.
+
+    J Theor Biol. 2026 Jan 27:112390. doi: 10.1016/j.jtbi.2026.112390.
+    Online ahead of print.
+
+    > These observations have been supported by computational models of
+    > group hunting, which reveal a mechanism that causes hunting
+    > success to peak at small group sizes. In the model, hunters follow
+    > two simple rules: approach the prey until a safe distance is
+    > reached, and …
+
+3.  [**High-precision tracking of human foragers reveals adaptive social
+    information use in the
+    wild.**](https://pubmed.ncbi.nlm.nih.gov/41610226/)
+
+    Schakowski A, Deffner D, Kortet R, Niemelä PT, Kavelaars MM, Monk
+    CT, Pykälä M, Kurvers RHJM.
+
+    Science. 2026 Jan 29;391(6784):eady1055. doi:
+    10.1126/science.ady1055. Epub 2026 Jan 29.
+
+    > Integrating high-precision Global Positioning System (GPS)
+    > tracking and video footage from large-scale foraging competitions
+    > with cognitive-computational modeling and agent-based simulations,
+    > we show how foragers integrate personal, social, and ecological
+    > inf …
+
+4.  [**Pseudomonas putida Chemotactic Efficiency toward Naphthalene at a
+    NAPL-Water Interface Decreased under Increasing Shear
+    Flow.**](https://pubmed.ncbi.nlm.nih.gov/41610183/)
+
+    Gao B, Braun R, Wu D, Ford RM.
+
+    Environ Sci Technol. 2026 Jan 29. doi: 10.1021/acs.est.5c15041.
+    Online ahead of print.
+
+    > Trajectory analysis of bacteria from videomicroscopy revealed
+    > increasing alignment of bacterial motion with the flow direction
+    > as the fluid velocity increased. We conducted agent-based model
+    > simulations to further demonstrate that flow-induced suppression
+    > of …
+
+5.  [**The dynamics of bicycles for disaster recovery and
+    relief.**](https://pubmed.ncbi.nlm.nih.gov/41605978/)
+
+    Qiu Q, Chen C, Idziorek K, Wong SD.
+
+    Sci Rep. 2026 Jan 28;16(1):3903. doi: 10.1038/s41598-025-31962-7.
+
+    > This study examines the viability of micromobility vehicles for
+    > post-disaster relief via agent-based modeling and simulations in
+    > Stillwater, Oklahoma. Focusing on the early recovery phase with
+    > exclusive micromobility deployment, three operational variables ar
+    > …
+
+6.  [**From the logic of coordination to goal-directed reasoning: the
+    agentic turn in artificial
+    intelligence.**](https://pubmed.ncbi.nlm.nih.gov/41602311/)
+
+    Haidemariam T.
+
+    Front Artif Intell. 2026 Jan 12;8:1728738. doi:
+    10.3389/frai.2025.1728738. eCollection 2025.
+
+    > This paper argues that Agentic AI is not an incremental extension
+    > of large language models (LLMs) or autonomous agents in the sense
+    > we know it from classical AI and multi-agent systems, but a
+    > reconstitution of agency itself within computational substrates.
+    > Building on the …
+
+7.  [**Cell-Based Computational Models of Organoids: A Systematic
+    Review.**](https://pubmed.ncbi.nlm.nih.gov/41597250/)
+
+    Neagu M, Robu A, Arjoca S, Neagu A.
+
+    Cells. 2026 Jan 19;15(2):177. doi: 10.3390/cells15020177.
+
+    > Organoid technology has opened novel ways to model development and
+    > disease, but it is not without challenges. Computational models of
+    > organoids have been established to elucidate organoid growth and
+    > facilitate the optimization of organoid cultures. …Recent researc
+    > …
+
+8.  [**An Agent-based Model of the Effects of Limited Vaccination on
+    Novel Respiratory
+    Infections.**](https://pubmed.ncbi.nlm.nih.gov/41587610/)
+
+    Krauland MG, Mandell AJ, Williams KV, Zimmerman RK, Roberts MS.
+
+    J Clin Epidemiol. 2026 Jan 24:112171. doi:
+    10.1016/j.jclinepi.2026.112171. Online ahead of print.
+
+    > METHODS: We used the Agent-based modeling platform Framework for
+    > Reconstructing Epidemic Dynamics (FRED). Limited supplies of
+    > vaccine were administered to target age groups. …The best strategy
+    > for decreasing mortality in all modeled scenarios was to …
+
+9.  [**From the origin of life to a biosphere: Formation of artificial
     ecosystems where species shape and are shaped by each
     other.**](https://pubmed.ncbi.nlm.nih.gov/41570973/)
 
     Ivanko E, Belousov A.
 
-    Biosystems. 2026 Jan 20:105711. doi:
+    Biosystems. 2026 Jan 20;261:105711. doi:
     10.1016/j.biosystems.2026.105711. Online ahead of print.
 
     > We study the development of model biotic communities in which
     > species play the role of environment for each other. …
 
-2.  [**Simple cellular Potts model of scratch assays on healthy and
+10. [**Simple cellular Potts model of scratch assays on healthy and
     keloid fibroblasts driven by contact inhibition of
     locomotion.**](https://pubmed.ncbi.nlm.nih.gov/41565154/)
 
@@ -40,124 +152,6 @@ update was on 2026-01-25 00:08:49.
     > to study cell-cell interactions and cell migration during in vitro
     > scratch assays in the context of cutaneous fibrosis (keloid).
     > …With the help of this model, we test whether the hypot …
-
-3.  [**High-resolution datasets of synthetic human contact network in 13
-    countries for infectious disease
-    transmission.**](https://pubmed.ncbi.nlm.nih.gov/41561903/)
-
-    Yuan Z, Luo Z, Lin S, Ma Y, Chen Y, Xu M, Du Z, Bai Y.
-
-    Data Brief. 2025 Dec 9;64:112373. doi: 10.1016/j.dib.2025.112373.
-    eCollection 2026 Feb.
-
-    > The persistent escalation of global infectious disease threats,
-    > exemplified by COVID-19, has resulted in over 30 million deaths
-    > worldwide in the past five years. Agent-based models (ABMs) have
-    > emerged as powerful tools for simulating disease transmission and
-    > …
-
-4.  [**Mechanistic interplay between information spreading and opinion
-    polarization.**](https://pubmed.ncbi.nlm.nih.gov/41561165/)
-
-    Oliveira KA, Ferraz de Arruda H, Moreno Y.
-
-    PNAS Nexus. 2025 Dec 30;5(1):pgaf402. doi:
-    10.1093/pnasnexus/pgaf402. eCollection 2026 Jan.
-
-    > We investigate how information-spreading mechanisms affect opinion
-    > dynamics and vice versa via an agent-based simulation on adaptive
-    > social networks. First, we characterize the impact of reposting on
-    > user behavior with limited memory, a feature that introduces novel
-    > …
-
-5.  [**Computational model of fractal interface formation in bacterial
-    biofilms.**](https://pubmed.ncbi.nlm.nih.gov/41560255/)
-
-    Brooks C, Yao M, McCool JT, Gillman A, Süel GM, Mugler A, Larkin JW.
-
-    Phys Rev E. 2025 Dec;112(6-1):064408. doi: 10.1103/2zm9-r3qs.
-
-    > To uncover the functional role of these emergent patterns, we must
-    > understand how they arise from cellular growth and mechanical
-    > interactions. Here we present a simple, agent-based model to
-    > predict patterns of motile and extracellular matrix-producing
-    > cells i …
-
-6.  [**Estimating the impact of decreasing vaccination response times
-    for outbreaks of vaccine-preventable diseases in low- and
-    middle-income
-    countries.**](https://pubmed.ncbi.nlm.nih.gov/41559840/)
-
-    Delport D, Muellenmeister AM, Greig J, Abeysuriya RG, Scott N.
-
-    BMC Glob Public Health. 2026 Jan 21;4(1):9. doi:
-    10.1186/s44263-025-00239-6.
-
-    > Initiating ORI within 15 days of outbreak emergence aligns with
-    > the 7-1-7 targets and supports outbreak containment. METHODS:
-    > Using agent-based models for four diseases, a status quo and
-    > series of ‘Faster response’ scenarios were compared for simulated
-    > outbre …
-
-7.  [**Optimizing Control Strategies for the Cotton Whitefly Bemisia
-    tabaci: Insights from Individual-Based
-    Modeling.**](https://pubmed.ncbi.nlm.nih.gov/41558997/)
-
-    Gergs A, Weinhold A, Hettmann E, Durigan M, Kadu L, Kratchmer J,
-    Marienhagen C.
-
-    Environ Sci Technol. 2026 Jan 20. doi: 10.1021/acs.est.5c13117.
-    Online ahead of print.
-
-    > The TKTD model was integrated into an individual-based model (IBM)
-    > to predict population dynamics and efficacy under field
-    > conditions, validated with field trial data from different
-    > locations in India, Pakistan, and Brazil. The integrated model
-    > identified opt …
-
-8.  [**The relationship between childhood exploration and
-    population-level innovation in cultural
-    evolution.**](https://pubmed.ncbi.nlm.nih.gov/41558787/)
-
-    Miu E, Andersen MM, Lew-Levy S, Riede F.
-
-    Proc Biol Sci. 2026 Jan 21;293(2063):20252122. doi:
-    10.1098/rspb.2025.2122.
-
-    > The societal effects of children’s learning in cultural evolution
-    > have been underexplored. Here, we investigate using agent-based
-    > models how a propensity for early exploration in childhood
-    > contributes to cultural adaptation and the evolution of long human
-    > chi …
-
-9.  [**Alerting and orienting attention in anti-predator vigilance:
-    neurocognitive modelling and behavioural
-    evidence.**](https://pubmed.ncbi.nlm.nih.gov/41558766/)
-
-    Linson A, Beauchamp G, Barve S.
-
-    J R Soc Interface. 2026 Jan 21;23(234):20250687. doi:
-    10.1098/rsif.2025.0687.
-
-    > Sentinel bouts exclude foraging, providing a simplified focus for
-    > studying attention in the wild. We first defined a neurocognitive
-    > agent-based model. For initial model validation, we manipulated
-    > background predation risk in simulations, which produced …
-
-10. [**Household recycling behavior and community-based waste
-    management: An agent-based modeling of socioeconomic heterogeneity
-    in urban Indonesia.**](https://pubmed.ncbi.nlm.nih.gov/41558438/)
-
-    Asih AMS, Prasetyo DH, Sopha BM.
-
-    J Environ Manage. 2026 Jan 19;399:128658. doi:
-    10.1016/j.jenvman.2026.128658. Online ahead of print.
-
-    > Community-Based Waste Management has been promoted as a
-    > complementary strategy, yet its effectiveness is strongly shaped
-    > by socioeconomic heterogeneity. This study applies an agent-based
-    > model involving households, waste banks, and black soldier fly
-    > breeders …
 
 ## Code of Conduct
 
