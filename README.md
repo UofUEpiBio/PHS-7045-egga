@@ -9,149 +9,164 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-02-01 00:10:28.
+update was on 2026-02-08 00:14:00.
 
 <div class="cell">
 
 </div>
 
-1.  [**Learning continuum-level closures for control of interacting
-    active particles.**](https://pubmed.ncbi.nlm.nih.gov/41614966/)
+1.  [**Reduction in overtreatment of gonorrhoea and chlamydia through
+    point-of-care testing compared with syndromic management for vaginal
+    discharge: a modelling study for
+    Zimbabwe.**](https://pubmed.ncbi.nlm.nih.gov/41644303/)
 
-    Quah T, Takatori SC, Rawlings JB.
+    Stuart RM, Newman LM, Manguro G, Dziva Chikwari C, Marks M, Peters
+    RPH, Klein D, Snyder L, Kerr C, Rao DW.
 
-    J Chem Phys. 2026 Jan 28;164(4):044126. doi: 10.1063/5.0300697.
+    Sex Transm Infect. 2026 Feb 5:sextrans-2025-056646. doi:
+    10.1136/sextrans-2025-056646. Online ahead of print.
 
-    > Yet predicting how density evolves is difficult because of
-    > inter-agent interactions. For model-based feedback control
-    > methods-such as Model Predictive Control (MPC)-fast, accurate, and
-    > differentiable models are crucial. Detailed agent-based simu …
+    > Here, we investigate the potential relative impact of an NG/CT/TV
+    > point-of-care (POC) test on undertreatment, overtreatment and
+    > disease burden in the context of different implementations of
+    > syndromic management of women with VDS. METHODS: We created an
+    > agent-based …
 
-2.  [**Modeling How Hunting Strategies and Pack Size Shape Each
-    Other.**](https://pubmed.ncbi.nlm.nih.gov/41610980/)
+2.  [**Seeking Service: How Client Behavior Determines Cleaning Station
+    Clustering.**](https://pubmed.ncbi.nlm.nih.gov/41644005/)
 
-    Dutykh D, Escobedo R, Spector L.
+    Kaare-Rasmussen JT, Detmer AR, Caves EM, Moeller HV.
 
-    J Theor Biol. 2026 Jan 27:112390. doi: 10.1016/j.jtbi.2026.112390.
+    J Theor Biol. 2026 Feb 3:112394. doi: 10.1016/j.jtbi.2026.112394.
     Online ahead of print.
 
-    > These observations have been supported by computational models of
-    > group hunting, which reveal a mechanism that causes hunting
-    > success to peak at small group sizes. In the model, hunters follow
-    > two simple rules: approach the prey until a safe distance is
-    > reached, and …
+    > To investigate how fish movement behaviors influence the spatial
+    > distribution of cleaning stations, we developed an
+    > individual-based model that explicitly incorporates both
+    > stochastic fish movement and two forms of directed fish movement
+    > strategies: taxis (i.e. gradient-fo …
 
-3.  [**High-precision tracking of human foragers reveals adaptive social
-    information use in the
-    wild.**](https://pubmed.ncbi.nlm.nih.gov/41610226/)
+3.  [**A biologically constrained agent-based model of cancer stem cell
+    dynamics with reinforcement learning-guided adaptive
+    radiotherapy.**](https://pubmed.ncbi.nlm.nih.gov/41642872/)
 
-    Schakowski A, Deffner D, Kortet R, Niemelä PT, Kavelaars MM, Monk
-    CT, Pykälä M, Kurvers RHJM.
+    Lagzian M, Razavi SE, Moghaddam RK.
 
-    Science. 2026 Jan 29;391(6784):eady1055. doi:
-    10.1126/science.ady1055. Epub 2026 Jan 29.
+    PLoS One. 2026 Feb 5;21(2):e0340426. doi:
+    10.1371/journal.pone.0340426. eCollection 2026.
 
-    > Integrating high-precision Global Positioning System (GPS)
-    > tracking and video footage from large-scale foraging competitions
-    > with cognitive-computational modeling and agent-based simulations,
-    > we show how foragers integrate personal, social, and ecological
-    > inf …
-
-4.  [**Pseudomonas putida Chemotactic Efficiency toward Naphthalene at a
-    NAPL-Water Interface Decreased under Increasing Shear
-    Flow.**](https://pubmed.ncbi.nlm.nih.gov/41610183/)
-
-    Gao B, Braun R, Wu D, Ford RM.
-
-    Environ Sci Technol. 2026 Jan 29. doi: 10.1021/acs.est.5c15041.
-    Online ahead of print.
-
-    > Trajectory analysis of bacteria from videomicroscopy revealed
-    > increasing alignment of bacterial motion with the flow direction
-    > as the fluid velocity increased. We conducted agent-based model
-    > simulations to further demonstrate that flow-induced suppression
-    > of …
-
-5.  [**The dynamics of bicycles for disaster recovery and
-    relief.**](https://pubmed.ncbi.nlm.nih.gov/41605978/)
-
-    Qiu Q, Chen C, Idziorek K, Wong SD.
-
-    Sci Rep. 2026 Jan 28;16(1):3903. doi: 10.1038/s41598-025-31962-7.
-
-    > This study examines the viability of micromobility vehicles for
-    > post-disaster relief via agent-based modeling and simulations in
-    > Stillwater, Oklahoma. Focusing on the early recovery phase with
-    > exclusive micromobility deployment, three operational variables ar
+    > To better understand CSC behavior in solid tumors, we developed a
+    > biologically constrained agent-based model (ABM) that simulates
+    > tumor progression initiated from a single CSC. The model
+    > incorporates essential microenvironmental factors-including oxyge
     > …
 
-6.  [**From the logic of coordination to goal-directed reasoning: the
-    agentic turn in artificial
-    intelligence.**](https://pubmed.ncbi.nlm.nih.gov/41602311/)
+4.  [**Two-sided dynamics in duopolistic ridesourcing markets with
+    private and pooled
+    rides.**](https://pubmed.ncbi.nlm.nih.gov/41640808/)
 
-    Haidemariam T.
+    de Ruijter A, Dandl F, Engelhardt R, Bogenberger K, Geržinič N, van
+    Lint H, Cats O.
 
-    Front Artif Intell. 2026 Jan 12;8:1728738. doi:
-    10.3389/frai.2025.1728738. eCollection 2025.
+    NPJ Sustain Mobil Transp. 2026;3(1):8. doi:
+    10.1038/s44333-025-00077-x. Epub 2026 Feb 2.
 
-    > This paper argues that Agentic AI is not an incremental extension
-    > of large language models (LLMs) or autonomous agents in the sense
-    > we know it from classical AI and multi-agent systems, but a
-    > reconstitution of agency itself within computational substrates.
-    > Building on the …
+    > This research addresses two key gaps: (i) understanding how
+    > fragmentation costs such as longer detours for travellers,
+    > decreased driver income, and increased vehicle kilometres
+    > travelled (VKT) vary with market features and user attributes,
+    > and (ii) exploring conditions under whic …
 
-7.  [**Cell-Based Computational Models of Organoids: A Systematic
-    Review.**](https://pubmed.ncbi.nlm.nih.gov/41597250/)
+5.  [**Behavioral Dynamics of AI Trust and Health Care Delays Among
+    Adults: Integrated Cross-Sectional Survey and Agent-Based Modeling
+    Study.**](https://pubmed.ncbi.nlm.nih.gov/41632964/)
 
-    Neagu M, Robu A, Arjoca S, Neagu A.
+    Cai X, Li W, Shi W, Cai Y, Zhou J.
 
-    Cells. 2026 Jan 19;15(2):177. doi: 10.3390/cells15020177.
+    J Med Internet Res. 2026 Feb 3;28:e82170. doi: 10.2196/82170.
 
-    > Organoid technology has opened novel ways to model development and
-    > disease, but it is not without challenges. Computational models of
-    > organoids have been established to elucidate organoid growth and
-    > facilitate the optimization of organoid cultures. …Recent researc
+    > OBJECTIVE: This study aims to quantify the influence of AI trust
+    > on health care delays through integrated survey-based mediation
+    > analysis and real-world research, and to simulate intervention
+    > efficacy using agent-based modeling (ABM). METHODS: A
+    > cross-section …
+
+6.  [**Evidence of Efficacy of the My Personal Health Guide Mobile Phone
+    App on Antiretroviral Therapy Adherence Among Young African American
+    Men Who Have Sex With Men at 1 Month: Randomized Controlled
+    Trial.**](https://pubmed.ncbi.nlm.nih.gov/41632958/)
+
+    Dworkin MS, Herrera K, Upton S, Luc CM, Jones J, Burns P, Liu L,
+    Jimenez A, Ren R, Woody M, Garofalo R, Lee S.
+
+    JMIR Mhealth Uhealth. 2026 Feb 3;14:e75005. doi: 10.2196/75005.
+
+    > We created My Personal Health Guide, a talking relational
+    > agent-based mobile health app to improve ART adherence among young
+    > AAMSM. OBJECTIVE: The objective was to determine the efficacy of
+    > My Personal Health Guide on improving ART adherence among young
+    > AAMSM living …
+
+7.  [**Modelling Immune Dynamics in Locally Advanced MSI-H/dMMR
+    Colorectal Cancer with Neoadjuvant Pembrolizumab Treatment: From
+    Differential Equations to an Agent-Based
+    Framework.**](https://pubmed.ncbi.nlm.nih.gov/41627569/)
+
+    Hawi G, Kim PS, Lee PP.
+
+    Bull Math Biol. 2026 Feb 2;88(3):35. doi:
+    10.1007/s11538-026-01594-7.
+
+    > On the other hand, agent-based models (ABMs) naturally capture
+    > stochasticity, interactions at an individual level, and discrete
+    > events that lie beyond the scope of differential-equation
+    > formulations. As such, we also convert our ODE model, with paramet
     > …
 
-8.  [**An Agent-based Model of the Effects of Limited Vaccination on
-    Novel Respiratory
-    Infections.**](https://pubmed.ncbi.nlm.nih.gov/41587610/)
+8.  [**Viral Simulation Reveals Overestimation Bias in Within-Host
+    Phylodynamic Migration Rate Estimates Under
+    Selection.**](https://pubmed.ncbi.nlm.nih.gov/41622429/)
 
-    Krauland MG, Mandell AJ, Williams KV, Zimmerman RK, Roberts MS.
+    Ochsner N, Bouman J, Vaughan T, Stadler T, Bonhoeffer S, Regoes R.
 
-    J Clin Epidemiol. 2026 Jan 24:112171. doi:
-    10.1016/j.jclinepi.2026.112171. Online ahead of print.
-
-    > METHODS: We used the Agent-based modeling platform Framework for
-    > Reconstructing Epidemic Dynamics (FRED). Limited supplies of
-    > vaccine were administered to target age groups. …The best strategy
-    > for decreasing mortality in all modeled scenarios was to …
-
-9.  [**From the origin of life to a biosphere: Formation of artificial
-    ecosystems where species shape and are shaped by each
-    other.**](https://pubmed.ncbi.nlm.nih.gov/41570973/)
-
-    Ivanko E, Belousov A.
-
-    Biosystems. 2026 Jan 20;261:105711. doi:
-    10.1016/j.biosystems.2026.105711. Online ahead of print.
-
-    > We study the development of model biotic communities in which
-    > species play the role of environment for each other. …
-
-10. [**Simple cellular Potts model of scratch assays on healthy and
-    keloid fibroblasts driven by contact inhibition of
-    locomotion.**](https://pubmed.ncbi.nlm.nih.gov/41565154/)
-
-    Urcun S, El Mahi Y, Eftimie R, Dirand Z, Rolin G, Bordas SPA.
-
-    J Theor Biol. 2026 Jan 19:112365. doi: 10.1016/j.jtbi.2025.112365.
+    Mol Biol Evol. 2026 Feb 2:msag014. doi: 10.1093/molbev/msag014.
     Online ahead of print.
 
-    > In this study, we propose and validate a simple agent-based model
-    > to study cell-cell interactions and cell migration during in vitro
-    > scratch assays in the context of cutaneous fibrosis (keloid).
-    > …With the help of this model, we test whether the hypot …
+    > In this study, we investigate how selection affects phylodynamic
+    > migration rate estimates. To this end, we developed a novel
+    > agent-based simulation tool, virolution, to simulate the evolution
+    > of virus within two anatomical compartments of a host. …We found
+    > that, u …
+
+9.  [**Migration phenology of adult Chinook salmon: tradeoffs among
+    acute and cumulative thermal exposure
+    risks.**](https://pubmed.ncbi.nlm.nih.gov/41621183/)
+
+    Keefer ML, Caudill CC.
+
+    J Therm Biol. 2026 Jan 20;136:104388. doi:
+    10.1016/j.jtherbio.2026.104388. Online ahead of print.
+
+    > Migratory coldwater species like anadromous salmonids are highly
+    > sensitive to river temperatures and methods are needed for
+    > estimating their exposure and risk. We built an agent-based model
+    > (ABM) for a threatened spring-run Chinook salmon population over
+    > 220- …
+
+10. [**Investigating TGF-β1-induced Renal Fibrosis in a Parallel
+    Computational-Experimental Spheroid
+    System.**](https://pubmed.ncbi.nlm.nih.gov/41620824/)
+
+    Kim KP, Brooks A, Lemmon CA.
+
+    Biophys J. 2026 Jan 30:S0006-3495(26)00050-0. doi:
+    10.1016/j.bpj.2026.01.035. Online ahead of print.
+
+    > Investigating the role of TGF-beta1-FN crosstalk in driving tubule
+    > damage is not easily probed via animal models or clinical
+    > investigations. Additionally, the effects of renal fibrosis on the
+    > 3D organization and polarization of the renal tubule are not
+    > easily studied using …
 
 ## Code of Conduct
 
