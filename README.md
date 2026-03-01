@@ -9,141 +9,146 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-02-22 00:09:17.
+update was on 2026-03-01 00:10:32.
 
 <div class="cell">
 
 </div>
 
-1.  [**The use of participatory modelling to inform management of
-    endemic foot-and-mouth disease: A case study from Nusa Tenggara
-    Barat, Indonesia.**](https://pubmed.ncbi.nlm.nih.gov/41719806/)
+1.  [**Border quarantine, vaccination and public health measures to
+    mitigate the impact of COVID-19 importations in Australia: a
+    modelling study.**](https://pubmed.ncbi.nlm.nih.gov/41759185/)
 
-    Steele S, Yupiana Y, Permatasari I, Ekowati RV, Nugroho DK,
-    Wiethoelter A, Edwards M, Yulianti S, Nurhayati, Ermawanto, Utami
-    TD, Butar RMB, Kurniawan HP, Muljono AT, Sari CDP, Andre GA, Alya S,
-    Weaver J, Pfeiffer C, Dahlannudin, Hultatang, Muslih, Riadi M,
-    Stevenson M, Idris S.
+    Lydeamore M, Zachreson C, Conway E, Shearer FM, Baker CM, Ross JV,
+    Miller J, McCaw JM, Geard NL, McVernon J, Price DJ.
 
-    Prev Vet Med. 2026 Feb 8;250:106802. doi:
-    10.1016/j.prevetmed.2026.106802. Online ahead of print.
+    J R Soc Interface. 2026 Feb 25;23(235):20250144. doi:
+    10.1098/rsif.2025.0144.
 
-    > Management of infectious diseases such as foot-and-mouth disease
-    > (FMD) in the endemic situation in smallholder farming systems
-    > brings significant challenges. While spatially explicit
-    > agent-based models (ABMs) are useful to inform disease response
-    > decision-mak …
+    > We developed a flexible infectious disease model framework that
+    > combines a detailed individual-based model of arrival pathways
+    > (quarantine model) and an individual-based model of the arrivals
+    > environment (community model) to inform border risk a …
 
-2.  [**Replicating hypergraph disease dynamics with lower-order
-    interactions.**](https://pubmed.ncbi.nlm.nih.gov/41715842/)
+2.  [**LLM Agent Based Protein Function
+    Prediction.**](https://pubmed.ncbi.nlm.nih.gov/41758164/)
 
-    Tan E, Small M, Algar SD.
+    Zhapa-Camacho F, Mashkova O, Hoehndorf R, Kulmanov M.
 
-    Phys Rev E. 2026 Jan;113(1-1):014315. doi: 10.1103/6whh-kvk7.
+    Pac Symp Biocomput. 2026;31:508-519. doi:
+    10.1142/9789819824755_0036.
 
-    > Disease spreading models such as the ubiquitous SIS compartmental
-    > model and its numerous variants are widely used to understand and
-    > predict the behavior of a given epidemic or information diffusion
-    > process. …Though more flexible, it is not clear the extent to whic
+    > Protein function prediction remains a fundamental challenge in
+    > computational biology. Here, we present a Large Language Model
+    > (LLM) agent-based system that improves protein function prediction
+    > performance using knowledge-augmented reasoning and multi-source e
     > …
 
-3.  [**Collective behaviors of self-propelled particles with tunable
-    alignment angles.**](https://pubmed.ncbi.nlm.nih.gov/41715809/)
+3.  [**Agent-based large language model system for extracting structured
+    data from breast cancer synoptic reports: a dual-validation
+    study.**](https://pubmed.ncbi.nlm.nih.gov/41756715/)
 
-    Qin Z, Uchida N.
+    Hart SN, Bergamaschi TS.
 
-    Phys Rev E. 2026 Jan;113(1-2):015411. doi: 10.1103/1dhq-6fb1.
+    JAMIA Open. 2026 Feb 17;9(1):ooag016. doi:
+    10.1093/jamiaopen/ooag016. eCollection 2026 Feb.
 
-    > We present an aligning active matter model by extending the
-    > nematic alignment rule in self-propelled rods to tunable alignment
-    > angles, as represented by the collision of cone-shaped particles.
-    > Nonvanishing alignment angles introduce frustration in the
-    > many-body interaction …
+    > OBJECTIVES: To develop and validate an agent-based Large Language
+    > Model (LLM) system for extracting structured data from breast
+    > cancer synoptic pathology reports and assess the performance gap
+    > between synthetic and real-world validation. MATERIALS AND METHODS
+    > …
 
-4.  [**Evaluating select factors and mechanisms influencing meat
-    consumption in Baltimore City: an agent-based modeling
-    study.**](https://pubmed.ncbi.nlm.nih.gov/41715003/)
+4.  [**Non-uniform filament turnover, contractility, and bundle
+    formation in disordered actomyosin
+    networks.**](https://pubmed.ncbi.nlm.nih.gov/41755423/)
 
-    Misiaszek C, Lin G, Harding J, Altema-Johnson D, Mui Y, Chang K,
-    Bassarab K, Clancy K, Palmer A, Adam A, Ramsing R.
+    Tam AKY, Mogilner A, Oelz DB.
 
-    BMC Public Health. 2026 Feb 19. doi: 10.1186/s12889-026-26623-x.
-    Online ahead of print.
+    Biophys J. 2026 Feb 25:S0006-3495(26)00153-0. doi:
+    10.1016/j.bpj.2026.02.032. Online ahead of print.
 
-5.  [**Agentic memory-augmented retrieval and evidence grounding for
-    medical question-answering
-    tasks.**](https://pubmed.ncbi.nlm.nih.gov/41713127/)
+    > We use mathematical modeling and simulation to investigate how
+    > filament turnover and mechanics influence contractility and bundle
+    > formation in disordered actomyosin networks. Using a
+    > two-dimensional agent-based model for an actomyosin network, we
+    > inves …
 
-    Jia S, Bit S, Jasodanand VH, Liu Y, Kolachalama VB.
+5.  [**The Calhoun Experiment Study by Means of Agent-Based
+    Modeling.**](https://pubmed.ncbi.nlm.nih.gov/41751672/)
 
-    Int J Med Inform. 2026 Feb 7;212:106339. doi:
-    10.1016/j.ijmedinf.2026.106339. Online ahead of print.
+    Gwizdałła TM, Duś J.
 
-    > OBJECTIVE: To evaluate whether a tool-using agent-based system
-    > built on large language models (LLMs) outperforms standalone LLMs
-    > on medical question-answering tasks. …We compared the agentic
-    > system against standalone language models on various medica …
+    Entropy (Basel). 2026 Feb 1;28(2):169. doi: 10.3390/e28020169.
 
-6.  [**Emmanuel-Étienne Duvillard and the Notion of the Force of
-    Mortality.**](https://pubmed.ncbi.nlm.nih.gov/41710993/)
+6.  [**Cyber Risk Management of API-Enabled Financial Crime in Open
+    Banking Services.**](https://pubmed.ncbi.nlm.nih.gov/41751668/)
 
-    Dell’Aglio L.
+    Ojehomon OG, Cichorska J, Michnik J.
 
-    Theor Biol Forum. 2025 Jul 1;118(1-2):111-126. doi:
-    10.19272/202511402007.
+    Entropy (Basel). 2026 Jan 31;28(2):163. doi: 10.3390/e28020163.
 
-7.  [**Strategic resource allocation: an agent-based model of
-    ambidextrous strategies in the pharmaceutical
-    industry.**](https://pubmed.ncbi.nlm.nih.gov/41709224/)
+    > To address these challenges, this study proposes an integrated
+    > risk-management framework combining System Dynamics, Agent-Based
+    > Modelling, and Monte Carlo simulation. This hybrid approach
+    > captures feedback effects, heterogeneous agent behaviour, and loss
+    > unce …
 
-    Pourzia S, Hajipour B.
+7.  [**Mapping Emotional Pathways to Social Identity in Hybrid Work: A
+    Computational Model for Organizational
+    Cohesion.**](https://pubmed.ncbi.nlm.nih.gov/41750112/)
 
-    Cost Eff Resour Alloc. 2026 Feb 18. doi: 10.1186/s12962-026-00729-w.
-    Online ahead of print.
+    Li S, Hao J, Chai Y, Feng T, Liu Y, Zhu X.
 
-8.  [**Real-World Effectiveness of RSVpreF and RSVpreF3 Vaccines in
-    Preventing Hospitalisation and Emergency Department Visits
-    Associated with Respiratory Syncytial Virus in Older Adults: A
-    Meta-Analysis.**](https://pubmed.ncbi.nlm.nih.gov/41705791/)
+    Behav Sci (Basel). 2026 Feb 21;16(2):303. doi: 10.3390/bs16020303.
 
-    Sumsuzzman DM, Shi C, Moghadas SM.
+    > This study develops an integrated computational model to
+    > illuminate the micro-dynamics through which transient emotional
+    > contagion evolves into stable social identity within
+    > organizations, with a specific focus on hybrid work environments.
+    > Drawing on organizational psychol …
 
-    Clin Infect Dis. 2026 Feb 18:ciag107. doi: 10.1093/cid/ciag107.
-    Online ahead of print.
+8.  [**Quantifying Information Exchange Between Cells in
+    Inflammaging.**](https://pubmed.ncbi.nlm.nih.gov/41749761/)
 
-    > Pooled analyses used inverse-variance random-effects models to
-    > estimate effectiveness against RSV-related hospitalisations and ED
-    > visits. Subgroup analyses assessed differences in effectiveness by
-    > age, immune status, and vaccine type. …
+    Ibrahim IBM, Pidaparti RM.
 
-9.  [**Conceptualising systems thinking and complexity modelling for
-    circular economy quantification: A systematic review and critical
-    analysis.**](https://pubmed.ncbi.nlm.nih.gov/41698752/)
+    Bioengineering (Basel). 2026 Feb 14;13(2):222. doi:
+    10.3390/bioengineering13020222.
 
-    Boral S, Black L, Velis CA.
+    > In this study, we investigated the underlying dynamics of
+    > information exchange between macrophage and fibroblast cells
+    > during inflammation using an in silico agent-based model.
+    > Information exchange was inferred through migration dynamics of
+    > motile cells, and …
 
-    Waste Manag Res. 2026 Feb 16:734242X251413436. doi:
-    10.1177/0734242X251413436. Online ahead of print.
+9.  [**Artificial intelligence-powered prediction of diabetic
+    complications: from clinical data to molecular
+    omics.**](https://pubmed.ncbi.nlm.nih.gov/41744227/)
 
-    > Two main approaches of systems thinking, commonly used to model
-    > complexities in intricate systems, are: system dynamics (SD),
-    > providing a top-down, macroscopic view; and agent-based modelling
-    > and simulation (ABMS), offering a bottom-up, microscopic per …
+    Xie X, Wu C, Huang Z, Zhou Y, Huang J, Dao F, Yan D, Deng K, Lyu H,
+    Ma C, Lin H.
 
-10. [**Agent-based simulation of seasonal malaria chemoprevention
-    strategy in Southern Tanzania: comparing
-    dihydroartemisinin-piperaquine with or without
-    primaquine.**](https://pubmed.ncbi.nlm.nih.gov/41689031/)
+    Brief Bioinform. 2026 Jan 7;27(1):bbag083. doi: 10.1093/bib/bbag083.
 
-    Mfala CT, Nyambo DG, Mwaiswelo RO, Tchuenche JM, Clemen T.
+    > A total of 58 studies were included, encompassing models based on
+    > clinical features, molecular omics, medical imaging, and
+    > multimodal data integration. …We also summarize the evolution from
+    > traditional machine learning to deep learning and, more recently,
+    > to large langua …
 
-    Malar J. 2026 Feb 13;25(1):118. doi: 10.1186/s12936-026-05821-3.
+10. [**Artificial Intelligence agents for biological research: a
+    survey.**](https://pubmed.ncbi.nlm.nih.gov/41744224/)
 
-    > BACKGROUND: The effect of seasonal malaria chemoprevention (SMC)
-    > strategy on malaria transmission using a single low dose of
-    > primaquine (SLDPQ) added to artemisinin-based combination therapy
-    > has not been established in Africa. An agent-based model and
-    > simulat …
+    Qi C, Wang W, Jiang S, Liu Q, Song X, Fang H, Wei Z.
+
+    Brief Bioinform. 2026 Jan 7;27(1):bbag075. doi: 10.1093/bib/bbag075.
+
+    > The rapid growth of biological data and experimental complexity
+    > has motivated increasing interest in artificial intelligence (AI)
+    > systems that extend beyond static prediction toward autonomous
+    > reasoning and action. While recent computational models achieve
+    > strong predictiv …
 
 ## Code of Conduct
 
