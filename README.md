@@ -9,153 +9,163 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-03-15 00:11:32.
+update was on 2026-03-22 00:10:41.
 
 <div class="cell">
 
 </div>
 
-1.  [**Investigating the population health impact of an oral
-    tobacco-derived nicotine pouch product utilizing a three-product
-    tobacco use population
-    model.**](https://pubmed.ncbi.nlm.nih.gov/41822933/)
+1.  [**Exploring pathway scenarios for future urban water resilience
+    using systems approach coupled with an agent-based model operated on
+    synthetic social-policy
+    networks.**](https://pubmed.ncbi.nlm.nih.gov/41861563/)
 
-    Muhammad-Kah R, Hannel T, Wei L, Cheng H, Iyer S, Sarkar M.
+    Muthuvel D, Qin X, Maroufpoor S.
 
-    Front Public Health. 2026 Feb 25;14:1772045. doi:
-    10.3389/fpubh.2026.1772045. eCollection 2026.
+    Water Res. 2026 Mar 12;297:125726. doi:
+    10.1016/j.watres.2026.125726. Online ahead of print.
 
-    > BACKGROUND: This study employed a three-product agent-based model
-    > (ABM) to evaluate the potential population-level effects of
-    > granting market authorization for on! …METHODS: Developed in
-    > MATLAB( ) version 9.2, the model consisted of a transition sub- …
+    > This study develops a hybrid system dynamics model coupled with an
+    > agent-based model, operating on synthetic social-policy networks,
+    > to project future scenarios for water supply and demand dynamics
+    > in Singapore. …Second, per capita demand reduction p …
 
-2.  [**Channeling Patient Flow in China: An Agent-Based Model of
-    Insurance Reimbursement and Hierarchical
-    Care.**](https://pubmed.ncbi.nlm.nih.gov/41808253/)
+2.  [**Overcoming vascular niche-mediated TKI resistance in acute
+    myeloid leukemia through miR-126
+    inhibition.**](https://pubmed.ncbi.nlm.nih.gov/41857060/)
 
-    Zhao N, Yang J, Gu M, Li J, Li D, Ju W, Guo M.
+    Froid M, Branciamore S, Chen Z, Frankhouser D, Fu YH, Ambriz JR,
+    Nguyen LXT, Irizarry J, Kuo YH, O’Meally D, Zhang B, Marcucci G,
+    Rockne R, Basanta D.
 
-    Inquiry. 2026 Jan-Dec;63:469580261422679. doi:
-    10.1177/00469580261422679. Epub 2026 Mar 10.
+    NPJ Syst Biol Appl. 2026 Mar 19;12(1):38. doi:
+    10.1038/s41540-026-00675-6.
 
-    > This study investigates how differential health insurance
-    > reimbursement rates can be leveraged to guide patient flow. We
-    > developed an agent-based simulation model, calibrated with
-    > real-world data on hypertensive inpatients from Beijing
-    > (2015-2017). …Differe …
+    > To explore this dynamic, we developed an agent-based computational
+    > model of the AML bone marrow microenvironment, parameterized with
+    > in vitro and in vivo data. The model captures vascular niche
+    > remodeling and feedback between leukemic populations and e …
 
-3.  [**Mathematical modeling of planar cell polarity: principles,
-    approaches, and open
-    questions.**](https://pubmed.ncbi.nlm.nih.gov/41803150/)
+3.  [**An artificial intelligence approach to support adolescent suicide
+    prevention initiatives in the United
+    States.**](https://pubmed.ncbi.nlm.nih.gov/41855728/)
 
-    Rizvi MS, Jolly MK.
+    Liang L, Schuerkamp R, Rice KL, Brown MM, Nataraj N, Mendoza-Alonzo
+    J, Florence C, Page A, Harper CR, Maldonado B, Moran B, Giabbanelli
+    PJ.
 
-    NPJ Syst Biol Appl. 2026 Mar 9. doi: 10.1038/s41540-026-00679-2.
+    Artif Intell Med. 2026 Mar 14;176:103411. doi:
+    10.1016/j.artmed.2026.103411. Online ahead of print.
+
+    > This study presents the design of a novel agent-based model (ABM)
+    > created to simulate the progression of suicidal behaviors among
+    > U.S. adolescents ages 12-19 years and evaluate the effectiveness
+    > of suicide prevention strategies. …The transparent, data-drive …
+
+4.  [**Effects of Multi-Phase Control Mechanism on Fibroblast Dynamics:
+    A Segmented Mathematical Modeling
+    Approach.**](https://pubmed.ncbi.nlm.nih.gov/41848986/)
+
+    Fan S, Zhang Y, Lei J.
+
+    Bull Math Biol. 2026 Mar 18;88(4):59. doi:
+    10.1007/s11538-026-01607-5.
+
+    > In this study, we develop a segmented mathematical framework to
+    > investigate how different control mechanisms operating across
+    > multiple phases of the cell cycle affect fibroblast population
+    > dynamics. Building on our previous work modeling sizer, timer, and
+    > adder strategies, …
+
+5.  [**Enhancing Agent-Based Models with Real-Time Movement Data to
+    Assess Impacts of Biosecurity Interventions on Disease Exposure in
+    Healthcare Settings.**](https://pubmed.ncbi.nlm.nih.gov/41847591/)
+
+    Thota RC, Uddin MYS, Bani-Yaghoub M, Abourraja MN, Sutkin G, Paschal
+    S.
+
+    ACM BCB. 2025 Oct;2025:16. doi: 10.1145/3765612.3767222. Epub 2025
+    Dec 10.
+
+    > HAI incidence arises from complex interactions among healthcare
+    > workers, patients, and contaminated medical equipment. Agent-based
+    > modeling (ABM) is a well-known tool for simulating HAI dynamics,
+    > but existing ABM solutions have limited efficacy because of the …
+
+6.  [**Dirichlet-Swing: understanding spatio-temporal aspects of
+    political elections in heterogeneous societies through agent-based
+    simulation.**](https://pubmed.ncbi.nlm.nih.gov/41843635/)
+
+    Mitra A.
+
+    PLoS One. 2026 Mar 17;21(3):e0344018. doi:
+    10.1371/journal.pone.0344018. eCollection 2026.
+
+    > The aim of this paper is to explore how electoral outcomes are
+    > influenced by the geographical distribution of voters and
+    > community-centric voting preferences. We consider agent-based
+    > modeling of voters along with their locations, community
+    > memberships and vot …
+
+7.  [**Cellular Snowballing: Cell Adhesion and Migration Drive the
+    Self-Assembly of Cell-Microgel Biohybrid
+    Spheroids.**](https://pubmed.ncbi.nlm.nih.gov/41841213/)
+
+    Ataie Z, Kheirabadi S, Li C, Risbud A, Sebastian A, Albert I, Zhang
+    S, Sheikhi A.
+
+    Adv Sci (Weinh). 2026 Mar 17:e11302. doi: 10.1002/advs.202511302.
     Online ahead of print.
 
-    > Over the last couple of decades, diverse approaches, such as
-    > agent-based models, Cellular Potts frameworks, Petri nets,
-    > continuum theories, and phenomenological models, have been
-    > developed to capture distinct aspects of PCP dynamics. …By
-    > bridging exp …
+    > Creating three-dimensional (3D) tissue models using cell spheroids
+    > that recapitulate the complicated structures and functions of
+    > human tissues is essential for advancing new approach
+    > methodologies used in drug testing/screening, disease modeling,
+    > and regenerative me …
 
-4.  [**Dynamics of infectious disease transmission in heterogeneous
-    networks considering population interaction
-    mechanism.**](https://pubmed.ncbi.nlm.nih.gov/41801057/)
+8.  [**Live and let die: Lysis time variability and resource limitation
+    shape lytic bacteriophage
+    fitness.**](https://pubmed.ncbi.nlm.nih.gov/41838749/)
 
-    Zhu J, Jin Z, Meng X, Yin Z, Wang N.
+    Smith A, Hunter M, Bakshi S, Fusco D.
 
-    Chaos. 2026 Mar 1;36(3):033118. doi: 10.1063/5.0310925.
+    PLoS Comput Biol. 2026 Mar 16;22(3):e1013340. doi:
+    10.1371/journal.pcbi.1013340. eCollection 2026 Mar.
 
-    > The basic reproduction number is obtained analytically through the
-    > next-generation matrix method, with the stability of disease-free
-    > and endemic equilibria rigorously proved. Agent-based simulations
-    > and multi-scenario experiments are conducted to examine how
-    > network …
+    > Recent experiments suggest that bacteriophage life history
+    > parameters are subject to considerable stochasticity, raising the
+    > question of whether experimental and modelling efforts that do not
+    > account for this variability may overlook important factors in
+    > phage’s behaviour, …
 
-5.  [**An Agent-Based Model for Simulating Flood Governance and
-    Community Resilience.**](https://pubmed.ncbi.nlm.nih.gov/41799826/)
+9.  [**An Agent-Based Modeling Dynamic Hybrid Model for Project
+    Management in Research and
+    Development.**](https://pubmed.ncbi.nlm.nih.gov/41835082/)
 
-    Zhu A, Feng W, Zheng H, Huang Y, He X, Zhou C, Yang LE.
+    Pessoa RWS, Hahn Naess M, Bijos JC, Rebello CM, Colombo D, Schnitman
+    L, Nogueira IBR.
 
-    MethodsX. 2026 Feb 13;16:103820. doi: 10.1016/j.mex.2026.103820.
-    eCollection 2026 Jun.
+    Ind Eng Chem Res. 2026 Feb 26;65(9):5259-5278. doi:
+    10.1021/acs.iecr.5c04351. eCollection 2026 Mar 11.
 
-    > Agent-based modeling (ABM) is a unique tool for understanding
-    > social mechanisms and emergent phenomena. The paper presents an
-    > empirically grounded agent-based model that simulates how
-    > stakeholders embedded in flood governance networks fac …
+    > This paper presents a hybrid approach to predict the evolution of
+    > technological maturity of R&D projects, using the context of the
+    > oil and gas (O&G) sector as an example. Integrating System
+    > Dynamics (SD) and Agent-based Modeling (ABM) enables the prop …
 
-6.  [**Demand-Side Management for a Decentralised and Equitable Energy
-    Transition in Aotearoa New
-    Zealand.**](https://pubmed.ncbi.nlm.nih.gov/41798786/)
+10. [**When and Why Hyperbolic Discounting Matters for Reinforcement
+    Learning
+    Interventions.**](https://pubmed.ncbi.nlm.nih.gov/41835019/)
 
-    Kamana-Williams B, Hooper RJ, Cerdeira AE, Chase JG.
+    Moore IM, Nofshin E, Swaroop S, Murphy S, Doshi-Velez F, Pan W.
 
-    J R Soc N Z. 2026 Feb 15;56(1):e70006. doi: 10.1002/snz2.70006.
-    eCollection 2026 Feb.
+    Reinf Learn J. 2025 Aug;6:690-712.
 
-    > This paper highlights key considerations for this transition,
-    > informed by recent, validated agent-based modelling research
-    > targeted at residential consumers, which should inform policy: (i)
-    > behavioural dynamics, (ii) electricity pricing structures, (iii)
-    > soci …
-
-7.  [**The effect of sleep-wake behaviors on the onset of mania in
-    youth: a computational
-    model.**](https://pubmed.ncbi.nlm.nih.gov/41797605/)
-
-    Glavatskiy K, Hickie IB, Crouse JJ, Capon W, Prodan A, Scott J,
-    Merikangas K, Carpenter JS, Varidel M, Scott EM, Iorfino F.
-
-    Eur Psychiatry. 2026 Mar 9:1-27. doi: 10.1192/j.eurpsy.2026.10180.
-    Online ahead of print.
-
-8.  [**Combining an agent-based model with Gaussian process emulation to
-    model the emergence of the SARS-CoV-2 Omicron variant in
-    Norway.**](https://pubmed.ncbi.nlm.nih.gov/41793879/)
-
-    Palomares AD, de Blasio BF, Chan LYH, Di Ruscio F, Midtbø JE.
-
-    Epidemics. 2026 Feb 17;54:100895. doi: 10.1016/j.epidem.2026.100895.
-    Online ahead of print.
-
-    > Agent-based models (ABMs) are powerful for simulating detailed
-    > infectious disease dynamics, but they are computationally
-    > intensive, limiting parameter inference. …We estimate that around
-    > 60% of the Norwegian population was infected with Omicron
-    > BA.1/BA.2 du …
-
-9.  [**Adapting Sexual Behavior Survey Data to Parameterize an
-    Agent-Based Model of Human Papillomavirus (HPV)
-    Transmission.**](https://pubmed.ncbi.nlm.nih.gov/41792911/)
-
-    Spencer JC, Burger EA, Portnoy A, Campos NG, Regan MC, Sy S, Kim JJ.
-
-    Med Decis Making. 2026 Mar 6:272989X261425681. doi:
-    10.1177/0272989X261425681. Online ahead of print.
-
-    > Partnership data were incorporated into an existing agent-based
-    > model of HPV transmission in the United States. We calibrated 1)
-    > per-partnership HPV transmission and 2) reduced risk of
-    > type-specific reinfection from natural immunity to fit age- and
-    > type-speci …
-
-10. [**AI-simulated clinical consultations: Assessing the potential of
-    ChatGPT to support medical
-    training.**](https://pubmed.ncbi.nlm.nih.gov/41791854/)
-
-    Saggar A, Dimitrova V, Sarikaya D, Hogg D, Darling JC.
-
-    Arch Dis Child. 2026 Mar 6:archdischild-2025-329846. doi:
-    10.1136/archdischild-2025-329846. Online ahead of print.
-
-    > BACKGROUND: Simulated medical scenarios are useful for evaluating
-    > and developing clinical competencies but scheduling them is
-    > expensive and time-consuming. Large language models show promise
-    > in role-playing tasks. We investigated the fidelity with which
-    > ChatGPT can mimic p …
+    > In settings where an AI agent nudges a human agent toward a goal,
+    > the quality of the AI’s policy depends on how well it models the
+    > human. Despite behavioral evidence that humans hyperbolically
+    > discount future rewards, the RL community continues to model
+    > humans as Ma …
 
 ## Code of Conduct
 
