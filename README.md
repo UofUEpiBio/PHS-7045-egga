@@ -9,163 +9,157 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-03-22 00:10:41.
+update was on 2026-03-29 00:12:47.
 
 <div class="cell">
 
 </div>
 
-1.  [**Exploring pathway scenarios for future urban water resilience
-    using systems approach coupled with an agent-based model operated on
-    synthetic social-policy
-    networks.**](https://pubmed.ncbi.nlm.nih.gov/41861563/)
+1.  [**A Mechanistic Digital Twin of uPAR-Driven Prostate Cancer
+    Invasion Integrating ODE Signalling and Agent-Based
+    Modelling.**](https://pubmed.ncbi.nlm.nih.gov/41901243/)
 
-    Muthuvel D, Qin X, Maroufpoor S.
+    Dzik R, Chwał J, Tkacz EJ, Roy S, Kabała-Dzik A.
 
-    Water Res. 2026 Mar 12;297:125726. doi:
-    10.1016/j.watres.2026.125726. Online ahead of print.
+    Pharmaceuticals (Basel). 2026 Feb 28;19(3):395. doi:
+    10.3390/ph19030395.
 
-    > This study develops a hybrid system dynamics model coupled with an
-    > agent-based model, operating on synthetic social-policy networks,
-    > to project future scenarios for water supply and demand dynamics
-    > in Singapore. …Second, per capita demand reduction p …
+    > Methods: In this study, we developed a multiscale in silico
+    > framework combining molecular docking, mechanistic ordinary
+    > differential equation (ODE) modelling, and agent-based modelling
+    > (ABM) to investigate uPAR-driven invasion dynamics. Results:
+    > Molecu …
 
-2.  [**Overcoming vascular niche-mediated TKI resistance in acute
-    myeloid leukemia through miR-126
-    inhibition.**](https://pubmed.ncbi.nlm.nih.gov/41857060/)
+2.  [**Network topology and recovery delay thresholds determine
+    cascading failure vulnerability in sports
+    systems.**](https://pubmed.ncbi.nlm.nih.gov/41896635/)
 
-    Froid M, Branciamore S, Chen Z, Frankhouser D, Fu YH, Ambriz JR,
-    Nguyen LXT, Irizarry J, Kuo YH, O’Meally D, Zhang B, Marcucci G,
-    Rockne R, Basanta D.
+    Park C.
 
-    NPJ Syst Biol Appl. 2026 Mar 19;12(1):38. doi:
-    10.1038/s41540-026-00675-6.
+    Sci Rep. 2026 Mar 27. doi: 10.1038/s41598-026-45805-6. Online ahead
+    of print.
 
-    > To explore this dynamic, we developed an agent-based computational
-    > model of the AML bone marrow microenvironment, parameterized with
-    > in vitro and in vivo data. The model captures vascular niche
-    > remodeling and feedback between leukemic populations and e …
+3.  [**Investigating the Impact of Adipose Derived Media on Ovarian
+    Cancer: Insights from a 3D in-silico
+    model.**](https://pubmed.ncbi.nlm.nih.gov/41887500/)
 
-3.  [**An artificial intelligence approach to support adolescent suicide
-    prevention initiatives in the United
-    States.**](https://pubmed.ncbi.nlm.nih.gov/41855728/)
+    Oliver S, Williams M, Howard D, Gonzalez D, Powathil G.
 
-    Liang L, Schuerkamp R, Rice KL, Brown MM, Nataraj N, Mendoza-Alonzo
-    J, Florence C, Page A, Harper CR, Maldonado B, Moran B, Giabbanelli
-    PJ.
-
-    Artif Intell Med. 2026 Mar 14;176:103411. doi:
-    10.1016/j.artmed.2026.103411. Online ahead of print.
-
-    > This study presents the design of a novel agent-based model (ABM)
-    > created to simulate the progression of suicidal behaviors among
-    > U.S. adolescents ages 12-19 years and evaluate the effectiveness
-    > of suicide prevention strategies. …The transparent, data-drive …
-
-4.  [**Effects of Multi-Phase Control Mechanism on Fibroblast Dynamics:
-    A Segmented Mathematical Modeling
-    Approach.**](https://pubmed.ncbi.nlm.nih.gov/41848986/)
-
-    Fan S, Zhang Y, Lei J.
-
-    Bull Math Biol. 2026 Mar 18;88(4):59. doi:
-    10.1007/s11538-026-01607-5.
-
-    > In this study, we develop a segmented mathematical framework to
-    > investigate how different control mechanisms operating across
-    > multiple phases of the cell cycle affect fibroblast population
-    > dynamics. Building on our previous work modeling sizer, timer, and
-    > adder strategies, …
-
-5.  [**Enhancing Agent-Based Models with Real-Time Movement Data to
-    Assess Impacts of Biosecurity Interventions on Disease Exposure in
-    Healthcare Settings.**](https://pubmed.ncbi.nlm.nih.gov/41847591/)
-
-    Thota RC, Uddin MYS, Bani-Yaghoub M, Abourraja MN, Sutkin G, Paschal
-    S.
-
-    ACM BCB. 2025 Oct;2025:16. doi: 10.1145/3765612.3767222. Epub 2025
-    Dec 10.
-
-    > HAI incidence arises from complex interactions among healthcare
-    > workers, patients, and contaminated medical equipment. Agent-based
-    > modeling (ABM) is a well-known tool for simulating HAI dynamics,
-    > but existing ABM solutions have limited efficacy because of the …
-
-6.  [**Dirichlet-Swing: understanding spatio-temporal aspects of
-    political elections in heterogeneous societies through agent-based
-    simulation.**](https://pubmed.ncbi.nlm.nih.gov/41843635/)
-
-    Mitra A.
-
-    PLoS One. 2026 Mar 17;21(3):e0344018. doi:
-    10.1371/journal.pone.0344018. eCollection 2026.
-
-    > The aim of this paper is to explore how electoral outcomes are
-    > influenced by the geographical distribution of voters and
-    > community-centric voting preferences. We consider agent-based
-    > modeling of voters along with their locations, community
-    > memberships and vot …
-
-7.  [**Cellular Snowballing: Cell Adhesion and Migration Drive the
-    Self-Assembly of Cell-Microgel Biohybrid
-    Spheroids.**](https://pubmed.ncbi.nlm.nih.gov/41841213/)
-
-    Ataie Z, Kheirabadi S, Li C, Risbud A, Sebastian A, Albert I, Zhang
-    S, Sheikhi A.
-
-    Adv Sci (Weinh). 2026 Mar 17:e11302. doi: 10.1002/advs.202511302.
+    Math Biosci. 2026 Mar 24:109683. doi: 10.1016/j.mbs.2026.109683.
     Online ahead of print.
 
-    > Creating three-dimensional (3D) tissue models using cell spheroids
-    > that recapitulate the complicated structures and functions of
-    > human tissues is essential for advancing new approach
-    > methodologies used in drug testing/screening, disease modeling,
-    > and regenerative me …
+    > In this study, we develop a mathematical model to investigate the
+    > role that adipocytes found in adipose tissue can have in ovarian
+    > cancer progression. Observations of biological experiments from
+    > two ovarian cancer cell lines \[6\] create foundations to build a
+    > multiscale …
 
-8.  [**Live and let die: Lysis time variability and resource limitation
-    shape lytic bacteriophage
-    fitness.**](https://pubmed.ncbi.nlm.nih.gov/41838749/)
+4.  [**VIBES: A multiscale modeling approach integrating within-host and
+    between-hosts dynamics in
+    epidemics.**](https://pubmed.ncbi.nlm.nih.gov/41886375/)
 
-    Smith A, Hunter M, Bakshi S, Fusco D.
+    Ventura PC, Dam Jeong Y, Litvinova M, Kummer AG, Iwami S, Yu H,
+    Merler S, Vespignani A, Ejima K, Ajelli M.
 
-    PLoS Comput Biol. 2026 Mar 16;22(3):e1013340. doi:
-    10.1371/journal.pcbi.1013340. eCollection 2026 Mar.
+    Proc Natl Acad Sci U S A. 2026 Mar 31;123(13):e2523055123. doi:
+    10.1073/pnas.2523055123. Epub 2026 Mar 26.
 
-    > Recent experiments suggest that bacteriophage life history
-    > parameters are subject to considerable stochasticity, raising the
-    > question of whether experimental and modelling efforts that do not
-    > account for this variability may overlook important factors in
-    > phage’s behaviour, …
+    > Here, we introduce VIBES, a multiscale modeling framework that
+    > explicitly integrates viral dynamics based on patient-level data
+    > with population-level transmission on a data-driven network of
+    > social contacts. …First, we established a purely biological
+    > baseline, thus indep …
 
-9.  [**An Agent-Based Modeling Dynamic Hybrid Model for Project
-    Management in Research and
-    Development.**](https://pubmed.ncbi.nlm.nih.gov/41835082/)
+5.  [**Statewide agent-based model for management of chronic wasting
+    disease in white-tailed deer:
+    PAOvCWD.**](https://pubmed.ncbi.nlm.nih.gov/41884661/)
 
-    Pessoa RWS, Hahn Naess M, Bijos JC, Rebello CM, Colombo D, Schnitman
-    L, Nogueira IBR.
+    Wehr NH, Rosenberry CS, Stainbrook D, Staats M, Korman AL, Walter
+    WD.
 
-    Ind Eng Chem Res. 2026 Feb 26;65(9):5259-5278. doi:
-    10.1021/acs.iecr.5c04351. eCollection 2026 Mar 11.
+    MethodsX. 2026 Feb 17;16:103823. doi: 10.1016/j.mex.2026.103823.
+    eCollection 2026 Jun.
 
-    > This paper presents a hybrid approach to predict the evolution of
-    > technological maturity of R&D projects, using the context of the
-    > oil and gas (O&G) sector as an example. Integrating System
-    > Dynamics (SD) and Agent-based Modeling (ABM) enables the prop …
+    > Ecologically and economically important, CWD presents a challenge
+    > for managing white-tailed deer (Odocoileus virginianus). We built
+    > an agent-based model to simulate CWD transmission and assess
+    > potential management actions that could slow disease spread: PAOvC
+    > …
 
-10. [**When and Why Hyperbolic Discounting Matters for Reinforcement
-    Learning
-    Interventions.**](https://pubmed.ncbi.nlm.nih.gov/41835019/)
+6.  [**Integrating viral kinetics and population spread in a one health
+    framework to explain variant-specific epidemic
+    dynamics.**](https://pubmed.ncbi.nlm.nih.gov/41883809/)
 
-    Moore IM, Nofshin E, Swaroop S, Murphy S, Doshi-Velez F, Pan W.
+    Lee H, Kim BN, Lee S.
 
-    Reinf Learn J. 2025 Aug;6:690-712.
+    One Health. 2026 Mar 17;22:101389. doi:
+    10.1016/j.onehlt.2026.101389. eCollection 2026 Jun.
 
-    > In settings where an AI agent nudges a human agent toward a goal,
-    > the quality of the AI’s policy depends on how well it models the
-    > human. Despite behavioral evidence that humans hyperbolically
-    > discount future rewards, the RL community continues to model
-    > humans as Ma …
+    > The COVID-19 pandemic underscored the importance of modeling
+    > frameworks that integrate biological mechanisms with heterogeneous
+    > social contact patterns to accurately characterize
+    > variant-specific transmission. …We introduce a multi-scale
+    > agent-based mode …
+
+7.  [**Generative AI for climate governance and
+    acceptability-constrained policy
+    design.**](https://pubmed.ncbi.nlm.nih.gov/41883750/)
+
+    Manivannan A, Spaiser V, Cann TJB, Evans J, Everall JP, Falkenberg
+    M, Garcia D, Guo W, Herzog R, Otto IM, Oswald Y, Pagan N, Pellert M,
+    Pilgrim C, Rodriguez-Pardo C, Sen I, Vezhnevets AS.
+
+    NPJ Clim Action. 2026;5(1):37. doi: 10.1038/s44168-026-00362-6. Epub
+    2026 Mar 24.
+
+    > We propose Acceptability-Constrained Climate Policy Design
+    > (ACCPD), using large language models as “cultural world models” to
+    > simulate public responses before implementation. By embedding LLMs
+    > in generative agent-based models and physical system …
+
+8.  [**Evaluating the biomedical and behavioral drivers of HIV incidence
+    decline in adolescent girls and young women in Uganda: A
+    mathematical modeling
+    study.**](https://pubmed.ncbi.nlm.nih.gov/41880347/)
+
+    Akullian A, Ssempijja V, Breidenbecker D, Nalugoda F, Nakigozi G,
+    Santelli J, Kreniske P, Chang LW, Reynolds SJ, Ssekubugu R, Gray RH,
+    Wawer MJ, Quinn TC, Galiwango RM, Probert WJM, Imai-Eaton JW,
+    Ratmann O, Fraser C, Kagaayi J, Kigozi G, Grabowski MK, Serwadda D.
+
+    PLoS Med. 2026 Mar 25;23(3):e1004993. doi:
+    10.1371/journal.pmed.1004993. Online ahead of print.
+
+    > METHODS AND FINDINGS: We conducted a mathematical modeling study
+    > using data from the Rakai Community Cohort Study (RCCS), an open,
+    > population-based cohort of adults aged 15-49 years in 30
+    > communities in Rakai, Uganda. We used an agent-based HIV-1
+    > transmission …
+
+9.  [**Correction: Agent-based modelling of Mycobacterium tuberculosis
+    transmission: a systematic
+    review.**](https://pubmed.ncbi.nlm.nih.gov/41877082/)
+
+    Bui VL, Hughes AE, Ragonnet R, Meehan MT, Henderson A, McBryde ES,
+    Trauer JM.
+
+    BMC Infect Dis. 2026 Mar 24;26(1):613. doi:
+    10.1186/s12879-026-13026-x.
+
+10. [**Slow and fast dispersers competing in heterogeneous landscapes: a
+    comparative study of modeling
+    perspectives.**](https://pubmed.ncbi.nlm.nih.gov/41876002/)
+
+    Lu Y, Lichstein JW, Khare SB, Holt RD, Yurek S, DeAngelis DL.
+
+    J Theor Biol. 2026 Mar 22:112448. doi: 10.1016/j.jtbi.2026.112448.
+    Online ahead of print.
+
+    > We revisit this result by comparing three models for two competing
+    > species on two patches that differ in growth rates and carrying
+    > capacities: a traditional state variable Lotka-Volterra (LV) model
+    > of simple movement between patches at rates proportional to
+    > populati …
 
 ## Code of Conduct
 
