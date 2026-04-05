@@ -9,157 +9,153 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-03-29 00:12:47.
+update was on 2026-04-05 00:13:00.
 
 <div class="cell">
 
 </div>
 
-1.  [**A Mechanistic Digital Twin of uPAR-Driven Prostate Cancer
-    Invasion Integrating ODE Signalling and Agent-Based
-    Modelling.**](https://pubmed.ncbi.nlm.nih.gov/41901243/)
+1.  [**Agent-based simulation for multi-resource-constrained scheduling
+    of scattered atypical repetitive
+    projects.**](https://pubmed.ncbi.nlm.nih.gov/41933030/)
 
-    Dzik R, Chwał J, Tkacz EJ, Roy S, Kabała-Dzik A.
+    Sultan RA, Hamdy K, Essawy YAS.
 
-    Pharmaceuticals (Basel). 2026 Feb 28;19(3):395. doi:
-    10.3390/ph19030395.
-
-    > Methods: In this study, we developed a multiscale in silico
-    > framework combining molecular docking, mechanistic ordinary
-    > differential equation (ODE) modelling, and agent-based modelling
-    > (ABM) to investigate uPAR-driven invasion dynamics. Results:
-    > Molecu …
-
-2.  [**Network topology and recovery delay thresholds determine
-    cascading failure vulnerability in sports
-    systems.**](https://pubmed.ncbi.nlm.nih.gov/41896635/)
-
-    Park C.
-
-    Sci Rep. 2026 Mar 27. doi: 10.1038/s41598-026-45805-6. Online ahead
+    Sci Rep. 2026 Apr 3. doi: 10.1038/s41598-026-42832-1. Online ahead
     of print.
 
-3.  [**Investigating the Impact of Adipose Derived Media on Ovarian
-    Cancer: Insights from a 3D in-silico
-    model.**](https://pubmed.ncbi.nlm.nih.gov/41887500/)
+    > This study proposes a simulation-optimization framework
+    > implemented in AnyLogic that integrates GIS-enabled agent-based
+    > modeling, stochastic simulation, and a GA-based optimization
+    > experiment to enable exploration of multi-resource-constrained
+    > scheduling deci …
 
-    Oliver S, Williams M, Howard D, Gonzalez D, Powathil G.
+2.  [**Diagnostic Accuracy of Large Language Models for Rare Diseases: A
+    Systematic Review and
+    Meta-Analysis.**](https://pubmed.ncbi.nlm.nih.gov/41929304/)
 
-    Math Biosci. 2026 Mar 24:109683. doi: 10.1016/j.mbs.2026.109683.
-    Online ahead of print.
+    Nguyen MH, Yang CT, Cassini TA, Ma F, Hamid R, Bastarache L,
+    Peterson JF, Xu H, Li L, Ma S, Shyr C.
 
-    > In this study, we develop a mathematical model to investigate the
-    > role that adipocytes found in adipose tissue can have in ovarian
-    > cancer progression. Observations of biological experiments from
-    > two ovarian cancer cell lines \[6\] create foundations to build a
-    > multiscale …
+    medRxiv \[Preprint\]. 2026 Mar 27:2026.03.26.26349194. doi:
+    10.64898/2026.03.26.26349194.
 
-4.  [**VIBES: A multiscale modeling approach integrating within-host and
-    between-hosts dynamics in
-    epidemics.**](https://pubmed.ncbi.nlm.nih.gov/41886375/)
+    > BACKGROUND: Large language models (LLMs) have been evaluated as
+    > tools to assist rare disease diagnosis, yet evidence on their
+    > accuracy remains fragmented. …The pooled R@1 was 43.3% (95% CI
+    > 35.1-51.6; I (2) =99.6%). Augmented LLM systems (agent-based
+    > reasoni …
 
-    Ventura PC, Dam Jeong Y, Litvinova M, Kummer AG, Iwami S, Yu H,
-    Merler S, Vespignani A, Ejima K, Ajelli M.
+3.  [**Agent-Based Modeling of Idiopathic Lung Fibrosis and Mechanistic
+    Treatments.**](https://pubmed.ncbi.nlm.nih.gov/41929198/)
 
-    Proc Natl Acad Sci U S A. 2026 Mar 31;123(13):e2523055123. doi:
-    10.1073/pnas.2523055123. Epub 2026 Mar 26.
+    Gunputh ND, Kilikian E, Miranda CA, Peirce SM, Ford Versypt AN.
 
-    > Here, we introduce VIBES, a multiscale modeling framework that
-    > explicitly integrates viral dynamics based on patient-level data
-    > with population-level transmission on a data-driven network of
-    > social contacts. …First, we established a purely biological
-    > baseline, thus indep …
+    bioRxiv \[Preprint\]. 2026 Mar 25:2026.03.22.713503. doi:
+    10.64898/2026.03.22.713503.
 
-5.  [**Statewide agent-based model for management of chronic wasting
-    disease in white-tailed deer:
-    PAOvCWD.**](https://pubmed.ncbi.nlm.nih.gov/41884661/)
-
-    Wehr NH, Rosenberry CS, Stainbrook D, Staats M, Korman AL, Walter
-    WD.
-
-    MethodsX. 2026 Feb 17;16:103823. doi: 10.1016/j.mex.2026.103823.
-    eCollection 2026 Jun.
-
-    > Ecologically and economically important, CWD presents a challenge
-    > for managing white-tailed deer (Odocoileus virginianus). We built
-    > an agent-based model to simulate CWD transmission and assess
-    > potential management actions that could slow disease spread: PAOvC
+    > Agent-based modeling (ABM) is a computational method for
+    > predicting the emergent outcomes of interacting, autonomous
+    > individuals in a complex system. …The ABM and the analysis files
+    > are shared to facilitate model reuse. By integrating computational
     > …
 
-6.  [**Integrating viral kinetics and population spread in a one health
-    framework to explain variant-specific epidemic
-    dynamics.**](https://pubmed.ncbi.nlm.nih.gov/41883809/)
+4.  [**A distributed socio-hydrological framework for integrating
+    perception and groundwater dynamics in farmers’ crop choice
+    modeling.**](https://pubmed.ncbi.nlm.nih.gov/41922602/)
 
-    Lee H, Kim BN, Lee S.
+    Soleimanzadeh Z, Ahmadi A.
 
-    One Health. 2026 Mar 17;22:101389. doi:
-    10.1016/j.onehlt.2026.101389. eCollection 2026 Jun.
+    Sci Rep. 2026 Apr 1. doi: 10.1038/s41598-026-44157-5. Online ahead
+    of print.
 
-    > The COVID-19 pandemic underscored the importance of modeling
-    > frameworks that integrate biological mechanisms with heterogeneous
-    > social contact patterns to accurately characterize
-    > variant-specific transmission. …We introduce a multi-scale
-    > agent-based mode …
+5.  [**Free information disrupts even Bayesian
+    crowds.**](https://pubmed.ncbi.nlm.nih.gov/41920872/)
 
-7.  [**Generative AI for climate governance and
-    acceptability-constrained policy
-    design.**](https://pubmed.ncbi.nlm.nih.gov/41883750/)
+    Stein J, Cruz S, Grossi D, Testori M.
 
-    Manivannan A, Spaiser V, Cann TJB, Evans J, Everall JP, Falkenberg
-    M, Garcia D, Guo W, Herzog R, Otto IM, Oswald Y, Pagan N, Pellert M,
-    Pilgrim C, Rodriguez-Pardo C, Sen I, Vezhnevets AS.
+    Proc Natl Acad Sci U S A. 2026 Apr 7;123(14):e2518472123. doi:
+    10.1073/pnas.2518472123. Epub 2026 Apr 1.
 
-    NPJ Clim Action. 2026;5(1):37. doi: 10.1038/s44168-026-00362-6. Epub
-    2026 Mar 24.
+    > A core tenet underpinning the conception of contemporary
+    > information networks, such as social media platforms, is that
+    > users should not be constrained in the amount of information they
+    > can freely and willingly exchange with one another about a given
+    > topic. By means of a computati …
 
-    > We propose Acceptability-Constrained Climate Policy Design
-    > (ACCPD), using large language models as “cultural world models” to
-    > simulate public responses before implementation. By embedding LLMs
-    > in generative agent-based models and physical system …
+6.  [**Channel Allocation and Equity in Preventive Campaigns for Older
+    Adults: Agent-Based Modeling
+    Study.**](https://pubmed.ncbi.nlm.nih.gov/41920588/)
 
-8.  [**Evaluating the biomedical and behavioral drivers of HIV incidence
-    decline in adolescent girls and young women in Uganda: A
-    mathematical modeling
-    study.**](https://pubmed.ncbi.nlm.nih.gov/41880347/)
+    Lee J, Park J, Kim Y, Kong DJ.
 
-    Akullian A, Ssempijja V, Breidenbecker D, Nalugoda F, Nakigozi G,
-    Santelli J, Kreniske P, Chang LW, Reynolds SJ, Ssekubugu R, Gray RH,
-    Wawer MJ, Quinn TC, Galiwango RM, Probert WJM, Imai-Eaton JW,
-    Ratmann O, Fraser C, Kagaayi J, Kigozi G, Grabowski MK, Serwadda D.
+    J Med Internet Res. 2026 Apr 1;28:e88429. doi: 10.2196/88429.
 
-    PLoS Med. 2026 Mar 25;23(3):e1004993. doi:
-    10.1371/journal.pmed.1004993. Online ahead of print.
+    > OBJECTIVE: This study aimed to develop and apply a data-driven
+    > agent-based model as a strategic planning tool for preventive
+    > campaigns targeting older adults, comparing channel allocation,
+    > personalization, and loss framing options under explicit budget
+    > and eq …
 
-    > METHODS AND FINDINGS: We conducted a mathematical modeling study
-    > using data from the Rakai Community Cohort Study (RCCS), an open,
-    > population-based cohort of adults aged 15-49 years in 30
-    > communities in Rakai, Uganda. We used an agent-based HIV-1
-    > transmission …
+7.  [**Modeling tumor transport and growth with poroelastic biopolymer
+    networks.**](https://pubmed.ncbi.nlm.nih.gov/41919661/)
 
-9.  [**Correction: Agent-based modelling of Mycobacterium tuberculosis
-    transmission: a systematic
-    review.**](https://pubmed.ncbi.nlm.nih.gov/41877082/)
+    Li Z, Ren Y, Kemkar S, Mollenkopf P, Kochanowski J, Janmey PA,
+    Purohit PK, Radhakrishnan R, Vining KH.
 
-    Bui VL, Hughes AE, Ragonnet R, Meehan MT, Henderson A, McBryde ES,
-    Trauer JM.
+    Soft Matter. 2026 Apr 1. doi: 10.1039/d6sm00060f. Online ahead of
+    print.
 
-    BMC Infect Dis. 2026 Mar 24;26(1):613. doi:
-    10.1186/s12879-026-13026-x.
+    > The mechanical properties of the extracellular matrix (ECM)
+    > regulate tumor growth and invasion in the tumor microenvironment.
+    > Models of biopolymer networks have been used to investigate the
+    > impact of elasticity and viscoelasticity of the ECM on tumor
+    > behavior. …This fram …
 
-10. [**Slow and fast dispersers competing in heterogeneous landscapes: a
-    comparative study of modeling
-    perspectives.**](https://pubmed.ncbi.nlm.nih.gov/41876002/)
+8.  [**Optimization of infectious disease intervention measures using
+    reinforcement learning with UK COVID-19 epidemic
+    data.**](https://pubmed.ncbi.nlm.nih.gov/41917056/)
 
-    Lu Y, Lichstein JW, Khare SB, Holt RD, Yurek S, DeAngelis DL.
+    Zhang B, Chen Y, Li H, Zu Z.
 
-    J Theor Biol. 2026 Mar 22:112448. doi: 10.1016/j.jtbi.2026.112448.
-    Online ahead of print.
+    Sci Rep. 2026 Mar 31;16(1):10627. doi: 10.1038/s41598-026-39377-8.
 
-    > We revisit this result by comparing three models for two competing
-    > species on two patches that differ in growth rates and carrying
-    > capacities: a traditional state variable Lotka-Volterra (LV) model
-    > of simple movement between patches at rates proportional to
-    > populati …
+    > We establish a decision-making framework based on an individual
+    > agent-based transmission model, utilizing reinforcement learning
+    > to continuously explore and develop a strategy function. The
+    > framework’s validity is verified through both experimental and
+    > theore …
+
+9.  [**Multiscale modeling of the spatial structure of stem cells in
+    neuroblastoma patient-derived tumoroids reveals a critical role for
+    a short-range diffusive
+    process.**](https://pubmed.ncbi.nlm.nih.gov/41915691/)
+
+    Nguyen TNT, Koering C, Vallin E, Gonin-Giraud S, Broutier L, Bernard
+    S, Crauste F, Gandrillon O.
+
+    PLoS Comput Biol. 2026 Mar 31;22(3):e1014137. doi:
+    10.1371/journal.pcbi.1014137. Online ahead of print.
+
+    > In order to better understand the set of rules needed for
+    > generating such structures, we implemented a multiscale
+    > agent-based neuroblastoma tumoroid model. Model rules specify
+    > single cell’s fate based on their intracellular content, which
+    > dynamically e …
+
+10. [**Virtual cell/virtual cell like: The key to unlocking a new era of
+    HIV/AIDS treatment ?**](https://pubmed.ncbi.nlm.nih.gov/41912072/)
+
+    Du Q, Wang M, Zhuang Y, Gu Q, Qi W.
+
+    Microb Pathog. 2026 Mar 28;215:108459. doi:
+    10.1016/j.micpath.2026.108459. Online ahead of print.
+
+    > By reviewing existing literature and research findings, we find
+    > that while the term “Virtual Cell” has not been widely and
+    > standardized applied in Human Immunodeficiency Virus (HIV)
+    > research, its core concept simulating HIV infection, immune
+    > responses, and therapeutic interventio …
 
 ## Code of Conduct
 
