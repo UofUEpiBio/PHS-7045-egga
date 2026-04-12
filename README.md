@@ -9,153 +9,160 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-04-05 00:13:00.
+update was on 2026-04-12 00:15:08.
 
 <div class="cell">
 
 </div>
 
-1.  [**Agent-based simulation for multi-resource-constrained scheduling
-    of scattered atypical repetitive
-    projects.**](https://pubmed.ncbi.nlm.nih.gov/41933030/)
+1.  [**Automated extraction and optimization of protein purification
+    protocols using multi-agent large language
+    models.**](https://pubmed.ncbi.nlm.nih.gov/41959417/)
 
-    Sultan RA, Hamdy K, Essawy YAS.
+    Ye J, DeRocher A, Khim M, Subramanian S, Cron L, Myler PJ, Phan IQ.
 
-    Sci Rep. 2026 Apr 3. doi: 10.1038/s41598-026-42832-1. Online ahead
-    of print.
+    bioRxiv \[Preprint\]. 2026 Mar 11:2026.03.03.709341. doi:
+    10.64898/2026.03.03.709341.
 
-    > This study proposes a simulation-optimization framework
-    > implemented in AnyLogic that integrates GIS-enabled agent-based
-    > modeling, stochastic simulation, and a GA-based optimization
-    > experiment to enable exploration of multi-resource-constrained
-    > scheduling deci …
+    > Recent advances in Large Language Models (LLMs) present new
+    > opportunities for automating critical bottlenecks in scientific
+    > workflows such as literature reviews or protocol design. …While
+    > this system reduces complex analysis time from hours to minutes,
+    > we identify the la …
 
-2.  [**Diagnostic Accuracy of Large Language Models for Rare Diseases: A
-    Systematic Review and
-    Meta-Analysis.**](https://pubmed.ncbi.nlm.nih.gov/41929304/)
+2.  [**Tumor-immune trajectory context connects static tissue
+    architecture to clinical
+    outcomes.**](https://pubmed.ncbi.nlm.nih.gov/41959335/)
 
-    Nguyen MH, Yang CT, Cassini TA, Ma F, Hamid R, Bastarache L,
-    Peterson JF, Xu H, Li L, Ma S, Shyr C.
+    Cramer EM, Heiland R, da Rocha HL, Bergman DR, Gray JW, Mills GB,
+    Fertig EJ, Macklin P, Heiser LM, Chang YH.
 
-    medRxiv \[Preprint\]. 2026 Mar 27:2026.03.26.26349194. doi:
-    10.64898/2026.03.26.26349194.
+    bioRxiv \[Preprint\]. 2026 Apr 2:2026.03.26.714521. doi:
+    10.64898/2026.03.26.714521.
 
-    > BACKGROUND: Large language models (LLMs) have been evaluated as
-    > tools to assist rare disease diagnosis, yet evidence on their
-    > accuracy remains fragmented. …The pooled R@1 was 43.3% (95% CI
-    > 35.1-51.6; I (2) =99.6%). Augmented LLM systems (agent-based
-    > reasoni …
+    > Here, we introduce a trajectory-centric framework that
+    > reconstructs continuous TME dynamics by integrating agent-based
+    > mathematical modeling and simulation with state space analysis.
+    > This approach yields a mechanistically constrained reference
+    > landscape built …
 
-3.  [**Agent-Based Modeling of Idiopathic Lung Fibrosis and Mechanistic
-    Treatments.**](https://pubmed.ncbi.nlm.nih.gov/41929198/)
+3.  [**Model recapitulates regenerative limb blastema formation through
+    local softening of the wounded
+    epithelium.**](https://pubmed.ncbi.nlm.nih.gov/41959093/)
 
-    Gunputh ND, Kilikian E, Miranda CA, Peirce SM, Ford Versypt AN.
+    Finkbeiner S, Brew-Smith A, Wang X, Fu DT, Monaghan J, Copos C.
 
-    bioRxiv \[Preprint\]. 2026 Mar 25:2026.03.22.713503. doi:
-    10.64898/2026.03.22.713503.
+    bioRxiv \[Preprint\]. 2026 Mar 13:2026.03.11.711112. doi:
+    10.64898/2026.03.11.711112.
 
-    > Agent-based modeling (ABM) is a computational method for
-    > predicting the emergent outcomes of interacting, autonomous
-    > individuals in a complex system. …The ABM and the analysis files
-    > are shared to facilitate model reuse. By integrating computational
+    > This study introduces a computational tool to examine how the
+    > outgrowth results from the interaction of two tissue layers: the
+    > bulk (mesenchyme) and the overlying epithelium. We developed a
+    > novel hybrid agent-based modeling framework and an accompanying
+    > param …
+
+4.  [**Modelling infectious disease transmission dynamics in conference
+    environments: An agent-based
+    approach.**](https://pubmed.ncbi.nlm.nih.gov/41958103/)
+
+    Liu X, Deng Y, Huang J, Zhang Y, Lei J.
+
+    Math Biosci Eng. 2026 Mar 10;23(4):1096-1120. doi:
+    10.3934/mbe.2026041.
+
+    > Our model captures the activities of individual attendees within
+    > the conference venue, including meetings, rest breaks, and meal
+    > breaks. …Moreover, the restroom environment poses an additional
+    > avenue for potential infection transmission. Employing an
+    > agent-base …
+
+5.  [**Spatio-temporal agent-based modelling of
+    malaria.**](https://pubmed.ncbi.nlm.nih.gov/41955715/)
+
+    Walker CR, Anwar MN, Bräuninger L, Richards J, Ataide R, Thang ND,
+    Thang NX, Canavati S, Flegg JA.
+
+    Epidemics. 2026 Apr 4;55:100909. doi: 10.1016/j.epidem.2026.100909.
+    Online ahead of print.
+
+    > We show the impact of these factors by developing a stochastic
+    > spatiotemporal agent-based malaria model that captures the impact
+    > of spatially distributed interventions on malaria transmission.
+    > Our model uses spatiotemporal estimates of mosquito climati …
+
+6.  [**Leveraging Large Language Models for Contextual Prioritization of
+    Contaminants of Emerging Concern in Chemical
+    Mixtures.**](https://pubmed.ncbi.nlm.nih.gov/41954410/)
+
+    Cheng F, Li Q, He L, Li H, Brooks BW, Yu Z, You J.
+
+    Environ Sci Technol. 2026 Apr 9. doi: 10.1021/acs.est.6c01342.
+    Online ahead of print.
+
+    > While recent advances in nontarget analysis enable the generation
+    > of extensive chemical inventories, key bottlenecks have shifted to
+    > postidentification interpretation within heterogeneous data. Here,
+    > we present an agent-based workflow that integrates large language
     > …
 
-4.  [**A distributed socio-hydrological framework for integrating
-    perception and groundwater dynamics in farmers’ crop choice
-    modeling.**](https://pubmed.ncbi.nlm.nih.gov/41922602/)
+7.  [**e3SIM: Epidemiological-ecological-evolutionary simulation
+    framework for genomic
+    epidemiology.**](https://pubmed.ncbi.nlm.nih.gov/41953710/)
 
-    Soleimanzadeh Z, Ahmadi A.
+    Xu P, Liang S, Hahn A, Zhao V, Lo WT’, Haller BC, Sobkowiak B,
+    Chitwood MH, Colijn C, Cohen T, Rhee KY, Messer PW, Wells MT, Clark
+    AG, Kim J.
 
-    Sci Rep. 2026 Apr 1. doi: 10.1038/s41598-026-44157-5. Online ahead
-    of print.
+    Methods Ecol Evol. 2026 Apr;17(4):1051-1059. doi:
+    10.1111/2041-210x.70278. Epub 2026 Mar 5.
 
-5.  [**Free information disrupts even Bayesian
-    crowds.**](https://pubmed.ncbi.nlm.nih.gov/41920872/)
+    > Infectious disease dynamics result from the complex interplay of
+    > epidemiological, ecological and evolutionary (epi-eco-evo)
+    > processes. Accurately modelling these coupled processes is crucial
+    > for understanding pathogen spread and informing public health
+    > strategies. …This …
 
-    Stein J, Cruz S, Grossi D, Testori M.
+8.  [**From non-agentic large language models to multi-agent systems in
+    emergency medicine: a scoping
+    review.**](https://pubmed.ncbi.nlm.nih.gov/41952479/)
 
-    Proc Natl Acad Sci U S A. 2026 Apr 7;123(14):e2518472123. doi:
-    10.1073/pnas.2518472123. Epub 2026 Apr 1.
+    Kim H, Jo S, Lim MH, Choi DH.
 
-    > A core tenet underpinning the conception of contemporary
-    > information networks, such as social media platforms, is that
-    > users should not be constrained in the amount of information they
-    > can freely and willingly exchange with one another about a given
-    > topic. By means of a computati …
+    Clin Exp Emerg Med. 2026 Apr 8. doi: 10.15441/ceem.26.136. Online
+    ahead of print.
 
-6.  [**Channel Allocation and Equity in Preventive Campaigns for Older
-    Adults: Agent-Based Modeling
-    Study.**](https://pubmed.ncbi.nlm.nih.gov/41920588/)
+    > OBJECTIVE: This study aimed to conduct a scoping review of studies
+    > on non-agentic large language models (LLMs), LLM-based agents, and
+    > multi-agent systems reported in emergency medicine, and to
+    > identify current research trends and major gaps by analyzing their
+    > clinical appl …
 
-    Lee J, Park J, Kim Y, Kong DJ.
+9.  [**Mobility On Demand: What About the
+    Weekend?**](https://pubmed.ncbi.nlm.nih.gov/41938132/)
 
-    J Med Internet Res. 2026 Apr 1;28:e88429. doi: 10.2196/88429.
+    Kagho GO, Balac M, Axhausen KW.
 
-    > OBJECTIVE: This study aimed to develop and apply a data-driven
-    > agent-based model as a strategic planning tool for preventive
-    > campaigns targeting older adults, comparing channel allocation,
-    > personalization, and loss framing options under explicit budget
-    > and eq …
+    Transp Res Rec. 2025 Aug 15;2679(11):68-84. doi:
+    10.1177/03611981251346454. eCollection 2025 Nov.
 
-7.  [**Modeling tumor transport and growth with poroelastic biopolymer
-    networks.**](https://pubmed.ncbi.nlm.nih.gov/41919661/)
+    > However, existing simulations predominantly focus on modeling
+    > average working days, characterized by high and predictable travel
+    > demand. This approach overlooks the distinct travel patterns
+    > observed during weekends. …This study compares the differences in
+    > travel demand p …
 
-    Li Z, Ren Y, Kemkar S, Mollenkopf P, Kochanowski J, Janmey PA,
-    Purohit PK, Radhakrishnan R, Vining KH.
+10. [**A reproducible pipeline for activity-based travel demand
+    generation in England.**](https://pubmed.ncbi.nlm.nih.gov/41937926/)
 
-    Soft Matter. 2026 Apr 1. doi: 10.1039/d6sm00060f. Online ahead of
-    print.
+    Mahfouz H, Greenbury SF, Zhang B, Lynn S, Cheng T.
 
-    > The mechanical properties of the extracellular matrix (ECM)
-    > regulate tumor growth and invasion in the tumor microenvironment.
-    > Models of biopolymer networks have been used to investigate the
-    > impact of elasticity and viscoelasticity of the ECM on tumor
-    > behavior. …This fram …
+    Environ Plan B Urban Anal City Sci. 2025 Sep 19;52(9):2326-2339.
+    doi: 10.1177/23998083251379620. eCollection 2025 Nov.
 
-8.  [**Optimization of infectious disease intervention measures using
-    reinforcement learning with UK COVID-19 epidemic
-    data.**](https://pubmed.ncbi.nlm.nih.gov/41917056/)
-
-    Zhang B, Chen Y, Li H, Zu Z.
-
-    Sci Rep. 2026 Mar 31;16(1):10627. doi: 10.1038/s41598-026-39377-8.
-
-    > We establish a decision-making framework based on an individual
-    > agent-based transmission model, utilizing reinforcement learning
-    > to continuously explore and develop a strategy function. The
-    > framework’s validity is verified through both experimental and
-    > theore …
-
-9.  [**Multiscale modeling of the spatial structure of stem cells in
-    neuroblastoma patient-derived tumoroids reveals a critical role for
-    a short-range diffusive
-    process.**](https://pubmed.ncbi.nlm.nih.gov/41915691/)
-
-    Nguyen TNT, Koering C, Vallin E, Gonin-Giraud S, Broutier L, Bernard
-    S, Crauste F, Gandrillon O.
-
-    PLoS Comput Biol. 2026 Mar 31;22(3):e1014137. doi:
-    10.1371/journal.pcbi.1014137. Online ahead of print.
-
-    > In order to better understand the set of rules needed for
-    > generating such structures, we implemented a multiscale
-    > agent-based neuroblastoma tumoroid model. Model rules specify
-    > single cell’s fate based on their intracellular content, which
-    > dynamically e …
-
-10. [**Virtual cell/virtual cell like: The key to unlocking a new era of
-    HIV/AIDS treatment ?**](https://pubmed.ncbi.nlm.nih.gov/41912072/)
-
-    Du Q, Wang M, Zhuang Y, Gu Q, Qi W.
-
-    Microb Pathog. 2026 Mar 28;215:108459. doi:
-    10.1016/j.micpath.2026.108459. Online ahead of print.
-
-    > By reviewing existing literature and research findings, we find
-    > that while the term “Virtual Cell” has not been widely and
-    > standardized applied in Human Immunodeficiency Virus (HIV)
-    > research, its core concept simulating HIV infection, immune
-    > responses, and therapeutic interventio …
+    > Agent-based transport models are gaining popularity due to their
+    > ability to model features such as heterogenous individual
+    > behaviour, household dependencies, and new dynamic modes of
+    > travel. Such models require as input disaggregate population d …
 
 ## Code of Conduct
 
