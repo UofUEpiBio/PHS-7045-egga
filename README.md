@@ -9,160 +9,154 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-04-12 00:15:08.
+update was on 2026-04-19 00:16:09.
 
 <div class="cell">
 
 </div>
 
-1.  [**Automated extraction and optimization of protein purification
-    protocols using multi-agent large language
-    models.**](https://pubmed.ncbi.nlm.nih.gov/41959417/)
+1.  [**Statistical physics of an asset exchange model with investment
+    and guaranteed income.**](https://pubmed.ncbi.nlm.nih.gov/41998969/)
 
-    Ye J, DeRocher A, Khim M, Subramanian S, Cron L, Myler PJ, Phan IQ.
+    Tobochnik J, Gould H, Klein W.
 
-    bioRxiv \[Preprint\]. 2026 Mar 11:2026.03.03.709341. doi:
-    10.64898/2026.03.03.709341.
+    Phys Rev E. 2026 Mar;113(3-1):034309. doi: 10.1103/2mh9-nn23.
 
-    > Recent advances in Large Language Models (LLMs) present new
-    > opportunities for automating critical bottlenecks in scientific
-    > workflows such as literature reviews or protocol design. …While
-    > this system reduces complex analysis time from hours to minutes,
-    > we identify the la …
+    > An agent-based model of the economy is generalized to incorporate
+    > investment and guaranteed income mechanisms in addition to the
+    > exchange and distribution mechanisms considered in an earlier
+    > model. …
 
-2.  [**Tumor-immune trajectory context connects static tissue
-    architecture to clinical
-    outcomes.**](https://pubmed.ncbi.nlm.nih.gov/41959335/)
+2.  [**Integrating Age-Dependent Pig Susceptibility and Spatial Exposure
+    Heterogeneity Improves Agent-Based Modeling of Taenia solium
+    Transmission.**](https://pubmed.ncbi.nlm.nih.gov/41997225/)
 
-    Cramer EM, Heiland R, da Rocha HL, Bergman DR, Gray JW, Mills GB,
-    Fertig EJ, Macklin P, Heiser LM, Chang YH.
+    Pizzitutti F, Bonnet G, Gonzales-Gustavson E, Gabriël S, Pan WK,
+    Gonzalez AE, Garcia HH, O’Neal SE; Cysticercosis Working Group in
+    Peru.
 
-    bioRxiv \[Preprint\]. 2026 Apr 2:2026.03.26.714521. doi:
-    10.64898/2026.03.26.714521.
+    Int J Parasitol. 2026 Apr 15:104853. doi:
+    10.1016/j.ijpara.2026.104853. Online ahead of print.
 
-    > Here, we introduce a trajectory-centric framework that
-    > reconstructs continuous TME dynamics by integrating agent-based
-    > mathematical modeling and simulation with state space analysis.
-    > This approach yields a mechanistically constrained reference
-    > landscape built …
+    > Understanding pig infection dynamics is essential for control, yet
+    > age-dependent susceptibility, acquired immunity, and spatially
+    > heterogeneous exposure are rarely represented in transmission
+    > models. We integrated experimental infection data across pig age
+    > groups into a lo …
 
-3.  [**Model recapitulates regenerative limb blastema formation through
-    local softening of the wounded
-    epithelium.**](https://pubmed.ncbi.nlm.nih.gov/41959093/)
+3.  [**An agent-based exploration of the influence of needs on health
+    protection motivation and
+    intentions.**](https://pubmed.ncbi.nlm.nih.gov/41993806/)
 
-    Finkbeiner S, Brew-Smith A, Wang X, Fu DT, Monaghan J, Copos C.
+    Mertes P, Kurchyna V, Bae YE, Berndt JO, Timm I.
 
-    bioRxiv \[Preprint\]. 2026 Mar 13:2026.03.11.711112. doi:
-    10.64898/2026.03.11.711112.
+    Front Psychol. 2026 Mar 24;17:1581156. doi:
+    10.3389/fpsyg.2026.1581156. eCollection 2026.
 
-    > This study introduces a computational tool to examine how the
-    > outgrowth results from the interaction of two tissue layers: the
-    > bulk (mesenchyme) and the overlying epithelium. We developed a
-    > novel hybrid agent-based modeling framework and an accompanying
-    > param …
+    > In this study, we demonstrate how values, social norms and
+    > individual needs can be combined within the theoretical framework
+    > of the Protection Motivation Theory (PMT) to study the
+    > intention-behavior gap regarding smoking in social settings. By
+    > extending upon a previous model …
 
-4.  [**Modelling infectious disease transmission dynamics in conference
-    environments: An agent-based
-    approach.**](https://pubmed.ncbi.nlm.nih.gov/41958103/)
+4.  [**Likelihood-Free Parameter Inference for Spatiotemporal Stochastic
+    Biological Models using Neural Posterior
+    Estimation.**](https://pubmed.ncbi.nlm.nih.gov/41990966/)
 
-    Liu X, Deng Y, Huang J, Zhang Y, Lei J.
+    Kimpson T, Flegg J, Simpson MJ.
 
-    Math Biosci Eng. 2026 Mar 10;23(4):1096-1120. doi:
-    10.3934/mbe.2026041.
-
-    > Our model captures the activities of individual attendees within
-    > the conference venue, including meetings, rest breaks, and meal
-    > breaks. …Moreover, the restroom environment poses an additional
-    > avenue for potential infection transmission. Employing an
-    > agent-base …
-
-5.  [**Spatio-temporal agent-based modelling of
-    malaria.**](https://pubmed.ncbi.nlm.nih.gov/41955715/)
-
-    Walker CR, Anwar MN, Bräuninger L, Richards J, Ataide R, Thang ND,
-    Thang NX, Canavati S, Flegg JA.
-
-    Epidemics. 2026 Apr 4;55:100909. doi: 10.1016/j.epidem.2026.100909.
+    J Theor Biol. 2026 Apr 14:112475. doi: 10.1016/j.jtbi.2026.112475.
     Online ahead of print.
 
-    > We show the impact of these factors by developing a stochastic
-    > spatiotemporal agent-based malaria model that captures the impact
-    > of spatially distributed interventions on malaria transmission.
-    > Our model uses spatiotemporal estimates of mosquito climati …
+    > Cell migration is a key biological process underlying wound
+    > healing, tissue development, and cancer metastasis, yet
+    > calibrating mathematical models of migration to experimental data
+    > remains a major challenge. Scratch and barrier assays are widely
+    > used to study collective c …
 
-6.  [**Leveraging Large Language Models for Contextual Prioritization of
-    Contaminants of Emerging Concern in Chemical
-    Mixtures.**](https://pubmed.ncbi.nlm.nih.gov/41954410/)
+5.  [**Heterogeneous learning strategies interact with social network
+    structure and problem complexity to benefit collective
+    search.**](https://pubmed.ncbi.nlm.nih.gov/41987725/)
 
-    Cheng F, Li Q, He L, Li H, Brooks BW, Yu Z, You J.
+    Pykälä M, Dillion D, Galesic M.
 
-    Environ Sci Technol. 2026 Apr 9. doi: 10.1021/acs.est.6c01342.
+    Philos Trans R Soc Lond B Biol Sci. 2026 Apr 16;381(1948):20240450.
+    doi: 10.1098/rstb.2024.0450.
+
+    > Interdisciplinary research shows that collective outcomes depend
+    > on learning strategies, group structure and problem complexity,
+    > yet it remains unclear how these factors together influence the
+    > success of collective search and problem-solving. We develop an
+    > evolutionary agent …
+
+6.  [**Social structure shapes consensus decision-making norms in
+    small-scale societies.**](https://pubmed.ncbi.nlm.nih.gov/41987724/)
+
+    Vadavalli BD, Garfield ZH, Glowacki L.
+
+    Philos Trans R Soc Lond B Biol Sci. 2026 Apr 16;381(1948):20240449.
+    doi: 10.1098/rstb.2024.0449.
+
+    > Yet the pathways by which consensus emerges, especially under
+    > constraints imposed by social organization, remain poorly
+    > understood. We use an agent-based model to explore how marriage
+    > structure, social group nesting and decision-making norms can
+    > shape a group …
+
+7.  [**A systematic review of spatial epidemiological modeling
+    approaches applied during the COVID-19
+    pandemic.**](https://pubmed.ncbi.nlm.nih.gov/41987119/)
+
+    Oshinubi K, Chen Y, Doerry E, Gel ES, Hepp C, Lant T, Mehrotra S,
+    Sabo S, Mihaljevic J.
+
+    BMC Public Health. 2026 Apr 15. doi: 10.1186/s12889-026-27321-4.
     Online ahead of print.
 
-    > While recent advances in nontarget analysis enable the generation
-    > of extensive chemical inventories, key bottlenecks have shifted to
-    > postidentification interpretation within heterogeneous data. Here,
-    > we present an agent-based workflow that integrates large language
+8.  [**The health and economic repercussions of declining MMR coverage
+    in the United States.**](https://pubmed.ncbi.nlm.nih.gov/41980085/)
+
+    Wells CR, Pandey A, Ye Y, Bawden C, Giglio R, Wong C, Wang V,
+    Cipriano C, Ayaz L, Röst G, Moghadas SM, Fitzpatrick MC, Singer BH,
+    Galvani AP.
+
+    Proc Natl Acad Sci U S A. 2026 Apr 28;123(17):e2605971123. doi:
+    10.1073/pnas.2605971123. Epub 2026 Apr 14.
+
+    > Using county-level Measles-Mumps-Rubella (MMR) vaccine coverage
+    > data and spatial incidence models, we quantified the economic
+    > burden of measles in 2025 and projected the impact of continued
+    > declines in vaccine uptake. …The cost per case varied widely
+    > across counties and …
+
+9.  [**Exploring Self-Organization of Development in the Zebrafish
+    Posterior Lateral Line Primordium with Computer
+    Models.**](https://pubmed.ncbi.nlm.nih.gov/41974535/)
+
+    Chitnis A.
+
+    Cold Spring Harb Perspect Biol. 2026 Apr 15:a041797. doi:
+    10.1101/cshperspect.a041797. Online ahead of print.
+
+    > This review will summarize how we have used agent-based models and
+    > cellular Potts models to integrate what has been learned from
+    > experiments and investigate how signaling and mechanical
+    > interactions determine emergent patterns, fate, morphogenesis, and
     > …
 
-7.  [**e3SIM: Epidemiological-ecological-evolutionary simulation
-    framework for genomic
-    epidemiology.**](https://pubmed.ncbi.nlm.nih.gov/41953710/)
+10. [**A hybrid discrete-continuum modelling approach for the
+    interactions of the immune system with oncolytic viral
+    infections.**](https://pubmed.ncbi.nlm.nih.gov/41974398/)
 
-    Xu P, Liang S, Hahn A, Zhao V, Lo WT’, Haller BC, Sobkowiak B,
-    Chitwood MH, Colijn C, Cohen T, Rhee KY, Messer PW, Wells MT, Clark
-    AG, Kim J.
+    Morselli D, Delitala ME, Jenner AL, Frascoli F.
 
-    Methods Ecol Evol. 2026 Apr;17(4):1051-1059. doi:
-    10.1111/2041-210x.70278. Epub 2026 Mar 5.
+    J Theor Biol. 2026 Apr 11:112462. doi: 10.1016/j.jtbi.2026.112462.
+    Online ahead of print.
 
-    > Infectious disease dynamics result from the complex interplay of
-    > epidemiological, ecological and evolutionary (epi-eco-evo)
-    > processes. Accurately modelling these coupled processes is crucial
-    > for understanding pathogen spread and informing public health
-    > strategies. …This …
-
-8.  [**From non-agentic large language models to multi-agent systems in
-    emergency medicine: a scoping
-    review.**](https://pubmed.ncbi.nlm.nih.gov/41952479/)
-
-    Kim H, Jo S, Lim MH, Choi DH.
-
-    Clin Exp Emerg Med. 2026 Apr 8. doi: 10.15441/ceem.26.136. Online
-    ahead of print.
-
-    > OBJECTIVE: This study aimed to conduct a scoping review of studies
-    > on non-agentic large language models (LLMs), LLM-based agents, and
-    > multi-agent systems reported in emergency medicine, and to
-    > identify current research trends and major gaps by analyzing their
-    > clinical appl …
-
-9.  [**Mobility On Demand: What About the
-    Weekend?**](https://pubmed.ncbi.nlm.nih.gov/41938132/)
-
-    Kagho GO, Balac M, Axhausen KW.
-
-    Transp Res Rec. 2025 Aug 15;2679(11):68-84. doi:
-    10.1177/03611981251346454. eCollection 2025 Nov.
-
-    > However, existing simulations predominantly focus on modeling
-    > average working days, characterized by high and predictable travel
-    > demand. This approach overlooks the distinct travel patterns
-    > observed during weekends. …This study compares the differences in
-    > travel demand p …
-
-10. [**A reproducible pipeline for activity-based travel demand
-    generation in England.**](https://pubmed.ncbi.nlm.nih.gov/41937926/)
-
-    Mahfouz H, Greenbury SF, Zhang B, Lynn S, Cheng T.
-
-    Environ Plan B Urban Anal City Sci. 2025 Sep 19;52(9):2326-2339.
-    doi: 10.1177/23998083251379620. eCollection 2025 Nov.
-
-    > Agent-based transport models are gaining popularity due to their
-    > ability to model features such as heterogenous individual
-    > behaviour, household dependencies, and new dynamic modes of
-    > travel. Such models require as input disaggregate population d …
+    > In our previous work, we developed a stochastic agent-based model
+    > elucidating the spatial dynamics of infected and uninfected cells
+    > within solid tumours. …Simulations show a good agreement between
+    > agent-based approaches and numerical results f …
 
 ## Code of Conduct
 
