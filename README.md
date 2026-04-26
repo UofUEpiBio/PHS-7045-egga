@@ -9,13 +9,148 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-04-19 00:16:09.
+update was on 2026-04-26 00:17:58.
 
 <div class="cell">
 
 </div>
 
-1.  [**Statistical physics of an asset exchange model with investment
+1.  [**Individual and collective gains from cooperation and reciprocity
+    in a dynamic-network Prisoner’s Dilemma driven by extraversion,
+    openness, and
+    agreeableness.**](https://pubmed.ncbi.nlm.nih.gov/42031936/)
+
+    Abián D, Bernad J, Ilarri S, Trillo-Lado R.
+
+    Sci Rep. 2026 Apr 24. doi: 10.1038/s41598-026-49942-w. Online ahead
+    of print.
+
+    > How do stable personality differences shape cooperation when
+    > social ties can form and dissolve? We model a repeated Prisoner’s
+    > Dilemma on an endogenous network in which three continuous Big
+    > Five traits map to transparent local mechanisms: Extraversion sets
+    > a target number …
+
+2.  [**Bayesian updating for self-assessment explains social dominance
+    and winner-loser
+    effects.**](https://pubmed.ncbi.nlm.nih.gov/42027910/)
+
+    Perkes A, Laskowski KL.
+
+    Anim Behav. 2025 Jun;224:123191. doi: 10.1016/j.anbehav.2025.123191.
+    Epub 2025 Apr 28.
+
+    > Identifying the mechanisms behind winner-loser effects requires
+    > identifying plausible models and generating predictions that can
+    > be used to test these alternative hypotheses. …This updating of a
+    > prior estimate can be effectively described by Bayesian updating,
+    > and here w …
+
+3.  [**Mathematical Modeling of Neural Stem Cell Migration within Brain
+    using Multi-Fiber
+    Tractography.**](https://pubmed.ncbi.nlm.nih.gov/42025995/)
+
+    Hansen A, Rockne R, Adhikarla V, Gutova M, Cho H.
+
+    Math Biosci. 2026 Apr 21:109696. doi: 10.1016/j.mbs.2026.109696.
+    Online ahead of print.
+
+    > An agent-based model of therapeutic neural stem cell (NSC)
+    > migration is developed and used to predict the migration of NSCs
+    > in naive mouse brain. …In calibrating the model to experimental
+    > data, we show that the model is able to reproduce the s …
+
+4.  [**Enhancing generalizability of model discovery across parameter
+    space with multi-experiment equation learning for biological
+    systems.**](https://pubmed.ncbi.nlm.nih.gov/42018564/)
+
+    Ciocanel MV, Nardini JT, Flores KB, Rutter EM, Sindi SS, Volkening
+    A.
+
+    PLoS Comput Biol. 2026 Apr 22;22(4):e1014161. doi:
+    10.1371/journal.pcbi.1014161. Online ahead of print.
+
+    > Agent-based modeling (ABM) is a powerful tool for understanding
+    > self-organizing biological systems, but it is computationally
+    > intensive and often not analytically tractable. …We demonstrate
+    > these methods by learning continuum models from a noisy birt …
+
+5.  [**Modeling epithelial deformation and cell rearrangement in
+    response to external forces during Zebrafish
+    epiboly.**](https://pubmed.ncbi.nlm.nih.gov/42014411/)
+
+    Minsuk SB, Sego TJ, Umulis DM, Mullins MC, Glazier JA.
+
+    NPJ Syst Biol Appl. 2026 Apr 21. doi: 10.1038/s41540-026-00708-0.
+    Online ahead of print.
+
+    > The expanding EVL more than doubles its surface area and
+    > experiences significant shear as it deforms from a thin cap at one
+    > pole to become a complete sphere, necessarily requiring extensive
+    > internal rearrangement. We constructed an agent-based model of the
+    > EV …
+
+6.  [**Agent based modeling approach for population dynamics of the
+    biological vector Aedes
+    aegypti.**](https://pubmed.ncbi.nlm.nih.gov/42013888/)
+
+    Schwaiger A, Schweitzer M, Hackl W, Pfeifer B.
+
+    Methods Inf Med. 2026 Apr 21. doi: 10.1055/a-2854-0579. Online ahead
+    of print.
+
+    > OBJECTIVE: As a first step towards a transmission model for
+    > vector-borne diseases, a weather-dependent population dynamic
+    > simulation for Ae. aegypti was developed, suitable for high
+    > weather short term variability in Austrian region. METHODS: We
+    > developed an agent- …
+
+7.  [**Modeling Diabetes Risk and Progression With Public Health Data:
+    Ontology-Guided, Simulation-Capable Digital Twin
+    Study.**](https://pubmed.ncbi.nlm.nih.gov/42013028/)
+
+    Li Q, Amat KR, Johnson EL, Li J.
+
+    JMIR Med Inform. 2026 Apr 21;14:e87374. doi: 10.2196/87374.
+
+    > Using diabetes as a case study, the framework integrates
+    > agent-based orchestration, medical ontologies, and large language
+    > model (LLM)-assisted semantic reasoning with machine learning to
+    > support explainable feature structuring, risk prediction, and
+    > predictiv …
+
+8.  [**Nicotinic Acetylcholine Receptor of α7 Subtype is Linked to
+    Glioblastoma Cholinergic
+    Heterogeneity.**](https://pubmed.ncbi.nlm.nih.gov/42012794/)
+
+    Gondarenko E, Mazur D, Siniavin A, Arkhangelskaya P, Maiorov V,
+    Ivanov I, Kasheverov I, Antipova N, Shelukhina I, Kudryavtsev D.
+
+    J Mol Neurosci. 2026 Apr 21;76(2):63. doi:
+    10.1007/s12031-026-02523-y.
+
+    > In U87MG cells alpha7 nAChR ligands, particularly antagonist
+    > alpha-CTX, were shown to influence cell viability and nAChR
+    > subunit mRNA expression, and to induce coordinated changes in
+    > cytoskeletal and metabolic proteins expression, supporting a model
+    > in which choline activa …
+
+9.  [**Computationally Efficient Estimation of Localized Treatment
+    Effects for Multi-Level, Multi-Component Interventions to Address
+    the Opioid Crisis.**](https://pubmed.ncbi.nlm.nih.gov/42006770/)
+
+    Ahmed AA, Rahimian MA, Chen Q, Kumar P.
+
+    medRxiv \[Preprint\]. 2026 Apr 11:2025.12.30.25343216. doi:
+    10.64898/2025.12.30.25343216.
+
+    > Given the heterogeneity of the epidemic across the country, it is
+    > crucial for policy-makers to understand localized treatment
+    > effects of different intervention components and utilize limited
+    > resources efficiently. While locally calibrated simulation models
+    > offer a useful c …
+
+10. [**Statistical physics of an asset exchange model with investment
     and guaranteed income.**](https://pubmed.ncbi.nlm.nih.gov/41998969/)
 
     Tobochnik J, Gould H, Klein W.
@@ -26,137 +161,6 @@ update was on 2026-04-19 00:16:09.
     > investment and guaranteed income mechanisms in addition to the
     > exchange and distribution mechanisms considered in an earlier
     > model. …
-
-2.  [**Integrating Age-Dependent Pig Susceptibility and Spatial Exposure
-    Heterogeneity Improves Agent-Based Modeling of Taenia solium
-    Transmission.**](https://pubmed.ncbi.nlm.nih.gov/41997225/)
-
-    Pizzitutti F, Bonnet G, Gonzales-Gustavson E, Gabriël S, Pan WK,
-    Gonzalez AE, Garcia HH, O’Neal SE; Cysticercosis Working Group in
-    Peru.
-
-    Int J Parasitol. 2026 Apr 15:104853. doi:
-    10.1016/j.ijpara.2026.104853. Online ahead of print.
-
-    > Understanding pig infection dynamics is essential for control, yet
-    > age-dependent susceptibility, acquired immunity, and spatially
-    > heterogeneous exposure are rarely represented in transmission
-    > models. We integrated experimental infection data across pig age
-    > groups into a lo …
-
-3.  [**An agent-based exploration of the influence of needs on health
-    protection motivation and
-    intentions.**](https://pubmed.ncbi.nlm.nih.gov/41993806/)
-
-    Mertes P, Kurchyna V, Bae YE, Berndt JO, Timm I.
-
-    Front Psychol. 2026 Mar 24;17:1581156. doi:
-    10.3389/fpsyg.2026.1581156. eCollection 2026.
-
-    > In this study, we demonstrate how values, social norms and
-    > individual needs can be combined within the theoretical framework
-    > of the Protection Motivation Theory (PMT) to study the
-    > intention-behavior gap regarding smoking in social settings. By
-    > extending upon a previous model …
-
-4.  [**Likelihood-Free Parameter Inference for Spatiotemporal Stochastic
-    Biological Models using Neural Posterior
-    Estimation.**](https://pubmed.ncbi.nlm.nih.gov/41990966/)
-
-    Kimpson T, Flegg J, Simpson MJ.
-
-    J Theor Biol. 2026 Apr 14:112475. doi: 10.1016/j.jtbi.2026.112475.
-    Online ahead of print.
-
-    > Cell migration is a key biological process underlying wound
-    > healing, tissue development, and cancer metastasis, yet
-    > calibrating mathematical models of migration to experimental data
-    > remains a major challenge. Scratch and barrier assays are widely
-    > used to study collective c …
-
-5.  [**Heterogeneous learning strategies interact with social network
-    structure and problem complexity to benefit collective
-    search.**](https://pubmed.ncbi.nlm.nih.gov/41987725/)
-
-    Pykälä M, Dillion D, Galesic M.
-
-    Philos Trans R Soc Lond B Biol Sci. 2026 Apr 16;381(1948):20240450.
-    doi: 10.1098/rstb.2024.0450.
-
-    > Interdisciplinary research shows that collective outcomes depend
-    > on learning strategies, group structure and problem complexity,
-    > yet it remains unclear how these factors together influence the
-    > success of collective search and problem-solving. We develop an
-    > evolutionary agent …
-
-6.  [**Social structure shapes consensus decision-making norms in
-    small-scale societies.**](https://pubmed.ncbi.nlm.nih.gov/41987724/)
-
-    Vadavalli BD, Garfield ZH, Glowacki L.
-
-    Philos Trans R Soc Lond B Biol Sci. 2026 Apr 16;381(1948):20240449.
-    doi: 10.1098/rstb.2024.0449.
-
-    > Yet the pathways by which consensus emerges, especially under
-    > constraints imposed by social organization, remain poorly
-    > understood. We use an agent-based model to explore how marriage
-    > structure, social group nesting and decision-making norms can
-    > shape a group …
-
-7.  [**A systematic review of spatial epidemiological modeling
-    approaches applied during the COVID-19
-    pandemic.**](https://pubmed.ncbi.nlm.nih.gov/41987119/)
-
-    Oshinubi K, Chen Y, Doerry E, Gel ES, Hepp C, Lant T, Mehrotra S,
-    Sabo S, Mihaljevic J.
-
-    BMC Public Health. 2026 Apr 15. doi: 10.1186/s12889-026-27321-4.
-    Online ahead of print.
-
-8.  [**The health and economic repercussions of declining MMR coverage
-    in the United States.**](https://pubmed.ncbi.nlm.nih.gov/41980085/)
-
-    Wells CR, Pandey A, Ye Y, Bawden C, Giglio R, Wong C, Wang V,
-    Cipriano C, Ayaz L, Röst G, Moghadas SM, Fitzpatrick MC, Singer BH,
-    Galvani AP.
-
-    Proc Natl Acad Sci U S A. 2026 Apr 28;123(17):e2605971123. doi:
-    10.1073/pnas.2605971123. Epub 2026 Apr 14.
-
-    > Using county-level Measles-Mumps-Rubella (MMR) vaccine coverage
-    > data and spatial incidence models, we quantified the economic
-    > burden of measles in 2025 and projected the impact of continued
-    > declines in vaccine uptake. …The cost per case varied widely
-    > across counties and …
-
-9.  [**Exploring Self-Organization of Development in the Zebrafish
-    Posterior Lateral Line Primordium with Computer
-    Models.**](https://pubmed.ncbi.nlm.nih.gov/41974535/)
-
-    Chitnis A.
-
-    Cold Spring Harb Perspect Biol. 2026 Apr 15:a041797. doi:
-    10.1101/cshperspect.a041797. Online ahead of print.
-
-    > This review will summarize how we have used agent-based models and
-    > cellular Potts models to integrate what has been learned from
-    > experiments and investigate how signaling and mechanical
-    > interactions determine emergent patterns, fate, morphogenesis, and
-    > …
-
-10. [**A hybrid discrete-continuum modelling approach for the
-    interactions of the immune system with oncolytic viral
-    infections.**](https://pubmed.ncbi.nlm.nih.gov/41974398/)
-
-    Morselli D, Delitala ME, Jenner AL, Frascoli F.
-
-    J Theor Biol. 2026 Apr 11:112462. doi: 10.1016/j.jtbi.2026.112462.
-    Online ahead of print.
-
-    > In our previous work, we developed a stochastic agent-based model
-    > elucidating the spatial dynamics of infected and uninfected cells
-    > within solid tumours. …Simulations show a good agreement between
-    > agent-based approaches and numerical results f …
 
 ## Code of Conduct
 
