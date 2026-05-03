@@ -9,158 +9,161 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-04-26 00:17:58.
+update was on 2026-05-03 00:21:40.
 
 <div class="cell">
 
 </div>
 
-1.  [**Individual and collective gains from cooperation and reciprocity
-    in a dynamic-network Prisoner’s Dilemma driven by extraversion,
-    openness, and
-    agreeableness.**](https://pubmed.ncbi.nlm.nih.gov/42031936/)
+1.  [**The exploration of immune system function changes in marathon
+    athletes after high-intensity training by Agent-Based
+    Model.**](https://pubmed.ncbi.nlm.nih.gov/42065088/)
 
-    Abián D, Bernad J, Ilarri S, Trillo-Lado R.
+    Tian H, Zuo R, Wang D, Qian G, Ye Q, Kawczyński A, Trybulski R,
+    Clemente FM.
 
-    Sci Rep. 2026 Apr 24. doi: 10.1038/s41598-026-49942-w. Online ahead
-    of print.
+    Front Sports Act Living. 2026 Apr 15;8:1780114. doi:
+    10.3389/fspor.2026.1780114. eCollection 2026.
 
-    > How do stable personality differences shape cooperation when
-    > social ties can form and dissolve? We model a repeated Prisoner’s
-    > Dilemma on an endogenous network in which three continuous Big
-    > Five traits map to transparent local mechanisms: Extraversion sets
-    > a target number …
+    > This study explored the chronic effects of a four-week
+    > high-intensity training (HIT) block on immune markers in
+    > professional marathon athletes and evaluated the utility of an
+    > Agent-Based Model (ABM) for visualizing these system behaviors.
+    > METHODS: Twenty-two …
 
-2.  [**Bayesian updating for self-assessment explains social dominance
-    and winner-loser
-    effects.**](https://pubmed.ncbi.nlm.nih.gov/42027910/)
+2.  [**Uncertainty Aware Decision Support with Computationally Expensive
+    Simulation Models: A Case Study of HIV Intervention
+    Scenarios.**](https://pubmed.ncbi.nlm.nih.gov/42064955/)
 
-    Perkes A, Laskowski KL.
+    Fadikar A, Hotton A, de Lima PN, Vardavas R, Collier N, Jia K, Rimer
+    S, Khanna A, Schneider J, Ozik J.
 
-    Anim Behav. 2025 Jun;224:123191. doi: 10.1016/j.anbehav.2025.123191.
-    Epub 2025 Apr 28.
+    medRxiv \[Preprint\]. 2026 Apr 17:2026.04.15.26350970. doi:
+    10.64898/2026.04.15.26350970.
 
-    > Identifying the mechanisms behind winner-loser effects requires
-    > identifying plausible models and generating predictions that can
-    > be used to test these alternative hypotheses. …This updating of a
-    > prior estimate can be effectively described by Bayesian updating,
-    > and here w …
+    > Detailed agent-based simulations are increasingly used to support
+    > policy decisions, but their computational cost and complex
+    > uncertainty structure make systematic scenario analysis
+    > challenging. …Rather than producing a single baseline, the
+    > calibration stage yields …
 
-3.  [**Mathematical Modeling of Neural Stem Cell Migration within Brain
-    using Multi-Fiber
-    Tractography.**](https://pubmed.ncbi.nlm.nih.gov/42025995/)
+3.  [**An agent-based learning model integrating sex differences in
+    renal cell carcinoma.**](https://pubmed.ncbi.nlm.nih.gov/42064045/)
 
-    Hansen A, Rockne R, Adhikarla V, Gutova M, Cho H.
+    Merelli E, Taha T, Caputo M, Obude D, Papa E, Rizzo A, Buti S,
+    Massari F, Molina-Cerrillo J, Monteiro FSM, Maiorano BA, Santoni M.
 
-    Math Biosci. 2026 Apr 21:109696. doi: 10.1016/j.mbs.2026.109696.
-    Online ahead of print.
+    Front Immunol. 2026 Apr 1;17:1779638. doi:
+    10.3389/fimmu.2026.1779638. eCollection 2026.
 
-    > An agent-based model of therapeutic neural stem cell (NSC)
-    > migration is developed and used to predict the migration of NSCs
-    > in naive mouse brain. …In calibrating the model to experimental
-    > data, we show that the model is able to reproduce the s …
+    > Agent-based models (ABMs) effectively simulate tumor-immune
+    > interactions but are rarely extended to include sex-specific
+    > modulation or machine learning-based optimization. This study
+    > enhanced an agent-based learning model (ALM) to simulat …
 
-4.  [**Enhancing generalizability of model discovery across parameter
-    space with multi-experiment equation learning for biological
-    systems.**](https://pubmed.ncbi.nlm.nih.gov/42018564/)
+4.  [**Despotism promotes dyadic cooperation through enhanced
+    interdependencies in non-human primate
+    societies.**](https://pubmed.ncbi.nlm.nih.gov/42062250/)
 
-    Ciocanel MV, Nardini JT, Flores KB, Rutter EM, Sindi SS, Volkening
-    A.
+    Bhattacharjee D, Zijlstra TW, Roth TS, Belli E, Calis S, Escriche
+    Chova P, Cousin E, de Jong JA, de Laat EJAM, Guðjónsdóttir AR,
+    Janmaat KRL, Jeunink EJ, Kluiver CE, Kuijer PEN, Middelburg E,
+    Pflüger LS, Schroderus VI, van Dijk ESJ, Verspeek J, Waasdorp S,
+    Zeeman AN, Sterck EHM, van Leeuwen EJC, Massen JJM.
 
-    PLoS Comput Biol. 2026 Apr 22;22(4):e1014161. doi:
-    10.1371/journal.pcbi.1014161. Online ahead of print.
+    Nat Commun. 2026 Apr 30;17(1):3513. doi: 10.1038/s41467-026-71168-7.
 
-    > Agent-based modeling (ABM) is a powerful tool for understanding
-    > self-organizing biological systems, but it is computationally
-    > intensive and often not analytically tractable. …We demonstrate
-    > these methods by learning continuum models from a noisy birt …
+    > Dyadic prosociality, kinship, and tolerance positively predict
+    > cooperation. Further, our agent-based models demonstrate that
+    > despotic societies have fewer but more stable bonds and, thus,
+    > higher dyadic interdependencies than in egalitarian societies. …
 
-5.  [**Modeling epithelial deformation and cell rearrangement in
-    response to external forces during Zebrafish
-    epiboly.**](https://pubmed.ncbi.nlm.nih.gov/42014411/)
+5.  [**On-device artificial intelligence agent based on language models
+    for electrochemical water
+    desalination.**](https://pubmed.ncbi.nlm.nih.gov/42060995/)
 
-    Minsuk SB, Sego TJ, Umulis DM, Mullins MC, Glazier JA.
+    Ullah Z, Kim HH, Son M.
 
-    NPJ Syst Biol Appl. 2026 Apr 21. doi: 10.1038/s41540-026-00708-0.
-    Online ahead of print.
+    Water Res. 2026 Apr 21;301:125995. doi:
+    10.1016/j.watres.2026.125995. Online ahead of print.
 
-    > The expanding EVL more than doubles its surface area and
-    > experiences significant shear as it deforms from a thin cap at one
-    > pole to become a complete sphere, necessarily requiring extensive
-    > internal rearrangement. We constructed an agent-based model of the
-    > EV …
+    > Here, we introduce an intelligent on-device platform that combines
+    > electrochemical process knowledge with large language models
+    > deployed directly on edge devices such as Raspberry Pi. This
+    > system integrates theoretical understanding with real-time
+    > optimization, eliminating …
 
-6.  [**Agent based modeling approach for population dynamics of the
-    biological vector Aedes
-    aegypti.**](https://pubmed.ncbi.nlm.nih.gov/42013888/)
+6.  [**Mechanistic modelling of highly pathogenic avian influenza: A
+    scoping review revealing critical gaps in cross-species transmission
+    models.**](https://pubmed.ncbi.nlm.nih.gov/42060628/)
 
-    Schwaiger A, Schweitzer M, Hackl W, Pfeifer B.
+    Wang M, Laison EKE, Philippsen T, Ghaemi S, Liu J, Moyles I, Signore
+    A, Ma J, Nasri B.
 
-    Methods Inf Med. 2026 Apr 21. doi: 10.1055/a-2854-0579. Online ahead
-    of print.
+    PLoS One. 2026 Apr 30;21(4):e0347929. doi:
+    10.1371/journal.pone.0347929. eCollection 2026.
 
-    > OBJECTIVE: As a first step towards a transmission model for
-    > vector-borne diseases, a weather-dependent population dynamic
-    > simulation for Ae. aegypti was developed, suitable for high
-    > weather short term variability in Austrian region. METHODS: We
-    > developed an agent- …
+    > Agent-based models (2 studies) captured individual-level
+    > interactions and spatial heterogeneity, while network models (2
+    > studies) represented contact structures and transmission pathways
+    > between farms or species. CONCLUSIONS: Currently, mechanistic …
 
-7.  [**Modeling Diabetes Risk and Progression With Public Health Data:
-    Ontology-Guided, Simulation-Capable Digital Twin
-    Study.**](https://pubmed.ncbi.nlm.nih.gov/42013028/)
+7.  [**Whispers of Pathogens; Social Contagion in Infectious Disease
+    Dynamics: A Review.**](https://pubmed.ncbi.nlm.nih.gov/42058569/)
 
-    Li Q, Amat KR, Johnson EL, Li J.
+    Fayez SM.
 
-    JMIR Med Inform. 2026 Apr 21;14:e87374. doi: 10.2196/87374.
+    Health Sci Rep. 2026 Apr 28;9:e72463. doi: 10.1002/hsr2.72463.
+    eCollection 2026 May.
 
-    > Using diabetes as a case study, the framework integrates
-    > agent-based orchestration, medical ontologies, and large language
-    > model (LLM)-assisted semantic reasoning with machine learning to
-    > support explainable feature structuring, risk prediction, and
-    > predictiv …
+    > RESULTS: Four major themes emerged from the synthesis of
+    > identified literature: (1) structural and commercial determinants
+    > socioeconomic inequality, racism, and commercial practices produce
+    > environments where infectious and non-communicable diseases
+    > interact synergistically; (2) …
 
-8.  [**Nicotinic Acetylcholine Receptor of α7 Subtype is Linked to
-    Glioblastoma Cholinergic
-    Heterogeneity.**](https://pubmed.ncbi.nlm.nih.gov/42012794/)
+8.  [**Polyandry: A threat or an opportunity for the sterile
+    insecttechnique?**](https://pubmed.ncbi.nlm.nih.gov/42054423/)
 
-    Gondarenko E, Mazur D, Siniavin A, Arkhangelskaya P, Maiorov V,
-    Ivanov I, Kasheverov I, Antipova N, Shelukhina I, Kudryavtsev D.
+    Courtois MA, van Oudenhove L, Touzeau S, Grognard F, Mailleret L.
 
-    J Mol Neurosci. 2026 Apr 21;76(2):63. doi:
-    10.1007/s12031-026-02523-y.
+    PLoS Comput Biol. 2026 Apr 29;22(4):e1014212. doi:
+    10.1371/journal.pcbi.1014212. Online ahead of print.
 
-    > In U87MG cells alpha7 nAChR ligands, particularly antagonist
-    > alpha-CTX, were shown to influence cell viability and nAChR
-    > subunit mRNA expression, and to induce coordinated changes in
-    > cytoskeletal and metabolic proteins expression, supporting a model
-    > in which choline activa …
+    > In this study, we develop and analyze a compartmental mathematical
+    > model based on differential equations to investigate the overall
+    > impact of multiple mating on SIT efficiency. We further analyze
+    > the effect of sperm use biases with an agent-based model …
 
-9.  [**Computationally Efficient Estimation of Localized Treatment
-    Effects for Multi-Level, Multi-Component Interventions to Address
-    the Opioid Crisis.**](https://pubmed.ncbi.nlm.nih.gov/42006770/)
+9.  [**Adjuvant databases and knowledge bases for data-driven research:
+    a computational biology
+    perspective.**](https://pubmed.ncbi.nlm.nih.gov/42048764/)
 
-    Ahmed AA, Rahimian MA, Chen Q, Kumar P.
+    Natsume-Kitatani Y.
 
-    medRxiv \[Preprint\]. 2026 Apr 11:2025.12.30.25343216. doi:
-    10.64898/2025.12.30.25343216.
+    Curr Opin Virol. 2026 Apr 27;76:101542. doi:
+    10.1016/j.coviro.2026.101542. Online ahead of print.
 
-    > Given the heterogeneity of the epidemic across the country, it is
-    > crucial for policy-makers to understand localized treatment
-    > effects of different intervention components and utilize limited
-    > resources efficiently. While locally calibrated simulation models
-    > offer a useful c …
+    > By categorizing them into quantitative and qualitative data,
+    > several examples of different data-driven approaches, such as
+    > systems vaccinology, graph neural network for knowledge graph, AI
+    > agent based on a large language model, illustrating how each type
+    > of d …
 
-10. [**Statistical physics of an asset exchange model with investment
-    and guaranteed income.**](https://pubmed.ncbi.nlm.nih.gov/41998969/)
+10. [**MISSTE: a multiscale integrative spatial simulator for
+    understanding the mechanisms underlying tissue
+    ecosystems.**](https://pubmed.ncbi.nlm.nih.gov/42039431/)
 
-    Tobochnik J, Gould H, Klein W.
+    Su Z, Yin S, Wu Y.
 
-    Phys Rev E. 2026 Mar;113(3-1):034309. doi: 10.1103/2mh9-nn23.
+    bioRxiv \[Preprint\]. 2026 Apr 16:2026.04.14.718434. doi:
+    10.64898/2026.04.14.718434.
 
-    > An agent-based model of the economy is generalized to incorporate
-    > investment and guaranteed income mechanisms in addition to the
-    > exchange and distribution mechanisms considered in an earlier
-    > model. …
+    > Here we present MISSTE, a modular framework that integrates
+    > Boolean intracellular state logic, agent-based modeling, and
+    > partial differential equation fields within a unified spatial
+    > simulation architecture. As a proof of concept, we applied MISSTE
+    > to CAR-T t …
 
 ## Code of Conduct
 
