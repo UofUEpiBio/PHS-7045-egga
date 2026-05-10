@@ -9,161 +9,160 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-05-03 00:21:40.
+update was on 2026-05-10 00:23:11.
 
 <div class="cell">
 
 </div>
 
-1.  [**The exploration of immune system function changes in marathon
-    athletes after high-intensity training by Agent-Based
-    Model.**](https://pubmed.ncbi.nlm.nih.gov/42065088/)
+1.  [**Modeling individual self-protective behavior during
+    epidemics.**](https://pubmed.ncbi.nlm.nih.gov/42102127/)
 
-    Tian H, Zuo R, Wang D, Qian G, Ye Q, Kawczyński A, Trybulski R,
-    Clemente FM.
+    Yu G, Garee M, Ventresca M, Yih Y.
 
-    Front Sports Act Living. 2026 Apr 15;8:1780114. doi:
-    10.3389/fspor.2026.1780114. eCollection 2026.
+    PLoS Comput Biol. 2026 May 8;22(5):e1014252. doi:
+    10.1371/journal.pcbi.1014252. Online ahead of print.
 
-    > This study explored the chronic effects of a four-week
-    > high-intensity training (HIT) block on immune markers in
-    > professional marathon athletes and evaluated the utility of an
-    > Agent-Based Model (ABM) for visualizing these system behaviors.
-    > METHODS: Twenty-two …
+    > During the COVID-19 pandemic, unexpected public responses often
+    > undermined the effectiveness of interventions, highlighting the
+    > need to understand collective behavioral patterns and motivations
+    > to design more effective mitigation strategies. This study
+    > presents an agent- …
 
-2.  [**Uncertainty Aware Decision Support with Computationally Expensive
-    Simulation Models: A Case Study of HIV Intervention
-    Scenarios.**](https://pubmed.ncbi.nlm.nih.gov/42064955/)
+2.  [**Transcendental model selection: a computational account of
+    symbolic cognition and general intelligence through morality and
+    culture.**](https://pubmed.ncbi.nlm.nih.gov/42099963/)
 
-    Fadikar A, Hotton A, de Lima PN, Vardavas R, Collier N, Jia K, Rimer
-    S, Khanna A, Schneider J, Ozik J.
+    Rahman S, Pashea A.
 
-    medRxiv \[Preprint\]. 2026 Apr 17:2026.04.15.26350970. doi:
-    10.64898/2026.04.15.26350970.
+    Front Sociol. 2026 Apr 22;11:1646503. doi:
+    10.3389/fsoc.2026.1646503. eCollection 2026.
 
-    > Detailed agent-based simulations are increasingly used to support
-    > policy decisions, but their computational cost and complex
-    > uncertainty structure make systematic scenario analysis
-    > challenging. …Rather than producing a single baseline, the
-    > calibration stage yields …
+    > Symbolic systems such as language extend this capacity, allowing
+    > humans to build social groups and construct world models beyond
+    > typical biological constraints. Previous research on linguistic
+    > communication within active inference has emphasized deep
+    > hierarchical models …
 
-3.  [**An agent-based learning model integrating sex differences in
-    renal cell carcinoma.**](https://pubmed.ncbi.nlm.nih.gov/42064045/)
+3.  [**Predicting Pain Using a Data-Driven Agent-Based Model of the
+    Bilateral Central
+    Amygdala.**](https://pubmed.ncbi.nlm.nih.gov/42094411/)
 
-    Merelli E, Taha T, Caputo M, Obude D, Papa E, Rizzo A, Buti S,
-    Massari F, Molina-Cerrillo J, Monteiro FSM, Maiorano BA, Santoni M.
+    Paul BK, Kwiatkowski M, Zhantibiyeva F, Singh S, Nguyen C, Devi
+    Singari SV, Perumal CD, Anandan I, Adke AP, Sadler KE, Carrasquillo
+    Y, Neilan RM, Kolber BJ.
 
-    Front Immunol. 2026 Apr 1;17:1779638. doi:
-    10.3389/fimmu.2026.1779638. eCollection 2026.
+    bioRxiv \[Preprint\]. 2026 Apr 28:2026.04.24.720694. doi:
+    10.64898/2026.04.24.720694.
 
-    > Agent-based models (ABMs) effectively simulate tumor-immune
-    > interactions but are rarely extended to include sex-specific
-    > modulation or machine learning-based optimization. This study
-    > enhanced an agent-based learning model (ALM) to simulat …
+    > To this end, we developed a three-dimensional computer model of
+    > the bilateral central nucleus of the amygdala (CeA). We employed
+    > agent-based modelling to integrate wet-lab data from two CeA cell
+    > populations: Calcitonin Gene-Related Peptide Receptor (CG …
 
-4.  [**Despotism promotes dyadic cooperation through enhanced
-    interdependencies in non-human primate
-    societies.**](https://pubmed.ncbi.nlm.nih.gov/42062250/)
+4.  [**Dissecting and steering cell dynamics using spatially-informed
+    RNA velocity with
+    veloAgent.**](https://pubmed.ncbi.nlm.nih.gov/42092184/)
 
-    Bhattacharjee D, Zijlstra TW, Roth TS, Belli E, Calis S, Escriche
-    Chova P, Cousin E, de Jong JA, de Laat EJAM, Guðjónsdóttir AR,
-    Janmaat KRL, Jeunink EJ, Kluiver CE, Kuijer PEN, Middelburg E,
-    Pflüger LS, Schroderus VI, van Dijk ESJ, Verspeek J, Waasdorp S,
-    Zeeman AN, Sterck EHM, van Leeuwen EJC, Massen JJM.
+    Raghavan V, Yoon B, Fonseca GJ, Li Y, Ding J.
 
-    Nat Commun. 2026 Apr 30;17(1):3513. doi: 10.1038/s41467-026-71168-7.
+    Mol Syst Biol. 2026 May 6. doi: 10.1038/s44320-026-00213-w. Online
+    ahead of print.
 
-    > Dyadic prosociality, kinship, and tolerance positively predict
-    > cooperation. Further, our agent-based models demonstrate that
-    > despotic societies have fewer but more stable bonds and, thus,
-    > higher dyadic interdependencies than in egalitarian societies. …
+    > RNA velocity enables inference of cell state transitions from
+    > single-cell transcriptomics by modeling transcriptional dynamics
+    > from spliced and unspliced mRNA. However, existing methods
+    > overlook spatial context and struggle to scale to large datasets,
+    > limiting insights int …
 
-5.  [**On-device artificial intelligence agent based on language models
-    for electrochemical water
-    desalination.**](https://pubmed.ncbi.nlm.nih.gov/42060995/)
+5.  [**A personalized mechanobiology-driven multiscale model of
+    atherosclerosis.**](https://pubmed.ncbi.nlm.nih.gov/42090946/)
 
-    Ullah Z, Kim HH, Son M.
+    Caballero R, Martínez MÁ, Wentzel JJ, Akyildiz AC, Peña E.
 
-    Water Res. 2026 Apr 21;301:125995. doi:
-    10.1016/j.watres.2026.125995. Online ahead of print.
+    Comput Biol Med. 2026 May 5;210:111715. doi:
+    10.1016/j.compbiomed.2026.111715. Online ahead of print.
 
-    > Here, we introduce an intelligent on-device platform that combines
-    > electrochemical process knowledge with large language models
-    > deployed directly on edge devices such as Raspberry Pi. This
-    > system integrates theoretical understanding with real-time
-    > optimization, eliminating …
+    > Here we present a validation study of a hybrid multiscale model
+    > that couples computational fluid dynamics (CFD),
+    > mass-transport-driven low-density lipoprotein (LDL) maps, and an
+    > agent-based model (ABM) of cell behavior to predict coronary
+    > plaque initia …
 
-6.  [**Mechanistic modelling of highly pathogenic avian influenza: A
-    scoping review revealing critical gaps in cross-species transmission
-    models.**](https://pubmed.ncbi.nlm.nih.gov/42060628/)
+6.  [**PDE and agent based simulation approaches to Ischemic Dermal
+    Wound Closure.**](https://pubmed.ncbi.nlm.nih.gov/42090456/)
 
-    Wang M, Laison EKE, Philippsen T, Ghaemi S, Liu J, Moyles I, Signore
-    A, Ma J, Nasri B.
+    Lazebnik T, Friedman A.
 
-    PLoS One. 2026 Apr 30;21(4):e0347929. doi:
-    10.1371/journal.pone.0347929. eCollection 2026.
+    PLoS One. 2026 May 6;21(5):e0340624. doi:
+    10.1371/journal.pone.0340624. eCollection 2026.
 
-    > Agent-based models (2 studies) captured individual-level
-    > interactions and spatial heterogeneity, while network models (2
-    > studies) represented contact structures and transmission pathways
-    > between farms or species. CONCLUSIONS: Currently, mechanistic …
+    > We developed two very different mathematical models of symmetric
+    > flat wounds, one by Partial Differential Equations (PDE) and
+    > another by Agent-based Simulation (ABS) with some parameters taken
+    > from the PDE model. The models include the important …
 
-7.  [**Whispers of Pathogens; Social Contagion in Infectious Disease
-    Dynamics: A Review.**](https://pubmed.ncbi.nlm.nih.gov/42058569/)
+7.  [**Echo chambers can emerge without algorithmic personalization or a
+    preference for
+    homogeneity.**](https://pubmed.ncbi.nlm.nih.gov/42090384/)
 
-    Fayez SM.
+    Törnberg P.
 
-    Health Sci Rep. 2026 Apr 28;9:e72463. doi: 10.1002/hsr2.72463.
+    PLoS One. 2026 May 6;21(5):e0347207. doi:
+    10.1371/journal.pone.0347207. eCollection 2026.
+
+    > We propose a different mechanism. Using a minimal agent-based
+    > model, we show that strong segregation can arise even without
+    > algorithmic personalization and without users preferring
+    > homogeneous environments. …Once small imbalances arise, feedback
+    > between exi …
+
+8.  [**Large Language Models for Diagnosis and Prognosis of Chronic
+    Liver Diseases: A Systematic
+    Review.**](https://pubmed.ncbi.nlm.nih.gov/42089001/)
+
+    Njei B, Al-Ajlouni YA, Ajayi A, Shahin F, Ta’ani OA, Boateng S,
+    Ketwaroo G, Protiva P.
+
+    Health Sci Rep. 2026 May 3;9:e72476. doi: 10.1002/hsr2.72476.
     eCollection 2026 May.
 
-    > RESULTS: Four major themes emerged from the synthesis of
-    > identified literature: (1) structural and commercial determinants
-    > socioeconomic inequality, racism, and commercial practices produce
-    > environments where infectious and non-communicable diseases
-    > interact synergistically; (2) …
+    > Studies spanned multiple regions, including the USA, Europe,
+    > China, South Asia, and Australia, and employed diverse designs.
+    > Evaluated models included ChatGPT-3.5/4, GPT-4o, Bard, Gemini,
+    > vision-enabled GPT, and retrieval-augmented frameworks.
+    > Applications clustered into f …
 
-8.  [**Polyandry: A threat or an opportunity for the sterile
-    insecttechnique?**](https://pubmed.ncbi.nlm.nih.gov/42054423/)
+9.  [**Subspecialty-specific foundation model for intelligent
+    gastrointestinal
+    pathology.**](https://pubmed.ncbi.nlm.nih.gov/42082713/)
 
-    Courtois MA, van Oudenhove L, Touzeau S, Grognard F, Mailleret L.
+    Zhu L, Ling X, Ouyang M, Liu X, Guan T, Fu M, Zeng M, Cheng Z, Fu F,
+    Huang Q, Zhu M, Jin Y, He Q, Wang Y, Cheng J, Wang X, Xie L, Li H,
+    Tian S, He Y.
 
-    PLoS Comput Biol. 2026 Apr 29;22(4):e1014212. doi:
-    10.1371/journal.pcbi.1014212. Online ahead of print.
+    NPJ Digit Med. 2026 May 4. doi: 10.1038/s41746-026-02684-5. Online
+    ahead of print.
 
-    > In this study, we develop and analyze a compartmental mathematical
-    > model based on differential equations to investigate the overall
-    > impact of multiple mating on SIT efficiency. We further analyze
-    > the effect of sperm use biases with an agent-based model …
+    > While existing computational pathology foundation models are often
+    > validated across many subspecialties in “broad but shallow”
+    > benchmarks, they rarely demonstrate deep clinical utility in
+    > real-world scenarios. …Moreover, we integrate its capabilities
+    > into an agent …
 
-9.  [**Adjuvant databases and knowledge bases for data-driven research:
-    a computational biology
-    perspective.**](https://pubmed.ncbi.nlm.nih.gov/42048764/)
+10. [**Mitochondrial mechanics nucleates axonal jamming and
+    swelling.**](https://pubmed.ncbi.nlm.nih.gov/42079133/)
 
-    Natsume-Kitatani Y.
+    Noerr PS, Abushawish AA, Pekkurnaz G, Rangamani P.
 
-    Curr Opin Virol. 2026 Apr 27;76:101542. doi:
-    10.1016/j.coviro.2026.101542. Online ahead of print.
+    bioRxiv \[Preprint\]. 2026 Apr 25:2026.04.23.720276. doi:
+    10.64898/2026.04.23.720276.
 
-    > By categorizing them into quantitative and qualitative data,
-    > several examples of different data-driven approaches, such as
-    > systems vaccinology, graph neural network for knowledge graph, AI
-    > agent based on a large language model, illustrating how each type
-    > of d …
-
-10. [**MISSTE: a multiscale integrative spatial simulator for
-    understanding the mechanisms underlying tissue
-    ecosystems.**](https://pubmed.ncbi.nlm.nih.gov/42039431/)
-
-    Su Z, Yin S, Wu Y.
-
-    bioRxiv \[Preprint\]. 2026 Apr 16:2026.04.14.718434. doi:
-    10.64898/2026.04.14.718434.
-
-    > Here we present MISSTE, a modular framework that integrates
-    > Boolean intracellular state logic, agent-based modeling, and
-    > partial differential equation fields within a unified spatial
-    > simulation architecture. As a proof of concept, we applied MISSTE
-    > to CAR-T t …
+    > Bidirectional motor-driven trafficking inherently introduces the
+    > potential for collisions, but the implications of these
+    > interactions for transport failure and structural damage are not
+    > understood. Here, we develop an agent-based model that couples
+    > mitochondr …
 
 ## Code of Conduct
 
