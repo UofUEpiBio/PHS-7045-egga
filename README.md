@@ -9,155 +9,157 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-05-24 00:26:28.
+update was on 2026-05-31 00:28:56.
 
 <div class="cell">
 
 </div>
 
-1.  [**Agent-Based Model for Temperature and Precipitation-Dependent
-    Population Dynamics of Aedes
-    vexans.**](https://pubmed.ncbi.nlm.nih.gov/42175388/)
+1.  [**Multiscale predictive cellular modeling: integrating hypothesis
+    grammars, digital twins, and multi-omics for In silico oncology and
+    precision
+    theranostics.**](https://pubmed.ncbi.nlm.nih.gov/42213163/)
 
-    Schwaiger A, Schweitzer M, Hackl WO, Neururer S, Taha H, Pfeifer B.
+    Gopukumar ST, Dwivedi D, Rahamathulla M, Ahmed MM, Soni TK,
+    Natarajan PG, Ramkanth S, Mitra A, Das U.
 
-    Stud Health Technol Inform. 2026 May 21;336:2487-2488. doi:
-    10.3233/SHTI260721.
+    Funct Integr Genomics. 2026 May 29;26(1):113. doi:
+    10.1007/s10142-026-01890-4.
 
-    > Simulations of the population dynamics for the mosquito species
-    > Aedes vexans under varying weather scenarios in the federal state
-    > of Tirol were carried out utilizing the agent-based framework,
-    > SURVIRAL….
+    > Predictive multiscale cellular modeling is emerging as a
+    > consequential direction in precision medicine, converging
+    > hypothesis grammars, digital twins, and integrative genomics to
+    > interrogate tumor-immune dynamics, therapeutic resistance, and
+    > cellular plasticity. …Hypothe …
 
-2.  [**Agent-Based Improvement of Multiple-Choice Question Quality in
-    Medical Education.**](https://pubmed.ncbi.nlm.nih.gov/42175303/)
+2.  [**Does Licensing Matter? Cyanide Handling, Cyanidation Wastewater
+    Treatment, and Tailings Management in Gold Leaching Plants in Siaya
+    County, Kenya.**](https://pubmed.ncbi.nlm.nih.gov/42213147/)
 
-    Düsterbeck LM, Grössler M, Credidio G, Bellmann L, Riemann LT.
+    Ayoo BA.
 
-    Stud Health Technol Inform. 2026 May 21;336:2120-2124. doi:
-    10.3233/SHTI260635.
+    Environ Manage. 2026 May 29;76(6):197. doi:
+    10.1007/s00267-026-02523-z.
 
-    > High-quality multiple-choice questions (MCQs) are essential for
-    > medical education, but costly to design. Large language models
-    > (LLMs) can generate MCQs automatically, yet their outputs often
-    > fail to meet core quality criteria. …
+    > Results revealed that 86.7% of surveyed plants operated without
+    > mandatory EIAs, exploiting agent-based mineral licensing loopholes
+    > that allow multiple facilities to circumvent individual
+    > environmental obligations. …To address these gaps, the study
+    > advocates for ou …
 
-3.  [**Childbirth Mobilities: A Geo-Spatial Simulation
-    Approach.**](https://pubmed.ncbi.nlm.nih.gov/42175199/)
+3.  [**Tissue scaffold architecture affects implant degradation and bone
+    tissue regeneration: A novel in silico mechanobiological model
+    analysing cell behavior, mechanical stress and degradation
+    kinematics.**](https://pubmed.ncbi.nlm.nih.gov/42207767/)
 
-    Paolillo R, Accordino F, Pecoraro F.
+    Alshammari A, Alabdah F, Li L, Cooper G.
 
-    Stud Health Technol Inform. 2026 May 21;336:1766-1770. doi:
-    10.3233/SHTI260528.
+    PLoS One. 2026 May 28;21(5):e0349708. doi:
+    10.1371/journal.pone.0349708. eCollection 2026.
 
-    > This contribution aims at filling this gap leveraging agent-based
-    > modeling as a method of collective artificial intelligence,
-    > modeling the decisional process of expectant women and social
-    > influence mechanisms. We initialize our model with a synt …
+    > A finite element model of a synthetic bone tissue scaffold within
+    > a rat bone defect supported by a fixation plate was coupled with
+    > an agent-based cell and degradation model (both bulk and surface
+    > degradation). …Additionally, models should also …
 
-4.  [**Integrating Causal Inference and Agent-Based Modelling to Assess
-    the Impact of Clinicians’ Guideline Adherence in Older Adults
-    Hospitalized with
-    Pneumonia.**](https://pubmed.ncbi.nlm.nih.gov/42174856/)
+4.  [**Universal principles of cell population growth follow from local
+    contact inhibition.**](https://pubmed.ncbi.nlm.nih.gov/42205703/)
 
-    Pecoraro F, Prosperi M.
+    Kimmel GJ, Marzban S, Damaghi M, Traulsen A, Anderson ARA, West J,
+    Altrock PM.
 
-    Stud Health Technol Inform. 2026 May 21;336:373-377. doi:
-    10.3233/SHTI260180.
+    iScience. 2026 May 15;29(6):115953. doi: 10.1016/j.isci.2026.115953.
+    eCollection 2026 Jun 19.
 
-    > This study integrates agent-based modeling (ABM) and causal
-    > machine learning (ML) to assess the impact of clinicians’
-    > adherence to antibiotic guidelines in older adults hospitalized
-    > with community-acquired pneumonia (CAP). …We evaluate how varying
-    > hospital- …
+    > All five can be seen as manifestations of a single microscopic
+    > model. Agent-based simulations substantiate our theory, and we can
+    > explain differences in growth curves in experimental data from in
+    > vitro cancer cell population growth. …
 
-5.  [**MEET-eaters: An agent-based model of food consumption practices
-    at the household
-    level.**](https://pubmed.ncbi.nlm.nih.gov/42172219/)
+5.  [**Comparing data assimilation and likelihood-based inference on
+    latent state estimation in agent-based
+    models.**](https://pubmed.ncbi.nlm.nih.gov/42205237/)
 
-    Blokhuis C, Polhill JG, Ocké M, de Vet E, Hofstede GJ.
+    Kolic B, Monti C, De Francisci Morales G, Pangallo M.
 
-    PLoS One. 2026 May 22;21(5):e0347961. doi:
-    10.1371/journal.pone.0347961. eCollection 2026.
+    PNAS Nexus. 2026 May 19;5(5):pgag161. doi:
+    10.1093/pnasnexus/pgag161. eCollection 2026 May.
 
-    > So far, no studies have examined both the two-way interaction
-    > between supermarket supply and household demand, and the role of
-    > decision-making about meals within households. This study
-    > introduces the agent-based model MEET-eaters, a computational
-    > model …
+    > In this article, we present the first systematic comparison of
+    > data assimilation (DA) and likelihood-based inference (LBI) in the
+    > context of an agent-based model (ABM). These models generate
+    > observable time series driven by evolving, partially latent m …
 
-6.  [**Optimal locomotor strategy for predator avoidance in fish
-    prey.**](https://pubmed.ncbi.nlm.nih.gov/42165507/)
+6.  [**Blockchain-enabled supply chain finance risk intelligent
+    assessment and trust mechanism
+    construction.**](https://pubmed.ncbi.nlm.nih.gov/42204201/)
 
-    Peterson AN, McHenry MJ.
+    Chen Z, Zhang F.
 
-    J Exp Biol. 2026 May 21:jeb.249595. doi: 10.1242/jeb.249595. Online
-    ahead of print.
+    Sci Rep. 2026 May 27. doi: 10.1038/s41598-026-53135-w. Online ahead
+    of print.
 
-    > To understand locomotor strategies for these conditions, we
-    > developed an agent-based numerical model for individual prey
-    > damselfish (Chromis viridis) when targeted by a lionfish predator
-    > (Pterois volitans). …These findings demonstrate the power of agent
-    > …
+    > Smart contracts enforce predefined financial agreements,
+    > automating processes and reducing the need for intermediaries.
+    > Agent-based modelling was employed to develop a blockchain-based
+    > simulation testbed for assessing Bi-MATRA’s responsiveness,
+    > accuracy, and …
 
-7.  [**Stigmergic influence of simple bots on human cooperation in
-    digital environments.**](https://pubmed.ncbi.nlm.nih.gov/42164078/)
+7.  [**What are the conceptual primitives of relationships? An
+    agent-based modeling
+    approach.**](https://pubmed.ncbi.nlm.nih.gov/42203718/)
 
-    Bassanetti T, Cezera S, Delacroix M, Escobedo R, Blanchet A, Sire C,
-    Theraulaz G.
+    Lavrador C, Pietraszewski D.
 
-    EPJ Data Sci. 2026;15(1):49. doi: 10.1140/epjds/s13688-026-00653-2.
-    Epub 2026 Apr 13.
+    Behav Brain Sci. 2026 May 28;49:e36. doi: 10.1017/S0140525X25101192.
 
-    > By classifying individuals into three behavioral
-    > profiles-collaborators, neutrals, and defectors-we develop a
-    > linear regression model using three cues: the average value of
-    > rated cells, the diversity of rated cells, and the player’s rank.
-    > These cues allow accurate predicti …
+    > The tripartite relationship model is unlikely to reflect how
+    > relationships are represented in the mind, given considerable
+    > difficulty in wresting clear conceptual distinctions from it.
+    > …Here, we present examples of conceptual difficulties of the model
+    > and elaborat …
 
-8.  [**Modeling cell migratory persistence through temporal correlations
-    and angular noise.**](https://pubmed.ncbi.nlm.nih.gov/42160268/)
+8.  [**Rethinking the social structuring of health: Toward an
+    epidemiological
+    sociology.**](https://pubmed.ncbi.nlm.nih.gov/42202583/)
 
-    Montenegro-Rojas I, Andaur-Lobos M, Soler-Orozco K, Castelli-Lacunza
-    D, Bertocchi C, Matzavinos A, Ravasio A.
+    Consolazio D.
 
-    PLoS One. 2026 May 20;21(5):e0349382. doi:
-    10.1371/journal.pone.0349382. eCollection 2026.
+    Soc Sci Med. 2026 May 25;403:119450. doi:
+    10.1016/j.socscimed.2026.119450. Online ahead of print.
 
-    > This feature underlies essential processes such as development,
-    > immune responses, and cancer invasion. Classical mathematical
-    > models have offered key insights into directed migration, yet they
-    > often neglect temporal correlations arising from cellular
-    > mechanisms that stabil …
+    > By advancing a more integrated perspective on the relationship
+    > between social conditions and health - illustrated through a
+    > critical engagement with research strands such as
+    > intersectionality, social network analysis, agent-based modelling,
+    > experimental psych …
 
-9.  [**Transmission Dominance Under Random-Contact Intensification in
-    Epidemic Networks: Multilayer Contact Network Simulation
-    Study.**](https://pubmed.ncbi.nlm.nih.gov/42160132/)
+9.  [**Lunar base agent-based modeling - A benchmark for simulating
+    crewed space missions.**](https://pubmed.ncbi.nlm.nih.gov/42201884/)
 
-    Zhang M, Maekawa T, Sekiguchi K, Murata T, Ohsawa Y.
+    Vera R, Berea A, Kennedy WG.
 
-    JMIR Form Res. 2026 May 20;10:e90393. doi: 10.2196/90393.
+    PLoS One. 2026 May 27;21(5):e0348882. doi:
+    10.1371/journal.pone.0348882. eCollection 2026.
 
-    > Daily contact networks were sampled from the potential network
-    > each day, and transmission was simulated for 120 days using a
-    > Susceptible-Exposed-Infectious-Removed model with vaccination.
-    > Individuals were classified into high-contact and medium-contact
-    > groups based on base …
+    > By simulating upcoming permanent space missions in an agent-based
+    > model (ABM), we can draw insights into the long-term effects of
+    > human factors and interactions in space. …Monte Carlo simulations
+    > consisting of tens of thousands of iterations show trade-offs …
 
-10. [**Stress-triggered cell elimination stabilizes resource-limited
-    cell collectives: An agent-based
-    model.**](https://pubmed.ncbi.nlm.nih.gov/42155663/)
+10. [**AGREE-YOLO: A Framework for Seafood Recognition and
+    Cross-Cultural Gastronomic
+    Recommendation.**](https://pubmed.ncbi.nlm.nih.gov/42195998/)
 
-    Korkmaz B.
+    Hou M, Liu S, Wei J, Zhi K, Liu M, Lin C.
 
-    Biosystems. 2026 May 20;265:105818. doi:
-    10.1016/j.biosystems.2026.105818. Online ahead of print.
+    Foods. 2026 May 19;15(10):1795. doi: 10.3390/foods15101795.
 
-    > Alongside their energetic benefits, mitochondrial apoptosis
-    > regulation may have helped shape the earliest steps toward stable
-    > multicellular organization. An agent-based modeling framework is
-    > developed to isolate and quantify the evolutionary impact of a
-    > mitoc …
+    > Real-time visual recognition systems integrated with culturally
+    > adaptive reasoning are urgently demanded in globalized culinary
+    > scenarios. An agent-oriented framework, Agent-based Gastronomy
+    > Recommender Enhanced Engine with YOLO (AGREE-YOLO), is proposed in
+    > this stu …
 
 ## Code of Conduct
 
