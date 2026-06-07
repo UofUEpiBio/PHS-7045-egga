@@ -9,13 +9,130 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-05-31 00:28:56.
+update was on 2026-06-07 00:30:19.
 
 <div class="cell">
 
 </div>
 
-1.  [**Multiscale predictive cellular modeling: integrating hypothesis
+1.  [**Mathematical and computational modeling of biosystems at
+    different levels of
+    organization.**](https://pubmed.ncbi.nlm.nih.gov/42245176/)
+
+    Lashin SA, Ivanov RA, Matushkin YG.
+
+    Vavilovskii Zhurnal Genet Selektsii. 2026 May;30(3):502-514. doi:
+    10.18699/vjgb-26-21.
+
+    > We survey classical deterministic and stochastic models based on
+    > ordinary and partial differential equations, logical and
+    > graph-based models of regulatory networks, cellular automata,
+    > agent-based models, as well as flux-balance approaches. …Me …
+
+2.  [**Post-wildfire housing recovery simulation via an agent-based
+    model.**](https://pubmed.ncbi.nlm.nih.gov/42243189/)
+
+    Costa R, Nejat A, Hamideh S.
+
+    Sci Rep. 2026 Jun 4. doi: 10.1038/s41598-026-48424-3. Online ahead
+    of print.
+
+    > Here, we introduce RAAbIT (Recovery Assessment using Agent-based
+    > Tools), a novel agent-based model designed to simulate housing
+    > recovery using data available within weeks of a disaster. …We
+    > demonstrate the model’s utility by hind …
+
+3.  [**An agent-based platform for simulating the impact of chlamydia
+    vaccine in the US
+    population.**](https://pubmed.ncbi.nlm.nih.gov/42230619/)
+
+    Deng Q, Ranson G, Bragazzi NL, Castells VB, Chaves SS, Thommes E, Wu
+    J.
+
+    Nat Commun. 2026 Jun 2. doi: 10.1038/s41467-026-74025-9. Online
+    ahead of print.
+
+    > Chlamydia trachomatis (CT) remains the most reported bacterial
+    > sexually transmitted infection in the United States (US),
+    > underscoring the urgent need for an effective vaccine. An
+    > agent-based model calibrated to the US National Survey of Family
+    > Growth (NSFG) a …
+
+4.  [**Swimming speed of schooling fish controls social interaction
+    strength in open-loop immersive virtual
+    reality.**](https://pubmed.ncbi.nlm.nih.gov/42229927/)
+
+    Escobedo R, Reynaud J, Sanchez S, Sire C, Theraulaz G.
+
+    Proc Biol Sci. 2026 Jun 3;293(2072):20260146. doi:
+    10.1098/rspb.2026.0146.
+
+    > To interpret these patterns, we combined the experiments with a
+    > data-driven three-dimensional model of fish interactions.
+    > Model-based reconstructions show that increasing neighbour speed
+    > weakens horizontal and vertical attraction while strengthening
+    > alignment and wa …
+
+5.  [**A large language model framework for sample-free population
+    synthesis.**](https://pubmed.ncbi.nlm.nih.gov/42228755/)
+
+    Jones M, Dawson R, Mills J.
+
+    PLoS One. 2026 Jun 2;21(6):e0341704. doi:
+    10.1371/journal.pone.0341704. eCollection 2026.
+
+    > Synthetic populations provide the demographic foundations for
+    > agent-based models in transport, public health, disaster
+    > management and other sectors, enabling credible representations of
+    > individual characteristics and behaviours. …The principal
+    > contribution …
+
+6.  [**Paradoxical angiogenic activation under anti-VEGF therapy: tip
+    cell hyper-sprouting and vessel remodeling drive inefficient
+    vascularization in multiscale tumor
+    simulations.**](https://pubmed.ncbi.nlm.nih.gov/42226126/)
+
+    Manshadi MD, Soltani M.
+
+    BMC Cancer. 2026 Jun 1. doi: 10.1186/s12885-026-16293-8. Online
+    ahead of print.
+
+    > Paradoxically, clinical and preclinical studies report transient
+    > increases in vessel density or abnormal vascular patterning under
+    > treatment, phenomena poorly understood mechanistically. METHODS:
+    > Using a multiscale 3D agent-based model of solid tumor growth, …
+
+7.  [**OPOSim: An Agent-Based Model for Evaluating Long-Term Effects of
+    Opioid Policy Outcomes in North
+    Carolina.**](https://pubmed.ncbi.nlm.nih.gov/42221853/)
+
+    Duprey MA, Adams JW, Khan SS, Bobashev GV.
+
+    J Artif Soc Soc Simul. 2026 Jan 31;29(1):5. doi:
+    10.18564/jasss.5892.
+
+    > The opioid epidemic remains a critical public health issue in the
+    > United States, with North Carolina experiencing particularly high
+    > opioid-related mortality rates. This study introduces OPOSim, an
+    > agent-based model designed to assess the long-term impacts of …
+
+8.  [**Intelligent financial forecasting using transformers,
+    neuro-symbolic AI, and agent-based
+    systems.**](https://pubmed.ncbi.nlm.nih.gov/42218199/)
+
+    Jeyajeev V, Kannan RJ, Deebalakshmi R, Rajagopal BG, Jeyakrishnan V,
+    Abbas M, Kalathil S.
+
+    Sci Rep. 2026 May 30. doi: 10.1038/s41598-026-49558-0. Online ahead
+    of print.
+
+    > Forecasting the stock market is a difficult task because of the
+    > volatile price movements and complex temporal dependencies.
+    > Established models frequently do not realize these unstable
+    > trends, which leads to changeable forecasting. This paper
+    > introduces a comfortable AI-dri …
+
+9.  [**Multiscale predictive cellular modeling: integrating hypothesis
     grammars, digital twins, and multi-omics for In silico oncology and
     precision
     theranostics.**](https://pubmed.ncbi.nlm.nih.gov/42213163/)
@@ -32,7 +149,7 @@ update was on 2026-05-31 00:28:56.
     > interrogate tumor-immune dynamics, therapeutic resistance, and
     > cellular plasticity. …Hypothe …
 
-2.  [**Does Licensing Matter? Cyanide Handling, Cyanidation Wastewater
+10. [**Does Licensing Matter? Cyanide Handling, Cyanidation Wastewater
     Treatment, and Tailings Management in Gold Leaching Plants in Siaya
     County, Kenya.**](https://pubmed.ncbi.nlm.nih.gov/42213147/)
 
@@ -46,120 +163,6 @@ update was on 2026-05-31 00:28:56.
     > that allow multiple facilities to circumvent individual
     > environmental obligations. …To address these gaps, the study
     > advocates for ou …
-
-3.  [**Tissue scaffold architecture affects implant degradation and bone
-    tissue regeneration: A novel in silico mechanobiological model
-    analysing cell behavior, mechanical stress and degradation
-    kinematics.**](https://pubmed.ncbi.nlm.nih.gov/42207767/)
-
-    Alshammari A, Alabdah F, Li L, Cooper G.
-
-    PLoS One. 2026 May 28;21(5):e0349708. doi:
-    10.1371/journal.pone.0349708. eCollection 2026.
-
-    > A finite element model of a synthetic bone tissue scaffold within
-    > a rat bone defect supported by a fixation plate was coupled with
-    > an agent-based cell and degradation model (both bulk and surface
-    > degradation). …Additionally, models should also …
-
-4.  [**Universal principles of cell population growth follow from local
-    contact inhibition.**](https://pubmed.ncbi.nlm.nih.gov/42205703/)
-
-    Kimmel GJ, Marzban S, Damaghi M, Traulsen A, Anderson ARA, West J,
-    Altrock PM.
-
-    iScience. 2026 May 15;29(6):115953. doi: 10.1016/j.isci.2026.115953.
-    eCollection 2026 Jun 19.
-
-    > All five can be seen as manifestations of a single microscopic
-    > model. Agent-based simulations substantiate our theory, and we can
-    > explain differences in growth curves in experimental data from in
-    > vitro cancer cell population growth. …
-
-5.  [**Comparing data assimilation and likelihood-based inference on
-    latent state estimation in agent-based
-    models.**](https://pubmed.ncbi.nlm.nih.gov/42205237/)
-
-    Kolic B, Monti C, De Francisci Morales G, Pangallo M.
-
-    PNAS Nexus. 2026 May 19;5(5):pgag161. doi:
-    10.1093/pnasnexus/pgag161. eCollection 2026 May.
-
-    > In this article, we present the first systematic comparison of
-    > data assimilation (DA) and likelihood-based inference (LBI) in the
-    > context of an agent-based model (ABM). These models generate
-    > observable time series driven by evolving, partially latent m …
-
-6.  [**Blockchain-enabled supply chain finance risk intelligent
-    assessment and trust mechanism
-    construction.**](https://pubmed.ncbi.nlm.nih.gov/42204201/)
-
-    Chen Z, Zhang F.
-
-    Sci Rep. 2026 May 27. doi: 10.1038/s41598-026-53135-w. Online ahead
-    of print.
-
-    > Smart contracts enforce predefined financial agreements,
-    > automating processes and reducing the need for intermediaries.
-    > Agent-based modelling was employed to develop a blockchain-based
-    > simulation testbed for assessing Bi-MATRA’s responsiveness,
-    > accuracy, and …
-
-7.  [**What are the conceptual primitives of relationships? An
-    agent-based modeling
-    approach.**](https://pubmed.ncbi.nlm.nih.gov/42203718/)
-
-    Lavrador C, Pietraszewski D.
-
-    Behav Brain Sci. 2026 May 28;49:e36. doi: 10.1017/S0140525X25101192.
-
-    > The tripartite relationship model is unlikely to reflect how
-    > relationships are represented in the mind, given considerable
-    > difficulty in wresting clear conceptual distinctions from it.
-    > …Here, we present examples of conceptual difficulties of the model
-    > and elaborat …
-
-8.  [**Rethinking the social structuring of health: Toward an
-    epidemiological
-    sociology.**](https://pubmed.ncbi.nlm.nih.gov/42202583/)
-
-    Consolazio D.
-
-    Soc Sci Med. 2026 May 25;403:119450. doi:
-    10.1016/j.socscimed.2026.119450. Online ahead of print.
-
-    > By advancing a more integrated perspective on the relationship
-    > between social conditions and health - illustrated through a
-    > critical engagement with research strands such as
-    > intersectionality, social network analysis, agent-based modelling,
-    > experimental psych …
-
-9.  [**Lunar base agent-based modeling - A benchmark for simulating
-    crewed space missions.**](https://pubmed.ncbi.nlm.nih.gov/42201884/)
-
-    Vera R, Berea A, Kennedy WG.
-
-    PLoS One. 2026 May 27;21(5):e0348882. doi:
-    10.1371/journal.pone.0348882. eCollection 2026.
-
-    > By simulating upcoming permanent space missions in an agent-based
-    > model (ABM), we can draw insights into the long-term effects of
-    > human factors and interactions in space. …Monte Carlo simulations
-    > consisting of tens of thousands of iterations show trade-offs …
-
-10. [**AGREE-YOLO: A Framework for Seafood Recognition and
-    Cross-Cultural Gastronomic
-    Recommendation.**](https://pubmed.ncbi.nlm.nih.gov/42195998/)
-
-    Hou M, Liu S, Wei J, Zhi K, Liu M, Lin C.
-
-    Foods. 2026 May 19;15(10):1795. doi: 10.3390/foods15101795.
-
-    > Real-time visual recognition systems integrated with culturally
-    > adaptive reasoning are urgently demanded in globalized culinary
-    > scenarios. An agent-oriented framework, Agent-based Gastronomy
-    > Recommender Enhanced Engine with YOLO (AGREE-YOLO), is proposed in
-    > this stu …
 
 ## Code of Conduct
 
