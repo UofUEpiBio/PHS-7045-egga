@@ -9,161 +9,155 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-06-21 00:32:52.
+update was on 2026-06-28 00:28:45.
 
 <div class="cell">
 
 </div>
 
-1.  [**Simulating interventions to prevent gastro-intestinal
-    transmission of Clostridioides difficile and antimicrobial-resistant
-    bacteria in healthcare settings: a model calibration
-    study.**](https://pubmed.ncbi.nlm.nih.gov/42320677/)
+1.  [**AI-assisted Software Development in Digital Dentistry: A
+    Technical Innovation Report with Three Open-Source
+    Applications.**](https://pubmed.ncbi.nlm.nih.gov/42361884/)
 
-    Gerada A, Zhong Y, Brookefield C, Howard A, Reza N, Rosato C, Green
-    PL, Hope W.
+    Reymus M, Tichy A, Diegritz C, Weisbrod B, Schwendicke F, Werner N.
 
-    J Hosp Infect. 2026 Jun 19:S0195-6701(26)00241-0. doi:
-    10.1016/j.jhin.2026.06.007. Online ahead of print.
+    J Dent. 2026 Jun 26:106864. doi: 10.1016/j.jdent.2026.106864. Online
+    ahead of print.
 
-    > Infection prevention and control (IPC) measures are used to limit
-    > transmission, but quantifying the impact of individual
-    > interventions remains challenging. METHODS: Here, we describe an
-    > agent-based model (ABM) that simulates faecal-oral transmission of
-    > pathog …
+    > METHODS: Four AI-assisted development approaches were employed:
+    > chat-based interfaces of large language models, command-line
+    > interface tools, integrated development environments with AI
+    > assistance, and agent-based architectures. …
 
-2.  [**A comparison of contact patterns derived from the population
-    structure in agent-based models and empirical contact survey
-    data.**](https://pubmed.ncbi.nlm.nih.gov/42313877/)
+2.  [**Survey-calibrated agent-based modeling of peer targeting for
+    promoting physical activity among
+    adolescents.**](https://pubmed.ncbi.nlm.nih.gov/42359144/)
 
-    Suer J, Ponge J, Brüggemann M, Burgard JP, Belik V, Hellingrath B,
-    Hidalgo AR, Jarynowski AK, Pastor R, Phuong HT, Schulz S, Thampi A,
-    Xu C, Zambrano M, Mikolajczyk R, Karch A, Jaeger VK; OptimAgent
-    Consortium.
+    Long W, Zheng B, Wu Z, Qian H, Zou Y, Tan J, Wang Y.
 
-    PLoS Comput Biol. 2026 Jun 18;22(6):e1013533. doi:
-    10.1371/journal.pcbi.1013533. Online ahead of print.
+    Front Public Health. 2026 Jun 4;14:1807576. doi:
+    10.3389/fpubh.2026.1807576. eCollection 2026.
 
-    > Agent-based models (ABMs) are powerful tools for simulating
-    > disease spread, relying on individual-level interaction rules from
-    > which emergent dynamics arise. …Applying contact matrices from
-    > both approaches to an age-structured compartmental model, le …
+    > OBJECTIVES: This study aims to compare the effectiveness of
+    > various centrality-based peer-targeting strategies in promoting
+    > physical activity (PA) among adolescents and identify practical
+    > principles for school-based social network interventions. STUDY
+    > DESIGN: A modeling st …
 
-3.  [**Spatial topology and competitive access differentially shape
-    early T cell priming in the lymph node: an agent-based modeling
-    approach.**](https://pubmed.ncbi.nlm.nih.gov/42311692/)
+3.  [**Generative Artificial Intelligence and Large Language Models in
+    Clinical Oncology.**](https://pubmed.ncbi.nlm.nih.gov/42358410/)
 
-    Vancells L, Green L, Kong N.
+    Yu Y, Zhao Z, Wang Z, Lin R, Tan Y, Chen Y, Li T, Baptista-Hon D,
+    Zhang X, Wu C, Tong M, Zheng L, Wu J, Monteiro O, Zhang K.
 
-    Front Immunol. 2026 Jun 2;17:1843390. doi:
-    10.3389/fimmu.2026.1843390. eCollection 2026.
+    MedComm (2020). 2026 Jun 23;7(7):e70833. doi: 10.1002/mco2.70833.
+    eCollection 2026 Jul.
 
-    > METHODS: We developed COORDINATE, a spatially explicit agent-based
-    > model of lymph node microanatomy that integrates fibroblastic
-    > reticular cell topology, chemokine-guided migration, and
-    > competition for dendritic cell access. …
+    > This review provides an overview of generative AI in clinical
+    > oncology, covering LLMs, generative adversarial networks,
+    > diffusion models, and multimodal foundation models. We summarize
+    > their methodological foundations and discuss applications in
+    > cancer diagnosis, pr …
 
-4.  [**Air-breathing synchrony in juvenile Arapaima gigas reveals
-    collective coordination under individual physiological
-    constraints.**](https://pubmed.ncbi.nlm.nih.gov/42310419/)
+4.  [**Bank Resolution Trade-Offs Under Coupled Liquidity and Credit
+    Risks: An Agent-Based Network Analysis of Systemic
+    Stability.**](https://pubmed.ncbi.nlm.nih.gov/42352128/)
 
-    Bartashevich P, Francisco FA, Escurra-Alegre A, Schäfer F, Wuertz S,
-    Krause J, Kloas W, Bierbach D.
+    Gao Q, Pan H, Liu Y, Chen N.
 
-    Commun Biol. 2026 Jun 17;9(1):831. doi: 10.1038/s42003-026-10472-w.
+    Entropy (Basel). 2026 May 31;28(6):618. doi: 10.3390/e28060618.
 
-    > In contrast, less is known about how individuals coordinate
-    > state-dependent behaviors shaped by internal physiological needs
-    > that may limit their ability to conform. We address this question
-    > by combining agent-based modeling with empirical observations of a
-    > d …
+    > Prolonged downturns in the global economy have simultaneously
+    > increased banks’ credit risk exposures and intensified the need
+    > for effective liquidity management. This study develops a dynamic
+    > agent-based financial network comprising banks, depositors, firms,
+    > and the …
 
-5.  [**A Computational Trial of Dermal Mechanotransduction in GLP-1
-    Receptor Agonist-Associated Premature Facial
-    Ageing.**](https://pubmed.ncbi.nlm.nih.gov/42310090/)
+5.  [**Study Design, Methods, and Modeling in Networks to Inform HIV
+    Interventions and Policy in Marginalized
+    Populations.**](https://pubmed.ncbi.nlm.nih.gov/42348626/)
 
-    Rahman E, Webb WR, Carruthers JDA.
+    Buchanan A, Pearsall C, Kogut S, Bratberg J, Hogan J, Friedman SR,
+    Katenka N.
 
-    Aesthetic Plast Surg. 2026 Jun 17. doi: 10.1007/s00266-026-05973-2.
-    Online ahead of print.
+    R I Med J (2013). 2026 Jul 1;109(7):36-41.
 
-    > A cohort of 20,000 digital twins (BMI \>30 kg/m(2)) was randomized
-    > across five arms receiving identical Sofwave schedules, but
-    > varying semaglutide start times (concurrent, 1, 3, or 6 months
-    > pre-treatment, vs. Sofwave-only). The multiscale model coupled a
-    > finite element …
+6.  [**Preclinical Dialogue Simulation: Evaluating Response
+    Accessibility in Conversational Artificial Intelligence for Aphasia
+    Therapy.**](https://pubmed.ncbi.nlm.nih.gov/42340760/)
 
-6.  [**Evolution and the ultimatum game: An agent-based model with
-    interbirth intervals and population
-    structure.**](https://pubmed.ncbi.nlm.nih.gov/42302072/)
+    Imaezue GC, Maram KV, Ajayi D, Alohali I, Butta RK.
 
-    Schank JC, Miller ML.
+    J Speech Lang Hear Res. 2026 Jun 24:1-16. doi:
+    10.1044/2026_JSLHR-26-00031. Online ahead of print.
 
-    PLoS Comput Biol. 2026 Jun 16;22(6):e1014387. doi:
-    10.1371/journal.pcbi.1014387. Online ahead of print.
+    > PURPOSE: Large language model (LLM)-driven conversational agents
+    > are increasingly considered for use in clinical contexts, yet
+    > systematic approaches for evaluating their behavior in
+    > impairment-rich, speech-based therapeutic interactions remain
+    > limited. This study extends t …
 
-    > These models have recently faced criticism for lacking biological
-    > realism and not adequately explaining the data. Here, we present
-    > an agent-based model inspired by our hunter-gatherer ancestors and
-    > with a biologically more realistic selection process. …
+7.  [**Comparing the cost-effectiveness of alternative policies for
+    recommending and providing HIV pre-exposure prophylaxis to men who
+    have sex with men in the
+    EU.**](https://pubmed.ncbi.nlm.nih.gov/42336907/)
 
-7.  [**Intelligent tool orchestration for rapid mechanistic model
-    prototyping: MCP servers as AI-biology
-    interfaces.**](https://pubmed.ncbi.nlm.nih.gov/42297831/)
+    Wang B, Brázia J, Teixeira AS, Valdano E.
 
-    Ruscone M, Vazquez M, Valencia A.
+    Sci Rep. 2026 Jun 23. doi: 10.1038/s41598-026-58362-9. Online ahead
+    of print.
 
-    NPJ Syst Biol Appl. 2026 Jun 15. doi: 10.1038/s41540-026-00767-3.
-    Online ahead of print.
+    > Pre-exposure prophylaxis (PrEP) is highly effective in preventing
+    > HIV, yet access and uptake remain uneven. We used a stochastic
+    > agent-based model of HIV transmission among MSM to evaluate the
+    > effectiveness and cost-effectiveness of five PrEP eligibility poli
+    > …
 
-    > Constructing multicellular mechanistic models traditionally
-    > requires extensive time and computational expertise. We introduce
-    > intelligent tool orchestration via Model Context Protocol (MCP)
-    > servers, enabling Large Language Model (LLM) agents to act as AI
-    > labo …
+8.  [**From multiplicity of infection to force of infection in sparsely
+    sampled high-transmission Plasmodium falciparum
+    populations.**](https://pubmed.ncbi.nlm.nih.gov/42333925/)
 
-8.  [**Speed, slope, and synchrony: Empirical insights into SAR searcher
-    behavior.**](https://pubmed.ncbi.nlm.nih.gov/42296159/)
+    Zhan Q, Tiedje KE, Day KP, Pascual M.
 
-    Hashimoto A, Aung E, Koester R, Abaid N.
+    Elife. 2026 Jun 23;13:RP100076. doi: 10.7554/eLife.100076.
 
-    PLoS One. 2026 Jun 15;21(6):e0339541. doi:
-    10.1371/journal.pone.0339541. eCollection 2026.
+    > FOI is difficult and costly to measure, especially in
+    > high-transmission regions, requiring cohort studies or model-based
+    > inference from repeated cross-sectional surveys. Here, we apply
+    > queuing theory to estimate FOI from MOI with two approaches: a
+    > two-moment approximation …
 
-    > In practice, they rely on expert judgment and experience-based
-    > assumptions to coordinate individuals and teams, yet few of these
-    > assumptions have been formally validated with field data and
-    > modeling. We address this gap by analyzing GPS tracks from 64 SAR
-    > incidents, select …
+9.  [**Agent-based modeling of erosion and sloughing during growth of
+    Pseudomonas aeruginosa
+    biofilms.**](https://pubmed.ncbi.nlm.nih.gov/42331812/)
 
-9.  [**Inefficiency and inequity of the law review submission
-    system.**](https://pubmed.ncbi.nlm.nih.gov/42296158/)
+    Bournes R, Hingley-Wilson S, Guo B, Harris C, Abubacar U, Chambers
+    M, Bauer R.
 
-    Topaz CM.
+    NPJ Biofilms Microbiomes. 2026 Jun 22. doi:
+    10.1038/s41522-026-01052-1. Online ahead of print.
 
-    PLoS One. 2026 Jun 15;21(6):e0351410. doi:
-    10.1371/journal.pone.0351410. eCollection 2026.
+    > While global biofilm phenomena are observable experimentally,
+    > understanding local behaviours of bacteria and their environment,
+    > and how these factors drive biofilm formation, is challenging.
+    > Agent-based modelling (ABM) offers a computational solution to
+    > simul …
 
-    > Law reviews, the primary publication market for legal scholarship
-    > in the United States, are run by student editors who face
-    > thousands of submissions for a handful of slots and rely heavily
-    > on institutional prestige as a proxy for article quality. We build
-    > a calibrated agent …
+10. [**Efficacy and Safety of Novel-Agent-Based Front-Line Therapy in
+    Older Adults Aged 60 Years With Classic Hodgkin Lymphoma: A
+    Systematic Review and
+    Meta-Analysis.**](https://pubmed.ncbi.nlm.nih.gov/42330019/)
 
-10. [**Trajectory Landscapes for Therapeutic Strategy Design in
-    Agent-Based Tumor Microenvironment
-    Models.**](https://pubmed.ncbi.nlm.nih.gov/42294085/)
+    Swain RN, Singh C, Jandial A, Jain A, Khadwal A, Malhotra P, Prakash
+    G.
 
-    Cramer E, Heiser LM, Chang YH.
+    Hematol Oncol. 2026 Jul;44(4):e70215. doi: 10.1002/hon.70215.
 
-    IEEE Control Syst Lett. 2026;10:421-426. doi:
-    10.1109/lcsys.2026.3697136. Epub 2026 May 26.
-
-    > Multiplex tissue imaging (MTI) enables high-dimensional, spatially
-    > resolved measurements of the tumor microenvironment (TME), but
-    > most clinical datasets are temporally undersampled and
-    > longitudinally limited, restricting direct inference of underlying
-    > spatiotemporal dynamics and …
+    > Outcomes were pooled using random-effects models. A total of 11
+    > studies including 568 patients were analyzed. The pooled CR rate
+    > was 71% (95% CI: 57-81) and pooled 2-year PFS was 66% (95% CI:
+    > 45-83), with significant heterogeneity. Nivolumab-based regimens
+    > appeared, in ind …
 
 ## Code of Conduct
 
