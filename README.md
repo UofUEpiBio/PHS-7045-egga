@@ -9,161 +9,155 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-07-12 00:22:07.
+update was on 2026-07-19 00:21:25.
 
 <div class="cell">
 
 </div>
 
-1.  [**Pair approximation of the biased-independence q-voter model for
-    innovation diffusion in organizational
-    networks.**](https://pubmed.ncbi.nlm.nih.gov/42432058/)
+1.  [**Defensive Strategies and Handling Paths in Intimate Relationship
+    Conflicts: A Dynamic Game Model From the Perspective of Emotional
+    Regulation.**](https://pubmed.ncbi.nlm.nih.gov/42470233/)
 
-    Abramiuk-Szurlej A, Sznajd-Weron K.
+    Liu Y.
 
-    Sci Rep. 2026 Jul 10. doi: 10.1038/s41598-026-61126-0. Online ahead
-    of print.
+    Psych J. 2026 Aug;15(4):e70103. doi: 10.1002/pchj.70103.
 
-    > Independent choice is governed by an engagement parameter inspired
-    > by earlier models of eco-innovation diffusion. For engagement
-    > equal to 0.5, the model reduces to the standard q-voter model with
-    > independence; otherwise, the symmetry between the two options i …
+    > This study develops a dynamic game model of intimate relationship
+    > conflicts that incorporates emotion regulation mechanisms,
+    > translating cognitive reappraisal and expressive suppression into
+    > strategic parameters. …Using longitudinal tracking data from 320
+    > couples and …
 
-2.  [**Directed cell migration from protrusion-adhesion coupling under
-    local chemotactic
-    regulation.**](https://pubmed.ncbi.nlm.nih.gov/42431394/)
+2.  [**Organisational scale and fraud volatility: An exploratory
+    agent-based simulation of occupational fraud
+    dynamics.**](https://pubmed.ncbi.nlm.nih.gov/42467659/)
 
-    Allena R.
+    Freeman C.
 
-    J Theor Biol. 2026 Jul 10:112550. doi: 10.1016/j.jtbi.2026.112550.
-    Online ahead of print.
+    PLoS One. 2026 Jul 17;21(7):e0342964. doi:
+    10.1371/journal.pone.0342964. eCollection 2026.
 
-    > Directed cell migration in response to chemical cues is central to
-    > development, immunity, and cancer invasion. While many models
-    > assume predefined cell polarity or directional sensing,
-    > experiments suggest that persistent migration may emerge from
-    > local mechanical interacti …
+    > This study is an exploratory, conceptual agent-based simulation
+    > not empirically calibrated to real-world data. An agent-based
+    > model was developed in which employees interact within simulated
+    > organisations under varying structural and behavioural …
 
-3.  [**Spatial Activity Patterning and Topological Defect Transport in
-    Acoustically Energized Active Liquid
-    Crystals.**](https://pubmed.ncbi.nlm.nih.gov/42429163/)
+3.  [**Agentic AI-enhanced digital twins for Smart City civil
+    infrastructure: A secure, autonomous and auditable management
+    framework.**](https://pubmed.ncbi.nlm.nih.gov/42467653/)
 
-    Tavera-Vázquez A, Nealey PF, Snezhko A, Sokolov A.
+    Syed TA, Akarma A, Alatify A, Naqash MT, Alqurashi A.
 
-    Small. 2026 Jul 10:e74378. doi: 10.1002/smll.74378. Online ahead of
-    print.
+    PLoS One. 2026 Jul 17;21(7):e0353610. doi:
+    10.1371/journal.pone.0353610. eCollection 2026.
 
-    > Although some of these capabilities have been investigated in
-    > computational models, the experimental realization has been
-    > limited by the challenges of reliable generation and modulation of
-    > spatiotemporal activity patterns. …Based on our findings, we
-    > realized activity pat …
+    > The Digital Twin continuously updates asset and network models of
+    > bridges, roads, and water infrastructure using multi-stream
+    > telemetry, incorporating state estimation, predictive maintenance,
+    > and what-if simulation services. At the orchestration layer, an
+    > agent- …
 
-4.  [**A Delay Differential Model for Antiviral Treatment and Rebound
-    Dynamics.**](https://pubmed.ncbi.nlm.nih.gov/42419410/)
+4.  [**The epistemic advantages of representative
+    deliberation.**](https://pubmed.ncbi.nlm.nih.gov/42467638/)
 
-    Cai W, Moghadas SM, Wu J.
+    Berger WJ, Singer DJ, Grim P, Bramson A, Holman B, Jung J.
 
-    Math Biosci. 2026 Jul 8:109763. doi: 10.1016/j.mbs.2026.109763.
-    Online ahead of print.
+    PLoS One. 2026 Jul 17;21(7):e0353387. doi:
+    10.1371/journal.pone.0353387. eCollection 2026.
 
-    > To assess the impact of viral rebound on post-treatment
-    > transmission dynamics, we developed a delay differential model
-    > parameterised with characteristics of SARS-CoV-2 infection and the
-    > rebound risk observed during treatment with Paxlovid. The model
-    > explicitly accou …
+    > This “wisdom of the crowds” intuition suggests that representative
+    > deliberation - in which a subset of deliberators acts on behalf of
+    > the larger group - should be epistemically inferior to full,
+    > plenary deliberation. We test this using a computational
+    > agent-based …
 
-5.  [**Value crucible for evaluating robustness of value attributed LLM
-    response profiles via agent adversarial
-    debates.**](https://pubmed.ncbi.nlm.nih.gov/42409900/)
+5.  [**Construction and application of the multi-agent model APUS for
+    regional land use change: A case study of Tongdu Town, Kunming
+    City.**](https://pubmed.ncbi.nlm.nih.gov/42456590/)
 
-    Li Y, Zhou W, Jiang X.
+    Yang W, Ju Z, Tang C, Chen F, Zhang X, Fan F, Wu J.
 
-    Sci Rep. 2026 Jul 6. doi: 10.1038/s41598-026-59433-7. Online ahead
-    of print.
+    J Environ Manage. 2026 Jul 15;414:130485. doi:
+    10.1016/j.jenvman.2026.130485. Online ahead of print.
 
-    > Static benchmarks reveal what large language models (LLMs) output
-    > in isolated prompts but provide limited insight into whether
-    > value-attributed response profiles remain consistent during
-    > extended interactions. We introduce Value Crucible, a three-stage
-    > agent-base …
+    > Understanding regional land-use change requires models that can
+    > represent the coupled effects of agricultural development,
+    > land-use policy, and urbanization. …This study develops the
+    > Agriculture-Policy-Urbanization Synergy (APUS) model, an
+    > agent-based …
 
-6.  [**A brief discussion on recent models shedding light on how life
-    emerged.**](https://pubmed.ncbi.nlm.nih.gov/42409161/)
+6.  [**Long-term optical and physical stability of resin composites: the
+    role of MDP-containing adhesive as a modeling
+    liquid.**](https://pubmed.ncbi.nlm.nih.gov/42455394/)
 
-    Chirumbolo S.
+    Dündar A, Özyi̇ği̇t M, Ceylan Y, Karaveli̇oğlu E, Harorlı OT.
 
-    Biosystems. 2026 Jul 6;267:105879. doi:
-    10.1016/j.biosystems.2026.105879. Online ahead of print.
+    Clin Oral Investig. 2026 Jul 15;30(8):330. doi:
+    10.1007/s00784-026-07016-1.
 
-    > This manuscript discusses how recent models can clarify the
-    > emergence of life-like organization, focusing on the relationship
-    > between Carr’s agent-based protocell simulations and the
-    > Prigoginian Informational Dissipation (PID) framework. …
+    > MATERIALS AND METHODS: A nano-hybrid resin composite was divided
+    > into three groups: control (no modeling agent), GC Modeling Liquid
+    > (ML), and Clearfil SE Bond (SB). Surface roughness (Ra) was
+    > measured before and after simulated brushing. …CLINICAL RELEVANCE:
+    > The s …
 
-7.  [**Memory-based strategy reputation and adaptive learning in spatial
-    evolutionary games: A robust agent-based model for cooperation
-    dynamics.**](https://pubmed.ncbi.nlm.nih.gov/42409160/)
+7.  [**Targeted interventions suppress epidemic outbreaks in spatial
+    higher-order activity-driven
+    networks.**](https://pubmed.ncbi.nlm.nih.gov/42455017/)
 
-    Li B, Li S, Peng B.
+    Gu W, Li W, Cai M, Tang X, Wang W.
 
-    Biosystems. 2026 Jul 6;267:105867. doi:
-    10.1016/j.biosystems.2026.105867. Online ahead of print.
+    Chaos. 2026 Jul 1;36(7):073127. doi: 10.1063/5.0339670.
 
-    > This reputation then biases the choice of reference neighbors for
-    > imitation. Strategy adoption is modeled through a Fermi-type
-    > update rule with agent-specific learning sensitivity, allowing
-    > agents to differ in how strongly they respond to payoff
-    > differences. …When combin …
+    > Traditional pairwise epidemic models fail to capture group-based
+    > infection risks in dense urban environments, where higher-order
+    > interactions in shared spaces drive explosive contagion. We
+    > develop a spatial activity-driven higher-order framework
+    > integrating agent- …
 
-8.  [**Mechanistic constraints in dengue severity: a systematic review
-    with evidence stratification and agent-based evaluation of logical
-    sufficiency.**](https://pubmed.ncbi.nlm.nih.gov/42404909/)
+8.  [**What Makes Them Move? An Agent-Based Model of Childhood Physical
+    Activity.**](https://pubmed.ncbi.nlm.nih.gov/42452831/)
 
-    Navarro Quiroz R, Escorcia Lindo K, Jaruffe Pinilla A, Diaz-Olmos Y,
-    Geribaldi-Dóldan N, Fernández-Ponce C, Zarate Peñata E, Bello Lemus
-    Y, Pacheco Lugo L, Pacheco Londoño L, Acosta-Hoyos A, Galan Freyle
-    N, Navarro Quiroz E.
+    Kasman M, Hammond RA, Heerman WJ, Pate RR, Reader L, Sedlak AB,
+    Innes-Gold R, Sommer EC, Barkin SL.
 
-    Front Immunol. 2026 Jun 19;17:1831371. doi:
-    10.3389/fimmu.2026.1831371. eCollection 2026.
+    Child Obes. 2026 Jul 14:21532176261468924. doi:
+    10.1177/21532176261468924. Online ahead of print.
 
-    > Meta-analysis readiness was assessed using PICOS criteria. A
-    > constraint-first agent-based model (ABM) was then used as a
-    > permanent C2 logical sufficiency evaluator to test whether the
-    > three strongest evidence families could jointly generate a
-    > synthetic analog …
+    > Strategies for consistently supporting this are currently unknown,
+    > largely due to the vast number of potentially interrelated and
+    > dynamic contributing factors that may also be heterogenous across
+    > children. METHODS: We developed an agent-based model (ABM) that …
 
-9.  [**Strategic sacrifice resolves fairness-induced coordination
-    failure through emergent leadership in simulated kinship
-    networks.**](https://pubmed.ncbi.nlm.nih.gov/42399273/)
+9.  [**Energetic benefits of social information for movement in patchy
+    landscapes.**](https://pubmed.ncbi.nlm.nih.gov/42448347/)
 
-    Han Y.
+    Gatti E, Reina A, Williams H.
 
-    Sci Rep. 2026 Jul 3. doi: 10.1038/s41598-026-54418-y. Online ahead
-    of print.
+    J R Soc Interface. 2026 Jul 15;23(240):20251322. doi:
+    10.1098/rsif.2025.1322.
 
-    > In fairness-sensitive communities, individuals may avoid assuming
-    > leadership roles even when coordination is collectively
-    > beneficial. Agent-based simulations of 1,250 kinship networks show
-    > that strategic sacrifice (sustained, disproportionate cost-bearing
-    > by individ …
+    > We quantify the energy savings achieved by using up-to-date
+    > information presented within social cues to reduce movement costs.
+    > We use an agent-based model, which is founded on realistic
+    > aeronautical rules and is parametrized on the Andean condor
+    > (Vultur gryph …
 
-10. [**Spatial Immune Model of Alveolar Lung Infection (SIMALI)
-    Identifies Structural Determinants of Lung
-    Inflammation.**](https://pubmed.ncbi.nlm.nih.gov/42396494/)
+10. [**How Drawing Unlocks Students’ Developing Mechanistic Reasoning
+    about Complex Systems in
+    Physiology.**](https://pubmed.ncbi.nlm.nih.gov/42448328/)
 
-    Tasnim H, Forrest S, Hofmeyr S, Friedman AM, Etemadpour R,
-    Mehdikhani H, Andrews A, Cannon JL, Moses ME.
+    Tang X, Lira M.
 
-    Res Sq \[Preprint\]. 2026 Jun 24:rs.3.rs-9986593. doi:
-    10.21203/rs.3.rs-9986593/v1.
+    Adv Physiol Educ. 2026 Jul 14. doi: 10.1152/advan.00107.2026. Online
+    ahead of print.
 
-    > SIMALI extends a previous agent-based model by adding key
-    > structural components of the lung, including physiological
-    > percentages of infectable cells and differential diffusion of
-    > virus through air and lung tissue. …By combining parameters
-    > validated in a pri …
+    > This study examined how undergraduate physiology students’
+    > drawings reveal changes in their mechanistic reasoning after
+    > experiencing an agent-based modeling environment that modeled a
+    > complex system. Students’ drawings at pre- and post-test and
+    > speech …
 
 ## Code of Conduct
 
