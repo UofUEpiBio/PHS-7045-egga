@@ -9,155 +9,160 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-07-19 00:21:25.
+update was on 2026-07-26 00:24:12.
 
 <div class="cell">
 
 </div>
 
-1.  [**Defensive Strategies and Handling Paths in Intimate Relationship
-    Conflicts: A Dynamic Game Model From the Perspective of Emotional
-    Regulation.**](https://pubmed.ncbi.nlm.nih.gov/42470233/)
+1.  [**Measuring the health benefits and costs of
+    antimicrobial-resistant gonorrhea surveillance in the United States:
+    an agent-based model and cost-effectiveness
+    analysis.**](https://pubmed.ncbi.nlm.nih.gov/42495265/)
 
-    Liu Y.
+    Ekanayake-Weber MS, Rönn MM, Yin X, Hsu K, Li Y, Gift TL, Chesson H,
+    Frankson R, Salomon JA, Grad YH, Yaesoubi R.
 
-    Psych J. 2026 Aug;15(4):e70103. doi: 10.1002/pchj.70103.
+    Lancet Reg Health Am. 2026 Jul 18;62:101582. doi:
+    10.1016/j.lana.2026.101582. eCollection 2026 Oct.
 
-    > This study develops a dynamic game model of intimate relationship
-    > conflicts that incorporates emotion regulation mechanisms,
-    > translating cognitive reappraisal and expressive suppression into
-    > strategic parameters. …Using longitudinal tracking data from 320
-    > couples and …
+    > We assessed the long-term, population-level health benefits,
+    > costs, and cost-effectiveness of the Gonococcal Isolate
+    > Surveillance Project (GISP), the US national surveillance system
+    > for AMR gonorrhea. METHODS: We developed an agent-based model of
+    > gonococcal t …
 
-2.  [**Organisational scale and fraud volatility: An exploratory
-    agent-based simulation of occupational fraud
-    dynamics.**](https://pubmed.ncbi.nlm.nih.gov/42467659/)
+2.  [**Collective decision making with higher-order interactions on
+    d-uniform hypergraphs.**](https://pubmed.ncbi.nlm.nih.gov/42494040/)
 
-    Freeman C.
+    Njougouo T, Carletti T, Tuci E.
 
-    PLoS One. 2026 Jul 17;21(7):e0342964. doi:
-    10.1371/journal.pone.0342964. eCollection 2026.
+    Phys Rev E. 2026 Jun;113(6-1):064311. doi: 10.1103/fyps-4jqh.
 
-    > This study is an exploratory, conceptual agent-based simulation
-    > not empirically calibrated to real-world data. An agent-based
-    > model was developed in which employees interact within simulated
-    > organisations under varying structural and behavioural …
+    > Through bifurcation analysis of the mean-field model, we identify
+    > two critical thresholds, alpha\_{crit}^{(1)} and
+    > alpha\_{crit}^{(2)}, which delimit stability regimes for the
+    > consensus states. These analytical predictions are validated
+    > through extensive agent-base …
 
-3.  [**Agentic AI-enhanced digital twins for Smart City civil
-    infrastructure: A secure, autonomous and auditable management
-    framework.**](https://pubmed.ncbi.nlm.nih.gov/42467653/)
+3.  [**A Graph-Theoretical Framework for Automated Computation of
+    Reproduction Numbers in Deterministic Epidemiological
+    Models.**](https://pubmed.ncbi.nlm.nih.gov/42493751/)
 
-    Syed TA, Akarma A, Alatify A, Naqash MT, Alqurashi A.
+    Simard A, Bélair J.
 
-    PLoS One. 2026 Jul 17;21(7):e0353610. doi:
-    10.1371/journal.pone.0353610. eCollection 2026.
+    Bull Math Biol. 2026 Jul 23;88(8):141. doi:
+    10.1007/s11538-026-01705-4.
 
-    > The Digital Twin continuously updates asset and network models of
-    > bridges, roads, and water infrastructure using multi-stream
-    > telemetry, incorporating state estimation, predictive maintenance,
-    > and what-if simulation services. At the orchestration layer, an
-    > agent- …
+    > We introduce a graph-theoretical approach to epidemiological
+    > modeling that automates the derivation of the differential
+    > equations associated with a model and the computation of its base
+    > and real-time reproduction numbers. …The main focus of this
+    > article is to inde …
 
-4.  [**The epistemic advantages of representative
-    deliberation.**](https://pubmed.ncbi.nlm.nih.gov/42467638/)
+4.  [**A review on in-silico analysis of immune cell trafficking and
+    interactions with the tumour
+    microenvironment.**](https://pubmed.ncbi.nlm.nih.gov/42490793/)
 
-    Berger WJ, Singer DJ, Grim P, Bramson A, Holman B, Jung J.
+    P K, Mathew AS, Ghosh P, H P S.
 
-    PLoS One. 2026 Jul 17;21(7):e0353387. doi:
-    10.1371/journal.pone.0353387. eCollection 2026.
+    Front Oncol. 2026 Jul 3;16:1835062. doi: 10.3389/fonc.2026.1835062.
+    eCollection 2026.
 
-    > This “wisdom of the crowds” intuition suggests that representative
-    > deliberation - in which a subset of deliberators acts on behalf of
-    > the larger group - should be epistemically inferior to full,
-    > plenary deliberation. We test this using a computational
-    > agent-based …
+    > The components that affect how immune cells infiltrate tumours
+    > will be summarized (i.e., chemotactic gradients, adhesion
+    > molecules, extracellular matrix remodelling, hypoxia, and
+    > metabolic reprogramming), and their role in immune exclusion and
+    > the development of immune escape wil …
 
-5.  [**Construction and application of the multi-agent model APUS for
-    regional land use change: A case study of Tongdu Town, Kunming
-    City.**](https://pubmed.ncbi.nlm.nih.gov/42456590/)
+5.  [**Evolutionary multi-agent reinforcement learning for crisis-aware
+    demographic policy
+    optimization.**](https://pubmed.ncbi.nlm.nih.gov/42488089/)
 
-    Yang W, Ju Z, Tang C, Chen F, Zhang X, Fan F, Wu J.
+    Dozhdikov AV, Sitkovskiy AM.
 
-    J Environ Manage. 2026 Jul 15;414:130485. doi:
-    10.1016/j.jenvman.2026.130485. Online ahead of print.
+    Front Big Data. 2026 Jul 8;9:1842233. doi:
+    10.3389/fdata.2026.1842233. eCollection 2026.
 
-    > Understanding regional land-use change requires models that can
-    > represent the coupled effects of agricultural development,
-    > land-use policy, and urbanization. …This study develops the
-    > Agriculture-Policy-Urbanization Synergy (APUS) model, an
-    > agent-based …
+    > Conventional statistical demography techniques and agent-based
+    > models often struggle to capture nonlinear inter-regional
+    > interactions during periods of severe socio-economic disruption.
+    > …To our knowledge, this is the first application of multi-agent
+    > reinfor …
 
-6.  [**Long-term optical and physical stability of resin composites: the
-    role of MDP-containing adhesive as a modeling
-    liquid.**](https://pubmed.ncbi.nlm.nih.gov/42455394/)
+6.  [**Climate change and malaria in west Africa: a review of strategies
+    to handle one of the world’s most prominent
+    anthroponoses.**](https://pubmed.ncbi.nlm.nih.gov/42486136/)
 
-    Dündar A, Özyi̇ği̇t M, Ceylan Y, Karaveli̇oğlu E, Harorlı OT.
+    Leal Filho W, Okafor UA, Gbaguidi GJ, Zuñiga RAA.
 
-    Clin Oral Investig. 2026 Jul 15;30(8):330. doi:
-    10.1007/s00784-026-07016-1.
+    Lancet Planet Health. 2026 Jul 22:101484. doi:
+    10.1016/j.lanplh.2026.101484. Online ahead of print.
 
-    > MATERIALS AND METHODS: A nano-hybrid resin composite was divided
-    > into three groups: control (no modeling agent), GC Modeling Liquid
-    > (ML), and Clearfil SE Bond (SB). Surface roughness (Ra) was
-    > measured before and after simulated brushing. …CLINICAL RELEVANCE:
-    > The s …
+    > Ghana and Nigeria use advanced data-driven approaches, including
+    > predictive agent-based modelling and subnational stratification,
+    > to guide interventions, whereas Togo, Benin, Senegal, and The
+    > Gambia show emerging progress. …
 
-7.  [**Targeted interventions suppress epidemic outbreaks in spatial
-    higher-order activity-driven
-    networks.**](https://pubmed.ncbi.nlm.nih.gov/42455017/)
+7.  [**figsimR: An R Package for Simulating Fig-Wasp Community
+    Dynamics.**](https://pubmed.ncbi.nlm.nih.gov/42483029/)
 
-    Gu W, Li W, Cai M, Tang X, Wang W.
+    Dong Y, Segar ST, Weng Q.
 
-    Chaos. 2026 Jul 1;36(7):073127. doi: 10.1063/5.0339670.
+    Ecol Evol. 2026 Jul 20;16(7):e74018. doi: 10.1002/ece3.74018.
+    eCollection 2026 Jul.
 
-    > Traditional pairwise epidemic models fail to capture group-based
-    > infection risks in dense urban environments, where higher-order
-    > interactions in shared spaces drive explosive contagion. We
-    > develop a spatial activity-driven higher-order framework
-    > integrating agent- …
+    > The package also provides functions for calculating commonly used
+    > diversity and community-summary metrics, allowing fig-level
+    > community outputs to support downstream comparison and model
+    > diagnostics. We demonstrate a typical workflow-parameter setup,
+    > simulation, and metric …
 
-8.  [**What Makes Them Move? An Agent-Based Model of Childhood Physical
-    Activity.**](https://pubmed.ncbi.nlm.nih.gov/42452831/)
+8.  [**A knowledge-enhanced domain-aware large language model agent for
+    atrial fibrillation
+    management.**](https://pubmed.ncbi.nlm.nih.gov/42477462/)
 
-    Kasman M, Hammond RA, Heerman WJ, Pate RR, Reader L, Sedlak AB,
-    Innes-Gold R, Sommer EC, Barkin SL.
+    Wang Y, Peng C, Hu R, Huang L, Liu H, Yao Z, Ruan H, Leng J, Zhou B,
+    Duan S, Tan W, Wang J.
 
-    Child Obes. 2026 Jul 14:21532176261468924. doi:
-    10.1177/21532176261468924. Online ahead of print.
-
-    > Strategies for consistently supporting this are currently unknown,
-    > largely due to the vast number of potentially interrelated and
-    > dynamic contributing factors that may also be heterogenous across
-    > children. METHODS: We developed an agent-based model (ABM) that …
-
-9.  [**Energetic benefits of social information for movement in patchy
-    landscapes.**](https://pubmed.ncbi.nlm.nih.gov/42448347/)
-
-    Gatti E, Reina A, Williams H.
-
-    J R Soc Interface. 2026 Jul 15;23(240):20251322. doi:
-    10.1098/rsif.2025.1322.
-
-    > We quantify the energy savings achieved by using up-to-date
-    > information presented within social cues to reduce movement costs.
-    > We use an agent-based model, which is founded on realistic
-    > aeronautical rules and is parametrized on the Andean condor
-    > (Vultur gryph …
-
-10. [**How Drawing Unlocks Students’ Developing Mechanistic Reasoning
-    about Complex Systems in
-    Physiology.**](https://pubmed.ncbi.nlm.nih.gov/42448328/)
-
-    Tang X, Lira M.
-
-    Adv Physiol Educ. 2026 Jul 14. doi: 10.1152/advan.00107.2026. Online
+    NPJ Digit Med. 2026 Jul 20. doi: 10.1038/s41746-026-03038-x. Online
     ahead of print.
 
-    > This study examined how undergraduate physiology students’
-    > drawings reveal changes in their mechanistic reasoning after
-    > experiencing an agent-based modeling environment that modeled a
-    > complex system. Students’ drawings at pre- and post-test and
-    > speech …
+    > Large language models (LLMs) show considerable potential for
+    > atrial fibrillation (AF) management, yet current clinical
+    > applications frequently remain suboptimal due to accuracy
+    > limitations. …The proposed framework integrates multimodal inputs,
+    > meticulously curated clinic …
+
+9.  [**Study of wrap mode impact on Pseudomonas aeruginosa motion in the
+    chemotactic field of
+    fungi.**](https://pubmed.ncbi.nlm.nih.gov/42477330/)
+
+    Hansen A, Ramezani A, A Pelletier D, A Rush T, Zandi R, Guo YS, Du
+    H, Cannon W, Alber M.
+
+    NPJ Syst Biol Appl. 2026 Jul 20. doi: 10.1038/s41540-026-00789-x.
+    Online ahead of print.
+
+    > An agent-based discrete computational model biologically
+    > calibrated to Pseudomonas aeruginosa migration is used to explore
+    > the impacts of bacterial reversals and wrap mode on the efficiency
+    > of motion in different environments, both with and without
+    > chemotaxis …
+
+10. [**Assessing spatial transmission risk of respiratory infectious
+    diseases across cities of different socioeconomic tiers in China: A
+    modelling study.**](https://pubmed.ncbi.nlm.nih.gov/42475324/)
+
+    Li W, Yang W, Liu Y, Yao Y.
+
+    PLoS Med. 2026 Jul 20;23(7):e1005172. doi:
+    10.1371/journal.pmed.1005172. eCollection 2026 Jul.
+
+    > METHODS AND FINDINGS: We integrated large-scale intercity mobility
+    > data into an agent-based branching process model to simulate the
+    > spatial diffusion of respiratory pathogens across mainland China.
+    > Three COVID-19 outbreaks were used for validation: the Omicro …
 
 ## Code of Conduct
 
