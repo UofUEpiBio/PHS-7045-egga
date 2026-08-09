@@ -9,161 +9,158 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-08-02 00:23:41.
+update was on 2026-08-09 00:09:26.
 
 <div class="cell">
 
 </div>
 
-1.  [**Projected burden of hypertension-associated cardiovascular
-    disease in people living with HIV versus HIV-negative adults in
-    Eswatini.**](https://pubmed.ncbi.nlm.nih.gov/42539108/)
+1.  [**Regret, uncertainty, and bounded rationality in norm-driven
+    decisions.**](https://pubmed.ncbi.nlm.nih.gov/42566456/)
 
-    Milali MP, Citron DT, Bhamidipati K, Yamamoto N, Osei-Ntansah A,
-    Platais I, Ferrara G, Ngcamphalala C, Dlamini SG, Ginindza N,
-    Bershteyn A.
+    Charalambous C.
 
-    medRxiv \[Preprint\]. 2026 Jul 20:2026.07.17.26358301. doi:
-    10.64898/2026.07.17.26358301.
+    PLoS One. 2026 Aug 7;21(8):e0354748. doi:
+    10.1371/journal.pone.0354748. eCollection 2026.
 
-    > We projected CVD burden among PLHIV and HIV-negative adults
-    > (PLWHIV) through 2045 to inform integrated HIV-CVD planning.
-    > METHODS: EMOD-HIV, an agent-based model calibrated to Eswatini’s
-    > epidemic, generated HIV prevalence trajectories. …CVD burden
-    > trajectori …
+    > This study introduces an agent-based model to examine how regret,
+    > uncertainty, and social norms interact to shape vaccination
+    > behavior during epidemics. The model integrates three behavioral
+    > mechanisms-anticipated regret, evolving norms, and uncertaint …
 
-2.  [**From Optimism to Opportunity: New Perspectives on the
-    Osteological Paradox.**](https://pubmed.ncbi.nlm.nih.gov/42538595/)
+2.  [**Epidemic Spread and Control Strategies: A Spatial-individual
+    Agent-based Modeling and Optimization
+    Approach.**](https://pubmed.ncbi.nlm.nih.gov/42559878/)
 
-    McFadden C, Anderson A, Biehler-Gomez L, Brown R, Marklein KE,
-    Sammut S, Wyatt B, Yaussy SL.
+    Zhang XY, Cao ZD, Luo TY, Wang JJ, Song HB, Wang LG.
 
-    Am J Biol Anthropol. 2026 Aug;190(4):e70331. doi:
-    10.1002/ajpa.70331.
+    Biomed Environ Sci. 2026 Jul 20;39(7):745-757. doi:
+    10.3967/bes2026.061.
 
-    > In this synthesis, we discuss past and current approaches to the
-    > Osteological Paradox, the promise we believe agent-based modeling
-    > holds for future research, and broadly contextualize the Paradox
-    > within a philosophically optimistic outlook. …
+    > METHODS: We developed a spatial-individual agent-based model that
+    > integrates fine-grained spatiotemporal dynamics, where
+    > transmission risk is quantified by the exact distance and duration
+    > of contact. This model was applied to a high-resolution case stu …
 
-3.  [**Interactive Adjustment of Agent-Based Cooperative Tasks Driven by
-    Multi-View
-    Collaboration.**](https://pubmed.ncbi.nlm.nih.gov/42536463/)
+3.  [**Agent-Based Simulations of Lung Tumor Evolution Suggest That
+    Ongoing Cell Competition Drives Realistic Clonal
+    Expansions.**](https://pubmed.ncbi.nlm.nih.gov/42559690/)
 
-    Liu Z, Guo X, Wang H, Feng Y, Chen W, Zhang B, Zhao X, Xu M.
+    Coggan H, Black JRM, Martínez-Ruiz C, Grigoriadis K, Fisher J,
+    McGranahan N.
 
-    IEEE Comput Graph Appl. 2026 Jul 31;PP. doi:
-    10.1109/MCG.2026.3719377. Online ahead of print.
-
-    > Interactive adjustment of agent-based cooperative tasks is
-    > essential for supporting flexible and complex task execution. …To
-    > address these challenges, we propose an interactive adjustment
-    > framework for agent-based cooperative tasks driven by multi-vi …
-
-4.  [**RingMo-Agent: A Unified Remote Sensing Foundation Model for
-    Multi-Platform and Multi-Modal
-    Reasoning.**](https://pubmed.ncbi.nlm.nih.gov/42531112/)
-
-    Hu H, Wang P, Feng Y, Wei K, Yin W, Diao W, Wang M, Bi H, Kang K,
-    Ling T, Fu K, Sun X.
-
-    IEEE Trans Pattern Anal Mach Intell. 2026 Jul 30;PP. doi:
-    10.1109/TPAMI.2026.3718699. Online ahead of print.
-
-    > To address these issues, we propose RingMo-Agent, a model designed
-    > to handle multimodal and multi-platform data that performs
-    > perception and reasoning tasks based on user textual instructions.
-    > Compared with existing models, RingMo-Agent 1) is supported by a
-    > largesca …
-
-5.  [**Hidden Burden of a Measles Outbreak Revealed by Genomic and
-    Transmission Models.**](https://pubmed.ncbi.nlm.nih.gov/42528501/)
-
-    Marye A, Toth DJA, Yon GV, Wagoner J, Lofgren ET, Samore MH, Pavia
-    AT, Nolen LD, Komatsu K, Oakeson K, Keegan LT.
-
-    medRxiv \[Preprint\]. 2026 Jul 15:2026.07.09.26357695. doi:
-    10.64898/2026.07.09.26357695.
-
-    > To quantify the true outbreak size, we used two independent
-    > approaches with complementary data sources: a phylodynamic
-    > analysis and an agent-based model. Both methods found significant
-    > underreporting, estimating the true outbreak size to be 3.1- to
-    > 4.8-fold l …
-
-6.  [**End-to-End Clinical Validation of a Human-Supervised Large
-    Language Model Agent for Enterprise Surgical Pathology
-    Reporting.**](https://pubmed.ncbi.nlm.nih.gov/42526601/)
-
-    Abukhiran I, Mansour A, Caicedo ML, Minkowitz JM, Pantanowitz L.
-
-    Mod Pathol. 2026 Jul 29:101049. doi: 10.1016/j.modpat.2026.101049.
-    Online ahead of print.
-
-    > We developed and clinically validated a rule-guided, agent-based
-    > LLM that assists gastrointestinal (GI) biopsy reporting by
-    > automating report structuring while preserving full diagnostic
-    > authority with the pathologist. …All output therefore requires
-    > pathologist ca …
-
-7.  [**Reconstitution of actomyosin networks in cell-sized liposomes
-    dissects distinct mechanisms of membrane blebbing and symmetry
-    breaking.**](https://pubmed.ncbi.nlm.nih.gov/42525777/)
-
-    Miyazaki M, Laboni FS, Kim T.
-
-    Sci Adv. 2026 Jul 31;12(31):eaed8818. doi: 10.1126/sciadv.aed8818.
-    Epub 2026 Jul 29.
-
-    > Here, using a minimal reconstituted system combined with an
-    > agent-based computational model, we show that actin-membrane
-    > coupling strength determines the magnitude of membrane
-    > deformation, while its balance with actin network connectivity
-    > governs the bleb ini …
-
-8.  [**AgentBasedModeling.jl: A tool for stochastic simulation of
-    structured population
-    dynamics.**](https://pubmed.ncbi.nlm.nih.gov/42525710/)
-
-    Piho P, Thomas P.
-
-    PLoS Comput Biol. 2026 Jul 29;22(7):e1014366. doi:
-    10.1371/journal.pcbi.1014366. Online ahead of print.
-
-    > Agent-based modeling is a powerful approach for understanding
-    > cellular systems. Yet, many existing frameworks treat cell-level
-    > and population behaviors separately, overlooking their interplay.
-    > We present AgentBasedModeling.jl, a Julia package for simulating s
-    > …
-
-9.  [**Coupled Cell-Intrinsic and Microenvironmental Heterogeneity
-    Drives Divergent Trajectories in Castration-Resistant Prostate
-    Cancer.**](https://pubmed.ncbi.nlm.nih.gov/42523560/)
-
-    Kemkar S, Tao M, Ghosh A, Ramamurthy A, Radhakrishnan R.
-
-    bioRxiv \[Preprint\]. 2026 Jul 17:2026.07.16.738502. doi:
-    10.64898/2026.07.16.738502.
-
-    > To systematically study the effect of intrinsic and extrinsic
-    > spatial axes on disease trajectories, we developed an integrated
-    > multiscale framework: a cellular signaling model (MHS)
-    > parameterized with TCGA genomic data from control, biochemical
-    > recurrence (BR), and treatme …
-
-10. [**Modelling cocoon spinning: an agent-based computational
-    approach.**](https://pubmed.ncbi.nlm.nih.gov/42520838/)
-
-    Skoury L, Rosenthal N, Wortmann T, Menges A, Fratzl P, Eder M,
-    Dierichs K.
-
-    Bioinspir Biomim. 2026 Jul 28. doi: 10.1088/1748-3190/ae91bf. Online
+    Adv Sci (Weinh). 2026 Aug 6:e76764. doi: 10.1002/advs.76764. Online
     ahead of print.
 
-    > An agent-based modelling (ABM) approach is proposed which allows
-    > for simulating the spinning of cocoon structures based on a set of
-    > behaviours abstracted from the Bombyx mori silkworm. Agent-based
-    > models (ABMs) are aimed at the simulation …
+    > When inferring the model-specific fitness effect of driver
+    > mutations in a large cohort of lung cancers, the study finds that
+    > inference pipelines based on a two-stage model imply much larger
+    > selection effects than those based on single-stage models, driven
+    > by …
+
+4.  [**Multimodal data driven machine learning approach for enhancing
+    diagnostic accuracy and efficiency in pulmonary disease management
+    within primary healthcare
+    settings.**](https://pubmed.ncbi.nlm.nih.gov/42558899/)
+
+    Guo J, Guo J, Ma J.
+
+    Front Med (Lausanne). 2026 Jul 22;13:1766266. doi:
+    10.3389/fmed.2026.1766266. eCollection 2026.
+
+    > METHODS: To address this problem, this study proposes a multimodal
+    > data driven machine learning framework, termed the Probabilistic
+    > Agent Driven Diagnostic Model (PADDM), for pulmonary related
+    > diagnostic support in primary healthcare scenarios. The framework
+    > integrates thr …
+
+5.  [**TopoMLP++: Towards Strong and Scalable Lane Topology Reasoning in
+    Autonomous Driving.**](https://pubmed.ncbi.nlm.nih.gov/42555324/)
+
+    Wu D, Han W, Xu CZ, Shen J.
+
+    IEEE Trans Pattern Anal Mach Intell. 2026 Aug 5;PP. doi:
+    10.1109/TPAMI.2026.3721163. Online ahead of print.
+
+    > To further minimize annotation efforts and facilitate data
+    > scalability, we propose an agent-based data engine that utilizes
+    > the predictions from TopoMLP++. This framework incorporates a
+    > large language model (LLM) as an agent, which first employs
+    > TopoMLP++ to …
+
+6.  [**Mutualistic networks emerge from the interplay of abundance,
+    behaviour and spatial
+    constraints.**](https://pubmed.ncbi.nlm.nih.gov/42552824/)
+
+    Arroyo-Correa B, Bartomeus I, Jordano P, Castro M, Galeano J.
+
+    J Anim Ecol. 2026 Aug 4. doi: 10.1111/1365-2656.70324. Online ahead
+    of print.
+
+    > To do so, we combined field data on pollinator visitation to
+    > individual plants and agent-based models (ABMs) within a Bayesian
+    > framework. We found that explaining a key network structural
+    > pattern, the pollinator community degree distributions, required
+    > accoun …
+
+7.  [**Experimental and agent-based simulation analysis of collective
+    escape in mice: Validation and density-dependent effects of
+    obstacles.**](https://pubmed.ncbi.nlm.nih.gov/42550867/)
+
+    Nguyen DTH, Kim T, Park J.
+
+    PLoS One. 2026 Aug 4;21(8):e0355105. doi:
+    10.1371/journal.pone.0355105. eCollection 2026.
+
+    > To validate and extend the experimental findings, an agent-based
+    > modeling framework-previously verified in similar studies-was used
+    > to reproduce and generalize the tested conditions. …
+
+8.  [**Integrative agent-based modeling of cutaneous lupus: single-cell
+    benchmarking and in silico evaluation of B-cell
+    therapies.**](https://pubmed.ncbi.nlm.nih.gov/42546048/)
+
+    Wahab A, Russo G, Pappalardo F.
+
+    Brief Bioinform. 2026 Jul 3;27(4):bbag416. doi: 10.1093/bib/bbag416.
+
+    > Agent-based models (ABMs) offer a powerful framework for
+    > representing emergent immune dynamics, yet their integration with
+    > single-cell datasets and therapeutics simulation remains limited.
+    > Here, we presented an integrative, single-cell informed systems
+    > immuno …
+
+9.  [**Accounting for the long-distance transmission route: An
+    epidemiological model of airborne disease transmission in
+    hospitals.**](https://pubmed.ncbi.nlm.nih.gov/42546042/)
+
+    Gaufrès O, Leclerc QJ, Derdevet J, Shirreff G, Kernéis S, Opatowski
+    L, Temime L, Layan M.
+
+    PLoS Comput Biol. 2026 Aug 3;22(8):e1014564. doi:
+    10.1371/journal.pcbi.1014564. Online ahead of print.
+
+    > The relative contribution of each transmission route is
+    > pathogen-dependent. However, models distinguishing them remain
+    > scarce, limiting the design of effective intervention strategies.
+    > Here, we propose a novel agent-based stochastic model of
+    > respirator …
+
+10. [**ChatGPT and Other Large Language Models in Inflammatory
+    Arthritis: A Systematic Review Across Clinical
+    Tasks.**](https://pubmed.ncbi.nlm.nih.gov/42542374/)
+
+    Adiniaev Y, Omar M, Timor TM, Barash Y, Brook OR, Naffaa ME,
+    Gorenshtein A, Klang E.
+
+    J Rheumatol. 2026 Aug 1:jrheum.2026-0444. doi:
+    10.3899/jrheum.2026-0444. Online ahead of print.
+
+    > OBJECTIVE: Large language models (LLMs) are increasingly evaluated
+    > for rheumatology tasks, but their performance in inflammatory
+    > arthritis remains unclear. …None of the 18 included studies
+    > evaluated retrieval-augmented or agent-based systems, and none
+    > prosp …
 
 ## Code of Conduct
 
