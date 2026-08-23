@@ -9,13 +9,143 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-08-16 00:05:26.
+update was on 2026-08-23 00:05:21.
 
 <div class="cell">
 
 </div>
 
-1.  [**How resource heterogeneity and social threat shape intergroup
+1.  [**Dynamics of particle lane formation in confined viscoelastic
+    fluids under shear.**](https://pubmed.ncbi.nlm.nih.gov/42629898/)
+
+    Yokoyama H, Honda M, Miyakawa R, Shinohara Y, Nakamura K, Otoguro K,
+    Yoshii K, Sumino Y.
+
+    Phys Rev E. 2026 Jul;114(1-2):015422. doi: 10.1103/cm4c-m7lw.
+
+    > Using the image brightness in a dyed fluid as a proxy for
+    > out-of-plane position, we demonstrate that this shuttling motion
+    > originates from vertical displacement of the particles. We further
+    > construct a minimal agent-based model in which the particle height
+    > fo …
+
+2.  [**Mechanical memory of confinement pressure governs expansion size
+    in epithelial
+    monolayers.**](https://pubmed.ncbi.nlm.nih.gov/42624657/)
+
+    Engström L, Schnyder SK, Ahnlide JK, Grudtsyna V, Gloerich M,
+    Nordenfelt P, Doostmohammadi A, Swaminathan VS.
+
+    Life Sci Alliance. 2026 Aug 20;9(10):e202603831. doi:
+    10.26508/lsa.202603831. Print 2026 Oct.
+
+    > To investigate the underlying mechanism, we combined quantitative
+    > experiments with a mechanochemical agent-based model in which
+    > mechanical pressure arising from confinement acts as a
+    > tissue-scale signal that modulates intracellular cell-cycle
+    > activity over ti …
+
+3.  [**Conundrums and paradoxes in the pre-death grief experiences of
+    dementia caregivers: A causal loop
+    analysis.**](https://pubmed.ncbi.nlm.nih.gov/42623893/)
+
+    Ng YH, Wang JJ, Chow AYM.
+
+    Soc Sci Med. 2026 Aug 5;407:119676. doi:
+    10.1016/j.socscimed.2026.119676. Online ahead of print.
+
+    > Future research could extend this structural mapping through
+    > dynamic simulations (e.g., agent-based modeling) to examine how
+    > feedback patterns evolve and identify leverage points for
+    > intervention. …
+
+4.  [**Clinical Laboratory Terminology Standardization for Semantic
+    Interoperability Using a Large Language Model-Based Agent:
+    Methodological Study.**](https://pubmed.ncbi.nlm.nih.gov/42623484/)
+
+    Wu L, Huang J, Wang H, Mai L, Zhan X, He X, Zhang X, Liang H, Li X,
+    Bellou A.
+
+    J Med Internet Res. 2026 Aug 20;28:e92499. doi: 10.2196/92499.
+
+    > OBJECTIVE: We propose LabBridge, a large language model
+    > (LLM)-based agentic framework designed to standardize laboratory
+    > tests to the Logical Observation Identifiers Names and Codes
+    > (LOINC) standard, enabling cross-lingual semantic interoperability
+    > while minimizing relianc …
+
+5.  [**Computational Analysis of Fibroblast Subpopulation Dynamics as a
+    Driver of Fibrotic Foci
+    Formation.**](https://pubmed.ncbi.nlm.nih.gov/42620211/)
+
+    Leonard-Duke J, Csordas DJ, Hannan RT, Sano C, Hossainian D, Batavia
+    M, Andrews R, Ambrosone M, Eggertsen TG, Velez TE, Sturek JM,
+    Sperling A, Abebayehu D, Barker TH, Bonham CA, Saucerman JJ, Peirce
+    SM.
+
+    bioRxiv \[Preprint\]. 2026 Aug 5:2026.08.03.742640. doi:
+    10.64898/2026.08.03.742640.
+
+    > We first developed a logic-based network model of a fibroblast. We
+    > then applied this model to identify sub-networks that regulate
+    > myofibroblast marker expression in the two subpopulations.
+    > Coupling this with an agent-based model (ABM) of the lun …
+
+6.  [**Inferring heterogeneous transmission and community introduction
+    of antibiotic-resistant bacteria in hospital
+    settings.**](https://pubmed.ncbi.nlm.nih.gov/42620202/)
+
+    Li J, Yao Q, Pei S, Ning N.
+
+    medRxiv \[Preprint\]. 2026 Aug 4:2026.08.02.26359521. doi:
+    10.64898/2026.08.02.26359521.
+
+    > To address this challenge, we developed a blockwise agent-based
+    > iterated filter (BAIF) for inference in a patient-level
+    > transmission model on a dynamic ward co-location network. …More
+    > broadly, BAIF provides an effective inference framework for
+    > high-dimensio …
+
+7.  [**The SATvac model of CD8+ T cell expansion and contraction phases
+    considering memory and effector cell
+    differentiation.**](https://pubmed.ncbi.nlm.nih.gov/42611895/)
+
+    Seyyedizadeh SF, Christian DA, Adams Ii TA.
+
+    PLoS Comput Biol. 2026 Aug 18;22(8):e1014702. doi:
+    10.1371/journal.pcbi.1014702. Online ahead of print.
+
+    > In this study a mathematical stochastic agent-based model is
+    > developed to simulate all phases of the CD8+ T cell response
+    > following vaccination. Importantly, the model successfully
+    > captures the stochastic nature of T cell dynamics throughout the
+    > respon …
+
+8.  [**A behavioral architecture for realistic simulations of Drosophila
+    larva locomotion and
+    foraging.**](https://pubmed.ncbi.nlm.nih.gov/42605607/)
+
+    Sakagiannis PP, Jürgensen AM, Nawrot MP.
+
+    Elife. 2026 Aug 17;14:RP104262. doi: 10.7554/eLife.104262.
+
+    > The Drosophila larva is extensively used as a model organism in
+    > neuroethological studies where precise behavioral tracking enables
+    > the statistical analysis of individual and population-level
+    > behavioral metrics that can inform mathematical models of larval
+    > behavior. …
+
+9.  [**Projected lives saved and economic value of mRNA cancer
+    immunotherapies in the United
+    States.**](https://pubmed.ncbi.nlm.nih.gov/42604060/)
+
+    Wells CR, Pandey A, Bawden C, Ye Y, Bilori B, Potter-Schwartz L,
+    Ayaz L, Moghadas SM, Townsend JP, Fitzpatrick MC, Galvani AP.
+
+    Lancet Reg Health Am. 2026 Aug 8;62:101596. doi:
+    10.1016/j.lana.2026.101596. eCollection 2026 Oct.
+
+10. [**How resource heterogeneity and social threat shape intergroup
     tolerance: insights from a spatial agent-based
     model.**](https://pubmed.ncbi.nlm.nih.gov/42601064/)
 
@@ -29,133 +159,6 @@ update was on 2026-08-16 00:05:26.
     > drivers of intergroup proximity, but their combined effects remain
     > unclear. We developed a spatially explicit agent-based model to
     > exam …
-
-2.  [**Gender-responsive infectious disease models: Guidelines and
-    systematic scoping
-    review.**](https://pubmed.ncbi.nlm.nih.gov/42598046/)
-
-    Hamilton A, Prihartono I, Okura Y, Rankin N, Saiyed S, Ratcliff J,
-    Oladimeji A, Igusa T, Gardner L, Morgan R.
-
-    Dialogues Health. 2026 Jul 22;9:100329. doi:
-    10.1016/j.dialog.2026.100329. eCollection 2026 Dec.
-
-    > Gender norms, roles, and behaviors affect exposure, care-seeking,
-    > and service access, yet many infectious disease models overlook
-    > these factors. METHODS: To provide guidance to researchers
-    > considering sex/gender in epidemiological models, we propose
-    > structured guide …
-
-3.  [**Modeling Automation Trust Diffusion in Teams: Linking Micro- and
-    Macro-Trust Dynamics.**](https://pubmed.ncbi.nlm.nih.gov/42596642/)
-
-    Renata V, Lee JD.
-
-    Hum Factors. 2026 Aug 13:187208261472131. doi:
-    10.1177/00187208261472131. Online ahead of print.
-
-    > Contingent behavior evolves towards different endpoints based on
-    > small perturbations, whereas convergent behavior evolves to
-    > similar endpoints.MethodsWe developed a stochastic, discrete-event
-    > agent-based trust dynamics model that goes beyond existing model …
-
-4.  [**CellSwarm-AD: A Multi-Scale Agent-Based Framework for Virtual
-    Alzheimer’s Disease
-    Trials.**](https://pubmed.ncbi.nlm.nih.gov/42589569/)
-
-    Tan CL, Zheng XM, Zhu YF, Xiong QQ, Li H, Meng XL.
-
-    Int J Mol Sci. 2026 Aug 1;27(15):6915. doi: 10.3390/ijms27156915.
-
-    > Computational models of Alzheimer’s disease (AD) rarely connect
-    > cellular heterogeneity, spatial tissue organization, pathology
-    > cascades, and pharmacological intervention within one auditable
-    > workflow. We present CellSwarm-AD, a four-layer framework
-    > comprising five cell age …
-
-5.  [**A multi-scale mechanobiological framework for vibration-induced
-    intimal hyperplasia.**](https://pubmed.ncbi.nlm.nih.gov/42587219/)
-
-    Reda M, Chambert J, Jacquet E, Settembre N, Noël C.
-
-    Biomech Model Mechanobiol. 2026 Aug 12;25(4):94. doi:
-    10.1007/s10237-026-02105-2.
-
-    > Accordingly, a mechanobiological framework coupling an agent-based
-    > model (ABM) with a finite element model (FEM) was developed. The
-    > ABM captures the hemodynamics-driven and mechanoregulated cellular
-    > and molecular mechanisms involved in this pathology, …
-
-6.  [**An agent-based model of Trypanosoma brucei social motility to
-    explore determinants of colony pattern
-    formation.**](https://pubmed.ncbi.nlm.nih.gov/42585258/)
-
-    Kuhn A, Krüger T, Engstler M, Fischer SC.
-
-    PLoS Comput Biol. 2026 Aug 12;22(8):e1013698. doi:
-    10.1371/journal.pcbi.1013698. Online ahead of print.
-
-    > We aimed to determine which of the mechanisms are necessary to
-    > quantitatively reproduce the morphological characteristics of
-    > social motility. We developed a two-dimensional agent-based model
-    > that simulates colonies of 105-106 cells at single-cell
-    > resolution-t …
-
-7.  [**Nanoscale protein clustering modulates the input-output response
-    of cellular signalling
-    pathways.**](https://pubmed.ncbi.nlm.nih.gov/42581073/)
-
-    Panconi L, Griffié J, Owen DM.
-
-    Sci Rep. 2026 Aug 11;16(1):24938. doi: 10.1038/s41598-026-66329-z.
-
-    > Here, we develop a generalised simulator for dynamic molecular
-    > clustering built on agent-based modelling. We show that the
-    > clustering properties (e.g. size of clusters, percentage of
-    > monomers) tunes the cellular response. …
-
-8.  [**Characterizing human exposure to traffic-related air pollution
-    through daily activities using an agent-based
-    framework.**](https://pubmed.ncbi.nlm.nih.gov/42570516/)
-
-    Tirico M, Le Bescond V, Sengelin D, Gastineau P, Charvolin-Volta P,
-    Soulhac L, Can A.
-
-    Environ Int. 2026 Aug 5;215:110435. doi:
-    10.1016/j.envint.2026.110435. Online ahead of print.
-
-    > Characterizing human exposure to traffic-related air pollution
-    > requires accounting for both the spatio-temporal variability of
-    > pollutant concentrations and the diversity of human activities.
-    > Agent-based mobility models coupled with synthetic populations
-    > offer …
-
-9.  [**Regret, uncertainty, and bounded rationality in norm-driven
-    decisions.**](https://pubmed.ncbi.nlm.nih.gov/42566456/)
-
-    Charalambous C.
-
-    PLoS One. 2026 Aug 7;21(8):e0354748. doi:
-    10.1371/journal.pone.0354748. eCollection 2026.
-
-    > This study introduces an agent-based model to examine how regret,
-    > uncertainty, and social norms interact to shape vaccination
-    > behavior during epidemics. The model integrates three behavioral
-    > mechanisms-anticipated regret, evolving norms, and uncertaint …
-
-10. [**Epidemic Spread and Control Strategies: A Spatial-individual
-    Agent-based Modeling and Optimization
-    Approach.**](https://pubmed.ncbi.nlm.nih.gov/42559878/)
-
-    Zhang XY, Cao ZD, Luo TY, Wang JJ, Song HB, Wang LG.
-
-    Biomed Environ Sci. 2026 Jul 20;39(7):745-757. doi:
-    10.3967/bes2026.061.
-
-    > METHODS: We developed a spatial-individual agent-based model that
-    > integrates fine-grained spatiotemporal dynamics, where
-    > transmission risk is quantified by the exact distance and duration
-    > of contact. This model was applied to a high-resolution case stu …
 
 ## Code of Conduct
 
