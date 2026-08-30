@@ -9,156 +9,161 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-08-23 00:05:21.
+update was on 2026-08-30 00:11:39.
 
 <div class="cell">
 
 </div>
 
-1.  [**Dynamics of particle lane formation in confined viscoelastic
-    fluids under shear.**](https://pubmed.ncbi.nlm.nih.gov/42629898/)
+1.  [**Harnessing Systems Science to Strengthen Community-Based
+    Childhood Obesity Prevention: An Overview of the
+    Literature.**](https://pubmed.ncbi.nlm.nih.gov/42661386/)
 
-    Yokoyama H, Honda M, Miyakawa R, Shinohara Y, Nakamura K, Otoguro K,
-    Yoshii K, Sumino Y.
+    Moore TR, Chang Chusan YA, Calancie L, Tamvakologos PI, Economos CD.
 
-    Phys Rev E. 2026 Jul;114(1-2):015422. doi: 10.1103/cm4c-m7lw.
+    Obes Rev. 2026 Aug 27:e70218. doi: 10.1111/obr.70218. Online ahead
+    of print.
 
-    > Using the image brightness in a dyed fluid as a proxy for
-    > out-of-plane position, we demonstrate that this shuttling motion
-    > originates from vertical displacement of the particles. We further
-    > construct a minimal agent-based model in which the particle height
-    > fo …
+    > Systems approaches were used most often during intervention design
+    > (n = 50; 51.0%), followed by implementation (n = 23; 23.5%) and
+    > evaluation (n = 14; 14.3%), with some spanning multiple stages (n
+    > = 11; 11.2%). Participatory methods such as group model building
+    > deepened un …
 
-2.  [**Mechanical memory of confinement pressure governs expansion size
-    in epithelial
-    monolayers.**](https://pubmed.ncbi.nlm.nih.gov/42624657/)
+2.  [**MEmilio: a high performance Modular EpideMIcs simuLatIOn software
+    for multi-scale and comparative simulations of infectious disease
+    dynamics.**](https://pubmed.ncbi.nlm.nih.gov/42660986/)
 
-    Engström L, Schnyder SK, Ahnlide JK, Grudtsyna V, Gloerich M,
-    Nordenfelt P, Doostmohammadi A, Swaminathan VS.
+    Bicker J, Gerstein C, Kerkmann D, Korf S, Schmieding R, Wendler A,
+    Zunker H, Abele D, Betz M, Nguyen K, Plötzke L, Volmer K, Schmidt A,
+    Waßmuth N, Lenz P, Richter D, Tritzschak H, Hannemann-Tamas R, Litz
+    J, Johannssen P, Borges M, Jungklaus A, Heger M, Lange A, Kluth E,
+    Rack K, Wieland V, Arruda J, Binder SC, Klitz M, Siggel M, Dahmen M,
+    Basermann A, Meyer-Hermann M, Hasenauer J, Kühn MJ.
 
-    Life Sci Alliance. 2026 Aug 20;9(10):e202603831. doi:
-    10.26508/lsa.202603831. Print 2026 Oct.
+    Sci Rep. 2026 Aug 27;16(1):26950. doi: 10.1038/s41598-026-66481-6.
 
-    > To investigate the underlying mechanism, we combined quantitative
-    > experiments with a mechanochemical agent-based model in which
-    > mechanical pressure arising from confinement acts as a
-    > tissue-scale signal that modulates intracellular cell-cycle
-    > activity over ti …
+    > Epidemic and pandemic preparedness with rapid outbreak response
+    > rely on timely, trustworthy evidence. Mathematical models are
+    > crucial for supporting timely and reliable evidence generation for
+    > public health decision-making with models spanning approaches from
+    > compar …
 
-3.  [**Conundrums and paradoxes in the pre-death grief experiences of
-    dementia caregivers: A causal loop
-    analysis.**](https://pubmed.ncbi.nlm.nih.gov/42623893/)
+3.  [**A stochastic agent-based model for naive CD8( ) T cell
+    recirculation dynamics in
+    mice.**](https://pubmed.ncbi.nlm.nih.gov/42660280/)
 
-    Ng YH, Wang JJ, Chow AYM.
+    Elrefaei N, Christian DA, Adams TA 2nd.
 
-    Soc Sci Med. 2026 Aug 5;407:119676. doi:
-    10.1016/j.socscimed.2026.119676. Online ahead of print.
+    J Theor Biol. 2026 Aug 27:112577. doi: 10.1016/j.jtbi.2026.112577.
+    Online ahead of print.
 
-    > Future research could extend this structural mapping through
-    > dynamic simulations (e.g., agent-based modeling) to examine how
-    > feedback patterns evolve and identify leverage points for
-    > intervention. …
+    > Understanding the dynamics of T cell recirculation is vital for
+    > predicting immune responses and providing mechanistic insights
+    > into T cell migration. In this work we present a stochastic
+    > agent-based mathematical model for naive CD8(+) T cell dynamics
+    > and reci …
 
-4.  [**Clinical Laboratory Terminology Standardization for Semantic
-    Interoperability Using a Large Language Model-Based Agent:
-    Methodological Study.**](https://pubmed.ncbi.nlm.nih.gov/42623484/)
+4.  [**Exploring Fire Management Strategies at the Wildland-Urban
+    Interface with an Agent-Based Model
+    Framework.**](https://pubmed.ncbi.nlm.nih.gov/42658309/)
 
-    Wu L, Huang J, Wang H, Mai L, Zhan X, He X, Zhang X, Liang H, Li X,
-    Bellou A.
+    Christ S, Sliuzas R, Schwarz N.
 
-    J Med Internet Res. 2026 Aug 20;28:e92499. doi: 10.2196/92499.
+    Environ Manage. 2026 Aug 27;76(9):288. doi:
+    10.1007/s00267-026-02561-7.
 
-    > OBJECTIVE: We propose LabBridge, a large language model
-    > (LLM)-based agentic framework designed to standardize laboratory
-    > tests to the Logical Observation Identifiers Names and Codes
-    > (LOINC) standard, enabling cross-lingual semantic interoperability
-    > while minimizing relianc …
+    > Fire management needs to navigate the needs of residents and
+    > biodiversity conservation within a coupled social-ecological
+    > system such as the wildland-urban interface (WUI). In our study,
+    > we develop an agent-based modelling framework to explore the
+    > potential o …
 
-5.  [**Computational Analysis of Fibroblast Subpopulation Dynamics as a
-    Driver of Fibrotic Foci
-    Formation.**](https://pubmed.ncbi.nlm.nih.gov/42620211/)
+5.  [**PDA-Engineered 3D-Printed Polymer-ZrO2 Hybrid Scaffolds Enabling
+    Enhanced Radiopacity, Photothermal Therapy, and Cell Migration
+    Modulation.**](https://pubmed.ncbi.nlm.nih.gov/42657452/)
 
-    Leonard-Duke J, Csordas DJ, Hannan RT, Sano C, Hossainian D, Batavia
-    M, Andrews R, Ambrosone M, Eggertsen TG, Velez TE, Sturek JM,
-    Sperling A, Abebayehu D, Barker TH, Bonham CA, Saucerman JJ, Peirce
-    SM.
+    Kang S, Jeong YJ, Kim S, Nguyen VD, Jeong S, Jo J, Shanmugasundaram
+    A, Jeong JU, Lee DW, Choi E, Kim H.
 
-    bioRxiv \[Preprint\]. 2026 Aug 5:2026.08.03.742640. doi:
-    10.64898/2026.08.03.742640.
+    Small. 2026 Aug 27:e75502. doi: 10.1002/smll.75502. Online ahead of
+    print.
 
-    > We first developed a logic-based network model of a fibroblast. We
-    > then applied this model to identify sub-networks that regulate
-    > myofibroblast marker expression in the two subpopulations.
-    > Coupling this with an agent-based model (ABM) of the lun …
+    > ZrO(2) nanoparticles are uniformly embedded into
+    > poly(epsilon-caprolactone) (PCL) via solution blending and
+    > fabricated into vascular scaffold by fused deposition modeling,
+    > yielding improved elastic modulus and radial strength while
+    > preserving elastic recovery. The ceramic …
 
-6.  [**Inferring heterogeneous transmission and community introduction
-    of antibiotic-resistant bacteria in hospital
-    settings.**](https://pubmed.ncbi.nlm.nih.gov/42620202/)
+6.  [**An Agent-Based Model of the Stellar Mass
+    Distribution.**](https://pubmed.ncbi.nlm.nih.gov/42649690/)
 
-    Li J, Yao Q, Pei S, Ning N.
+    Olguín-Rodríguez ER, Gershenson C, Vázquez-Semadeni E.
 
-    medRxiv \[Preprint\]. 2026 Aug 4:2026.08.02.26359521. doi:
-    10.64898/2026.08.02.26359521.
+    Entropy (Basel). 2026 Aug 10;28(8):895. doi: 10.3390/e28080895.
 
-    > To address this challenge, we developed a blockwise agent-based
-    > iterated filter (BAIF) for inference in a patient-level
-    > transmission model on a dynamic ward co-location network. …More
-    > broadly, BAIF provides an effective inference framework for
-    > high-dimensio …
+    > In this work, we investigate the emergence of the IMF slope using
+    > a minimal agent-based model inspired by preferential attachment
+    > mechanisms. The model represents stars as accretion centers
+    > embedded in a reservoir of infalling material, where mass grow …
 
-7.  [**The SATvac model of CD8+ T cell expansion and contraction phases
-    considering memory and effector cell
-    differentiation.**](https://pubmed.ncbi.nlm.nih.gov/42611895/)
+7.  [**Multiscale modeling of T cell exhaustion: A mathematical
+    framework integrating continuous dynamics with spatial
+    heterogeneity.**](https://pubmed.ncbi.nlm.nih.gov/42647568/)
 
-    Seyyedizadeh SF, Christian DA, Adams Ii TA.
+    Li C, Zhang Y, Liu X, Qu Y, Lai X, Lei J.
 
-    PLoS Comput Biol. 2026 Aug 18;22(8):e1014702. doi:
-    10.1371/journal.pcbi.1014702. Online ahead of print.
+    PLoS Comput Biol. 2026 Aug 26;22(8):e1014690. doi:
+    10.1371/journal.pcbi.1014690. Online ahead of print.
 
-    > In this study a mathematical stochastic agent-based model is
-    > developed to simulate all phases of the CD8+ T cell response
-    > following vaccination. Importantly, the model successfully
-    > captures the stochastic nature of T cell dynamics throughout the
-    > respon …
+    > Here, we integrate multi-source data, population dynamics
+    > modeling, and agent-based modeling to track the progressive stages
+    > of CD8+ T cell exhaustion. Our model demonstrates that immune
+    > checkpoint blockade significantly delays exhaustion and pr …
 
-8.  [**A behavioral architecture for realistic simulations of Drosophila
-    larva locomotion and
-    foraging.**](https://pubmed.ncbi.nlm.nih.gov/42605607/)
+8.  [**The complex swarming dynamics of malaria mosquitoes emerge from
+    simple minimally-interactive behavioral
+    rules.**](https://pubmed.ncbi.nlm.nih.gov/42647567/)
 
-    Sakagiannis PP, Jürgensen AM, Nawrot MP.
+    Cribellier A, Poda BS, Dabiré RK, Diabaté A, Roux O, Muijres FT.
 
-    Elife. 2026 Aug 17;14:RP104262. doi: 10.7554/eLife.104262.
+    PLoS Comput Biol. 2026 Aug 26;22(8):e1014685. doi:
+    10.1371/journal.pcbi.1014685. Online ahead of print.
 
-    > The Drosophila larva is extensively used as a model organism in
-    > neuroethological studies where precise behavioral tracking enables
-    > the statistical analysis of individual and population-level
-    > behavioral metrics that can inform mathematical models of larval
-    > behavior. …
+    > This behavior was found consistent between both laboratory
+    > datasets, including swarming of solitary individuals; this
+    > indicates that inter-individual interactions may play a limited
+    > role within the small-to-medium sized swarms that we studied. We
+    > developed a simple agent- …
 
-9.  [**Projected lives saved and economic value of mRNA cancer
-    immunotherapies in the United
-    States.**](https://pubmed.ncbi.nlm.nih.gov/42604060/)
+9.  [**Advancing Influenza Prevention: The Case for Pre-Exposure
+    Prophylaxis (PrEP).**](https://pubmed.ncbi.nlm.nih.gov/42646685/)
 
-    Wells CR, Pandey A, Bawden C, Ye Y, Bilori B, Potter-Schwartz L,
-    Ayaz L, Moghadas SM, Townsend JP, Fitzpatrick MC, Galvani AP.
+    Paritala HR, Mier-Y-Teran-Romero L, Natarajan R, Adams P, Spector C,
+    Topf K, Kadambi A, Falvey JA, Lamias MJ, Durham DP, Armstrong K.
 
-    Lancet Reg Health Am. 2026 Aug 8;62:101596. doi:
-    10.1016/j.lana.2026.101596. eCollection 2026 Oct.
+    Vaccines (Basel). 2026 Jul 30;14(8):666. doi:
+    10.3390/vaccines14080666.
 
-10. [**How resource heterogeneity and social threat shape intergroup
-    tolerance: insights from a spatial agent-based
-    model.**](https://pubmed.ncbi.nlm.nih.gov/42601064/)
+    > This manuscript outlines the Biomedical Advanced Research and
+    > Development Authority’s (BARDA’s) target product profile (TPP) for
+    > a long-acting influenza PrEP product, reviews the current
+    > development landscape, and models the potential impact of early
+    > PrEP product deploymen …
 
-    Grueter CC.
+10. [**Multiscale Wildfire-Evacuation Modeling: Assessing Differential
+    Access to Safe Egress in Marin County,
+    CA.**](https://pubmed.ncbi.nlm.nih.gov/42642826/)
 
-    Folia Primatol (Basel). 2026 Aug 14:1-15. doi:
-    10.1163/14219980-bja10094. Online ahead of print.
+    Chang S, Comfort L, Soga K, Li P, Wang Y.
 
-    > Ecological factors such as resource heterogeneity and social
-    > threats like bachelor male presence have each been proposed as
-    > drivers of intergroup proximity, but their combined effects remain
-    > unclear. We developed a spatially explicit agent-based model to
-    > exam …
+    Risk Anal. 2026 Sep;46(9):e70338. doi: 10.1111/risa.70338.
+
+    > Wildfire evacuation outcomes vary due to interactions among fire
+    > progression, human behavior, and traffic dynamics. Most models
+    > treat these factors separately, leaving a gap in integrated
+    > approaches. This study develops a tri-coupled framework linking
+    > fire spread, multicha …
 
 ## Code of Conduct
 
