@@ -9,161 +9,163 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-08-30 00:11:39.
+update was on 2026-09-06 00:11:20.
 
 <div class="cell">
 
 </div>
 
-1.  [**Harnessing Systems Science to Strengthen Community-Based
-    Childhood Obesity Prevention: An Overview of the
-    Literature.**](https://pubmed.ncbi.nlm.nih.gov/42661386/)
+1.  [**Elements on the move: How ungulate migration expands Alpine
+    biogeochemical
+    footprints.**](https://pubmed.ncbi.nlm.nih.gov/42698336/)
 
-    Moore TR, Chang Chusan YA, Calancie L, Tamvakologos PI, Economos CD.
+    Ferraro KM, Corradini A, Hawkinson V, Chanel O, Figuières C,
+    Bramoullé Y, Vanderlocht C, Ossi F, Righetti D, Schmitz OJ, Cagnacci
+    F.
 
-    Obes Rev. 2026 Aug 27:e70218. doi: 10.1111/obr.70218. Online ahead
+    J Anim Ecol. 2026 Sep 5. doi: 10.1111/1365-2656.70340. Online ahead
     of print.
 
-    > Systems approaches were used most often during intervention design
-    > (n = 50; 51.0%), followed by implementation (n = 23; 23.5%) and
-    > evaluation (n = 14; 14.3%), with some spanning multiple stages (n
-    > = 11; 11.2%). Participatory methods such as group model building
-    > deepened un …
+    > Yet the relationship between animal movement and element
+    > distribution remains poorly characterized. We developed a
+    > spatially explicit agent-based model to test how migratory versus
+    > resident red deer (Cervus elaphus) influence nitrogen
+    > redistribution across an …
 
-2.  [**MEmilio: a high performance Modular EpideMIcs simuLatIOn software
-    for multi-scale and comparative simulations of infectious disease
-    dynamics.**](https://pubmed.ncbi.nlm.nih.gov/42660986/)
+2.  [**Age-Associated Primordial Follicle Density in Human Ovarian
+    Cortical Tissue from Post-Pubertal Females Undergoing Ovarian Tissue
+    Cryopreservation and Transplantation: A Descriptive
+    Analysis.**](https://pubmed.ncbi.nlm.nih.gov/42697266/)
 
-    Bicker J, Gerstein C, Kerkmann D, Korf S, Schmieding R, Wendler A,
-    Zunker H, Abele D, Betz M, Nguyen K, Plötzke L, Volmer K, Schmidt A,
-    Waßmuth N, Lenz P, Richter D, Tritzschak H, Hannemann-Tamas R, Litz
-    J, Johannssen P, Borges M, Jungklaus A, Heger M, Lange A, Kluth E,
-    Rack K, Wieland V, Arruda J, Binder SC, Klitz M, Siggel M, Dahmen M,
-    Basermann A, Meyer-Hermann M, Hasenauer J, Kühn MJ.
+    Erden M, Celik S, Oktay KH.
 
-    Sci Rep. 2026 Aug 27;16(1):26950. doi: 10.1038/s41598-026-66481-6.
+    Fertil Steril. 2026 Sep 4:S0015-0282(26)01748-6. doi:
+    10.1016/j.fertnstert.2026.08.1131. Online ahead of print.
 
-    > Epidemic and pandemic preparedness with rapid outbreak response
-    > rely on timely, trustworthy evidence. Mathematical models are
-    > crucial for supporting timely and reliable evidence generation for
-    > public health decision-making with models spanning approaches from
-    > compar …
+    > SUBJECTS: Ovarian cortical tissue from 33 post-pubertal
+    > individuals aged 16-43 years obtained from organ donors and
+    > patients undergoing ovarian tissue cryopreservation, without prior
+    > exposure to intensive alkylating agent-based chemotherapy.
+    > EXPOSURE: Age at ovarian …
 
-3.  [**A stochastic agent-based model for naive CD8( ) T cell
-    recirculation dynamics in
-    mice.**](https://pubmed.ncbi.nlm.nih.gov/42660280/)
+3.  [**Slovotvir: Grassroots reform of the Ukrainian language reveals
+    the role of drift and selection in language
+    change.**](https://pubmed.ncbi.nlm.nih.gov/42695005/)
 
-    Elrefaei N, Christian DA, Adams TA 2nd.
+    Koshevoy A, Sobchuk O, Morin O.
 
-    J Theor Biol. 2026 Aug 27:112577. doi: 10.1016/j.jtbi.2026.112577.
-    Online ahead of print.
+    PNAS Nexus. 2026 Sep 3;5(9):pgag258. doi: 10.1093/pnasnexus/pgag258.
+    eCollection 2026 Sep.
 
-    > Understanding the dynamics of T cell recirculation is vital for
-    > predicting immune responses and providing mechanistic insights
-    > into T cell migration. In this work we present a stochastic
-    > agent-based mathematical model for naive CD8(+) T cell dynamics
-    > and reci …
+    > This pre-registered study examines lexical evolution in the
+    > Ukrainian language using data from Slovotvir, a crowdsourcing
+    > platform where over 4,000 users proposed and ranked translations
+    > of foreign-origin words over 9 years. We rely on an agent-based
+    > model co …
 
-4.  [**Exploring Fire Management Strategies at the Wildland-Urban
-    Interface with an Agent-Based Model
-    Framework.**](https://pubmed.ncbi.nlm.nih.gov/42658309/)
+4.  [**Unmasking bias in the evidence ecosystem: a panoramic analysis of
+    311,751 meta-analyses using an artificial intelligence agent-based
+    approach.**](https://pubmed.ncbi.nlm.nih.gov/42693920/)
 
-    Christ S, Sliuzas R, Schwarz N.
+    Chen X, She Z, Yang S, Chu M, Zhou Y.
 
-    Environ Manage. 2026 Aug 27;76(9):288. doi:
-    10.1007/s00267-026-02561-7.
+    J Glob Health. 2026 Sep 4;16:03029. doi: 10.7189/jogh.16.03029.
 
-    > Fire management needs to navigate the needs of residents and
-    > biodiversity conservation within a coupled social-ecological
-    > system such as the wildland-urban interface (WUI). In our study,
-    > we develop an agent-based modelling framework to explore the
-    > potential o …
+    > In this viewpoint, we aimed to evaluate the feasibility of large
+    > language models in automating meta-analysis workflows and develop
+    > the Meta-Analysis Screening, Transformation and Evaluation Review
+    > Agent (MASTER) agent; establish a large-scale Unified
+    > Meta-Analysis Reposito …
 
-5.  [**PDA-Engineered 3D-Printed Polymer-ZrO2 Hybrid Scaffolds Enabling
-    Enhanced Radiopacity, Photothermal Therapy, and Cell Migration
-    Modulation.**](https://pubmed.ncbi.nlm.nih.gov/42657452/)
+5.  [**How AI Can Advance Mathematical Biology: Opportunities,
+    Challenges, and Future
+    Directions.**](https://pubmed.ncbi.nlm.nih.gov/42693360/)
 
-    Kang S, Jeong YJ, Kim S, Nguyen VD, Jeong S, Jo J, Shanmugasundaram
-    A, Jeong JU, Lee DW, Choi E, Kim H.
+    Rabiei K, Rempala GA, Laubenbacher R, Hao W.
 
-    Small. 2026 Aug 27:e75502. doi: 10.1002/smll.75502. Online ahead of
-    print.
+    Bull Math Biol. 2026 Sep 3;88(10):175. doi:
+    10.1007/s11538-026-01744-x.
 
-    > ZrO(2) nanoparticles are uniformly embedded into
-    > poly(epsilon-caprolactone) (PCL) via solution blending and
-    > fabricated into vascular scaffold by fused deposition modeling,
-    > yielding improved elastic modulus and radial strength while
-    > preserving elastic recovery. The ceramic …
+    > Mathematical biology has long relied on mechanistic models,
+    > including ordinary and partial differential equations, stochastic
+    > systems, and agent-based models, to study biological processes
+    > across scales. …As a result, artificial intelligence (AI) and …
 
-6.  [**An Agent-Based Model of the Stellar Mass
-    Distribution.**](https://pubmed.ncbi.nlm.nih.gov/42649690/)
+6.  [**Agent-based modeling of tumor microenvironment suppression
+    reveals the dominant barriers to anti-tumor
+    immunity.**](https://pubmed.ncbi.nlm.nih.gov/42691757/)
 
-    Olguín-Rodríguez ER, Gershenson C, Vázquez-Semadeni E.
+    Dehkordi SH, Arabameri A.
 
-    Entropy (Basel). 2026 Aug 10;28(8):895. doi: 10.3390/e28080895.
+    Comput Biol Med. 2026 Sep 3;214:111906. doi:
+    10.1016/j.compbiomed.2026.111906. Online ahead of print.
 
-    > In this work, we investigate the emergence of the IMF slope using
-    > a minimal agent-based model inspired by preferential attachment
-    > mechanisms. The model represents stars as accretion centers
-    > embedded in a reservoir of infalling material, where mass grow …
+    > Cancer progression is driven by a tumor microenvironment (TME)
+    > that suppresses anti-tumor immunity through structural, cellular,
+    > and metabolic barriers. We developed a computational model to
+    > compare the relative impact of four major suppressive mechanisms:
+    > extracellular ma …
 
-7.  [**Multiscale modeling of T cell exhaustion: A mathematical
-    framework integrating continuous dynamics with spatial
-    heterogeneity.**](https://pubmed.ncbi.nlm.nih.gov/42647568/)
+7.  [**AI agent-based discovery of antimicrobial peptides against
+    multidrug-resistant gram-negative bacterial
+    infection.**](https://pubmed.ncbi.nlm.nih.gov/42691698/)
 
-    Li C, Zhang Y, Liu X, Qu Y, Lai X, Lei J.
+    Zhang Y, Zhang X, Chen X, Chen J, Kong L, Ma H.
 
-    PLoS Comput Biol. 2026 Aug 26;22(8):e1014690. doi:
-    10.1371/journal.pcbi.1014690. Online ahead of print.
+    Eur J Med Chem. 2026 Aug 28;319:119279. doi:
+    10.1016/j.ejmech.2026.119279. Online ahead of print.
 
-    > Here, we integrate multi-source data, population dynamics
-    > modeling, and agent-based modeling to track the progressive stages
-    > of CD8+ T cell exhaustion. Our model demonstrates that immune
-    > checkpoint blockade significantly delays exhaustion and pr …
+    > In terms of bactericidal mechanism, AMP-ZJLC586 can reduce the
+    > production of bacterial ATP by inhibiting the synthesis of
+    > lipopolysaccharide and the enzyme activity of respiratory chain,
+    > and oxidative stress response and SOS response at the same time.
+    > In the sepsis mouse model …
 
-8.  [**The complex swarming dynamics of malaria mosquitoes emerge from
-    simple minimally-interactive behavioral
-    rules.**](https://pubmed.ncbi.nlm.nih.gov/42647567/)
+8.  [**From assistant to collaborator: A systematic review of the
+    evolution of artificial intelligence in end-stage renal disease care
+    and management.**](https://pubmed.ncbi.nlm.nih.gov/42685099/)
 
-    Cribellier A, Poda BS, Dabiré RK, Diabaté A, Roux O, Muijres FT.
+    Wang M, Hong C, Huang Z, Shao F, Gu Y.
 
-    PLoS Comput Biol. 2026 Aug 26;22(8):e1014685. doi:
-    10.1371/journal.pcbi.1014685. Online ahead of print.
+    PLOS Digit Health. 2026 Sep 2;5(9):e0001635. doi:
+    10.1371/journal.pdig.0001635. eCollection 2026 Sep.
 
-    > This behavior was found consistent between both laboratory
-    > datasets, including swarming of solitary individuals; this
-    > indicates that inter-individual interactions may play a limited
-    > role within the small-to-medium sized swarms that we studied. We
-    > developed a simple agent- …
+    > A three-stage analytical framework was applied to chart the
+    > technological evolution of AI in ESRD care: (1) rule-based
+    > assistive tools, (2) data-driven learning systems, and (3)
+    > emerging large language model- and agent-based cognitive systems.
+    > A total of 100 …
 
-9.  [**Advancing Influenza Prevention: The Case for Pre-Exposure
-    Prophylaxis (PrEP).**](https://pubmed.ncbi.nlm.nih.gov/42646685/)
+9.  [**Monte Carlo simulation of testing requirements for chronic
+    wasting disease (CWD) surveillance via hunter-harvest in Illinois,
+    USA.**](https://pubmed.ncbi.nlm.nih.gov/42683659/)
 
-    Paritala HR, Mier-Y-Teran-Romero L, Natarajan R, Adams P, Spector C,
-    Topf K, Kadambi A, Falvey JA, Lamias MJ, Durham DP, Armstrong K.
+    Mori JJ, Brown WM, Rivera NA, Skinner DJ, Schlichting PE, Novakofski
+    JE, Mateus-Pinilla NE.
 
-    Vaccines (Basel). 2026 Jul 30;14(8):666. doi:
-    10.3390/vaccines14080666.
+    Prion. 2026 Dec 31;20(1):79-88. doi: 10.1080/19336896.2026.2725518.
+    Epub 2026 Sep 2.
 
-    > This manuscript outlines the Biomedical Advanced Research and
-    > Development Authority’s (BARDA’s) target product profile (TPP) for
-    > a long-acting influenza PrEP product, reviews the current
-    > development landscape, and models the potential impact of early
-    > PrEP product deploymen …
+    > Options range from basic equations to complex techniques like
+    > agent-based modelling, but the former does not account for
+    > parameter uncertainty, and more detailed models may be less
+    > accessible for managers. …
 
-10. [**Multiscale Wildfire-Evacuation Modeling: Assessing Differential
-    Access to Safe Egress in Marin County,
-    CA.**](https://pubmed.ncbi.nlm.nih.gov/42642826/)
+10. [**Prospects of HIV elimination among men who have sex with men: A
+    systematic review of modeling
+    studies.**](https://pubmed.ncbi.nlm.nih.gov/42672112/)
 
-    Chang S, Comfort L, Soga K, Li P, Wang Y.
+    Roberts JA, Teslya A, Kretzschmar ME, van de Wijgert JHHM, Rozhnova
+    G.
 
-    Risk Anal. 2026 Sep;46(9):e70338. doi: 10.1111/risa.70338.
+    PLoS Comput Biol. 2026 Aug 31;22(8):e1014596. doi:
+    10.1371/journal.pcbi.1014596. Online ahead of print.
 
-    > Wildfire evacuation outcomes vary due to interactions among fire
-    > progression, human behavior, and traffic dynamics. Most models
-    > treat these factors separately, leaving a gap in integrated
-    > approaches. This study develops a tri-coupled framework linking
-    > fire spread, multicha …
+    > This systematic review summarizes the results of mathematical
+    > modeling studies that evaluated prospects of HIV elimination among
+    > MSM by geographical setting, type of intervention(s), elimination
+    > definition, and model characteristics. …MSM populations in six of
+    > the …
 
 ## Code of Conduct
 
