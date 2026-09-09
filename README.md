@@ -9,13 +9,71 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-09-06 00:11:20.
+update was on 2026-09-09 06:40:31.
 
 <div class="cell">
 
 </div>
 
-1.  [**Elements on the move: How ungulate migration expands Alpine
+1.  [**An automated method for constructing continuous reference
+    intervals based on real-world data-driven approaches and forming
+    intelligent agents.**](https://pubmed.ncbi.nlm.nih.gov/42710823/)
+
+    Wu Y, Huang T, Lou S, Mo Y, Yu F, Zhang S, He H.
+
+    Clin Biochem. 2026 Sep 8:111200. doi:
+    10.1016/j.clinbiochem.2026.111200. Online ahead of print.
+
+    > This study aims to develop and validate a fully automated,
+    > open-source analytical workflow that simultaneously addresses
+    > these limitations and enables operation without programming
+    > expertise through an agent-based AI interface. METHODS: We
+    > developed an automated ope …
+
+2.  [**How Long is the Last Mile? The Path to Guinea Worm Elimination in
+    Chad: A Simulation Modeling
+    Study.**](https://pubmed.ncbi.nlm.nih.gov/42710483/)
+
+    Smalley HK, Keskinocak P, Delea MG, Eneanya OA, van Loben Sels JM,
+    Tchindebet O, Weiss A.
+
+    Am J Trop Med Hyg. 2026 Sep 8:tpmd260289. doi:
+    10.4269/ajtmh.26-0289. Online ahead of print.
+
+    > While animal infections continue, the human population remains at
+    > risk; elimination requires interrupting infections in both humans
+    > and animals. In the present study, agent-based simulation modeling
+    > was used to evaluate the time to elimination of GWD among do …
+
+3.  [**Stochastic thermodynamics of social imitation beyond
+    energetics.**](https://pubmed.ncbi.nlm.nih.gov/42702611/)
+
+    Irisarri L, Trigal L, Toral R, Manzano G.
+
+    Nat Commun. 2026 Aug 8;17(1):9542. doi: 10.1038/s41467-026-76212-0.
+
+    > Similarly to Landauer’s principle, it constrains spontaneous
+    > changes in agent attributes (opinions, cultural traits, etc.) and
+    > their informational entropy. We illustrate this framework to toy
+    > agent-based models of social imitation with non-trivial phase
+    > diagr …
+
+4.  [**A multi-agent quantitative microbial risk assessment of raw milk
+    cheeses: from farm-level practices to consumer
+    risk.**](https://pubmed.ncbi.nlm.nih.gov/42700798/)
+
+    Guillier L, Chaix E, Auvray F, Collineau L, Desriac N, Mtimet N,
+    Oswald E, Dubois-Brissonnet F, Membré JM.
+
+    J Food Prot. 2026 Sep 5:100913. doi: 10.1016/j.jfp.2026.100913.
+    Online ahead of print.
+
+    > In this study, we developed an innovative agent-based Quantitative
+    > Microbial Risk Assessment (QMRA) model that explicitly represents
+    > farms, animals, cheese batches, and consumers as individual
+    > agents. …Grounded in extensive knowledge of the French raw milk …
+
+5.  [**Elements on the move: How ungulate migration expands Alpine
     biogeochemical
     footprints.**](https://pubmed.ncbi.nlm.nih.gov/42698336/)
 
@@ -32,7 +90,7 @@ update was on 2026-09-06 00:11:20.
     > resident red deer (Cervus elaphus) influence nitrogen
     > redistribution across an …
 
-2.  [**Age-Associated Primordial Follicle Density in Human Ovarian
+6.  [**Age-Associated Primordial Follicle Density in Human Ovarian
     Cortical Tissue from Post-Pubertal Females Undergoing Ovarian Tissue
     Cryopreservation and Transplantation: A Descriptive
     Analysis.**](https://pubmed.ncbi.nlm.nih.gov/42697266/)
@@ -48,7 +106,7 @@ update was on 2026-09-06 00:11:20.
     > exposure to intensive alkylating agent-based chemotherapy.
     > EXPOSURE: Age at ovarian …
 
-3.  [**Slovotvir: Grassroots reform of the Ukrainian language reveals
+7.  [**Slovotvir: Grassroots reform of the Ukrainian language reveals
     the role of drift and selection in language
     change.**](https://pubmed.ncbi.nlm.nih.gov/42695005/)
 
@@ -63,7 +121,7 @@ update was on 2026-09-06 00:11:20.
     > of foreign-origin words over 9 years. We rely on an agent-based
     > model co …
 
-4.  [**Unmasking bias in the evidence ecosystem: a panoramic analysis of
+8.  [**Unmasking bias in the evidence ecosystem: a panoramic analysis of
     311,751 meta-analyses using an artificial intelligence agent-based
     approach.**](https://pubmed.ncbi.nlm.nih.gov/42693920/)
 
@@ -77,7 +135,7 @@ update was on 2026-09-06 00:11:20.
     > Agent (MASTER) agent; establish a large-scale Unified
     > Meta-Analysis Reposito …
 
-5.  [**How AI Can Advance Mathematical Biology: Opportunities,
+9.  [**How AI Can Advance Mathematical Biology: Opportunities,
     Challenges, and Future
     Directions.**](https://pubmed.ncbi.nlm.nih.gov/42693360/)
 
@@ -91,7 +149,7 @@ update was on 2026-09-06 00:11:20.
     > systems, and agent-based models, to study biological processes
     > across scales. …As a result, artificial intelligence (AI) and …
 
-6.  [**Agent-based modeling of tumor microenvironment suppression
+10. [**Agent-based modeling of tumor microenvironment suppression
     reveals the dominant barriers to anti-tumor
     immunity.**](https://pubmed.ncbi.nlm.nih.gov/42691757/)
 
@@ -105,67 +163,6 @@ update was on 2026-09-06 00:11:20.
     > and metabolic barriers. We developed a computational model to
     > compare the relative impact of four major suppressive mechanisms:
     > extracellular ma …
-
-7.  [**AI agent-based discovery of antimicrobial peptides against
-    multidrug-resistant gram-negative bacterial
-    infection.**](https://pubmed.ncbi.nlm.nih.gov/42691698/)
-
-    Zhang Y, Zhang X, Chen X, Chen J, Kong L, Ma H.
-
-    Eur J Med Chem. 2026 Aug 28;319:119279. doi:
-    10.1016/j.ejmech.2026.119279. Online ahead of print.
-
-    > In terms of bactericidal mechanism, AMP-ZJLC586 can reduce the
-    > production of bacterial ATP by inhibiting the synthesis of
-    > lipopolysaccharide and the enzyme activity of respiratory chain,
-    > and oxidative stress response and SOS response at the same time.
-    > In the sepsis mouse model …
-
-8.  [**From assistant to collaborator: A systematic review of the
-    evolution of artificial intelligence in end-stage renal disease care
-    and management.**](https://pubmed.ncbi.nlm.nih.gov/42685099/)
-
-    Wang M, Hong C, Huang Z, Shao F, Gu Y.
-
-    PLOS Digit Health. 2026 Sep 2;5(9):e0001635. doi:
-    10.1371/journal.pdig.0001635. eCollection 2026 Sep.
-
-    > A three-stage analytical framework was applied to chart the
-    > technological evolution of AI in ESRD care: (1) rule-based
-    > assistive tools, (2) data-driven learning systems, and (3)
-    > emerging large language model- and agent-based cognitive systems.
-    > A total of 100 …
-
-9.  [**Monte Carlo simulation of testing requirements for chronic
-    wasting disease (CWD) surveillance via hunter-harvest in Illinois,
-    USA.**](https://pubmed.ncbi.nlm.nih.gov/42683659/)
-
-    Mori JJ, Brown WM, Rivera NA, Skinner DJ, Schlichting PE, Novakofski
-    JE, Mateus-Pinilla NE.
-
-    Prion. 2026 Dec 31;20(1):79-88. doi: 10.1080/19336896.2026.2725518.
-    Epub 2026 Sep 2.
-
-    > Options range from basic equations to complex techniques like
-    > agent-based modelling, but the former does not account for
-    > parameter uncertainty, and more detailed models may be less
-    > accessible for managers. …
-
-10. [**Prospects of HIV elimination among men who have sex with men: A
-    systematic review of modeling
-    studies.**](https://pubmed.ncbi.nlm.nih.gov/42672112/)
-
-    Roberts JA, Teslya A, Kretzschmar ME, van de Wijgert JHHM, Rozhnova
-    G.
-
-    PLoS Comput Biol. 2026 Aug 31;22(8):e1014596. doi:
-    10.1371/journal.pcbi.1014596. Online ahead of print.
-
-    > This systematic review summarizes the results of mathematical
-    > modeling studies that evaluated prospects of HIV elimination among
-    > MSM by geographical setting, type of intervention(s), elimination
-    > definition, and model characteristics. …MSM populations in six of
-    > the …
 
 ## Code of Conduct
 
