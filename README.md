@@ -9,159 +9,157 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-09-13 00:11:07.
+update was on 2026-09-20 00:11:48.
 
 <div class="cell">
 
 </div>
 
-1.  [**Advantages of a Two-Stage Randomized Trial Design to Evaluate
-    Antimicrobial Treatment Strategies: a Simulation
-    Study.**](https://pubmed.ncbi.nlm.nih.gov/42723555/)
+1.  [**Computational screening of alginate biomaterials for
+    intervertebral disc repair via agent-based
+    simulation.**](https://pubmed.ncbi.nlm.nih.gov/42759153/)
 
-    Gago J, Boyer C, Lipsitch M.
+    Munipalle M, Bonomo R, Dang A, Liu Y, Li X, Li J, Li-Jessen NYK.
 
-    Am J Epidemiol. 2026 Sep 11:kwag220. doi: 10.1093/aje/kwag220.
-    Online ahead of print.
+    Comput Methods Programs Biomed. 2026 Sep 10;287:109646. doi:
+    10.1016/j.cmpb.2026.109646. Online ahead of print.
 
-    > Two-stage randomized (2SR) designs can estimate these spillover
-    > effects but have not been applied to antimicrobial strategies. We
-    > built a stochastic agent-based model of a hospital ward with two
-    > competing strains (susceptible and resistant) to emulate a 2SR t …
+    > Although hydrogels are promising biomaterials for NP repair,
+    > optimizing their interdependent design parameters through
+    > traditional experimentation is resource intensive. This study
+    > developed an IVD-hydrogel agent-based model (IVDH-ABM) for
+    > computational scree …
 
-2.  [**An Agent-Based Modelling Approach to Investigate the Impact of
-    Sex and Gender on Tuberculosis Transmission: A Case Study of
-    Kampala, Uganda.**](https://pubmed.ncbi.nlm.nih.gov/42722918/)
+2.  [**The eight pillars of within-host tuberculosis
+    modelling.**](https://pubmed.ncbi.nlm.nih.gov/42756726/)
 
-    Doran JWG, Mujuni D, Gallagher K, Yates CA, Bowness R.
+    Kaondera-Shava RF, Michael CT, Kirschner D, Bowness R.
 
-    Bull Math Biol. 2026 Sep 10;88(10):179. doi:
-    10.1007/s11538-026-01734-z.
+    Front Immunol. 2026 Sep 3;17:1920524. doi:
+    10.3389/fimmu.2026.1920524. eCollection 2026.
 
-    > To investigate which population-scale factors are most important
-    > in determining this higher TB burden in males, we have developed
-    > an age- and sex/gender-stratified, spatially heterogeneous
-    > epidemiological agent-based model. We have focused specifically on
-    > Kam …
+    > This review synthesises the evolution of TB models from early
+    > ordinary differential equation systems to agent-based and hybrid
+    > multiscale approaches, leading to integrated
+    > pharmacokinetic/pharmacodynamic and systems pharmacology
+    > frameworks. …In this work, w …
 
-3.  [**Structural Divergence Between the Moltbook AI-Agent Network and
-    Human Social Networks.**](https://pubmed.ncbi.nlm.nih.gov/42717503/)
+3.  [**Health co-benefits of sustainable dietary transitions to reduced
+    red and processed meat intake in the United Kingdom: a modelling
+    study.**](https://pubmed.ncbi.nlm.nih.gov/42752699/)
 
-    Hou W, Ji Z.
+    Eustachio Colombo P, Auclair O, Milner J, Fontan A, Pastorino S,
+    Pires SM, Hesselink A, Löf M, Green R.
 
-    Adv Sci (Weinh). 2026 Sep 9:e77665. doi: 10.1002/advs.77665. Online
-    ahead of print.
+    Eur J Nutr. 2026 Sep 17;65(7):254. doi: 10.1007/s00394-026-04093-6.
 
-    > Community analysis reveals a structured modular architecture with
-    > elevated modularity and comparatively lower community size
-    > inequality relative to degree-preserving null models. Together,
-    > these findings show that the Moltbook agent-platform system
-    > reproduces global struct …
+    > PURPOSE: Reducing meat intake and increasing plant-based food
+    > consumption are priorities for chronic disease prevention and
+    > environmental sustainability across Europe. Previous modelling has
+    > outlined how policy interventions could shift dietary patterns to
+    > align with meat …
 
-4.  [**Large language model enhanced framework for systematic reviews
-    and meta-analyses.**](https://pubmed.ncbi.nlm.nih.gov/42712418/)
+4.  [**A medically grounded LLM agent-based tool to detect patient
+    safety events in medical
+    records.**](https://pubmed.ncbi.nlm.nih.gov/42752617/)
 
-    Shen J, Luo Z, Jia D, Wang S, Sun F, Wu J.
+    Trujillo D, Wang D, Bahr N, Yi-Jin Hsieh T, Cho B, Meckler G, Hansen
+    M, Eriksson C, Seo Kim K, Bedrick S, Jiang X, Guise JM.
 
-    BMJ Digit Health Ai. 2025 Oct 8;1(1):e000017. doi:
-    10.1136/bmjdhai-2025-000017. eCollection 2025.
+    PLOS Digit Health. 2026 Sep 17;5(9):e0001174. doi:
+    10.1371/journal.pdig.0001174. eCollection 2026 Sep.
 
-    > A total of 21 publications were analysed for model type, task
-    > application, accuracy metrics and workflow impact. Building on
-    > this evidence base, we designed a comprehensive LLM-enhanced SRMA
-    > framework that categorises LLM roles as consultants and
-    > assistants, integrates hum …
+    > Large language models (LLMs) have shown incredible promise in
+    > medicine. While LLMs may be particularly useful in areas requiring
+    > extensive review of clinical records, their use remains limited
+    > due to their tendency to hallucinate and fabricate information.
+    > …We tested SAF …
 
-5.  [**Comparison of three large language models’ ability to assess the
-    risk of bias using ROBINS-I
-    tool.**](https://pubmed.ncbi.nlm.nih.gov/42712411/)
+5.  [**Multimodal medical diagnosis: a mini review of LLM-vision fusion
+    models in low-resource healthcare
+    settings.**](https://pubmed.ncbi.nlm.nih.gov/42750980/)
 
-    Saadi S, Fleti F, Rajjoub OH, Shamsi Basha A, Firwana M, Abideen Z,
-    Rajjo T, Wang Z, Murad MH.
+    Ashraf K, Hosen MH, Farah NT, Morol MK, Liew TH, Nandi D, Rahman M,
+    Al Jubair A.
 
-    BMJ Digit Health Ai. 2026 Apr 29;2(1):e000034. doi:
-    10.1136/bmjdh-2026-000034. eCollection 2026.
+    Front Digit Health. 2026 Sep 2;8:1862236. doi:
+    10.3389/fdgth.2026.1862236. eCollection 2026.
 
-    > OBJECTIVES: This study aims to compare the reliability and
-    > accuracy of three large language models (LLMs) (Claude, Gemini and
-    > GPT) in assessing the risk of bias of nonrandomised studies using
-    > the ROBINS-I tool. …Each study was independently assessed twice by
-    > Claude, Gemi …
+    > Recent advances in large language models (LLMs) and vision
+    > transformers have enabled multimodal systems that integrate
+    > clinical text with medical imaging for diagnostic decision-making.
+    > …In contrast, emerging directions including parameter-efficient
+    > fine-tuning, post-tra …
 
-6.  [**An automated method for constructing continuous reference
-    intervals based on real-world data-driven approaches and forming
-    intelligent agents.**](https://pubmed.ncbi.nlm.nih.gov/42710823/)
+6.  [**Evolutionary genomics, tumor dynamics, and mathematical modeling
+    of cancer progression: Implications for precision
+    oncology.**](https://pubmed.ncbi.nlm.nih.gov/42749242/)
 
-    Wu Y, Huang T, Lou S, Mo Y, Yu F, Zhang S, He H.
+    Li W, Wang X.
 
-    Clin Biochem. 2026 Sep 8;146:111200. doi:
-    10.1016/j.clinbiochem.2026.111200. Online ahead of print.
+    Infect Genet Evol. 2026 Sep 16;145:106019. doi:
+    10.1016/j.meegid.2026.106019. Online ahead of print.
 
-    > This study aims to develop and validate a fully automated,
-    > open-source analytical workflow that simultaneously addresses
-    > these limitations and enables operation without programming
-    > expertise through an agent-based AI interface. METHODS: We
-    > developed an automated ope …
+    > Neutral evolution and Darwinian selection jointly govern subclonal
+    > architecture, and quantitative metrics of ITH predict treatment
+    > failure with reproducible accuracy. Mathematical models including
+    > logistic growth equations, Lotka-Volterra competition systems,
+    > Wright-Fisher …
 
-7.  [**How Long is the Last Mile? The Path to Guinea Worm Elimination in
-    Chad: A Simulation Modeling
-    Study.**](https://pubmed.ncbi.nlm.nih.gov/42710483/)
+7.  [**Modeling resource conflict and inequality in fragile systems: A
+    spatial agent-based framework with a Uganda case
+    study.**](https://pubmed.ncbi.nlm.nih.gov/42748178/)
 
-    Smalley HK, Keskinocak P, Delea MG, Eneanya OA, van Loben Sels JM,
-    Tchindebet O, Weiss A.
+    Katende R.
 
-    Am J Trop Med Hyg. 2026 Sep 8:tpmd260289. doi:
-    10.4269/ajtmh.26-0289. Online ahead of print.
+    PLoS One. 2026 Sep 16;21(9):e0357283. doi:
+    10.1371/journal.pone.0357283. eCollection 2026.
 
-    > While animal infections continue, the human population remains at
-    > risk; elimination requires interrupting infections in both humans
-    > and animals. In the present study, agent-based simulation modeling
-    > was used to evaluate the time to elimination of GWD among do …
+    > This study develops a spatial agent-based framework for examining
+    > how unequal resource access, environmental stress, institutional
+    > support, movement, and adaptive cooperation jointly shape conflict
+    > pressure and resource inequality. …The framework is therefore best
+    > …
 
-8.  [**Stochastic thermodynamics of social imitation beyond
-    energetics.**](https://pubmed.ncbi.nlm.nih.gov/42702611/)
+8.  [**ACERT: Agent-Based Model of Complex Life Cycle Evolution-R
+    Tools.**](https://pubmed.ncbi.nlm.nih.gov/42746656/)
 
-    Irisarri L, Trigal L, Toral R, Manzano G.
+    Lopez JA, Page RB, Teufel AI.
 
-    Nat Commun. 2026 Aug 8;17(1):9542. doi: 10.1038/s41467-026-76212-0.
+    Ecol Evol. 2026 Sep 15;16(9):e74240. doi: 10.1002/ece3.74240.
+    eCollection 2026 Sep.
 
-    > Similarly to Landauer’s principle, it constrains spontaneous
-    > changes in agent attributes (opinions, cultural traits, etc.) and
-    > their informational entropy. We illustrate this framework to toy
-    > agent-based models of social imitation with non-trivial phase
-    > diagr …
+    > Agent-based models (ABMs) are increasingly used to study
+    > eco-evolutionary dynamics in organisms with complex life cycles,
+    > but downstream analysis of model output remains a bottleneck.
+    > Simulations can generate millions of records across individuals,
+    > tim …
 
-9.  [**A multi-agent quantitative microbial risk assessment of raw milk
-    cheeses: from farm-level practices to consumer
-    risk.**](https://pubmed.ncbi.nlm.nih.gov/42700798/)
+9.  [**Erratum: MedicalAgentsBench for complex medical reasoning:
+    Comparing internalized reasoning models versus externalized
+    agent-based
+    frameworks.**](https://pubmed.ncbi.nlm.nih.gov/42746258/)
 
-    Guillier L, Chaix E, Auvray F, Collineau L, Desriac N, Mtimet N,
-    Oswald E, Dubois-Brissonnet F, Membré JM.
+    Shao Y, Tang X, Sohn J, Chen J, Liao Y, Zhang J, Xiang J, Wu F, Zhao
+    Y, Wu C, Shi W, Cohan A, Gerstein M.
 
-    J Food Prot. 2026 Sep 5:100913. doi: 10.1016/j.jfp.2026.100913.
-    Online ahead of print.
+    Patterns (N Y). 2026 Aug 25;7(9):101658. doi:
+    10.1016/j.patter.2026.101658. eCollection 2026 Sep 11.
 
-    > In this study, we developed an innovative agent-based Quantitative
-    > Microbial Risk Assessment (QMRA) model that explicitly represents
-    > farms, animals, cheese batches, and consumers as individual
-    > agents. …Grounded in extensive knowledge of the French raw milk …
+10. [**Contractile to extensile transitions and mechanical adaptability
+    enabled by activity in cytoskeletal
+    structures.**](https://pubmed.ncbi.nlm.nih.gov/42745470/)
 
-10. [**Elements on the move: How ungulate migration expands Alpine
-    biogeochemical
-    footprints.**](https://pubmed.ncbi.nlm.nih.gov/42698336/)
+    Lamtyugina A, Banerjee DS, Qiu Y, Vaikuntanathan S.
 
-    Ferraro KM, Corradini A, Hawkinson V, Chanel O, Figuières C,
-    Bramoullé Y, Vanderlocht C, Ossi F, Righetti D, Schmitz OJ, Cagnacci
-    F.
+    Biophys J. 2026 Sep 16:S0006-3495(26)00641-7. doi:
+    10.1016/j.bpj.2026.09.011. Online ahead of print.
 
-    J Anim Ecol. 2026 Sep 5. doi: 10.1111/1365-2656.70340. Online ahead
-    of print.
-
-    > Yet the relationship between animal movement and element
-    > distribution remains poorly characterized. We developed a
-    > spatially explicit agent-based model to test how migratory versus
-    > resident red deer (Cervus elaphus) influence nitrogen
-    > redistribution across an …
+    > In this study, we investigate how self-assembled cytoskeletal
+    > structures respond to external mechanical perturbations, focusing
+    > on filament and crosslinker mixtures in two dimensions. Using
+    > agent-based models complemented by coarse-grained thermodynamic
+    > analy …
 
 ## Code of Conduct
 
