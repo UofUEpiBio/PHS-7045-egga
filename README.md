@@ -9,153 +9,161 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-09-27 00:12:03.
+update was on 2026-10-04 00:54:44.
 
 <div class="cell">
 
 </div>
 
-1.  [**Social comparison and segregation reveal well-being
-    traps.**](https://pubmed.ncbi.nlm.nih.gov/42798323/)
+1.  [**Modelling the impact of adopting new-generation
+    insecticide-treated nets on malaria transmission and insecticide
+    resistance.**](https://pubmed.ncbi.nlm.nih.gov/42827251/)
 
-    Dignum E, Geerlofs A, Gerrits L, Roy D.
+    Gervas HE, Mayengo MM, Chacky F, Mlacha YP, Ngowo HS, Okumu FO,
+    Selvaraj P.
 
-    Humanit Soc Sci Commun. 2026;13(1):1625. doi:
-    10.1057/s41599-026-07875-9. Epub 2026 Jun 11.
+    Parasit Vectors. 2026 Aug 14;19(1):429. doi:
+    10.1186/s13071-026-07611-x.
 
-    > Traditional explanations, focused on social comparison and hedonic
-    > adaptation, often neglect individual variability and dynamic
-    > social structures. Using an agent-based model (ABM) that
-    > incorporates heterogeneity and social relationships, we uncover
-    > several ke …
+    > As Tanzania transitions from standard pyrethroid-only
+    > insecticide-treated nets (ITNs) to new-generation nets, evaluating
+    > the impact of this shift on malaria transmission and resistance is
+    > critical. METHODS: Using the agent-based malaria model, EMOD, we
+    > assess …
 
-2.  [**Innovative Applications of Artificial Intelligence in
-    Bacteriophage Research: A New Chapter in Future
-    Medicine.**](https://pubmed.ncbi.nlm.nih.gov/42795594/)
+2.  [**Agent-based post-hoc correction of agricultural yield
+    forecasts.**](https://pubmed.ncbi.nlm.nih.gov/42824155/)
 
-    Yang D, Yuan X, Li Y.
+    Beddows M, Durrant A, Leontidis G.
 
-    Microorganisms. 2026 Sep 10;14(9):2013. doi:
-    10.3390/microorganisms14092013.
+    Front Artif Intell. 2026 Sep 17;9:1911884. doi:
+    10.3389/frai.2026.1911884. eCollection 2026.
 
-    > This review summarizes the multi-dimensional innovative
-    > applications of machine learning, deep learning, and large
-    > biological models in phage studies. In the fields of phage
-    > recognition and genomics, support vector machines (SVMs),
-    > convolutional neural networks (CNNs), and …
-
-3.  [**An Agent-Based Model of Cooperation and Competition in
-    Organizational
-    Systems.**](https://pubmed.ncbi.nlm.nih.gov/42793877/)
-
-    Fonte DS, Monteiro LHA.
-
-    Entropy (Basel). 2026 Aug 29;28(9):965. doi: 10.3390/e28090965.
-
-    > This study proposes a game-theoretic agent-based model to
-    > investigate cooperation and competition in workplace environments.
+    > Even when provided with recent historical observations, existing
+    > forecasting models exhibit systematic, season-specific errors that
+    > growers can readily identify but that the models have no mechanism
+    > to self-correct. …LLaVA 13B showed inconsistent gains, highlighti
     > …
 
-4.  [**Screening Strategies to Control Antibiotic-Resistant Bacteria: An
-    Agent-Based Model.**](https://pubmed.ncbi.nlm.nih.gov/42792004/)
+3.  [**Agent-based models in dietary behaviour: a scoping
+    review.**](https://pubmed.ncbi.nlm.nih.gov/42823885/)
 
-    Wulffhart L, Temkin E, Carmeli Y.
+    Dai X, Prestwich A, Craig T, Warren L, Sheng Y, Malleson N, Ge J.
 
-    Antibiotics (Basel). 2026 Sep 1;15(9):854. doi:
-    10.3390/antibiotics15090854.
+    Health Psychol Rev. 2026 Oct 2:1-22. doi:
+    10.1080/17437199.2026.2740058. Online ahead of print.
 
-    > For ARB with community spread among non-high-risk patients,
-    > screening only high-risk patients may be insufficient to control
-    > nosocomial transmission. We used an agent-based model to examine
-    > the impact of screening patients without recognized risk factors
-    > for …
+    > Agent-Based Modelling (ABM) simulates complex systems
+    > characterised by individual interactions and decision-making,
+    > making it valuable for studying dietary behaviour. …Three notable
+    > limitations were identified: 1) relatively few (11/30) studies
+    > explicitly a …
 
-5.  [**A neuroevolution-driven agent-based model of coral larvae
-    settlement.**](https://pubmed.ncbi.nlm.nih.gov/42789678/)
+4.  [**Transient morphogenetic constraints organize self-assembling axon
+    neighborhoods for robust yet flexible
+    wiring.**](https://pubmed.ncbi.nlm.nih.gov/42818835/)
 
-    Wolpold S, Voolstra CR, von Mammen S.
+    Brittin C, Santella A, Barnes KM, Moyle M, Fan L, Christensen R,
+    Kolotuev I, Mohler W, Shroff H, Colón-Ramos D, Bao Z.
 
-    PLoS One. 2026 Sep 25;21(9):e0359316. doi:
-    10.1371/journal.pone.0359316. eCollection 2026.
+    bioRxiv \[Preprint\]. 2026 Sep 12:2026.09.09.750528. doi:
+    10.64898/2026.09.09.750528.
 
-    > Successful settlement is the bottleneck linking a reef’s
-    > free-swimming larvae to the benthic community, ultimately
-    > determining the next generation of corals and the long-term
-    > resilience of the entire ecosystem. This work introduces an
-    > agent-based model (ABM) …
+    > This demonstrates how early events constrain wiring choices, but
+    > not whether they explain the resulting reproducibility. To
+    > explain, we use an agent-based model of stochastic innervation
+    > that recapitulates macro- and micro-level reproducibility,
+    > revealing a t …
 
-6.  [**Topologically-based parameter inference for agent-based model
-    selection from spatiotemporal cellular
-    data.**](https://pubmed.ncbi.nlm.nih.gov/42789676/)
+5.  [**Contractile to extensile transitions and mechanical adaptability
+    enabled by activity in cytoskeletal
+    structures.**](https://pubmed.ncbi.nlm.nih.gov/42818180/)
 
-    Wenzel AR, Haughey PM, Nguyen KC, Nardini JT, Haugh JM, Flores KB.
+    Lamtyugina A, Banerjee DS, Qiu Y, Vaikuntanathan S.
 
-    PLoS Comput Biol. 2026 Sep 25;22(9):e1014801. doi:
-    10.1371/journal.pcbi.1014801. Online ahead of print.
+    bioRxiv \[Preprint\]. 2026 Sep 10:2024.02.22.581411. doi:
+    10.1101/2024.02.22.581411.
 
-    > However, translating these rich data sets into mechanistic insight
-    > remains a significant challenge. Agent-based models (ABMs) are a
-    > bottom-up computational framework for investigating the emergent
-    > behavior of cell populations that can arise from rules definin …
+    > In this study, we investigate how self-assembled cytoskeletal
+    > structures respond to external mechanical perturbations, focusing
+    > on filament and crosslinker mixtures in two dimensions. Using
+    > agent-based models complemented by coarse-grained thermodynamic
+    > analy …
 
-7.  [**Bridging BET bromodomain and immune checkpoint inhibitors through
-    generative bioorganic frameworks for next-generation cancer
-    immunotherapy.**](https://pubmed.ncbi.nlm.nih.gov/42787872/)
+6.  [**Impact of Digital Contact Tracing and Other Nonpharmaceutical
+    Interventions on Pandemic Control: Microlevel, Behavior-Driven
+    Agent-Based Model
+    Analysis.**](https://pubmed.ncbi.nlm.nih.gov/42814853/)
 
-    Diab MK, Yassen ASA, Fahmy SA, Ashour HF, Nafie MS.
+    Lopera Gonzalez LI, Köber G, Kirchner G, Benzler J, Amft O.
 
-    RSC Med Chem. 2026 Sep 24. doi: 10.1039/d6md00450d. Online ahead of
-    print.
+    J Med Internet Res. 2026 Sep 30;28:e87527. doi: 10.2196/87527.
 
-    > We further summarize preclinical efficacy data for BET-ICI
-    > combinations, including systems-biology and agent-based
-    > computational models that predict substantially greater
-    > tumor-volume reduction with combination regimens relative to
-    > monotherapy in selected pre …
+    > METHODS: We disentangle the efficacy of individual NPIs, including
+    > DCT, with a novel microlevel, behavior-driven agent-based model
+    > (ABM) that simulates individual human behavior to analyze the
+    > effectiveness of nonpharmaceutical interventions on airborne patho
+    > …
 
-8.  [**Selection bias in microbial mutation accumulation studies and the
-    impact of colony
-    growth.**](https://pubmed.ncbi.nlm.nih.gov/42786799/)
+7.  [**How accurate are effective reproduction number estimates for
+    mosquito-borne diseases in urban
+    settings?**](https://pubmed.ncbi.nlm.nih.gov/42811610/)
 
-    Grosse-Sommer JM, Hadfield JD.
+    Lim PLJ, Lim JT, Cook AR.
 
-    Genetics. 2026 Sep 25:iyag263. doi: 10.1093/genetics/iyag263. Online
-    ahead of print.
+    J R Soc Interface. 2026 Sep 30;23(242):20251184. doi:
+    10.1098/rsif.2025.1184.
 
-    > To overcome this, we provide a multinomial-logit model that
-    > jointly estimates the mutation spectrum and selection. By applying
-    > this to a 194-line Escherichia coli MA experiment and five
-    > previous E. coli datasets (869 mutations) we reveal a deficit of
-    > non-synonymous mutatio …
+    > We systematically evaluated the accuracy of popular Rt estimation
+    > tools, EpiEstim and EpiFilter, against ground truth transmission
+    > pair data generated by agent-based simulations of dengue epidemics
+    > involving humans and mosquitoes in Singapore. …
 
-9.  [**Gradient orientation governs mechanical and regenerative outcomes
-    in functionally graded bone scaffolds: a coupled finite
-    element-agent-based modelling
-    study.**](https://pubmed.ncbi.nlm.nih.gov/42785049/)
+8.  [**Spatial modelling of NOTCH signalling predicts tuneable dynamic
+    heterogeneity in
+    endothelia.**](https://pubmed.ncbi.nlm.nih.gov/42811039/)
 
-    Entezari A, Badali V, Duda GN, Checa S.
+    Chesnais F, Hue J, Sego TJ, Engstler E, Battilocchi M, Danovi D,
+    Glazier JA, Veschini L.
 
-    J Mech Behav Biomed Mater. 2026 Sep 23;184:107648. doi:
-    10.1016/j.jmbbm.2026.107648. Online ahead of print.
+    NPJ Syst Biol Appl. 2026 Jul 23;12(1):142. doi:
+    10.1038/s41540-026-00786-0.
 
-    > Here, we apply an established coupled poroelastic finite
-    > element-agent-based modelling (FEA-ABM) framework as a comparative
-    > platform to evaluate six cylindrical scaffold configurations
-    > modelled using Ti-6Al-4V material properties: two opposing
-    > axial-gr …
+    > Here, we developed a computational-experimental framework linking
+    > core NOTCH dynamics to emergent EC heterogeneity in space and
+    > time. We built an agent-based model of NOTCH signalling
+    > incorporating lateral inhibition, lateral induction, cis
+    > interactions, and …
 
-10. [**Multiscale modeling of host-pathogen interactions and mucociliary
-    clearance during non-tuberculous mycobacterial pulmonary
-    infection.**](https://pubmed.ncbi.nlm.nih.gov/42780191/)
+9.  [**A comprehensive review of agent-based methodologies and
+    applications in cell
+    biology.**](https://pubmed.ncbi.nlm.nih.gov/42805406/)
 
-    Wang J, Konstantinopoulos K, Kuo PC, Cai M, Wei N, Pienaar E, Hao W.
+    Nooraeen A, Mohammadkhah M, Klinge S.
 
-    ArXiv \[Preprint\]. 2026 Sep 14:arXiv:2609.15584v1.
+    Prog Biophys Mol Biol. 2026 Sep 28;202:101957. doi:
+    10.1016/j.pbiomolbio.2026.101957. Online ahead of print.
 
-    > We develop a computational framework bridging a mechanistic
-    > agent-based model (ABM) of NTM infection with a spatially resolved
-    > partial differential equation (PDE) model. The PDE model couples
-    > bacterial proliferation, macrophage chemotaxis, immun …
+    > The need to understand the emergent properties of complex
+    > biological systems requires computational frameworks that can
+    > bridge the gap from stochastic molecular events to tissue-level
+    > macroscopic responses. Agent-Based Modeling (ABM) has proven to be
+    > an effec …
+
+10. [**Reasoning-Driven Design of Single-Atom Catalysts via a Multiagent
+    Large Language Model
+    Framework.**](https://pubmed.ncbi.nlm.nih.gov/42799132/)
+
+    Mok DH, Back S, Fung V, Hu G.
+
+    ACS Cent Sci. 2026 Sep 4;12(9):1539-1549. doi:
+    10.1021/acscentsci.6c01260. eCollection 2026 Sep 23.
+
+    > Large language models (LLMs) are becoming increasingly applied
+    > beyond natural language processing, demonstrating strong
+    > capabilities in complex scientific tasks that traditionally
+    > require human expertise. This progress has extended into materials
+    > discovery, where LLMs intr …
 
 ## Code of Conduct
 
