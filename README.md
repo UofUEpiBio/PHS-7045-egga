@@ -9,148 +9,164 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-10-18 00:10:39.
+update was on 2026-10-25 00:10:26.
 
 <div class="cell">
 
 </div>
 
-1.  [**Bridging material culture networks and social networks in
-    archaeology.**](https://pubmed.ncbi.nlm.nih.gov/42886723/)
+1.  [**How unequal is unequal? Turn-taking simulation for benchmarking
+    participation and opportunity inequality in small-group
+    collaboration.**](https://pubmed.ncbi.nlm.nih.gov/42912763/)
 
-    Bischoff RJ, Padilla-Iglesias C.
+    Hu L, Wu J, Yu F, Wang D, An S, Zhang Y.
 
-    PLoS One. 2026 Oct 16;21(10):e0358860. doi:
-    10.1371/journal.pone.0358860. eCollection 2026.
+    PLoS One. 2026 Oct 23;21(10):e0361205. doi:
+    10.1371/journal.pone.0361205. eCollection 2026.
 
-    > This study examines whether material culture can serve as a proxy
-    > for past social interaction. Using the ArchMatNet agent-based
-    > model, we simulate social behavior in small-scale communities and
-    > resulting material culture production, then compare social and ma
+    > The empirical dataset included 117 fourth-grade primary school
+    > students from two classes in mainland China, who worked in
+    > heterogeneous triads on mathematical and reading tasks. Using
+    > agent-based modeling and Monte Carlo simulation, the study
+    > estimated local …
+
+2.  [**Implementing a First Nation data-sovereign and agile modelling
+    platform for pandemic management: lessons from
+    Manitoba.**](https://pubmed.ncbi.nlm.nih.gov/42912129/)
+
+    Phillips-Beck W, Lavoie JG, Star L, Nickel N, Romanescu R.
+
+    Int J Circumpolar Health. 2026 Dec 31;85(1):2749170. doi:
+    10.1080/22423982.2026.2749170. Epub 2026 Oct 22.
+
+    > This paper describes lessons learned from a partnership between
+    > the First Nations Health and Social Secretariat of Manitoba
+    > (FNHSSM) and researchers at the University of Manitoba to develop
+    > a community-led COVID-19 modelling platform. The envisioned tool
+    > would allow First …
+
+3.  [**Probabilistic clinical studies and deterministic physiology:
+    building a Monte Carlo bridge with the “Frank”
+    project.**](https://pubmed.ncbi.nlm.nih.gov/42912034/)
+
+    Argolo FC, Freire AVL, Laporte LR, Magnavita GM, Correia LCL.
+
+    Einstein (Sao Paulo). 2026 Oct 19;24(spe1):eAE2239. doi:
+    10.31744/einstein_journal/2026AE2239. eCollection 2026.
+
+    > METHODS: We developed the “Frank” project, a 0-dimensional
+    > computational agent-based model (ABM) of human cardiovascular
+    > hemodynamics implemented in Julia (Agents.jl). Using Monte Carlo
+    > simulations (n=100), myocardial infarction was modeled by varying
     > …
 
-2.  [**Gut Microbiome Disruption in Traumatic Brain Injury and
-    Therapeutic Potential of Probiotics: A Systematic Review and
-    Meta-Analysis.**](https://pubmed.ncbi.nlm.nih.gov/42883403/)
+4.  [**Virus transmission required for maintenance and host adaptation
+    mirrors neurophysiological differences in rabies-derived
+    peptides.**](https://pubmed.ncbi.nlm.nih.gov/42911862/)
 
-    Khan ZA, Chowdhury Z, Modi R, Sumsuzzman DM, Ju LS, Labala RK,
-    Gravenstein N, Martynyuk AE.
+    Remal A, Acheson ES, Leighton PA, Rees EE, Rhodes J, O’Brien BCV,
+    Weltzin MM, Hueffer K.
 
-    Biology (Basel). 2026 Oct 1;15(19):1730. doi:
-    10.3390/biology15191730.
+    Proc Natl Acad Sci U S A. 2026 Oct 27;123(43):e2618744123. doi:
+    10.1073/pnas.2618744123. Epub 2026 Oct 22.
 
-3.  [**Fitness Regulates Non-Native Species Recovery in a Simulated
-    Trojan MYY Brook Trout
-    Application.**](https://pubmed.ncbi.nlm.nih.gov/42876962/)
+    > Here, we demonstrate that the rabies virus requires distinct
+    > transmission dynamics in two hosts with different ecologies to
+    > establish maintenance, using agent-based modeling, analyses of
+    > virus glycoprotein-mediated manipulation of neuroreceptor
+    > function, and …
 
-    Davenport K, Alò D, Day CC, Simmons RK, Landguth EL, Whiteley AR.
+5.  [**RLAgent: retrieval-augmented LLM agents for code-free RNA
+    region-ligand interaction
+    modeling.**](https://pubmed.ncbi.nlm.nih.gov/42908869/)
 
-    Evol Appl. 2026 Oct 14;19(10):e70335. doi: 10.1111/eva.70335.
-    eCollection 2026 Oct.
+    Kuang Z, Li Y, Bao Y, Zhou S, Dong Z, Wang W, Lin GN, Wang H, Liu Z.
 
-    > We used a spatial demogenetic and individual-based simulation
-    > model to examine the fitness consequences of inbreeding and
-    > outbreeding depression on the recovery of a non-native Brook Trout
-    > (Salvelinus fontinalis) population targeted for removal in
-    > northeastern Washington S …
+    Health Inf Sci Syst. 2026 Oct 20;14(1):89. doi:
+    10.1007/s13755-026-00483-6. eCollection 2026 Dec.
 
-4.  [**Ethnic inequities in mathematical models for respiratory
-    infectious disease: A systematic
-    review.**](https://pubmed.ncbi.nlm.nih.gov/42876218/)
+    > In this study, we present RLAgent, an interactive agent-based
+    > framework that predicts RNA-ligand interactions at the regional
+    > level, offering a flexible and detailed modeling perspective,
+    > distinct from conventional site-centered approaches. …We further
+    > eval …
 
-    Kumbaroff Z, Harvey EP, Whitehead J, O’Neale DRJ.
+6.  [**\[Advances in agent-based modeling for infectious disease
+    simulation and
+    intervention\].**](https://pubmed.ncbi.nlm.nih.gov/42907202/)
 
-    Epidemiol Infect. 2026 Oct 15;154:e130. doi:
-    10.1017/S0950268826102118.
+    Jiang H, Liu X, Xu ZL, Sun N, Shen R, Qian J, Peng ZH, Feng LZ.
 
-    > This systematic review identifies mathematical models of
-    > infectious respiratory disease transmission that report results by
-    > ethnic group and surveys the different mathematical modelling
-    > approaches used to attempt to capture ethnicity-related outcomes.
-    > Only 28 studie …
+    Zhonghua Liu Xing Bing Xue Za Zhi. 2026 Oct 10;47(10):1893-1899.
+    doi: 10.3760/cma.j.cn112338-20251226-00927.
 
-5.  [**CAR T cells from code to clinic: Framing modeling approaches with
-    current translational research
-    goals.**](https://pubmed.ncbi.nlm.nih.gov/42874595/)
+    > Emerging and re-emerging infectious diseases continue to pose a
+    > persistent threat to global public health, underscoring the need
+    > for rigorous assessment of transmission risk and intervention
+    > effectiveness. Agent-based models (ABMs), which represent
+    > individual …
 
-    Sant’Anna LE, Roy R, Schwab JC, Perez JI, Mayalu MN.
+7.  [**A niche construction-based approach to evolution by natural
+    selection without reproduction-proof of concept and
+    implications.**](https://pubmed.ncbi.nlm.nih.gov/42904196/)
 
-    Cell Syst. 2026 Oct 14:101716. doi: 10.1016/j.cels.2026.101716.
-    Online ahead of print.
+    Papale F, Kulish Y, Bielawski J, Haraoui LP.
 
-    > Optimizing CAR T cell treatment regimens and genetic design could
-    > offer solutions to some of these problems, but the resulting
-    > design space is often too large to explore experimentally alone.
-    > Mathematical modeling-spanning ordinary differential equation
-    > (ODE), agent …
+    R Soc Open Sci. 2026 Oct 14;13(10):260737. doi: 10.1098/rsos.260737.
+    eCollection 2026 Oct 7.
 
-6.  [**Comparison of volumetric dynamic optical coherence tomography
-    with biological methods for evaluation of radiation effects in
-    prostate tumor
-    spheroids.**](https://pubmed.ncbi.nlm.nih.gov/42872235/)
+    > The aim of this paper is to provide a computational proof of
+    > concept for this theoretical advance and to start assessing some
+    > of its conceptual upshots. To do so, we designed an agent-based
+    > model that introduces and defends a niche construction-based
+    > account …
 
-    Swanson S, Chen K, Cheraghi E, Osei E, Bizheva K.
+8.  [**In silico model of axonal pathfinding during spinal cord
+    regeneration in zebrafish
+    larvae.**](https://pubmed.ncbi.nlm.nih.gov/42902564/)
 
-    J Biomed Opt. 2026 Oct;31(10):106004. doi:
-    10.1117/1.JBO.31.10.106004. Epub 2026 Oct 13.
+    Neumann O, Kravikass M, John N, Ramachandran RG, Steinmann P,
+    Zaburdaev V, Wehner D, Budday S.
 
-7.  [**Dissecting Larval Zebrafish Hunting using Deep Reinforcement
-    Learning Trained RNN
-    Agents.**](https://pubmed.ncbi.nlm.nih.gov/42871801/)
+    Biophys J. 2026 Oct 20:S0006-3495(26)00719-8. doi:
+    10.1016/j.bpj.2026.10.013. Online ahead of print.
 
-    Malik R, Singh SH, Johnson-Yu S, Wu N, Harpaz R, Engert F, Rajan K.
+    > However, experimentally dissecting the interplay between
+    > mechanical signals and axonal regrowth in vivo remains technically
+    > challenging. Here, we present an agent-based modeling framework to
+    > simulate stiffness-mediated axonal growth trajectories across the
+    > le …
 
-    Proc Conf Cogn Comput Neurosci. 2026;2026:10.32470/h4pp9b0. doi:
-    10.32470/h4pp9b0.
+9.  [**MedicalAgentsBench for complex medical reasoning: Comparing
+    internalized reasoning models versus externalized agent-based
+    frameworks.**](https://pubmed.ncbi.nlm.nih.gov/42891289/)
 
-    > Larval zebrafish hunting provides a tractable setting to study how
-    > ecological and energetic constraints shape adaptive behavior in
-    > both biological brains and artificial agents. Here we develop a
-    > minimal agent-based model, training recurrent policies with deep …
+    Shao Y, Tang X, Sohn J, Chen J, Liao Y, Zhang J, Xiang J, Wu F, Zhao
+    Y, Wu C, Shi W, Cohan A, Gerstein M.
 
-8.  [**GAN-enhanced digital twins for biomarker-guided cancer
-    immunotherapy and adoptive cell therapy: a mini
-    review.**](https://pubmed.ncbi.nlm.nih.gov/42871728/)
+    Patterns (N Y). 2026 Jul 8;7(10):101610. doi:
+    10.1016/j.patter.2026.101610. eCollection 2026 Oct 9.
 
-    Yang J.
+    > Evaluating three internalized reasoning models (DeepSeek-R1,
+    > o1-mini, and o3-mini), seven base models, and nine externalized
+    > agent-based methods, we find that internalized and externalized
+    > approaches each independently improve performance and that thei …
 
-    Front Med (Lausanne). 2026 Sep 29;13:1894314. doi:
-    10.3389/fmed.2026.1894314. eCollection 2026.
+10. [**Evidence Synthesis of the Ethical and Legal Challenges of
+    Generative Artificial Intelligence in the Provision of Patient
+    Health Information.**](https://pubmed.ncbi.nlm.nih.gov/42889265/)
 
-    > This mini review critically compares mechanistic quantitative
-    > systems pharmacology, spatial and agent-based modeling,
-    > data-driven prediction, and emerging digital twin approaches and
-    > proposes a platform-agnostic architecture that can be implemented
-    > in MATLAB/ …
+    Anil K, Maramba IDC, Cook DP, Cyrus D, Fakharuzi Z, Namdar AH, West
+    TO, Shirgill S.
 
-9.  [**Language extinction and diversification: The two sides of the
-    same coin.**](https://pubmed.ncbi.nlm.nih.gov/42868810/)
+    Healthc Technol Lett. 2026 Oct 14;13(1):e70102. doi:
+    10.1049/htl2.70102. eCollection 2026 Jan-Dec.
 
-    Gong T.
-
-    Phys Life Rev. 2026 Jul 24;59:199-219. doi:
-    10.1016/j.plrev.2026.07.005. Online ahead of print.
-
-    > APPROACH: I integrate lexical diffusion (Wang), utterance
-    > selection (Croft), feature-pool ecology (Mufwene), iterated
-    > learning (Kirby), agent-based simulation (Gong et al.), and the
-    > Extended Evolutionary Synthesis (Laland et al.). A worked
-    > numerical example, using a …
-
-10. [**The influence of cell morphology on the dynamics and stability of
-    model bacterial
-    communities.**](https://pubmed.ncbi.nlm.nih.gov/42868198/)
-
-    Lim IX, Halabeya F, Milstein JN.
-
-    PLoS Comput Biol. 2026 Oct 13;22(10):e1014874. doi:
-    10.1371/journal.pcbi.1014874. eCollection 2026 Oct.
-
-    > This latter quasi-stability results from the alignment of bacteria
-    > into lanes, forcing cells to grow toward the open ends of the
-    > channel, with inter-lane invasion events driving the boundary
-    > dynamics between populations. Here we apply agent-based (AB)
-    > simulations to …
+    > Large language model (LLM)-based generative AI offers the promise
+    > of responsive health information for patients and carers but
+    > presents ethical and legal challenges when used outside clinical
+    > oversight. …Consequently, stakeholders must establish clear
+    > accountability fram …
 
 ## Code of Conduct
 
