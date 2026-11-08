@@ -9,154 +9,156 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-11-01 00:07:44.
+update was on 2026-11-08 00:06:36.
 
 <div class="cell">
 
 </div>
 
-1.  [**Assessment of pathogen reduction strategies in reducing
-    carbapenem-resistant Enterobacterales (CRE) transmission in
-    acute-care hospitals: an agent-based model
-    study.**](https://pubmed.ncbi.nlm.nih.gov/42958852/)
+1.  [**SwimmingIndividuals: A high-performance agent-based model for
+    marine ecosystems.**](https://pubmed.ncbi.nlm.nih.gov/42993780/)
 
-    Singh BK, Lutgring JD, Wolford H, Octaria R, McCarthy NL, Hatfield
-    KM, Baggs J, Gowler CD, Paul P, Reddy SC, Slayton RB.
+    Woodstock MS, Mattern JP, Wu Z, Britten GL.
 
-    Infect Control Hosp Epidemiol. 2026 Oct 30:1-7. doi:
-    10.1017/ice.2026.10472. Online ahead of print.
+    PLoS Comput Biol. 2026 Nov 6;22(11):e1013610. doi:
+    10.1371/journal.pcbi.1013610. Online ahead of print.
 
-    > Novel drug-based pathogen reduction approaches may decrease CRE
-    > incidence, and mathematical models can assess implementation
-    > strategies. METHODS: We used agent-based modeling to evaluate a
-    > hypothetical drug with pathogen reduction properties for reduci …
+    > Because they are based on established theory, mechanistic models
+    > are essential for projecting ecological responses to novel
+    > conditions. Yet mechanistic agent-based model (ABM) applications
+    > have often been limited by computational constraints. …We dem …
 
-2.  [**Mate preferences and the compatibility
-    puzzle.**](https://pubmed.ncbi.nlm.nih.gov/42957551/)
+2.  [**Application of Mechanistic Modeling to Support Dose-Relevant
+    Decision Making for CAR-T Cell Therapy in Oncology: A Systematic
+    Scoping Review.**](https://pubmed.ncbi.nlm.nih.gov/42992542/)
 
-    Eastwick PW, Zhao AAZ, Zietsch BP.
+    Odujinrin D, McClelland G.
 
-    Trends Cogn Sci. 2026 Oct 29:S1364-6613(26)00234-2. doi:
-    10.1016/j.tics.2026.10.001. Online ahead of print.
+    Clin Transl Sci. 2026 Nov;19(11):e70756. doi: 10.1111/cts.70756.
 
-3.  [**Agentic Artificial Intelligence-Driven Neutrosophic
-    Multi-Objective Optimization of Oxygen Transfer Systems in Smart
-    Bioreactors.**](https://pubmed.ncbi.nlm.nih.gov/42954038/)
+    > Eligible studies reported original CK/PD, PK/PD, QSP, PBPK/PD,
+    > stochastic, or agent-based models for dose-relevant application or
+    > regimen optimization. Nineteen studies met the inclusion criteria
+    > (13 mechanistic and 6 semi-mechanistic models) spanning …
 
-    Nozari H, Yordanova Z.
+3.  [**Understanding African swine fever dynamics in South Korean pig
+    farms through agent-based modeling and spatiotemporal analysis of
+    farm outbreaks.**](https://pubmed.ncbi.nlm.nih.gov/42991357/)
 
-    Biotechnol Bioeng. 2026 Oct 29. doi: 10.1002/bit.70433. Online ahead
-    of print.
+    Tanveer M, Hirwa F, Ntakiyisumba E, Won G.
 
-    > This study presents an innovative framework for intelligent
-    > oxygenation management that integrates a synchronized digital
-    > twin, agent-based artificial intelligence, fuzzy-notrosophic
-    > modeling, and multi-objective decision-making in a closed,
-    > uncertainty-aware …
+    Front Vet Sci. 2026 Oct 22;13:1945299. doi:
+    10.3389/fvets.2026.1945299. eCollection 2026.
 
-4.  [**Stochastic dynamics of oxygen-hemoglobin binding: insight through
-    facilitated exploration of an agent-based
-    model.**](https://pubmed.ncbi.nlm.nih.gov/42953670/)
+    > African swine fever continues to pose a major threat to the swine
+    > industry in South Korea since 2019, with increased farm outbreaks
+    > in 2026. This study applied agent-based modeling and
+    > spatiotemporal outbreak analysis to characterize ASF dynamics at
+    > within-fa …
 
-    Rubin DM, Kolkenbeck-Ruh A, Richards XL, Keene PAC, King SM, George
-    AZ.
+4.  [**How AI threat perception relates to post-adoptive AI agent
+    engagement: the dual paths of self-efficacy and defensive
+    motivation.**](https://pubmed.ncbi.nlm.nih.gov/42991240/)
 
-    Front Physiol. 2026 Oct 1;17:1953414. doi:
-    10.3389/fphys.2026.1953414. eCollection 2026.
+    Yang G, Feng M, Yang W.
 
-    > METHODS: In this mixed methods study, we developed an agent-based
-    > model (ABM) in NetLogo to visualize oxygen-hemoglobin binding as a
-    > stochastic process. …CONCLUSION: Facilitated agent-based modeling
-    > substantially improved conceptual und …
+    Front Psychol. 2026 Oct 22;17:1887571. doi:
+    10.3389/fpsyg.2026.1887571. eCollection 2026.
 
-5.  [**An Agent-Based Model for Post-Disaster Resource Allocation
-    Considering Dynamic
-    Demand.**](https://pubmed.ncbi.nlm.nih.gov/42951827/)
+    > INTRODUCTION: As AI evolves into agent-based forms, AI threat
+    > perception has become a defining workplace concern. Informed by
+    > Cognitive Appraisal Theory and Protection Motivation Theory, this
+    > cross-sectional study investigates how AI threat perception
+    > relates to pos …
 
-    Wang X, Shao W, Fan Y, Liang L.
+5.  [**HydroGuard: a controlled release hydrogel-phage delivery system
+    to combat catheter-associated urinary tract
+    infections.**](https://pubmed.ncbi.nlm.nih.gov/42991163/)
 
-    Risk Anal. 2026 Nov;46(11):e70396. doi: 10.1111/risa.70396.
+    Rao S, McLean R, Zakir Hussain A.
 
-    > To consider this mobility in the resource allocation problem, in
-    > this paper, we employ an agent-based model to simulate
-    > cross-shelter movements and assess the performance of resource
-    > allocation strategies considering a gradual increase of total
-    > available reso …
+    Front Syst Biol. 2026 Oct 22;6:1923468. doi:
+    10.3389/fsysb.2026.1923468. eCollection 2026.
 
-6.  [**Local dynamical survival analysis and human sensor networks for
-    epidemic tracking and
-    forecasting.**](https://pubmed.ncbi.nlm.nih.gov/42947370/)
+    > Agent-based biofilm simulations captured emergent spatial dynamics
+    > under nutrient, flow, and pH constraints, while a coupled
+    > predator-prey model investigated phage-bacteria population
+    > dynamics within the degrading GelMA matrix. …By integrating
+    > synthetic bio …
 
-    Richter M, Alexander P, Rempala G, Kenah E.
+6.  [**Agent-based modelling of late-stage mechanical loading of femur
+    defects in prematurely ageing PolgA
+    mice.**](https://pubmed.ncbi.nlm.nih.gov/42985031/)
 
-    J R Soc Interface. 2026 Oct 7;23(243):20260111. doi:
-    10.1098/rsif.2026.0111.
+    Kendall JJ, Ledoux C, Marques FC, Kuhn GA, Schulte FA, Müller R.
 
-    > Predictive modelling for infectious diseases remains an important
-    > problem in epidemiology. Current approaches are often limited by
-    > their dependence on time-series data, which can lead to biased
-    > estimates of key epidemiological parameters. Here, we present an
-    > extension of t …
+    Front Bioeng Biotechnol. 2026 Oct 21;14:1879777. doi:
+    10.3389/fbioe.2026.1879777. eCollection 2026.
 
-7.  [**Wastewater-informed agent-based modelling of hepatitis E
-    transmission dynamics.**](https://pubmed.ncbi.nlm.nih.gov/42946243/)
+    > To test this hypothesis, we developed a micro-Multiphysics
+    > Agent-based (micro-MPA) model of the remodelling phase during bone
+    > regeneration. We employed a hierarchical grid-search to calibrate
+    > the model based on bone volume fraction using weekly time-la …
 
-    Wallrafen-Sam K, Javanmardi J, Schmid N, Schemmerer M, Wenzel JJ,
-    Wieser A, Hasenauer J.
+7.  [**Agent-Based Modelling of Microbialite Formation Through
+    Sedimentation and Precipitation
+    Dynamics.**](https://pubmed.ncbi.nlm.nih.gov/42982765/)
 
-    Math Biosci. 2026 Oct 27:109840. doi: 10.1016/j.mbs.2026.109840.
-    Online ahead of print.
+    Rodgers N, Fogret L, van Zuilen M, Cleaves HJ, Rajamani S, McMahon
+    S.
 
-    > To assess whether the observed reduction is compatible with a
-    > near-exclusively foodborne infection and to reconcile the
-    > contrasting signals across surveillance modalities, we developed a
-    > stochastic, individual-level model of HEV transmission, shedding,
-    > and ascertainment in …
+    Geobiology. 2026 Nov-Dec;24(6):e70071. doi: 10.1111/gbi.70071.
 
-8.  [**Beyond conceptual adoption: Advancing complexity science in
-    nursing through measurement, simulation, and
-    intervention.**](https://pubmed.ncbi.nlm.nih.gov/42945678/)
+    > In this work, we present an agent-based model of microbialite
+    > formation using a fast, open-source, high-level microbialite
+    > modelling framework, written in Julia. …Further exploration and
+    > extension of our model may offer new approaches to resol …
 
-    Notarnicola I.
+8.  [**Pooled testing for SARS-CoV-2 surveillance in schools: evaluation
+    of transmission control, testing resources, and educational
+    disruption.**](https://pubmed.ncbi.nlm.nih.gov/42982267/)
 
-    Nurs Outlook. 2026 Oct 27;74(6):102945. doi:
-    10.1016/j.outlook.2026.102945. Online ahead of print.
+    Colosi E, Calmon L, Fässli M, Koch KN, Bielicki JA, Colizza V.
 
-    > Current CAS-informed nursing studies are predominantly qualitative
-    > and descriptive, providing valuable theoretical insights but
-    > lacking the methodological capacity to model system dynamics, test
-    > nonlinear relationships, or generate predictive knowledge.
-    > …Second, it advoc …
+    Int J Infect Dis. 2026 Nov 4:109233. doi:
+    10.1016/j.ijid.2026.109233. Online ahead of print.
 
-9.  [**Application of large language models in early screening of
-    Alzheimer’s disease: a scoping
-    review.**](https://pubmed.ncbi.nlm.nih.gov/42935768/)
+    > METHODS: We analyzed data from the pooled testing program
+    > implemented in 62 primary schools in Basel-Landschaft,
+    > Switzerland, during the Fall-Winter 2021 Delta wave. We fitted an
+    > agent-based transmission model informed by pooled and individual
+    > testing results …
 
-    Tian J, Huang W, Wen Y, Liang Y.
+9.  [**Big Data and Artificial Intelligence in Sleep Medicine:
+    Opportunities and
+    Obstacles.**](https://pubmed.ncbi.nlm.nih.gov/42977368/)
 
-    Front Aging Neurosci. 2026 Oct 12;18:1906641. doi:
-    10.3389/fnagi.2026.1906641. eCollection 2026.
+    Maghsoudi A, Ong JL, Razjouyan J, Sharafkhaneh A.
 
-    > The LLMs applied in these studies mainly consisted of
-    > general-purpose generative models, multimodal models, and
-    > medical-specific models. Data sources primarily included public
-    > databases, along with real-world clinical data and simulated data.
-    > …Several studi …
+    Sleep Med Clin. 2026 Dec;21(4):619-631. doi:
+    10.1016/j.jsmc.2026.08.017. Epub 2026 Sep 28.
 
-10. [**Designing fulfilling and productive workdays: Effects of task
-    meaningfulness sequences on daily engagement and
-    performance.**](https://pubmed.ncbi.nlm.nih.gov/42932831/)
+    > It outlines the evolution from traditional rule-based sleep
+    > staging to advanced machine learning, deep learning, and emerging
+    > foundation and agent-based models. The article highlights diverse
+    > data sources and discusses the challenges of data quality,
+    > harmoniz …
 
-    Yoon S, Kwon E, LePine JA, Aurora SR, Newton DW, Wellman N.
+10. [**Computational Models of the Foreign Body Response: A Focus on
+    Biomaterial
+    Properties.**](https://pubmed.ncbi.nlm.nih.gov/42974717/)
 
-    J Appl Psychol. 2026 Oct 26. doi: 10.1037/apl0001430. Online ahead
-    of print.
+    Marradi M, Riccio J, van Griensven M, Presotto L, Chirico G, Carlier
+    A.
 
-    > We theorize that because of a process we refer to as engagement
-    > cascade, performing the day’s most highly meaningful tasks earlier
-    > and in a concentrated manner will tend to produce higher levels of
-    > daily engagement relative to sequences in which the most highly
-    > meaningful tasks o …
+    J Biomed Mater Res A. 2026 Nov;114(11):e70181. doi:
+    10.1002/jbm.a.70181.
+
+    > Existing approaches, including ordinary differential equation
+    > (ODE), partial differential equation (PDE), and agent-based (AB)
+    > models, have provided important insights into inflammatory
+    > signaling, macrophage dynamics, fibrosis progression, and capsule
+    > formati …
 
 ## Code of Conduct
 
