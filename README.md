@@ -9,160 +9,165 @@ document updated once a week or whenever there’s a push or pull request.
 It performs a search on PubMed looking for the <a
 href="https://pubmed.ncbi.nlm.nih.gov/?term=agent-based+model&amp;sort=date"
 target="_blank">latest papers about Agent-Based Models</a>. The last
-update was on 2026-11-15 00:06:46.
+update was on 2026-11-22 00:06:48.
 
 <div class="cell">
 
 </div>
 
-1.  [**A 3D Hybrid PDE-ABM Model of Tumor Angiogenesis Response to
-    Combined Radiotherapy and Endostatin
-    Therapy.**](https://pubmed.ncbi.nlm.nih.gov/43025844/)
+1.  [**Evaluation of a spatial microsimulation framework for small-area
+    estimation of population health outcomes using the behavioral risk
+    factor surveillance
+    system.**](https://pubmed.ncbi.nlm.nih.gov/43065008/)
 
-    Liu Y, Zhao G, Wu J, He S.
+    Von Hoene E, Gupta A, Kavak H, Roess A, Anderson T.
 
-    Int J Numer Method Biomed Eng. 2026 Nov;42(11):e70233. doi:
-    10.1002/cnm.70233.
+    Int J Health Geogr. 2026 Aug 23;25(1):55. doi:
+    10.1186/s12942-026-00485-3.
 
-    > Combination therapy of the anti-angiogenic agent endostatin and
-    > radiotherapy (RT) exerts a synergistic inhibitory effect on tumor
-    > vasculature, but the microvascular response is spatially
-    > heterogeneous, and the mechanisms by which vessel elimination,
-    > regrowth, and reorganization d …
+    > Therefore, small area estimation (SAE) techniques are used to
+    > model health outcomes at fine geographic scales. While multilevel
+    > regression modeling is commonly applied, spatial microsimulation
+    > has emerged as a state-of-the-art approach, but its application in
+    > health …
 
-2.  [**Hydrophobic ion pairing enabled self-nanoemulsifying niclosamide
-    for pancreatic cancer: improved drug loading and kinetic
-    solubility.**](https://pubmed.ncbi.nlm.nih.gov/43025522/)
+2.  [**An evaluation of the effect of ambulance strategy on patient
+    mortality outcome from hospital systems: A simulation study in the
+    context of industrial disaster
+    response.**](https://pubmed.ncbi.nlm.nih.gov/43062229/)
 
-    Dholariya B, Patel K.
+    Amakama NJ, Dusserre G, Cadiere A, Schuette RW, Zacharewicz G, Ahmed
+    NB.
 
-    Int J Pharm. 2026 Nov 13:127672. doi: 10.1016/j.ijpharm.2026.127672.
-    Online ahead of print.
+    J Emerg Manag. 2026 Special Issue - TIEMS the Next 30
+    Years;24(7):117-132. doi: 10.5055/jem.0947.
 
-    > Cationic ionizable lipid/DLin-DMA was selected as pairing agent
-    > based on its superior biocompatibility, complexation efficiency,
-    > and kinetic stability. …Furthermore, NanoNic displayed significant
-    > anti-angiogenic activity (HUVEC model) and anticancer efficac …
-
-3.  [**Informing Interventions to Reduce Inequalities in Adults’
-    Leisure-Time Physical Activity: An Agent-Based Modeling
-    Simulation.**](https://pubmed.ncbi.nlm.nih.gov/43025414/)
-
-    Jones SM, Hunter RF, Garcia L.
-
-    J Phys Act Health. 2026 Nov 12:1-14. doi: 10.1123/jpah.2025-0704.
-    Online ahead of print.
-
-    > This study aimed to (1) understand how economic, psychosocial, and
-    > perceived physical environment factors shape LTPA inequalities
-    > among adults and (2) explore interventions, their mechanisms, and
-    > conditions that could optimize efforts to reduce LTPA inequalities
-    > across income gro …
-
-4.  [**The first wave of macro-level nature connectedness research:
-    Convergent insights and emerging
-    directions.**](https://pubmed.ncbi.nlm.nih.gov/43021020/)
-
-    Richardson M, Lengieza ML.
-
-    Ambio. 2026 Nov 12. doi: 10.1007/s13280-026-02507-7. Online ahead of
-    print.
-
-    > Drawing on multinational surveys, machine-learning analyses, and
-    > agent-based models spanning two centuries, the paper identifies
-    > consistent drivers of declining nature connectedness, including
-    > urbanisation, economic development, secularisation, and intergener
+    > The strategy employed by the researchers includes utilization of
+    > the agent-based modeling and simulation (ABMS) tool (NetLogo
+    > 6.3.0). This approach involves the representation of agents within
+    > a system governed by simple rules and objectives and their interac
     > …
 
-5.  [**The effectiveness of outbreak response measures for pathogens of
-    different
-    characteristics.**](https://pubmed.ncbi.nlm.nih.gov/43019164/)
+3.  [**Economic and behavioural policy coupling has divergent effects on
+    electric vehicle adoption at individual and system
+    scales.**](https://pubmed.ncbi.nlm.nih.gov/43061012/)
 
-    McAndrew F, Abeysuriya RG, Scott N.
+    Günther A, van der Kam M, Hadian Rasanan AH, Gluth S, Hahnel UJJ.
 
-    Sci Rep. 2026 Aug 10;16:37436. doi: 10.1038/s41598-026-64138-y.
-    eCollection 2026.
+    Nat Energy. 2026;11(11):1532-1547. doi: 10.1038/s41560-026-02114-6.
+    Epub 2026 Aug 17.
 
-    > This study aimed to investigate how the effectiveness of key
-    > public health interventions may depend on pathogen
-    > characteristics. Using an agent-based model we simulated outbreaks
-    > of pathogens with different R(0), latent period, infectious period
-    > and symptomat …
+    > Across four countries (Mexico, South Africa, the USA and the UK; N
+    > = 1,589), we assessed attention towards EV information in EV
+    > choice experiments and integrated decision outcome data into a
+    > behavioural agent-based diffusion model (ABM). The policies
+    > competed …
 
-6.  [**ASCENT: a tensor-oriented approach to population-scale
-    agent-based
-    simulation.**](https://pubmed.ncbi.nlm.nih.gov/43019112/)
+4.  [**A Layered Co-Culture Device and Agent Model for HDM-Primed
+    Epithelial Promotion of DC
+    Activation.**](https://pubmed.ncbi.nlm.nih.gov/43060646/)
 
-    Mahmood I, Wickramasooriya S, Bailey RM, Lanzaro GC, Calinescu A,
-    Farmer JD, Wooldridge M.
+    Chen M, Yang Y, Yang SM, Li Z, Fang Z, Zhang W, Zhang B.
 
-    Sci Rep. 2026 Jul 24;16:33584. doi: 10.1038/s41598-026-61495-6.
-    eCollection 2026.
+    Cell Mol Bioeng. 2026 Sep 25;19(5):711-722. doi:
+    10.1007/s12195-026-00948-4. eCollection 2026 Oct.
 
-    > Agent-based models (ABMs) offer a compelling framework for
-    > simulating complex systems but scale poorly with conventional
-    > software execution paradigms. …The emergent Allee effect threshold
-    > at 300 individuals further validates the model’s ecol …
+    > This study aimed to establish a layered co-culture device (LCCD)
+    > coupled with agent-based modeling to investigate house dust mite
+    > (HDM)-induced epithelial regulation of dendritic cell (DC)
+    > activation. …CONCLUSION: The LCCD coupled with agent-based …
 
-7.  [**Applications of large language models in radiation oncology: From
-    workflow automation to clinical
-    intelligence.**](https://pubmed.ncbi.nlm.nih.gov/43011704/)
+5.  [**Data-driven simulations elucidate how lymphocyte motility
+    behaviors influence cell-cell interactions within germinal
+    centers.**](https://pubmed.ncbi.nlm.nih.gov/43060056/)
 
-    Ding Y, Wei S, Holmes J, Hao Y, Liu Z, Wang P, Cui J, Cao M, Jiang
-    C, Zhao L, Liu C, Zhang L, Yang Y, Liu T, Liu W.
+    Sivakumar N, Min C, Choe K, Seth D, Xu C, Béguelin W, Phillip JM,
+    Mac Gabhann F.
 
-    Meta Radiol. 2026 Dec;4(4):100244. doi:
-    10.1016/j.metrad.2026.100244. Epub 2026 Sep 24.
+    bioRxiv \[Preprint\]. 2026 Nov 5:2025.08.05.668700. doi:
+    10.1101/2025.08.05.668700.
 
-    > Large language models (LLMs) are moving beyond general-purpose
-    > text generation toward systems that can retrieve clinical
-    > information, interact with software tools, and combine language
-    > with imaging and quantitative data. …We first introduce the main
-    > approaches used to ad …
+    > We then developed and validated a three-dimensional agent-based
+    > model to quantify the effect of these individual motility
+    > behaviors on B-T interactions. Our model predicted that B cells
+    > exhibiting slow motility behaviors (B5-B7) and T cells exhibiting
+    > …
 
-8.  [**The impact of AI hallucination on the chatbot service quality in
-    e-commerce: the moderating role of human agent based service
-    recovery.**](https://pubmed.ncbi.nlm.nih.gov/43011142/)
+6.  [**Spatial Model Selection and Uncertainty Quantification: Comparing
+    Continuous and Discrete Wound Healing
+    Models.**](https://pubmed.ncbi.nlm.nih.gov/43057420/)
 
-    Chen X, Liu J, Chen Q, Li L.
+    Nardini JT, Gevertz JL.
 
-    Front Psychol. 2026 Oct 27;17:1870991. doi:
-    10.3389/fpsyg.2026.1870991. eCollection 2026.
+    Math Biosci. 2026 Nov 19:109849. doi: 10.1016/j.mbs.2026.109849.
+    Online ahead of print.
 
-    > The study conducted two scenario-based experiments using a
-    > scripted chatbot with pre-written responses. No large language
-    > model (LLM) generated the experimental responses. Both experiments
-    > employed a 2 2 between-subjects design to examine the effects of
-    > simulated halluci …
+    > All data-driven modeling tasks (e.g., parameter estimation,
+    > uncertainty quantification, and data forecasting) require the
+    > selection of a mathematical model. An overlooked aspect of model
+    > selection is modality; for example, there are no guidelines on
+    > when to u …
 
-9.  [**AMMPER-2: A spatially explicit agent-based model of microbial
-    radiobiology with redox dye
-    simulation.**](https://pubmed.ncbi.nlm.nih.gov/43010885/)
+7.  [**Gray bats heighten their response to social cues when navigating
+    group flight in environments with
+    obstacles.**](https://pubmed.ncbi.nlm.nih.gov/43056314/)
 
-    Palacios D, Sharma P, Marouš M, Mejia D, Liddell LC, Gentry DM,
-    Santa Maria SR, Lee JA.
+    Aung E, Abaid N.
 
-    bioRxiv \[Preprint\]. 2026 Oct 16:2026.10.08.757403. doi:
-    10.64898/2026.10.08.757403.
+    PLoS Comput Biol. 2026 Nov 19;22(11):e1014900. doi:
+    10.1371/journal.pcbi.1014900. eCollection 2026 Nov.
 
-    > The Agent-Based Model for Microbial Populations Exposed to
-    > Radiation (AMMPER) is a spatially explicit agent-based model that
-    > simulates the effects of ionizing radiation on S. cerevisiae cells
-    > and produces population-level results. Its goa …
+    > We find that bats tend to stay close to a wall, but space out when
+    > flying in groups. We develop a data-informed agent-based model
+    > which reveals that their social repulsive behavior is strengthened
+    > when challenged to navigate novel obstacles….
 
-10. [**Archival and palaeoenvironmental documentation of extreme climate
-    events reveals generational amnesia in collective
-    memory.**](https://pubmed.ncbi.nlm.nih.gov/43003843/)
+8.  [**Can self- or caregiver-administered nasal spray influenza
+    vaccination improve outcomes? An agent-based model using the
+    framework for reconstructing epidemiological
+    dynamics.**](https://pubmed.ncbi.nlm.nih.gov/43053808/)
 
-    Song S, Hu B, Findley DM, Wu X, Liu W, Middeke-Conlin RW,
-    Caetano-Andrade VL, Yang Y, Wang S, Renn J, Roberts P.
+    Williams KV, Nowalk MP, Krauland MG, Mandell AJ, Roberts MS,
+    Zimmerman RK.
 
-    Nat Commun. 2026 Nov 9;17(1):11327. doi: 10.1038/s41467-026-78922-x.
+    AJE Adv. 2026 Mar 27;2(2):uuag011. doi: 10.1093/ajeadv/uuag011.
+    eCollection 2026 Apr.
 
-    > Correlations between historical and natural records increase when
-    > the natural series is re-standardised using 20-40-year sliding
-    > windows, reflecting a generational offset. A heuristic agent-based
-    > model reproduces this pattern, suggesting that generational amn …
+    > Newly licensed self- or caregiver-administered nasal spray live
+    > attenuated influenza vaccine (LAIV), available to order for home
+    > delivery, may improve vaccination coverage (VC) among adults aged
+    > 18-49 overall, as well as among those in this age group who live
+    > in households with s …
+
+9.  [**Spatial multi-agent reinforcement learning for epidemic control
+    with heterogeneous risk
+    preferences.**](https://pubmed.ncbi.nlm.nih.gov/43051060/)
+
+    Liu TC, Lee HW.
+
+    Artif Intell Med. 2026 Nov 12;184:103554. doi:
+    10.1016/j.artmed.2026.103554. Online ahead of print.
+
+    > Non-pharmaceutical interventions during epidemics involve
+    > difficult choices between disease control and economic or social
+    > continuity. Conventional epidemic models often treat populations
+    > as homogeneous and ignore how individual risk preferences shape
+    > adaptive behavior in …
+
+10. [**Interband connectivity and climate shaped Neanderthal extinction
+    and Homo sapiens’
+    dispersal.**](https://pubmed.ncbi.nlm.nih.gov/43050545/)
+
+    Vidal-Cordasco M, Rodríguez-Gómez G, Marín-Arroyo AB.
+
+    Sci Adv. 2026 Nov 20;12(47):eaej5212. doi: 10.1126/sciadv.aej5212.
+    Epub 2026 Nov 18.
+
+    > These spatially explicit estimates were incorporated into an
+    > agent-based model simulating human demographic dynamics under
+    > various scenarios. Results indicate that carrying capacity changes
+    > cannot explain Neanderthal extinction at a continental scale,
+    > though …
 
 ## Code of Conduct
 
